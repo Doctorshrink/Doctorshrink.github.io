@@ -1,0 +1,17 @@
+---
+title: "Healing Stories"
+description: "Real experiences of transformation through music"
+listing: 
+  contents: 
+    - "sarah-cancer.qmd"
+    - "michael-divorce.qmd"
+    - "jen-career.qmd"
+  type: default
+  sort: "date desc"
+  categories: false
+  page-size: 6
+---
+
+## Voices of Transformation
+
+Read how others have found healing through personalized song creation.

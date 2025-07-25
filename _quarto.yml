@@ -1,0 +1,53 @@
+project:
+  type: website
+
+website:
+  # --- CHANGED: Updated title and description for better OG data ---
+  title: "Thedatashrink | 🤍 One Signal: Music. Soul. Love."
+  description: "This is more than a record label; it is a sanctuary. In a world of noise, our mission is to 'shrink the data' - to find the essential, healing frequencies that reconnect you to your heart. Music is chosen with intent."
+  image: images/tds-logo-150px.png
+  favicon: images/tds-favicon.png
+  twitter-card:
+    site: "@TheDataShrink"
+  open-graph: true
+  site-url: https://www.thedoctorshrink.com/
+  repo-url: https://github.com/Doctorshrink/Doctorshrink.github.io
+  repo-actions: [edit, issue]
+  navbar:
+    toggle-position: right
+    background: "#27ae60"  # Intense healing green
+    logo: images/tds-logo-150px.png
+    logo-alt: "Music-Soul-Love"
+    title: false
+    collapse-below: lg
+    right:
+    - text: "Albums"
+      href: albums/index.qmd
+    - text: "Emotional Journeys"
+      href: emotional-journeys/index.qmd
+    - text: "Research"
+      href: research/index.qmd
+    - text: "Therapy"
+      href: therapy-techniques/index.qmd
+    - text: "User Stories"
+      href: user-stories/index.qmd
+
+  page-footer:
+    left: "Copyright © 2025 The Data Shrink. All rights reserved."
+    right:
+      - icon: instagram
+        href: https://instagram.com/thedatashrink
+      - icon: twitter
+        href: https://twitter.com/TheDataShrink
+      - icon: youtube
+        href: https://youtube.com/@TheDataShrink
+
+format:
+  html:
+    theme: [default, tds-therapy.scss]
+    css: 
+      - tds-therapy.css
+    toc: false
+
+execute:
+  freeze: auto

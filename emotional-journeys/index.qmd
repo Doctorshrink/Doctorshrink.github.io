@@ -1,0 +1,12 @@
+---
+title: "Emotional Journeys"
+subtitle: "Stories and music born from personal experience. A collection of shared paths to resilience."
+page-layout: full
+listing:
+  contents: 
+    - "*.qmd"
+    - "!index.qmd"  # This excludes the index page itself from the listing
+  sort: "date desc"     # Sorts by date, newest first (requires 'date' in other files)
+  type: grid            # This is the correct way to specify a grid layout
+  image-height: "250px"
+---

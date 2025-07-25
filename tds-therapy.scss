@@ -1,0 +1,157 @@
+/*-- scss:defaults --*/
+
+// Import Google Fonts for Roboto
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+// Green healing spectrum variables
+$intense-green: #27ae60;     // Primary intense green
+$vibrant-green: #2ecc71;     // Healing/action green
+$medium-green: #16a085;      // Balanced teal-green
+$soft-green: #d5f5e3;        // Soft background
+$deep-green: #1e5631;        // Deep emotional green
+$warm-accent: #f39c12;       // Joy accent
+
+// Set Bootstrap variables
+$body-bg: $soft-green;  // Use solid color for body-bg
+$body-color: #34495e;
+$font-family-sans-serif: 'Roboto', sans-serif;
+$line-height-base: 1.8;
+
+/*-- scss:rules --*/
+
+// Apply gradient background to html element
+html {
+  background: linear-gradient(135deg, $soft-green 0%, #eafaf1 100%);
+  min-height: 100%;
+}
+
+// Leaf animation for growth
+@keyframes grow {
+  0% { transform: scale(1); opacity: 0.8; }
+  50% { transform: scale(1.05); opacity: 1; }
+  100% { transform: scale(1); opacity: 0.8; }
+}
+
+.growth-bg {
+  height: 150px;
+  background: url('images/leaf-pattern.png') repeat-x;
+  animation: grow 8s ease-in-out infinite;
+  opacity: 0.8;
+}
+
+// Conversation interface
+.conversation-interface {
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+  overflow: hidden;
+  border: 1px solid rgba($intense-green, 0.2);
+  
+  .agent-message {
+    background: lighten($medium-green, 50%);
+    border-radius: 18px 18px 18px 4px;
+    border-left: 4px solid $medium-green;
+  }
+  
+  .user-message {
+    background: lighten($intense-green, 45%);
+    border-radius: 18px 18px 4px 18px;
+    border-right: 4px solid $intense-green;
+  }
+  
+  .emotion-indicator {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    
+    &.joy { background: $warm-accent; }
+    &.sadness { background: $medium-green; }
+    &.anger { background: #e74c3c; }
+    &.peace { background: $vibrant-green; }
+  }
+}
+
+// Song player styling
+.song-player {
+  background: linear-gradient(135deg, $deep-green 0%, $intense-green 100%);
+  border-radius: 20px;
+  color: white;
+  
+  .album-art {
+    border-radius: 15px;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+    transition: transform 0.5s ease;
+    
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+  
+  .progress-bar {
+    height: 8px;
+    background: rgba(255,255,255,0.2);
+    border-radius: 4px;
+    
+    .progress {
+      background: $vibrant-green;
+      border-radius: 4px;
+    }
+  }
+}
+
+// Healing process cards
+.healing-card {
+  border-radius: 15px;
+  overflow: hidden;
+  transition: transform 0.4s ease;
+  border: 1px solid rgba($intense-green, 0.2);
+  background: white;
+  
+  .step-number {
+    width: 50px;
+    height: 50px;
+    background: $intense-green;
+    color: white;
+    border-radius: 50%;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  &:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+    
+    .step-number {
+      background: $deep-green;
+    }
+  }
+}
+
+// Navbar customization
+.navbar {
+  box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+  
+  .nav-link {
+    color: rgba(255,255,255,0.9) !important;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin: 0 8px;
+    position: relative;
+    
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      width: 0;
+      height: 3px;
+      background: white;
+      transition: width 0.3s ease;
+    }
+    
+    &:hover::after {
+      width: 100%;
+    }
+  }
+}

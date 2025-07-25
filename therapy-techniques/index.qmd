@@ -1,0 +1,17 @@
+---
+title: "Therapy Techniques"
+description: "Our AI-powered therapeutic approaches"
+listing: 
+  contents: 
+    - "guided-dialogue.qmd"
+    - "emotion-mapping.qmd"
+    - "song-customization.qmd"
+  type: grid
+  sort: "title"
+  categories: true
+  page-size: 9
+---
+
+## Science Meets Art
+
+Learn about our innovative methods for transforming emotions into music.
