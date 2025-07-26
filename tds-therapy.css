@@ -1633,6 +1633,65 @@ a:focus {
   margin-bottom: 0;
 }
 
+/* Tags Container */
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 1.5rem 0;
+  padding: 12px;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 12px;
+  border-left: 4px solid #5e72e4;
+}
+
+/* Individual Tag Styling */
+.therapy-tag {
+  display: inline-block;
+  padding: 6px 14px;
+  background-color: #5e72e4;
+  color: white !important;
+  border-radius: 50px;
+  font-size: 0.85em;
+  font-weight: 600;
+  text-decoration: none !important;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  border: 1px solid rgba(255,255,255,0.3);
+  cursor: pointer;
+}
+
+/* Hover Effects */
+.therapy-tag:hover {
+  background-color: #434190;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+/* Focus State for Accessibility */
+.therapy-tag:focus {
+  outline: 3px solid rgba(94, 114, 228, 0.5);
+  outline-offset: 2px;
+}
+
+/* Tag Variations */
+.therapy-tag[href*="TransformativeLove"] { background-color: #d53f8c; }
+.therapy-tag[href*="GriefAndGrace"] { background-color: #805ad5; }
+.therapy-tag[href*="MusicTherapy"] { background-color: #3182ce; }
+.therapy-tag[href*="SacredThresholds"] { background-color: #0c9; }
+.therapy-tag[href*="DevelopmentalTrauma"] { background-color: #dd6b20; }
+.therapy-tag[href*="FatherWounds"] { background-color: #c53030; }
+.therapy-tag[href*="DoctorShrink"] { 
+  background-color: #2a4365;
+  font-weight: 700;
+}
+.therapy-tag[href*="TherapeuticMusic"] { background-color: #00b5d8; }
+.therapy-tag[href*="NarrativeHealing"] { background-color: #38a169; }
+.therapy-tag[href*="EmotionalAlchemy"] { background-color: #b7791f; }
+.therapy-tag[href*="VoiceOfTheSoul"] { background-color: #97266d; }
+.therapy-tag[href*="BrisbaneHealer"] { background-color: #2c5282; }
+.therapy-tag[href*="RelationalRecovery"] { background-color: #2b6cb0; }
+.therapy-tag[href*="LoveAsLegacy"] { background-color: #0987a0; }
 /* ================================================= */
 /* ---              END OF STYLES                --- */
 /* ================================================= */

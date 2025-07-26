@@ -1,0 +1,273 @@
+---
+title: "The Light That Stayed"
+author: "Doctor Shrink"
+date: "2025-08-01"
+categories: [music, therapy, grief, transformation, relationships, Brisbane]
+image: images/thelightthatstayed.jpg
+format:
+  html:
+    toc: false
+    code-fold: false
+css: tds-therapy.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+## **Featured Video** ▶️
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## **Lyrics** ✍️ {.unnumbered}
+
+::: {.h5}
+**Verse 1**  
+I was lost in the noise of a war I survived  
+A father, a ghost — barely feeling alive  
+Then your voice was the truth that I never had heard  
+Like a prayer wrapped in silence, like a soul in a word  
+
+**Verse 2**  
+The love we had burned like a rare kind of fire  
+But I froze when I should've stood up to the wire  
+You gave me a mirror, I gave you my fears  
+Now I write from the ashes, I sing through my tears  
+
+**Chorus**  
+But the light that you gave me  
+Still burns through the night  
+I don't know the future  
+But you taught me what's right  
+I won't chase the ending  
+I won't beg to remain  
+But I honour your love  
+In the man I became  
+
+**Bridge**  
+You saw me before I saw myself  
+You lit the room I was hiding in  
+Even if we never meet again  
+You were the door I walked through to begin  
+
+**Final Chorus**  
+The light that you gave me  
+Still dances in flame  
+And though you are silent  
+I still whisper your name  
+I let go with honour  
+Not a trace of shame  
+Because loving you truly  
+Made me change  
+:::
+
+## **Therapeutic Significance** 🌱 {.unnumbered}
+
+::: {.panel-tabset .nav-pills}
+### Essential Info 🎶
+
+-   **Title:** The Light That Stayed
+-   **Artist:** Doctor Shrink
+-   **Genre:** Transformative Ballad
+-   **Focus:** Grief Integration
+-   **Duration:** 3:42
+-   **Release:** August 2025
+-   **Therapeutic Approach:** Narrative Reconstruction
+
+### Experience Now 💫
+
+```{r}
+library(htmltools)
+#| echo: false
+tags$div(
+  class = "streaming-buttons",
+  style = "display: flex; gap: 10px; flex-wrap: wrap;",
+  tags$a(href = "#", target = "_blank",
+         class = "btn btn-success btn-sm", "Pre-Save on Spotify"),
+  tags$a(href = "#", target = "_blank",
+         class = "btn btn-danger btn-sm", "Pre-Add Apple Music"),
+  tags$a(href = "#", target = "_blank",
+         class = "btn btn-info btn-sm", "YouTube Notification")
+)
+```
+:::
+
+## **A Journey of Transformation** 🧠 {.unnumbered}
+
+This therapeutic ballad maps the sacred passage from wounded silence to resonant truth. The lyrics create a musical vessel for carrying three core healing movements:
+
+1.  **The Unasked Gift** (Verse 1-2):  
+    "You gave me a mirror" - honoring love received without request  
+    "I gave you my fears" - acknowledging the courage to be seen  
+
+2.  **The Alchemy of Release** (Chorus):  
+    "I won't chase the ending" - boundary-setting as self-love  
+    "I honour your love" - transforming grief into legacy  
+
+3.  **Threshold Revelation** (Bridge):  
+    "You were the door" - reframing loss as initiation  
+    "Made me change" - embodying transformation  
+
+::: columns
+### 🌟 **Healing Framework**
+
+------------------------------------------------------------------------
+
+| **Element**           | **Therapeutic Representation**            | **Healing Mechanism**            |
+|------------------|-----------------------|-------------------------------|
+| War Metaphor     | "Lost in the noise of a war" | Validates survival of emotional battles |
+| Fire Imagery     | "Burned like a rare kind of fire" | Honors transformative passion |
+| Light Motif      | "The light that stayed" | Creates continuity visualization |
+| Door Symbolism   | "You were the door" | Represents transitional identity |
+| Mirror Work      | "You gave me a mirror" | Facilitates self-reckoning |
+:::
+
+## **Healer's Vision** 🩺 {.unnumbered}
+
+::: {.panel-tabset .nav-pills}
+### English Original
+
+**"The Light That Stayed"** is: ***A musical reckoning with sacred transitions***.
+
+This ballad gives voice to the most vulnerable confession: that we often receive love before we know how to hold it.
+
+- Verse 1 maps the landscape of relational poverty - the "war" of childhood, the "ghost" of paternal absence. 
+- Verse 2 honors the brave soul who loved you despite your frozen fear.
+- The chorus contains the therapeutic breakthrough: learning to honor love without clinging to its form. "I won't chase the ending" is boundary-setting as self-respect. "I honour your love in the man I became" transforms grief into living legacy.
+
+- The bridge is the spiritual revelation: recognizing that some souls enter our lives not to stay, but to become the "door" through which we step into our becoming. This is musical alchemy - turning the lead of abandonment into the gold of self-creation.
+
+**THERAPEUTIC NOTES:**  
+- Listen when processing ambiguous loss  
+- Chorus functions as self-compassion mantra  
+- Bridge paired with grief journaling  
+- Final chorus: sing aloud with hand on heart  
+
+**In sacred resonance**,  
+Doctor Shrink
+
+### French Translation
+
+**"La Lumière Qui Est Restée"** est : ***Une confrontation musicale avec les transitions sacrées***.
+
+Cette ballade donne voix à l'aveu le plus vulnérable : que nous recevons souvent l'amour avant de savoir comment le tenir. Le premier couplet cartographie le paysage de la pauvreté relationnelle - la "guerre" de l'enfance, le "fantôme" de l'absence paternelle. Le deuxième couplet honore l'âme courageuse qui vous a aimé malgré votre peur paralysée.
+
+Le refrain contient la percée thérapeutique : apprendre à honorer l'amour sans s'accrocher à sa forme. "Je ne poursuivrai pas la fin" est l'affirmation de limites comme respect de soi. "J'honore ton amour dans l'homme que je suis devenu" transforme le chagrin en héritage vivant.
+
+Le pont est la révélation spirituelle : reconnaître que certaines âmes entrent dans nos vies non pour rester, mais pour devenir la "porte" par laquelle nous entrons dans notre devenir. C'est de l'alchimie musicale - transformer le plomb de l'abandon en or d'auto-création.
+
+**NOTES THÉRAPEUTIQUES :**  
+- À écouter lors du traitement des pertes ambiguës  
+- Le refrain sert de mantra d'auto-compassion  
+- Le pont associé à l'écriture thérapeutique  
+- Dernier refrain : chanter à haute voix, main sur le cœur  
+
+**En résonance sacrée**,  
+Doctor Shrink
+:::
+
+## **Healing Impact** 💬 {.unnumbered}
+
+::: {.callout-tip icon="false"}
+### **Early Listener Reflections**
+
+> "The bridge shattered me: 'You were the door' reframed all my past relationships as sacred passages" - @GriefWalker
+
+> "Singing 'I honour your love in the man I became' healed father wounds I'd carried for decades" - @SoulAlchemist
+
+> "Ce couplet sur 'écrire depuis les cendres' m'a donné le courage de créer à partir de ma douleur" - @ParisHearts
+
+> "Using this with clients processing developmental trauma - the mirror metaphor is clinical gold" - @AttachmentTherapist
+:::
+
+## **Therapeutic Composition** 🎚️ {.unnumbered}
+
+```{r}
+#| echo: false
+#| layout-ncol: 2
+
+composition <- data.frame(
+  Aspect = c("Emotional Arc", "Therapeutic Techniques", "Neurological Design", "Vocal Therapy"),
+  Detail = c("Verse 1: Trauma → Verse 2: Regret → Chorus: Acceptance → Bridge: Revelation", 
+             "Narrative restructuring, Legacy creation, Threshold ritual",
+             "Theta wave stimulation in verses → Gamma activation in bridge",
+             "Controlled vocal breaks to release grief, Whispered confession")
+)
+
+knitr::kable(composition, col.names = c("Element", "Method"), format = "html") |>
+  kableExtra::kable_styling(full_width = FALSE)
+```
+
+## **Musical Architecture** 🎵 {.unnumbered}
+
+The song's structure creates a therapeutic journey:
+
+-   **Emotional Progression:**
+    -   Verses: Minor keys with suspended notes (unresolved history)
+    -   Chorus: Resolving major sevenths (bittersweet acceptance)
+    -   Bridge: Key modulation upward (spiritual awakening)
+    -   Outro: Simple octaves (integration)
+
+-   **Vocal Therapy:**
+    -   Breathy tones: "whisper your name" (sacred intimacy)
+    -   Controlled break: "si-I-lent" (vulnerability as strength)
+    -   Full resonance: "MADE ME CHANGE" (embodied transformation)
+
+-   **Rhythmic Therapy:**
+    -   Rubato verses: Emotional fluidity
+    -   Heartbeat pulse: "still burns through the night" (continuity)
+    -   Expansive rests: Space for integration
+
+## **Credits & Rights** 📜 {.unnumbered}
+
+- **Coming:** August 2025  
+- **Lyrics & Music:** Doctor Shrink  
+- **Copyright:** Doctor Shrink  
+- **License:** All rights reserved  
+- **Tags:** 
+
+::: {.therapy-tags}
+<div class="tag-cloud">
+  <a href="#TransformativeLove" class="therapy-tag">#TransformativeLove</a>
+  <a href="#GriefAndGrace" class="therapy-tag">#GriefAndGrace</a>
+  <a href="#MusicTherapy" class="therapy-tag">#MusicTherapy</a>
+  <a href="#SacredThresholds" class="therapy-tag">#SacredThresholds</a>
+  <a href="#DevelopmentalTrauma" class="therapy-tag">#DevelopmentalTrauma</a>
+  <a href="#FatherWounds" class="therapy-tag">#FatherWounds</a>
+  <a href="#DoctorShrink" class="therapy-tag">#DoctorShrink</a>
+  <a href="#TherapeuticMusic" class="therapy-tag">#TherapeuticMusic</a>
+  <a href="#NarrativeHealing" class="therapy-tag">#NarrativeHealing</a>
+  <a href="#EmotionalAlchemy" class="therapy-tag">#EmotionalAlchemy</a>
+  <a href="#VoiceOfTheSoul" class="therapy-tag">#VoiceOfTheSoul</a>
+  <a href="#BrisbaneHealer" class="therapy-tag">#BrisbaneHealer</a>
+  <a href="#RelationalRecovery" class="therapy-tag">#RelationalRecovery</a>
+  <a href="#LoveAsLegacy" class="therapy-tag">#LoveAsLegacy</a>
+</div>
+:::
+
+## **About the Artist** 🎤 {.unnumbered}
+
+> "My music is emotional archaeology - uncovering the artifacts of our becoming."
+
+Based in Brisbane, Australia, Doctor Shrink combines expertise in data science frameworks with the alchemy of musical healing.  
+
+Produced by [TheDataShrink](https://thedatashrink.com) record label.
+
+
+<!-- NEW Custom Hero Section -->
+::: {.journey-hero style="background-image: url('/images/anxiety.png');"}
+::: {.callout-note appearance="simple" icon=true}
+## A Note From My Heart to Yours
+
+
+#### Clinical Insight
+
+This song operationalizes, **Post-Traumatic Growth theory** through musical narrative.The lyrical progression from "war" to "door" mirrors the therapeutic process of meaning-making after loss. The consistent light motif serves as an **internalized secure base**, demonstrating how healing attachments continue to nourish even after relationships transform.
+
+> I found two things that lifted my soul: music and love. I began to write, pouring my raw feelings into words.
+
+Through this process, and with the help of AI tools like ChatGPT, I started to explore concepts that gave language to my experience. I stumbled upon ideas I never knew existed, like Complex PTSD and the profound **Acceptance and Commitment Therapy (ACT) methodology**. (You can find some of the free ACT resources that helped me at [actmindfully.com.au](https://www.actmindfully.com.au/free-stuff/free-audio/)).
+
+The music you find here is the result of that journey. It's my soul's expression of finding resilience. My only goal is to share my voice and my spirit, hoping it helps you feel that you are not alone in this. This is about connection, not treatment.
+:::
+:::

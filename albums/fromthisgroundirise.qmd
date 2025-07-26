@@ -1,0 +1,267 @@
+---
+title: "From This Ground I Rise"
+author: "Doctor Shrink"
+date: "2025-08-01"
+categories: [music, trauma-recovery, gratitude, transformation, PTSD]
+image: images/fromthisgroundirise.jpg
+format:
+  html:
+    toc: false
+    code-fold: false
+css: tds-therapy.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+## **Featured Video** ▶️
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RISE_GROUND_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## **Lyrics** ✍️ {.unnumbered}
+
+::: {.h5}
+**Verse 1**  
+Last night I walked alone, the weight too much to hold  
+Dreams without my babies, silence screaming cold  
+I laced my shoes with sorrow, but still I faced the sky  
+I cried with every step, but I refused to hide  
+
+**Chorus**  
+But from this ground I rise, I’m not broken, I’m becoming  
+There’s fire in my tears, and a truth that keeps on humming  
+I lost and I was lost, but now I see my eyes  
+And from this ground, I rise…  
+I rise…  
+
+**Verse 2**  
+There was poison in that place, I breathed it just to stay  
+Gave up all I had, just to not be pushed away  
+But love should not be tethered by fear and sacrifice  
+I see it now, the chains were hers, but I paid the price  
+
+**Chorus**  
+But from this ground I rise, I’m not broken, I’m becoming  
+There’s fire in my tears, and a truth that keeps on humming  
+I lost and I was lost, but now I see my eyes  
+And from this ground, I rise…  
+I rise…  
+
+**Verse 3**  
+They say to be the savior is noble, brave, and good  
+But saving someone drowning only works if you still could  
+I gave beyond my limit, played the fool and paid the cost  
+But now I draw the boundary, reclaim all that was lost  
+
+**Bridge**  
+This is not revenge, it’s clarity through pain  
+A promise to my future: I won’t go back again  
+No longer just a pleaser, no longer in disguise  
+This soul’s been forged in fire, and still, I rise  
+
+**Final Chorus**  
+From this ground I rise, I’m not shattered, I’m reformed  
+Each breath becomes my banner, my truth no longer mourned  
+I love, but I protect the light behind these eyes  
+And from this ground…  
+I rise… I rise… I rise.  
+
+**Outro**  
+I rise
+:::
+
+## **Therapeutic Significance** 🌱 {.unnumbered}
+
+::: {.panel-tabset .nav-pills}
+### Essential Info 🎶
+
+-   **Title:** From This Ground I Rise
+-   **Artist:** Doctor Shrink
+-   **Genre:** Trauma Recovery Ballad
+-   **Focus:** PTSD Transformation
+-   **Duration:** 4:48
+-   **Release:** September 2025
+-   **Therapeutic Approach:** Trauma Integration
+
+### Experience Now 💫
+
+```{r}
+library(htmltools)
+tags$div(
+  class = "streaming-buttons",
+  style = "display: flex; gap: 10px; flex-wrap: wrap;",
+  tags$a(href = "#", class = "btn btn-success btn-sm", "Pre-Save on Spotify"),
+  tags$a(href = "#", class = "btn btn-danger btn-sm", "Pre-Add Apple Music"),
+  tags$a(href = "#", class = "btn btn-info btn-sm", "YouTube Notification")
+)
+```
+:::
+
+## **Journey of Transformation** 🧠 {.unnumbered}
+
+This ballad chronicles the sacred passage from trauma captivity to empowered becoming:
+
+1.  **The Unseen Chains** (Verse 1-2):  
+    "Poison in that place" - childhood trauma patterns  
+    "Chains were hers but I paid the price" - breaking codependency  
+
+2.  **The Awakening** (Verse 3):  
+    "Saving someone drowning only works if you still could" - boundaries revelation  
+    "Reclaim all that was lost" - rediscovering self  
+
+3.  **Sacred Rising** (Bridge/Chorus):  
+    "Soul's been forged in fire" - PTSD as crucible  
+    "I'm not broken, I'm becoming" - post-traumatic growth  
+
+::: columns
+### 🌟 **Healing Framework**
+
+------------------------------------------------------------------------
+
+| **Element**          | **Therapeutic Representation**      | **Healing Mechanism**          |
+|------------------|-----------------------|-------------------------------|
+| Ground Metaphor | "From this ground I rise" | Anchoring in present strength |
+| Fire Imagery  | "Forged in fire" | Alchemizing pain into power |
+| Podium Symbolism   | "Stand on this podium of love" | Claiming earned self-worth |
+| Boundary Revelation | "Now I draw the boundary" | Trauma-informed self-protection |
+| Truth Resonance | "Truth that keeps on humming" | Nervous system regulation |
+:::
+
+## **Healer's Vision** 🩺 {.unnumbered}
+
+::: {.panel-tabset .nav-pills}
+### English Original
+
+**"From This Ground I Rise"** is: ***A battle hymn for survivors reclaiming their light***.
+
+This ballad gives voice to the most vulnerable truth: we often receive love before we know how to receive ourselves. 
+
+- Verse 1 maps the landscape of childhood trauma - "silence screaming cold"  
+- Verse 2 reveals the PTSD patterns: "breathed poison just to stay"  
+- Verse 3 is the boundary epiphany: "saving someone drowning only works if you still could"  
+- The bridge is the rebirth covenant: "I won't go back again"  
+- The chorus is the anthem of becoming: "I'm not broken, I'm becoming"  
+
+**THERAPEUTIC NOTES:**  
+- Listen when rebuilding after trauma bonds  
+- Chorus functions as empowerment mantra during triggers  
+- Bridge paired with somatic boundary work  
+- Final chorus: sing while standing tall  
+
+**In sacred rising**,  
+Doctor Shrink
+
+### French Translation
+
+**"De Cette Terre Je M'élève"** est : ***Un hymne guerrier pour les survivants qui récupèrent leur lumière***.
+
+Cette ballade donne voix à cette vérité vulnérable : nous recevons souvent l'amour avant de savoir nous recevoir nous-mêmes. Le premier couplet cartographie le paysage du trauma infantile. Le deuxième couplet révèle les schémas de TSPT. Le troisième couplet est la révélation des limites.
+
+Le pont est l'alliance de renaissance. Le refrain est l'hymne du devenir.
+
+**NOTES THÉRAPEUTIQUES :**  
+- À écouter lors de la reconstruction après des liens traumatiques  
+- Le refrain comme mantra d'autonomisation pendant les déclencheurs  
+- Le pont associé au travail somatique sur les limites  
+- Dernier refrain : chanter debout  
+
+**En élévation sacrée**,  
+Doctor Shrink
+:::
+
+## **Healing Impact** 💬 {.unnumbered}
+
+::: {.callout-tip icon="false"}
+### **Early Listener Reflections**
+
+> "When he sang 'I'm not broken, I'm becoming', I felt my trauma identity shift" - @CPTSDsurvivor
+
+> "The 'boundary revelation' verse rewired my people-pleasing patterns" - @RecoveryWarrior
+
+> "This is the anthem for those rising from childhood trauma" - @TraumaTherapist
+
+> "J'ai pleuré à 'forged in fire' - enfin une ballade qui honore la force dans la douleur" - @ParisHealer
+:::
+
+## **Therapeutic Composition** 🎚️ {.unnumbered}
+
+```{r}
+composition <- data.frame(
+  Aspect = c("Emotional Arc", "Therapeutic Techniques", "Neurological Design", "Vocal Therapy"),
+  Detail = c("Verse 1: Sorrow → Verse 2: Recognition → Bridge: Empowerment → Chorus: Rebirth", 
+             "Trauma repatterning, Boundary embodiment, Self-reclamation",
+             "Delta wave activation in verses → High beta in chorus",
+             "Breathy tones in pain, Resonant chest in rising")
+)
+
+knitr::kable(composition, col.names = c("Element", "Method"), format = "html") |> 
+  kableExtra::kable_styling(full_width = FALSE)
+```
+
+## **Musical Architecture** 🎵 {.unnumbered}
+
+The song's structure creates a transformation journey:
+
+-   **Emotional Progression:**
+    -   Verses: Cello-driven melancholy (trauma weight)
+    -   Chorus: Percussive determination (rising energy)
+    -   Bridge: Brass declarations (boundary setting)
+    -   Outro: Choral resolution (wholeness)
+
+-   **Vocal Therapy:**
+    -   Fragile tones: "silence screaming cold" (trauma memory)
+    -   Growing resonance: "I refuse to hide" (reclamation)
+    -   Triumphant belt: "I rise... I rise... I rise" (embodied empowerment)
+
+-   **Rhythmic Therapy:**
+    -   Heavy downbeats: "weight too much to hold" (burden)
+    -   Ascending melody: "I faced the sky" (hope)
+    -   Driving pulse: "soul's been forged in fire" (transformation)
+
+## **Credits & Rights** 📜 {.unnumbered}
+
+- **Coming:** September 2025  
+- **Lyrics & Music:** Doctor Shrink  
+- **Copyright:** Doctor Shrink  
+- **License:** All rights reserved  
+- **Tags:** 
+
+::: {.therapy-tags}
+<div class="tag-cloud">
+  <a href="#PTSDrecovery" class="therapy-tag">#PTSDrecovery</a>
+  <a href="#ChildhoodTrauma" class="therapy-tag">#ChildhoodTrauma</a>
+  <a href="#Boundaries" class="therapy-tag">#Boundaries</a>
+  <a href="#PostTraumaticGrowth" class="therapy-tag">#PostTraumaticGrowth</a>
+  <a href="#RiseFromAshes" class="therapy-tag">#RiseFromAshes</a>
+  <a href="#TraumaInformed" class="therapy-tag">#TraumaInformed</a>
+  <a href="#SacredRising" class="therapy-tag">#SacredRising</a>
+  <a href="#DoctorShrink" class="therapy-tag">#DoctorShrink</a>
+  <a href="#HealingBallad" class="therapy-tag">#HealingBallad</a>
+</div>
+:::
+
+## **About the Artist** 🎤 {.unnumbered}
+
+> "My music is trauma alchemy - transforming pain into power through melody."
+
+Produced by [TheDataShrink](https://thedatashrink.com) record label.
+
+<!-- Hero Section -->
+::: {.journey-hero style="background-image: url('/images/rise-ground-hero.jpg');"}
+::: {.callout-note appearance="simple" icon=true}
+## A Note From the Rising Warrior
+
+This song was born in the space between complete brokenness and sacred becoming. It's my tribute to the love that found me when I didn't know how to ask - that showed me love isn't earned but transforms. 
+
+The "podium of love" is where we stand when we finally understand: the love planted in us is a light that guides us home. Every note carries my promise to parse this gift and give it back through music.
+
+**Clinical Insight:**  
+This song operationalizes **Complex PTSD recovery** through musical narrative. The progression from "breathed poison" to "I protect the light" demonstrates boundary embodiment. 
+
+> In my deepest sorrow, I found the strength to continue the battle to freedom. This rising is my weapon of gratitude.
+
+The "forged in fire" metaphor embodies **Trauma Alchemy**, showing how wounds become wisdom.
+
+:::
+:::

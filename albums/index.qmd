@@ -27,9 +27,9 @@ include-after-body: js/songs.js
 
 ::: {.search-stats-bar}
 <!-- STATS (on the left) -->
-<div class="stats-container"><div class="stat-item"><span class="stat-number" id="totalSongs">1</span><span class="stat-label">Songs</span></div>
+<div class="stats-container"><div class="stat-item"><span class="stat-number" id="totalSongs">4</span><span class="stat-label">Songs</span></div>
 <div class="stat-item"><span class="stat-number" id="totalMoods">5</span><span class="stat-label">Moods</span></div>
-<div class="stat-item"><span class="stat-number" id="visibleSongs">1</span><span class="stat-label">Showing</span></div></div>
+<div class="stat-item"><span class="stat-number" id="visibleSongs">4</span><span class="stat-label">Showing</span></div></div>
 
 <!-- SEARCH (on the right) -->
 <div class="search-container"><div class="search-input-wrapper"><input type="search" id="songSearch" placeholder="🔍 Search by theme or title..." aria-label="Search songs"></div></div>
@@ -43,14 +43,17 @@ include-after-body: js/songs.js
 ::: {.song-image-container}
 
 <img src="/images/iamdoctorshrinkart.png" alt="I am Doctor Shrink Cover Art" class="song-image" loading="lazy"><div class="play-overlay">
-      <!-- The link here now points to the correct .html file -->
-<a href="/albums/iamdoctorshrink.html" class="play-btn-link" aria-label="Play I am Doctor Shrink"><button class="play-btn">▶️</button></a></div><div class="song-badges">
-<span class="badge featured-badge">🩺 Healing Anthem</span></div>
+<a href="/albums/iamdoctorshrink.html" class="play-btn-link" aria-label="Play I am Doctor Shrink">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">🩺 Healing Anthem</span>
+</div>
 :::
 
 <div class="song-content"><div class="song-header"><h3 class="song-title" id="iamdoctorshrink-title">
-<!-- The link here now points to the correct .html file -->
-<a href="/albums/iamdoctorshrink.html">I am Doctor Shrink</a></h3><div class="song-meta"><span class="artist">Doctor Shrink</span><span class="release-date">2024</span></div></div>
+<a href="/albums/iamdoctorshrink.html">I am Doctor Shrink</a></h3><div class="song-meta"><span class="artist">Doctor Shrink</span><span class="release-date">July 2025</span></div></div>
 
 <div class="song-description"><p>An anthem of resilience born from personal collapse, giving voice to the unspoken battles within and the journey from trauma back to self.</p></div>
 
@@ -59,6 +62,166 @@ include-after-body: js/songs.js
 <a href="/albums/iamdoctorshrink.html" class="btn btn-primary">Listen & Watch</a><button class="btn btn-outline favorite-btn" data-song="I am Doctor Shrink" aria-label="Add to favorites">💙</button></div></div>
 :::
 <!-- End of Song Card -->
+
+<!-- === CORRECTED SONG CARD === -->
+::: {.song-card data-mood="reflective transformative" role="article" aria-labelledby="thelightthatstayed-title"}
+::: {.song-image-container}
+
+<img src="/images/thelightthatstayed.jpg" alt="The Light That Stayed Cover Art" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/thelightthatstayed.html" class="play-btn-link" aria-label="Play The Light That Stayed">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">💫 Transformative Ballad</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="thelightthatstayed-title">
+<a href="/albums/thelightthatstayed.html">The Light That Stayed</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">August 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A ballad of sacred transitions - honoring love that transforms us even when it doesn't stay, and the light that remains when relationships change form.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/thelightthatstayed.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="The Light That Stayed" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
+<!-- === THE MAN I BECAME SONG CARD === -->
+::: {.song-card data-mood="grateful transformative" role="article" aria-labelledby="themanibecame-title"}
+::: {.song-image-container}
+
+<img src="/images/themanibecame.jpg" alt="The Man I Became Cover Art: Silhouette rising from flames with compass motif" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/themanibecame.html" class="play-btn-link" aria-label="Play The Man I Became">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">🔥 Transformative Ballad</span>
+<span class="badge theme-badge">💖 Fatherhood Journey</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="themanibecame-title">
+<a href="/albums/themanibecame.html">The Man I Became</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">August 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A raw hymn to love received before it could be understood - honoring those who loved you into becoming. From frozen fear to the podium of gratitude.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/themanibecame.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="The Man I Became" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
+
+<!-- === SONG CARD FOR HOMEPAGE === -->
+::: {.song-card data-mood="redemptive transformative" role="article" aria-labelledby="lantern-title"}
+::: {.song-image-container}
+
+<img src="/images/lanterninthedark.jpg" alt="Lantern in the Dark Cover" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/songs/lanterninthedark.html" class="play-btn-link" aria-label="Play Lantern in the Dark">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">💫 Healing Ballad</span>
+<span class="badge new-badge">NEW</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="lantern-title">
+<a href="/songs/lantern-dark.html">Lantern in the Dark</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">August 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A redemptive ballad about carrying love through darkness—honoring those who loved us when we didn't know how to receive it, and transforming pain into sacred light.</p>
+</div>
+
+<div class="song-actions">
+<a href="/songs/lantern-dark.html" class="btn btn-primary">Pre-Save & Experience</a>
+<button class="btn btn-outline favorite-btn" data-song="Lantern in the Dark" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
+
+<!-- === SONG CARD FOR HOMEPAGE === -->
+::: {.song-card data-mood="empowering transformative" role="article" aria-labelledby="rise-title"}
+::: {.song-image-container}
+
+<img src="/images/fromthisgroundirise.jpg" alt="From This Ground I Rise Cover Art" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/songs/fromthisgroundirise.html" class="play-btn-link" aria-label="Play From This Ground I Rise">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">🔥 Trauma Transformation</span>
+<span class="badge boundary-badge">🛡️ Boundary Anthem</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="rise-title">
+<a href="/songs/fromthisgroundirise.html">From This Ground I Rise</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">August 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A battle hymn for survivors reclaiming their light - rising from childhood trauma with boundaries forged in fire.</p>
+</div>
+
+<div class="song-actions">
+<a href="/songs/fromthisgroundirise.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="From This Ground I Rise" aria-label="Add to favorites">💪</button>
+</div>
+</div>
+:::
+
+
+<!-- End of Song Card -->
+
 :::
 
 ::: {.no-results .hidden}
