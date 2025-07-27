@@ -2,8 +2,7 @@
 title-block-banner: true
 page-layout: full
 anchor-sections: false
-css: tds-therapy.css
-include-after-body: js/songs.js
+include-after-body: js/songs.js  # Also fix JS path if needed
 ---
 
 
@@ -21,6 +20,9 @@ include-after-body: js/songs.js
   <button class="mood-btn" data-mood="reflective" role="tab" aria-selected="false">Reflective</button>
   <button class="mood-btn" data-mood="romantic" role="tab" aria-selected="false">Romantic</button>
   <button class="mood-btn" data-mood="empowering" role="tab" aria-selected="false">Empowering</button>
+  <button class="mood-btn" data-mood="transformative" role="tab" aria-selected="false">Transformative</button>
+  <button class="mood-btn" data-mood="grateful" role="tab" aria-selected="false">Grateful</button>
+  <button class="mood-btn" data-mood="redemptive" role="tab" aria-selected="false">Redemptive</button>
 </div>
 :::
 :::
@@ -85,7 +87,7 @@ include-after-body: js/songs.js
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
-<span class="release-date">August 2025</span>
+<span class="release-date">1 1 August 2025</span>
 </div>
 </div>
 
@@ -124,7 +126,7 @@ include-after-body: js/songs.js
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
-<span class="release-date">August 2025</span>
+<span class="release-date">1 August 2025</span>
 </div>
 </div>
 
@@ -147,7 +149,7 @@ include-after-body: js/songs.js
 
 <img src="/images/lanterninthedark.jpg" alt="Lantern in the Dark Cover" class="song-image" loading="lazy">
 <div class="play-overlay">
-<a href="/songs/lanterninthedark.html" class="play-btn-link" aria-label="Play Lantern in the Dark">
+<a href="/albums/lanterninthedark.html" class="play-btn-link" aria-label="Play Lantern in the Dark">
 <button class="play-btn">▶️</button>
 </a>
 </div>
@@ -160,11 +162,11 @@ include-after-body: js/songs.js
 <div class="song-content">
 <div class="song-header">
 <h3 class="song-title" id="lantern-title">
-<a href="/songs/lantern-dark.html">Lantern in the Dark</a>
+<a href="/albums/lanterninthedark.html">Lantern in the Dark</a>
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
-<span class="release-date">August 2025</span>
+<span class="release-date">1 August 2025</span>
 </div>
 </div>
 
@@ -173,7 +175,7 @@ include-after-body: js/songs.js
 </div>
 
 <div class="song-actions">
-<a href="/songs/lantern-dark.html" class="btn btn-primary">Pre-Save & Experience</a>
+<a href="/albums/lanterninthedark.html" class="btn btn-primary">Pre-Save & Experience</a>
 <button class="btn btn-outline favorite-btn" data-song="Lantern in the Dark" aria-label="Add to favorites">💙</button>
 </div>
 </div>
@@ -187,7 +189,7 @@ include-after-body: js/songs.js
 
 <img src="/images/fromthisgroundirise.jpg" alt="From This Ground I Rise Cover Art" class="song-image" loading="lazy">
 <div class="play-overlay">
-<a href="/songs/fromthisgroundirise.html" class="play-btn-link" aria-label="Play From This Ground I Rise">
+<a href="/albums/fromthisgroundirise.html" class="play-btn-link" aria-label="Play From This Ground I Rise">
 <button class="play-btn">▶️</button>
 </a>
 </div>
@@ -200,11 +202,11 @@ include-after-body: js/songs.js
 <div class="song-content">
 <div class="song-header">
 <h3 class="song-title" id="rise-title">
-<a href="/songs/fromthisgroundirise.html">From This Ground I Rise</a>
+<a href="/albums/fromthisgroundirise.html">From This Ground I Rise</a>
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
-<span class="release-date">August 2025</span>
+<span class="release-date">1 August 2025</span>
 </div>
 </div>
 
@@ -213,14 +215,214 @@ include-after-body: js/songs.js
 </div>
 
 <div class="song-actions">
-<a href="/songs/fromthisgroundirise.html" class="btn btn-primary">Pre-Save & Preview</a>
-<button class="btn btn-outline favorite-btn" data-song="From This Ground I Rise" aria-label="Add to favorites">💪</button>
+<a href="/albums/fromthisgroundirise.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="From This Ground I Rise" aria-label="Add to favorites">💙</button>
 </div>
 </div>
 :::
 
 
 <!-- End of Song Card -->
+
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="transformative empowering" role="article" aria-labelledby="onesignal-title"}
+::: {.song-image-container}
+
+<img src="/images/onesignalonelove.jpg" alt="One Signal, One Love Cover Art" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/onesignalonelove.html" class="play-btn-link" aria-label="Play One Signal, One Love">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">🔥 Transformative Anthem</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="onesignal-title">
+<a href="/albums/onesignalonelove.html">One Signal, One Love</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">1 August 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A manifesto of post-traumatic becoming - honoring love that transforms us even in absence, and the sacred responsibility to channel pain into purpose through music.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/onesignalonelove.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="One Signal, One Love" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="defiant sacred" role="article" aria-labelledby="afathersanthem-title"}
+::: {.song-image-container}
+
+<img src="/images/afathersanthem.jpg" alt="A Father's Anthem Cover Art" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/afathersanthem.html" class="play-btn-link" aria-label="Play A Father's Anthem">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">⚔️ Valhalla Hymn</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="afathersanthem-title">
+<a href="/albums/afathersanthem.html">A Father's Anthem</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">September 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A Nordic resilience hymn for fathers fighting systemic betrayal - transforming legal trauma into sacred paternal purpose through ancient warrior wisdom.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/afathersanthem.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="A Father's Anthem" aria-label="Add to favorites">🛡️</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
+
+
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="redemptive transformative" role="article" aria-labelledby="beautifulfather-title"}
+::: {.song-image-container}
+
+<img src="/images/beautifulfather.jpg" alt="Beautiful Father Cover Art - Father and child riding bicycle at dawn" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/beautifulfather.html" class="play-btn-link" aria-label="Play Beautiful Father">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">🌅 Redemptive Dawn</span>
+<span class="badge therapy-badge">🧠 Reparenting Anthem</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="beautifulfather-title">
+<a href="/albums/beautifulfather.html">Beautiful Father</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">1 August 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A father's sacred vow - from trauma repetition to conscious presence. This lament transforms grenade words into bicycle rides, armor into embrace.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/beautifulfather.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="Beautiful Father" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
+
+
+
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="transformative gritty" role="article" aria-labelledby="scrapingby-title"}
+::: {.song-image-container}
+
+<img src="/images/scrapingbydaybyday.jpg" alt="Scraping By Cover Art - Light breaking through cracked hands" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/scrapingbydaybyday.html" class="play-btn-link" aria-label="Play Scraping By Day By Day">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">💪 Warrior's Anthem</span>
+<span class="badge therapy-badge">🧠 PTSD Breakthrough</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="scrapingby-title">
+<a href="/albums/scrapingbydaybyday.html">Scraping By Day By Day</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">1 August 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A warrior's vow—from PTSD blindness to conscious healing. This ballad transforms silent suffering into sacred purpose, one scraped day at a time.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/scrapingbydaybyday.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="Scraping By Day By Day" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
+
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="transformative peaceful" role="article" aria-labelledby="hoopoflight-title"}
+::: {.song-image-container}
+
+<img src="/images/oneisawholesomehoopoflight.jpg" alt="One is a Wholesome Hoop of Light Cover Art - Prismatic light forming a circle" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/oneisawholesomehoopoflight.html" class="play-btn-link" aria-label="Play One is a Wholesome Hoop of Light">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">🌅 Dawn Chorus</span>
+<span class="badge therapy-badge">🌀 Concentric Healing</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="hoopoflight-title">
+<a href="/albums/oneisawholesomehoopoflight.html">One is a Wholesome Hoop of Light</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">September 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>The album's radiant finale - a musical mandala revealing healing as concentric rings of light. From shattered fragments to prismatic wholeness.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/hoopoflight.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="One is a Wholesome Hoop of Light" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
 
 :::
 

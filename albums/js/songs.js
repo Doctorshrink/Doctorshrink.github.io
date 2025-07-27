@@ -1,150 +1,225 @@
 <script>
-document.addEventListener('DOMContentLoaded', () => {
-  const searchInput = document.getElementById('songSearch');
-  const filterButtons = document.querySelectorAll('[data-genre]');
-  const moodButtons = document.querySelectorAll('[data-mood]');
-  const songCards = document.querySelectorAll('.song-card');
-  const noResults = document.querySelector('.no-results');
-  const clearFiltersBtn = document.getElementById('clearFilters');
-  const visibleSongsCounter = document.getElementById('visibleSongs');
-  
-  let currentGenre = 'all';
-  let currentMood = 'all';
-  let currentSearch = '';
-
-// Search functionality
-searchInput.addEventListener('input', (e) => {
-    currentSearch = e.target.value.toLowerCase();
-    filterSongs();
-  });
-
-// Genre filter functionality
-filterButtons.forEach(button => {
-    button.addEventListener('click', () => {
-      currentGenre = button.dataset.genre;
-      updateActiveFilter(filterButtons, button);
-      filterSongs();
-    });
-  });
-
-// Mood filter functionality
-moodButtons.forEach(button => {
-    button.addEventListener('click', () => {
-      currentMood = button.dataset.mood;
-      updateActiveFilter(moodButtons, button);
-      filterSongs();
-    });
-  });
-
-// Clear filters
-clearFiltersBtn.addEventListener('click', () => {
-    currentGenre = 'all';
-    currentMood = 'all';
-    currentSearch = '';
-    searchInput.value = '';
+// Fixed songs.js with proper click handling
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('Songs page JavaScript loaded');
     
-    // Reset active states
-    filterButtons.forEach(btn => btn.classList.remove('active'));
-    moodButtons.forEach(btn => btn.classList.remove('active'));
-    filterButtons[0].classList.add('active');
-    moodButtons[0].classList.add('active');
+    // Get all necessary elements
+    const moodButtons = document.querySelectorAll('.mood-btn');
+    const songCards = document.querySelectorAll('.song-card');
+    const searchInput = document.getElementById('songSearch');
+    const noResults = document.querySelector('.no-results');
+    const clearFiltersBtn = document.getElementById('clearFilters');
     
-    filterSongs();
-  });
-
-// Favorite functionality
-document.querySelectorAll('.favorite-btn').forEach(btn => {
-    btn.addEventListener('click', (e) => {
-      const songTitle = e.target.dataset.song;
-      const isFavorited = btn.classList.contains('favorited');
-      
-      if (isFavorited) {
-        btn.classList.remove('favorited');
-        btn.textContent = '💙';
-        btn.setAttribute('aria-label', 'Add to favorites');
-      } else {
-        btn.classList.add('favorited');
-        btn.textContent = '❤️';
-        btn.setAttribute('aria-label', 'Remove from favorites');
-      }
-      
-      console.log(`${isFavorited ? 'Removed' : 'Added'} "${songTitle}" ${isFavorited ? 'from' : 'to'} favorites`);
-    });
-  });
-
-function updateActiveFilter(buttons, activeButton) {
-    buttons.forEach(btn => {
-      btn.classList.remove('active');
-      btn.setAttribute('aria-selected', 'false');
-    });
-    activeButton.classList.add('active');
-    activeButton.setAttribute('aria-selected', 'true');
-  }
-
-function filterSongs() {
-    let visibleCount = 0;
+    // Stats elements
+    const totalSongsElement = document.getElementById('totalSongs');
+    const visibleSongsElement = document.getElementById('visibleSongs');
     
-    songCards.forEach(card => {
-      const genres = card.dataset.genre?.split(' ') || [];
-      const moods = card.dataset.mood?.split(' ') || [];
-      const title = card.querySelector('.song-title')?.textContent.toLowerCase() || '';
-      const description = card.querySelector('.song-description')?.textContent.toLowerCase() || '';
-      const tags = Array.from(card.querySelectorAll('.tag')).map(tag => tag.textContent.toLowerCase());
-      
-      const matchesGenre = currentGenre === 'all' || genres.includes(currentGenre);
-      const matchesMood = currentMood === 'all' || moods.includes(currentMood);
-      const matchesSearch = currentSearch === '' || 
-        title.includes(currentSearch) || 
-        description.includes(currentSearch) ||
-        tags.some(tag => tag.includes(currentSearch));
-      
-      const shouldShow = matchesGenre && matchesMood && matchesSearch;
-      
-      if (shouldShow) {
-        card.style.display = 'block';
-        visibleCount++;
-      } else {
-        card.style.display = 'none';
-      }
+    let currentMoodFilter = 'all';
+    let currentSearchQuery = '';
+    
+    // Initialize stats
+    updateStats();
+    
+    // FIXED: Mood filter functionality - only target mood buttons, not song cards
+    moodButtons.forEach(button => {
+        button.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            
+            // Remove active class from all mood buttons
+            moodButtons.forEach(btn => {
+                btn.classList.remove('active');
+                btn.setAttribute('aria-selected', 'false');
+            });
+            
+            // Add active class to clicked button
+            this.classList.add('active');
+            this.setAttribute('aria-selected', 'true');
+            
+            // Update current filter
+            currentMoodFilter = this.getAttribute('data-mood');
+            
+            // Apply filters
+            applyFilters();
+        });
     });
     
-    // Update visible count
-    visibleSongsCounter.textContent = visibleCount;
-    
-    // Show/hide no results message
-    if (visibleCount === 0) {
-      noResults.classList.remove('hidden');
-    } else {
-      noResults.classList.add('hidden');
+    // FIXED: Search functionality
+    if (searchInput) {
+        searchInput.addEventListener('input', function() {
+            currentSearchQuery = this.value.toLowerCase().trim();
+            applyFilters();
+        });
     }
-  }
-
-// Keyboard accessibility for filters
-[...filterButtons, ...moodButtons].forEach(button => {
-    button.addEventListener('keydown', (e) => {
-      if (e.key === 'Enter' || e.key === ' ') {
-        e.preventDefault();
-        button.click();
-      }
+    
+    // FIXED: Song card click handling - Allow navigation to work properly
+    songCards.forEach(card => {
+        // Remove any existing click handlers that might interfere
+        card.style.cursor = 'pointer';
+        
+        // Handle clicks on the card itself (but not on links/buttons inside)
+        card.addEventListener('click', function(e) {
+            // Don't handle if click was on a link, button, or interactive element
+            if (e.target.tagName === 'A' || 
+                e.target.tagName === 'BUTTON' || 
+                e.target.closest('a') || 
+                e.target.closest('button')) {
+                return; // Let the default behavior happen
+            }
+            
+            // Find the main link in the card and navigate to it
+            const mainLink = this.querySelector('.song-title a') || 
+                            this.querySelector('.play-btn-link') ||
+                            this.querySelector('.btn-primary');
+            
+            if (mainLink && mainLink.href) {
+                window.location.href = mainLink.href;
+            }
+        });
     });
-  });
-
-// Lazy loading for images
-const images = document.querySelectorAll('img[loading="lazy"]');
-const imageObserver = new IntersectionObserver((entries, observer) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const img = entry.target;
-        img.src = img.dataset.src || img.src;
-        img.classList.add('loaded');
-        observer.unobserve(img);
-      }
+    
+    // FIXED: Favorite button functionality
+    const favoriteButtons = document.querySelectorAll('.favorite-btn');
+    favoriteButtons.forEach(button => {
+        button.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation(); // Prevent card click
+            
+            const songName = this.getAttribute('data-song');
+            this.classList.toggle('favorited');
+            
+            // Update button text/emoji based on state
+            if (this.classList.contains('favorited')) {
+                this.innerHTML = this.innerHTML.includes('💪') ? '💪' : '❤️';
+                console.log(`Added "${songName}" to favorites`);
+            } else {
+                this.innerHTML = this.innerHTML.includes('💪') ? '💪' : '💙';
+                console.log(`Removed "${songName}" from favorites`);
+            }
+        });
     });
-  }, { rootMargin: '50px' });
-
-  images.forEach(img => imageObserver.observe(img));
-
-  // Initialize filters
-  filterSongs();
+    
+    // Clear filters functionality
+    if (clearFiltersBtn) {
+        clearFiltersBtn.addEventListener('click', function() {
+            // Reset mood filter
+            currentMoodFilter = 'all';
+            moodButtons.forEach(btn => {
+                btn.classList.remove('active');
+                btn.setAttribute('aria-selected', 'false');
+            });
+            const allMoodBtn = document.querySelector('.mood-btn[data-mood="all"]');
+            if (allMoodBtn) {
+                allMoodBtn.classList.add('active');
+                allMoodBtn.setAttribute('aria-selected', 'true');
+            }
+            
+            // Reset search
+            currentSearchQuery = '';
+            if (searchInput) {
+                searchInput.value = '';
+            }
+            
+            // Apply filters (show all)
+            applyFilters();
+        });
+    }
+    
+    // FIXED: Filter application function
+    function applyFilters() {
+        let visibleCount = 0;
+        
+        songCards.forEach(card => {
+            let shouldShow = true;
+            
+            // Check mood filter
+            if (currentMoodFilter !== 'all') {
+                const cardMoods = card.getAttribute('data-mood') || '';
+                if (!cardMoods.includes(currentMoodFilter)) {
+                    shouldShow = false;
+                }
+            }
+            
+            // Check search filter
+            if (currentSearchQuery && shouldShow) {
+                const title = card.querySelector('.song-title')?.textContent?.toLowerCase() || '';
+                const description = card.querySelector('.song-description')?.textContent?.toLowerCase() || '';
+                const artist = card.querySelector('.artist')?.textContent?.toLowerCase() || '';
+                
+                const searchableText = `${title} ${description} ${artist}`;
+                if (!searchableText.includes(currentSearchQuery)) {
+                    shouldShow = false;
+                }
+            }
+            
+            // Show/hide card with smooth transition
+            if (shouldShow) {
+                card.style.display = 'block';
+                card.setAttribute('aria-hidden', 'false');
+                visibleCount++;
+                
+                // Add a small delay for smooth appearance
+                setTimeout(() => {
+                    card.style.opacity = '1';
+                    card.style.transform = 'translateY(0)';
+                }, 50);
+            } else {
+                card.style.opacity = '0';
+                card.style.transform = 'translateY(20px)';
+                card.setAttribute('aria-hidden', 'true');
+                
+                // Hide after transition
+                setTimeout(() => {
+                    card.style.display = 'none';
+                }, 300);
+            }
+        });
+        
+        // Show/hide no results message
+        if (noResults) {
+            if (visibleCount === 0) {
+                noResults.classList.remove('hidden');
+            } else {
+                noResults.classList.add('hidden');
+            }
+        }
+        
+        // Update visible count
+        if (visibleSongsElement) {
+            visibleSongsElement.textContent = visibleCount;
+        }
+    }
+    
+    // Update stats function
+    function updateStats() {
+        if (totalSongsElement) {
+            totalSongsElement.textContent = songCards.length;
+        }
+        if (visibleSongsElement) {
+            visibleSongsElement.textContent = songCards.length;
+        }
+    }
+    
+    // Add smooth transitions to cards
+    songCards.forEach(card => {
+        card.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
+    });
+    
+    // Keyboard navigation support
+    songCards.forEach(card => {
+        card.setAttribute('tabindex', '0');
+        card.addEventListener('keydown', function(e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                const mainLink = this.querySelector('.song-title a') || 
+                                this.querySelector('.btn-primary');
+                if (mainLink) {
+                    mainLink.click();
+                }
+            }
+        });
+    });
+    
+    console.log('Songs page initialized successfully');
 });
 </script>

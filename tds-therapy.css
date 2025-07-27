@@ -69,6 +69,9 @@
   box-sizing: border-box;
 }
 
+
+
+
 body {
   background-color: var(--bg-color);
   color: var(--text-color);
@@ -185,6 +188,143 @@ a:hover {
 .callout-note {
   background-color: rgba(36, 43, 61, 0.8) !important;
   border-left-color: var(--primary-blue) !important;
+}
+
+/* Custom Callout Styling - Add this to your tds-therapy.css */
+
+/* Define your brand colors if not already defined */
+:root {
+  --primary-blue: #4f9cf9;
+  --accent-pink: #e879f9;
+  --bg-color: #0f1419;
+  --bg-color-secondary: #1a1f2e;
+  --bg-card: #242b3d;
+  --text-color: #e8eaed;
+  --text-color-headings: #ffffff;
+  --border-color: #3c4043;
+}
+
+/* Override default callout styles */
+.callout {
+  background: var(--bg-card) !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 12px !important;
+  margin: 1.5rem 0 !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Callout tip specific styling */
+.callout-tip {
+  border-left: 4px solid var(--primary-blue) !important;
+  background: linear-gradient(135deg, 
+    rgba(79, 156, 249, 0.1) 0%, 
+    rgba(232, 121, 249, 0.05) 100%) !important;
+}
+
+/* Callout header styling */
+.callout-header {
+  background: linear-gradient(90deg, var(--primary-blue), var(--accent-pink)) !important;
+  color: white !important;
+  padding: 1rem 1.5rem !important;
+  border-radius: 12px 12px 0 0 !important;
+  border-bottom: none !important;
+}
+
+.callout-title-container {
+  color: white !important;
+}
+
+.callout-title-container strong {
+  color: white !important;
+  font-weight: 600 !important;
+  font-size: 1.1rem !important;
+}
+
+/* Callout body styling */
+.callout-body-container {
+  padding: 1.5rem !important;
+  background: var(--bg-card) !important;
+  color: var(--text-color) !important;
+}
+
+.callout-body {
+  color: var(--text-color) !important;
+}
+
+/* Blockquote styling within callouts */
+.callout blockquote {
+  background: rgba(79, 156, 249, 0.05) !important;
+  border-left: 3px solid var(--primary-blue) !important;
+  margin: 1rem 0 !important;
+  padding: 1rem 1.5rem !important;
+  border-radius: 0 8px 8px 0 !important;
+  position: relative !important;
+}
+
+.callout blockquote::before {
+  content: '"';
+  font-size: 3rem;
+  color: var(--accent-pink);
+  position: absolute;
+  top: -0.5rem;
+  left: 0.5rem;
+  opacity: 0.3;
+  font-family: Georgia, serif;
+}
+
+.callout blockquote p {
+  color: var(--text-color) !important;
+  font-style: italic !important;
+  margin: 0 !important;
+  line-height: 1.6 !important;
+  padding-left: 1rem !important;
+}
+
+/* Citation styling */
+.callout .citation {
+  color: var(--accent-pink) !important;
+  font-weight: 500 !important;
+  font-style: normal !important;
+}
+
+/* Hover effects for interactive feel */
+.callout {
+  transition: all 0.3s ease !important;
+}
+
+.callout:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 8px 25px rgba(79, 156, 249, 0.2) !important;
+}
+
+/* Alternative styling for different callout types */
+.callout-warning {
+  border-left: 4px solid #f59e0b !important;
+  background: linear-gradient(135deg, 
+    rgba(245, 158, 11, 0.1) 0%, 
+    rgba(245, 158, 11, 0.05) 100%) !important;
+}
+
+.callout-note {
+  border-left: 4px solid var(--accent-pink) !important;
+  background: linear-gradient(135deg, 
+    rgba(232, 121, 249, 0.1) 0%, 
+    rgba(232, 121, 249, 0.05) 100%) !important;
+}
+
+/* Ensure text contrast */
+.callout * {
+  color: var(--text-color) !important;
+}
+
+.callout strong {
+  color: var(--text-color-headings) !important;
+}
+
+/* Remove any default Bootstrap overrides */
+.callout .blockquote {
+  font-size: inherit !important;
+  margin-bottom: 0 !important;
 }
 
 /* Responsive adjustments */

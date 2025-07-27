@@ -8,7 +8,6 @@ format:
   html:
     toc: false
     code-fold: false
-css: tds-therapy.css
 ---
 
 ```{r setup, include=FALSE}
@@ -70,7 +69,7 @@ Together we rise we'll find our guiding light
 -   **Genre:** Healing Anthem
 -   **Focus:** Emotional Resilience
 -   **Duration:** 3:06
--   **Release Date:** July 1, 2025
+-   **Release:** July 1, 2025
 -   **Therapeutic Approach:** Music-Assisted Healing
 
 ### Experience Now 💫
@@ -209,11 +208,63 @@ The song's structure creates a therapeutic journey:
 - **Lyrics:** Doctor Shrink  
 - **Copyright:** Doctor Shrink  
 - **License:** All rights reserved  
-- **Tags:** #MentalHealthMatters #MusicTherapy #HealingAnthem #EmotionalResilience #TraumaRecovery #AnxietyRelief #DoctorShrink #TherapeuticMusic #MentalWellness #HealingJourney #PsychologyOfMusic #Neuroplasticity #EmotionalFirstAid #ResilienceAnthem #MentalHealthAdvocate #SoundHealing #TheDataShrink #MentalHealthSupport #spiritual #Brisbane
+- **Tags:** 
+
+::: {.therapy-tags}
+<div class="tag-cloud">
+<a href="#MentalHealthMatters" class="therapy-tag">#MentalHealthMatters</a>
+<a href="#MusicTherapy" class="therapy-tag">#MusicTherapy</a>
+<a href="#HealingAnthem" class="therapy-tag">#HealingAnthem</a>
+<a href="#EmotionalResilience" class="therapy-tag">#EmotionalResilience</a>
+<a href="#TraumaRecovery" class="therapy-tag">#TraumaRecovery</a>
+<a href="#AnxietyRelief" class="therapy-tag">#AnxietyRelief</a>
+<a href="#DoctorShrink" class="therapy-tag">#DoctorShrink</a>
+<a href="#TherapeuticMusic" class="therapy-tag">#TherapeuticMusic</a>
+<a href="#MentalWellness" class="therapy-tag">#MentalWellness</a>
+<a href="#HealingJourney" class="therapy-tag">#HealingJourney</a>
+<a href="#PsychologyOfMusic" class="therapy-tag">#PsychologyOfMusic</a>
+<a href="#Neuroplasticity" class="therapy-tag">#Neuroplasticity</a>
+<a href="#EmotionalFirstAid" class="therapy-tag">#EmotionalFirstAid</a>
+<a href="#ResilienceAnthem" class="therapy-tag">#ResilienceAnthem</a>
+<a href="#MentalHealthAdvocate" class="therapy-tag">#MentalHealthAdvocate</a>
+<a href="#SoundHealing" class="therapy-tag">#SoundHealing</a>
+<a href="#TheDataShrink" class="therapy-tag">#TheDataShrink</a>
+<a href="#MentalHealthSupport" class="therapy-tag">#MentalHealthSupport</a>
+<a href="#spiritual" class="therapy-tag">#spiritual</a>
+<a href="#Brisbane" class="therapy-tag">#Brisbane</a>
+</div>
+:::
+
+
+<!-- NEW Custom Hero Section -->
+::: {.journey-hero style="background-image: url('/images/iamdoctorshrink.jpg');"}
+::: {.callout-note appearance="simple" icon=true}
+## A Note From My Heart to Yours
+
+
+#### Clinical Insight
+
+<p>This song was born in the space between complete brokenness and sacred becoming. It's my tribute to the love that found me when I didn't know how to ask - that showed me love isn't earned but transforms.</p>
+<p>The "podium of love" is where we stand when we finally understand: the love planted in us is a light that guides us home. Every note carries my promise to parse this gift and give it back through music.</p>
+
+This song operationalizes <strong>Complex PTSD recovery</strong> through musical narrative. The progression from "breathed poison" to "I protect the light" demonstrates boundary embodiment.</p>
+<p>
+>In my deepest sorrow, I found the strength to continue the battle to freedom. This rising is my weapon of gratitude.
+
+</p>
+
+<p>Through this process, and with the help of AI tools like ChatGPT, I started to explore concepts that gave language to my experience. I stumbled upon ideas I never knew existed, like Complex PTSD and the profound **Acceptance and Commitment Therapy (ACT) methodology**. 
+[actmindfully.com.au](https://www.actmindfully.com.au/free-stuff/free-audio/)</p>
+
+<p>The music you find here is the result of that journey. It's my soul's expression of finding resilience. My only goal is to share my voice and my spirit, hoping it helps you feel that you are not alone in this. This is about connection, not treatment.</p>
+:::
+:::
+
+
 
 ## **About the Artist** 🎤
 
-> "My new identity as a force for all that is good and for all the souls out there that are going through pain."
+> "My new identity as a force for all that is good and for all the souls out there that are going through pain. My music is emotional archaeology - uncovering the artifacts of our becoming."
 
 Based in Brisbane, Australia, Doctor Shrink combines expertise in A.I. data with the healing power of music.  
 [thedatashrink.com](https://thedatashrink.com) 

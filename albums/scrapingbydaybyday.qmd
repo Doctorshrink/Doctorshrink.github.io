@@ -1,0 +1,286 @@
+---
+title: "Scraping By Day By Day"
+author: "Doctor Shrink"
+date: "2025-08-01"
+categories: [music, fatherhood, trauma-recovery, ptsd-healing, Brisbane]
+image: images/scrapingbydaybyday.jpg
+format:
+  html:
+    toc: false
+    code-fold: false
+css: tds-therapy.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+## **Featured Video** ▶️
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SCRAPING_BY_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## **Lyrics** ✍️ {.unnumbered}
+
+::: {.h5}
+**Verse 1**  
+I never knew the words to ask,  
+Just built my walls and wore the mask.  
+Your love arrived like sudden rain,  
+On parched earth that feared the pain.  
+I trembled at your gentle hand,  
+A language I couldn't understand.  
+
+**Chorus**  
+But I'm scraping by, day by day,  
+Learning how to let love stay.  
+In my deepest night you were the shore,  
+Now I carry your light forevermore.  
+This broken man begins to see—  
+The love you planted still grows in me.  
+
+**Verse 2**  
+The childhood wounds I never read,  
+The PTSD that quietly bled.  
+A doormat shaped by silent fears,  
+While warning bells rang in my ears.  
+Now in the wreckage, truth takes root,  
+No more evasion, no more mute.  
+
+**Bridge**  
+Your energy lingers though you're gone,  
+A healing light that carries on.  
+For my two boys I'll stand up tall,  
+Break every chain, tear down each wall.  
+This love's not burden—it's sacred fire,  
+The compass pointing ever higher.  
+
+**Outro**  
+I scrape... I rise...  
+With open hands and clearer eyes.  
+The man you saw I'll fight to be,  
+Not just surviving—finally free.  
+:::
+
+## **Therapeutic Significance** 🌱 {.unnumbered}
+
+::: {.panel-tabset .nav-pills}
+### Essential Info 🎶
+
+-   **Title:** Scraping By Day By Day  
+-   **Artist:** Doctor Shrink  
+-   **Genre:** Trauma-Recovery Ballad  
+-   **Focus:** PTSD Awareness & Reparenting  
+-   **Duration:** 4:52  
+-   **Release:** 1 August 2025
+-   **Therapeutic Approach:** Post-Traumatic Growth  
+
+### Experience Now 💫
+
+```{r}
+library(htmltools)
+tags$div(
+  class = "streaming-buttons",
+  style = "display: flex; gap: 10px; flex-wrap: wrap;",
+  tags$a(href = "#", class = "btn btn-success btn-sm", "Pre-Save on Spotify"),
+  tags$a(href = "#", class = "btn btn-danger btn-sm", "Pre-Add Apple Music"),
+  tags$a(href = "#", class = "btn btn-info btn-sm", "YouTube Notification")
+)
+```
+:::
+
+## **A Warrior's Awakening** 🧠 {.unnumbered}
+
+This ballad traces the journey from trauma blindness to conscious healing:
+
+1.  **The Unseen Wounds** (Verse 1):  
+    "Never knew the words to ask" - alexithymia from childhood neglect  
+    "Trembled at your gentle hand" - fear of healthy attachment  
+
+2.  **The Turning Tide** (Chorus):  
+    "Scraping by" - acknowledging incremental progress  
+    "Love you planted" - internalizing secure attachment  
+
+3.  **Trauma Revelation** (Verse 2):  
+    "PTSD that quietly bled" - recognizing silent suffering  
+    "Warning bells" - confronting denial patterns  
+
+4.  **Sacred Responsibility** (Bridge/Outro):  
+    "For my two boys" - intergenerational healing motivation  
+    "Not just surviving" - post-traumatic growth commitment  
+
+::: columns
+### 🌟 **Healing Framework**
+
+------------------------------------------------------------------------
+
+| **Element**          | **Therapeutic Representation**      | **Healing Mechanism**          |
+|------------------|-----------------------|-------------------------------|
+| Scraping Metaphor | "Scraping by day by day" | Incremental progress acceptance |
+| Light Symbolism  | "Carry your light" | Internalized secure base |
+| Doormat Imagery   | "Doormat shaped by fears" | Boundary development |
+| Compass Motif       | "Compass pointing higher" | Values clarification |
+| Fire Language   | "Sacred fire" | Transformational energy |
+:::
+
+## **Clinical Vision** 🩺 {.unnumbered}
+
+::: {.panel-tabset .nav-pills}
+### English Original
+
+**"Scraping By Day By Day"** is: ***A musical map of trauma integration***.
+
+This ballad gives voice to the pivotal moment when pain becomes purpose—when we stop blaming our past and start building our future.
+
+- Verse 1 exposes attachment blindness - "never knew the words," "trembled at gentle hand"  
+- Chorus marks the paradigm shift: from survival to growth  
+- Verse 2 is diagnostic reckoning: "PTSD that quietly bled"  
+- The bridge is sacred commitment: "for my two boys I'll stand up tall"  
+- The outro is warrior's vow: "finally free"  
+
+**THERAPEUTIC NOTES:**  
+- Play during reparenting exercises  
+- Chorus functions as grounding mantra during PTSD triggers  
+- Bridge paired with values clarification work  
+- Final lines: speak aloud during boundary-setting practice  
+
+**In sacred becoming**,  
+Doctor Shrink
+
+### French Translation
+
+**"Survivre Jour Après Jour"** est : ***Une cartographie musicale de l'intégration du trauma***.
+
+Cette ballade donne voix à ce moment charnière où la douleur devient but—quand nous arrêtons de blâmer notre passé pour commencer à bâtir notre avenir.
+
+Le premier couplet expose la cécité affective. Le refrain marque le changement de paradigme. Le deuxième couplet est la prise de conscience diagnostique. Le pont représente l'engagement sacré. L'outro est le serment du guerrier.
+
+**NOTES THÉRAPEUTIQUES :**  
+- À écouter pendant les exercices de reparentage  
+- Le refrain comme mantra d'ancrage  
+- Le pont associé à la clarification des valeurs  
+- Dernières lignes : à déclamer pendant les exercices de limites  
+
+**En devenir sacré**,  
+Doctor Shrink
+:::
+
+## **Healing Impact** 💬 {.unnumbered}
+
+::: {.callout-tip icon="false"}
+### **Early Listener Reflections**
+
+> "When he sang 'the love you planted still grows in me', I finally understood healing isn't about erasing pain but transforming it" - @TraumaWarrior
+
+> "The 'doormat' line hit me like lightning—I've been writing my PTSD treatment plan ever since" - @BreakingChains
+
+> "This is the anthem for men learning emotional literacy after trauma" - @FatherhoodRising
+
+> "J'ai pleuré à 'finally free' - enfin une ballade sur la vraie liberté intérieure" - @ParisTherapist
+:::
+
+## **Therapeutic Composition** 🎚️ {.unnumbered}
+
+```{r}
+composition <- data.frame(
+  Aspect = c("Emotional Arc", "Therapeutic Techniques", "Neurological Design", "Vocal Therapy"),
+  Detail = c("Verse 1: Blindness → Chorus: Awakening → Bridge: Commitment → Outro: Freedom", 
+             "PTSD psychoeducation, Values work, Reparenting visualization",
+             "Beta waves in trauma recall → Alpha waves in light imagery",
+             "Constricted tones in verses → Open resonance in bridge")
+)
+
+knitr::kable(composition, col.names = c("Element", "Method"), format = "html") |> 
+  kableExtra::kable_styling(full_width = FALSE)
+```
+
+## **Musical Architecture** 🎵 {.unnumbered}
+
+The song's structure mirrors the healing journey:
+
+-   **Emotional Progression:**
+    -   Verses: Distorted guitar (trauma disorientation)
+    -   Chorus: Piano entry (clarity breaking through)
+    -   Bridge: Strings swelling (purpose activation)
+    -   Outro: Clean electric guitar (hard-won freedom)
+
+-   **Vocal Therapy:**
+    -   Gritty delivery: "doormat shaped by fears" (trauma recall)
+    -   Softening: "love you planted" (vulnerability)
+    -   Stronger tone: "finally free" (integration)
+
+-   **Rhythmic Therapy:**
+    -   Unsteady tempo: "never knew the words" (disorganization)
+    -   Firm backbeat: "for my two boys" (determination)
+    -   Open space: "finally free" (release)
+
+## **Credits & Rights** 📜 {.unnumbered}
+
+- **Release:** 1 August 2025
+- **Lyrics & Music:** Doctor Shrink  
+- **Copyright:** Doctor Shrink  
+- **License:** All rights reserved  
+- **Tags:** 
+
+::: {.therapy-tags}
+<div class="tag-cloud">
+  <a href="#PTSDRecovery" class="therapy-tag">#PTSDRecovery</a>
+  <a href="#TraumaToTriumph" class="therapy-tag">#TraumaToTriumph</a>
+  <a href="#FatherhoodRising" class="therapy-tag">#FatherhoodRising</a>
+  <a href="#SacredScars" class="therapy-tag">#SacredScars</a>
+  <a href="#ConsciousManhood" class="therapy-tag">#ConsciousManhood</a>
+  <a href="#LightMetaphor" class="therapy-tag">#LightMetaphor</a>
+  <a href="#BreakingChains" class="therapy-tag">#BreakingChains</a>
+  <a href="#DoctorShrink" class="therapy-tag">#DoctorShrink</a>
+  <a href="#HealingBallad" class="therapy-tag">#HealingBallad</a>
+  <a href="#BrisbaneArtist" class="therapy-tag">#BrisbaneArtist</a>
+</div>
+:::
+
+<!-- Hero Section -->
+::: {.journey-hero style="background-image: url('/images/scrapingbydaybyday.jpg');"}
+::: {.callout-note appearance="simple" icon=true}
+## A Note From the Healing Warrior
+
+This song was born in the crucible of complete breakdown—when I finally stopped running from my past and began facing my PTSD. It's my tribute to those who loved me when I couldn't receive love, and to my children who deserve the whole father I'm becoming.
+
+The "scraping by" metaphor honors the daily grind of recovery—not glamorous, but sacred. Every small victory matters when rebuilding a life.
+
+**Clinical Insight:**  
+This song operationalizes **Post-Traumatic Growth theory** through musical narrative. The progression from "never knew the words" to "finally free" demonstrates trauma integration. 
+
+> In my deepest brokenness, I found the courage to examine childhood wounds. This song is my pledge to break cycles, not just for me but for generations.
+
+The "light" metaphor embodies **Internalized Secure Attachment**, showing how love persists beyond relationships.
+
+:::
+:::
+
+
+## **About the Artist** 🎤
+
+> "My new identity as a force for all that is good and for all the souls out there that are going through pain. My music is emotional archaeology - uncovering the artifacts of our becoming."
+
+Based in Brisbane, Australia, Doctor Shrink combines expertise in A.I. data with the healing power of music.  
+[thedatashrink.com](https://thedatashrink.com) 
+
+```{=html}
+<style>
+.lyrics {
+  font-family: Georgia, serif;
+  font-size: 1.1em;
+  line-height: 1.6;
+  padding: 15px;
+  background-color: #f8f8f8;
+  border-left: 4px solid #2A5C8D;
+  white-space: pre-wrap;
+}
+.artist-signature {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1.5em;
+  color: #2A5C8D;
+  margin-top: 1em;
+}
+</style>
+
+<div class="artist-signature">Doctor Shrink 🎵</div>
+```

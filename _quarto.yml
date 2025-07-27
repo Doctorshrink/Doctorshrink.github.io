@@ -45,8 +45,7 @@ website:
 format:
   html:
     theme: [default, tds-therapy.scss]
-    css: 
-      - tds-therapy.css
+    css: tds-therapy.css
     toc: false
 
 execute:

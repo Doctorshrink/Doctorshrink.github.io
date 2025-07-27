@@ -8,7 +8,6 @@ format:
   html:
     toc: false
     code-fold: false
-css: tds-therapy.css
 ---
 
 ```{r setup, include=FALSE}
@@ -78,7 +77,7 @@ You were love... not a lesson... not just a scar.
 -   **Genre:** Redemptive Ballad
 -   **Focus:** Trauma Transformation
 -   **Duration:** 4:32
--   **Release:** August 2025
+-   **Release:** 1 August 2025
 -   **Therapeutic Approach:** Post-Traumatic Growth
 
 ### Experience Now 💫
@@ -218,7 +217,7 @@ The song's structure creates a transformation journey:
 
 ## **Credits & Rights** 📜 {.unnumbered}
 
-- **Coming:** August 2025  
+- **Release:** 1 August 2025
 - **Lyrics & Music:** Doctor Shrink  
 - **Copyright:** Doctor Shrink  
 - **License:** All rights reserved  
@@ -239,14 +238,6 @@ The song's structure creates a transformation journey:
 </div>
 :::
 
-## **About the Artist** 🎤 {.unnumbered}
-
-> "My music is emotional archaeology - uncovering the artifacts of our becoming."
-
-Based in Brisbane, Australia, Doctor Shrink combines expertise in trauma recovery with musical alchemy.  
-
-Produced by [TheDataShrink](https://thedatashrink.com) record label.
-
 <!-- Hero Section -->
 ::: {.journey-hero style="background-image: url('/images/lantern-hero.jpg');"}
 ::: {.callout-note appearance="simple" icon=true}
@@ -265,3 +256,33 @@ The "altars from mistakes" metaphor embodies **Sacred Repurposing**, showing how
 
 :::
 :::
+
+
+## **About the Artist** 🎤
+
+> "My new identity as a force for all that is good and for all the souls out there that are going through pain. My music is emotional archaeology - uncovering the artifacts of our becoming."
+
+Based in Brisbane, Australia, Doctor Shrink combines expertise in A.I. data with the healing power of music.  
+[thedatashrink.com](https://thedatashrink.com) 
+
+```{=html}
+<style>
+.lyrics {
+  font-family: Georgia, serif;
+  font-size: 1.1em;
+  line-height: 1.6;
+  padding: 15px;
+  background-color: #f8f8f8;
+  border-left: 4px solid #2A5C8D;
+  white-space: pre-wrap;
+}
+.artist-signature {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1.5em;
+  color: #2A5C8D;
+  margin-top: 1em;
+}
+</style>
+
+<div class="artist-signature">Doctor Shrink 🎵</div>
+```
