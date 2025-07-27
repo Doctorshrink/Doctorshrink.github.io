@@ -87,7 +87,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
-<span class="release-date">1 1 August 2025</span>
+<span class="release-date">1 August 2025</span>
 </div>
 </div>
 

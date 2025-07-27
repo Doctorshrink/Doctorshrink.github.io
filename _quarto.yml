@@ -29,8 +29,6 @@ website:
       href: research/index.qmd
     - text: "Therapy"
       href: therapy-techniques/index.qmd
-    - text: "User Stories"
-      href: user-stories/index.qmd
 
   page-footer:
     left: "Copyright © 2025 The Data Shrink. All rights reserved."
