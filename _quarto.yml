@@ -3,7 +3,7 @@ project:
 
 website:
   # --- CHANGED: Updated title and description for better OG data ---
-  title: "Thedatashrink | 🤍 One Signal: Music. Soul. Love."
+  title: "🤍 One Signal: Music. Soul. Love."
   description: "This is more than a record label; it is a sanctuary. In a world of noise, our mission is to 'shrink the data' - to find the essential, healing frequencies that reconnect you to your heart. Music is chosen with intent."
   image: images/tds-logo-150px.png
   favicon: images/tds-favicon.png

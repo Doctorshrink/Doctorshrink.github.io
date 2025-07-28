@@ -20,6 +20,7 @@
             --accent-pink: #FF85D3;
             --border-color: #2A3441;
             --glass-bg: rgba(255,255,255,0.03);
+            --glass-bg-darker: rgba(0,0,0,0.2);
         }
 
         * {
@@ -100,6 +101,163 @@
             max-width: 600px;
             margin-left: auto;
             margin-right: auto;
+        }
+        
+        .section-heading {
+            text-align: center;
+            font-size: 1.8rem;
+            font-weight: 600;
+            margin-bottom: 2rem;
+            color: var(--text-heading);
+        }
+
+        .creator-note-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+            background: var(--glass-bg-darker);
+            backdrop-filter: blur(10px);
+            border: 1px solid var(--border-color);
+            border-radius: 20px;
+            padding: 30px;
+            margin: 40px auto;
+            max-width: 800px;
+        }
+
+        .creator-photo {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid var(--healing-green);
+        }
+
+        .creator-text {
+            text-align: center;
+        }
+        
+        .creator-text h3 {
+            margin-top: 0;
+            margin-bottom: 10px;
+            font-size: 1.4rem;
+        }
+        
+        .creator-text p {
+            margin-bottom: 20px;
+            color: var(--text-color);
+            opacity: 0.9;
+        }
+        
+        .examples-section {
+            margin: 40px auto;
+            max-width: 800px;
+        }
+        
+        .examples-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 15px;
+        }
+        
+        .example-card {
+            background: var(--glass-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 15px;
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            transition: all 0.3s ease;
+        }
+        
+        .example-card:hover {
+            background: rgba(255,255,255,0.05);
+            transform: translateY(-2px);
+        }
+        
+        .play-button-example {
+            flex-shrink: 0;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--healing-green), var(--warm-orange));
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 1.2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+
+        .play-button-example:hover {
+            transform: scale(1.1);
+        }
+        
+        .example-info h4 {
+            margin: 0 0 5px 0;
+            font-size: 1.1rem;
+            color: var(--text-heading);
+        }
+        
+        .example-info p {
+            margin: 0;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        .community-section {
+            background: var(--glass-bg-darker);
+            border: 1px solid var(--border-color);
+            border-radius: 20px;
+            padding: 30px;
+            margin: 40px auto;
+            max-width: 800px;
+        }
+
+        .community-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 15px;
+        }
+        
+        .community-card {
+            background: var(--glass-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 15px;
+            padding: 20px;
+            color: var(--text-heading);
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            transition: all 0.3s ease;
+        }
+        
+        .community-card:hover {
+            background: var(--glass-bg-darker);
+            border-color: var(--healing-green);
+            transform: translateY(-3px);
+        }
+
+        .community-card .icon {
+            font-size: 2rem;
+            color: var(--healing-green);
+        }
+        
+        .community-card h4 { margin: 0; font-size: 1.1rem; }
+        
+        @media (min-width: 576px) {
+            .examples-grid { grid-template-columns: 1fr 1fr; }
+            .community-grid { grid-template-columns: 1fr 1fr; }
+        }
+
+        @media (min-width: 768px) {
+            .creator-note-section { flex-direction: row; text-align: left; }
+            .creator-text { text-align: left; }
+            .examples-grid { grid-template-columns: 1fr 1fr 1fr; }
         }
 
         .card {
@@ -266,7 +424,7 @@
             overflow-x: auto; 
             max-height: 300px; 
             overflow-y: auto;
-            color: var(--text-heading); /* Changed to white */
+            color: var(--text-heading);
         }
         
         .ai-platforms { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 25px 0; }
@@ -275,9 +433,8 @@
         .privacy-note { font-size: 0.9rem; color: var(--text-color); opacity: 0.8; margin-top: 40px; text-align: center; line-height: 1.7; padding: 20px; background: var(--glass-bg); border-radius: 15px; backdrop-filter: blur(10px); }
         .hidden { display: none; }
 
-        /* Responsive adjustments */
         @media (min-width: 768px) {
-            .container { max-width: 700px; margin: 0 auto; padding: 40px; }
+            .container { max-width: 800px; margin: 0 auto; padding: 40px; }
             .header h1 { font-size: 3rem; }
             .header p { font-size: 1.3rem; }
             .ai-platforms { grid-template-columns: repeat(4, 1fr); }
@@ -289,18 +446,61 @@
         }
     </style>
 </head>
-
 <body>
     <div class="container">
-        <!-- Header -->
         <div class="header">
-            <h1>Begin Your Healing Journey</h1>
-            <p>Share your thoughts with our AI therapist and transform your emotions into personalized healing music.</p>
+            <h1>Turn Your Feelings Into Song</h1>
+            <p>In 60 seconds, speak your mind and hear it transformed into a unique piece of healing music, made just for you.</p>
         </div>
 
-        <!-- Main Card -->
+        <div class="creator-note-section">
+            <img src="images/iamdoctorshrink.jpg" alt="A photo of Dr. Shrink" class="creator-photo">
+            <div class="creator-text">
+                <h3>A Note from Dr. Shrink</h3>
+                <p>I created this space because I believe in the profound power of turning our inner world into tangible art. This tool is a starting point—a free, anonymous way for you to translate your emotions into a personal anthem. My hope is that it provides a moment of clarity and a step toward healing.</p>
+                <a href="about.qmd" class="btn btn-outline">Learn About the Mission</a>
+            </div>
+        </div>
+
+        <div class="examples-section">
+            <h2 class="section-heading">Hear What Healing Sounds Like</h2>
+            <div class="examples-grid">
+                <div class="example-card">
+                    <button class="play-button-example" data-track="anxiety">
+                        <i class="fas fa-play"></i>
+                    </button>
+                    <div class="example-info">
+                        <h4>Overcoming Anxiety</h4>
+                        <p>A gentle melody for calming the storm within.</p>
+                    </div>
+                </div>
+                <div class="example-card">
+                    <button class="play-button-example" data-track="hope">
+                        <i class="fas fa-play"></i>
+                    </button>
+                    <div class="example-info">
+                        <h4>Finding Hope</h4>
+                        <p>An uplifting anthem for brighter days.</p>
+                    </div>
+                </div>
+                <div class="example-card">
+                    <button class="play-button-example" data-track="grief">
+                        <i class="fas fa-play"></i>
+                    </button>
+                    <div class="example-info">
+                        <h4>Processing Grief</h4>
+                        <p>A quiet space to remember and reflect.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Dedicated audio elements for each track -->
+<audio id="audio-anxiety" src="/albums/HorizonLines.mp3"></audio>
+<audio id="audio-hope" src="/albums/MelttheGlacier.mp3"></audio>
+<audio id="audio-grief" src="/albums/LuminousGround.mp3"></audio>
+
         <div class="card">
-            <!-- Step 1: Recording -->
             <div id="step1">
                 <div class="mic-section">
                     <div class="mic-button" id="micButton">
@@ -309,11 +509,9 @@
                     <div class="instructions" id="instructions">Tap to start speaking</div>
                     <div class="sub-instructions">Share what's on your mind - everything is anonymous</div>
                 </div>
-
                 <div class="transcript-box" id="transcriptBox">
                     <div class="transcript-placeholder">Your spoken words will appear here...</div>
                 </div>
-
                 <div class="control-buttons">
                     <button class="btn btn-danger" id="stopButton" disabled>
                         <i class="fas fa-stop"></i> Stop Recording
@@ -321,83 +519,37 @@
                 </div>
             </div>
 
-            <!-- Step 2: Customization -->
             <div id="step2" class="hidden">
                 <h3 style="margin-bottom: 25px; color: var(--text-heading); font-size: 1.4rem;">Shape Your Song</h3>
-                
                 <div class="form-group">
                     <label for="musicGenre">Music Genre</label>
-                    <select id="musicGenre">
-                        <option value="Pop">Pop</option>
-                        <option value="Rock">Rock</option>
-                        <option value="R&B">R&B</option>
-                        <option value="Hip-Hop">Hip-Hop</option>
-                        <option value="Country">Country</option>
-                        <option value="Electronic">Electronic</option>
-                        <option value="Jazz">Jazz</option>
-                        <option value="Classical">Classical</option>
-                        <option value="Folk">Folk</option>
-                        <option value="Indie">Indie</option>
-                    </select>
+                    <select id="musicGenre"><option>Pop</option><option>Rock</option><option>R&B</option><option>Hip-Hop</option><option>Country</option><option>Electronic</option><option>Jazz</option><option>Classical</option><option>Folk</option><option>Indie</option></select>
                 </div>
-
                 <div class="form-group">
                     <label for="primaryFeeling">Primary Feeling</label>
-                    <select id="primaryFeeling">
-                        <option value="Love">Love</option>
-                        <option value="Anxiety">Anxiety</option>
-                        <option value="Grief">Grief</option>
-                        <option value="Joy">Joy</option>
-                        <option value="Anger">Anger</option>
-                        <option value="Hope">Hope</option>
-                        <option value="Loneliness">Loneliness</option>
-                        <option value="Fear">Fear</option>
-                        <option value="Confusion">Confusion</option>
-                        <option value="Peace">Peace</option>
-                    </select>
+                    <select id="primaryFeeling"><option>Love</option><option>Anxiety</option><option>Grief</option><option>Joy</option><option>Anger</option><option>Hope</option><option>Loneliness</option><option>Fear</option><option>Confusion</option><option>Peace</option></select>
                 </div>
-
                 <div class="form-group">
                     <label for="songVibe">Song Vibe</label>
-                    <select id="songVibe">
-                        <option value="Longing">Longing</option>
-                        <option value="Hope">Hope</option>
-                        <option value="Despair">Despair</option>
-                        <option value="Empowerment">Empowerment</option>
-                        <option value="Reflection">Reflection</option>
-                        <option value="Celebration">Celebration</option>
-                        <option value="Healing">Healing</option>
-                        <option value="Release">Release</option>
-                        <option value="Transformation">Transformation</option>
-                    </select>
+                    <select id="songVibe"><option>Longing</option><option>Hope</option><option>Despair</option><option>Empowerment</option><option>Reflection</option><option>Celebration</option><option>Healing</option><option>Release</option><option>Transformation</option></select>
                 </div>
-
                 <div class="checkbox-group">
                     <input type="checkbox" id="includeTranscript" checked>
                     <label for="includeTranscript" style="margin: 0; font-weight: 400;">Include my full story in the prompt</label>
                 </div>
-
-                <button class="btn btn-primary" id="generateBtn" style="width: 100%; margin-top: 30px;">
-                    <i class="fas fa-magic"></i> Create My Song Prompt
-                </button>
+                <button class="btn btn-primary" id="generateBtn" style="width: 100%; margin-top: 30px;"><i class="fas fa-magic"></i> Create My Song Prompt</button>
             </div>
 
-            <!-- Step 3: Prompt Display -->
             <div id="step3" class="hidden">
-                <h3 style="margin-bottom: 20px; color: var(--text-heading); font-size: 1.4rem;">Your AI Song Prompt</h3>
-                
+                 <h3 style="margin-bottom: 20px; color: var(--text-heading); font-size: 1.4rem;">Your AI Song Prompt</h3>
                 <div class="prompt-wrapper">
                     <div class="prompt-header">
                         <h4>Generated Prompt</h4>
-                        <button class="copy-btn" id="copyPromptBtn">
-                            <i class="fas fa-copy"></i> Copy
-                        </button>
+                        <button class="copy-btn" id="copyPromptBtn"><i class="fas fa-copy"></i> Copy</button>
                     </div>
                     <div class="prompt-box" id="promptBox"></div>
                 </div>
-
                 <p style="margin-bottom: 20px; font-size: 1.1rem;">Paste this prompt into any AI music generator:</p>
-
                 <div class="ai-platforms">
                     <a href="https://suno.ai/" target="_blank" class="ai-platform"><i class="fas fa-music"></i> Suno AI</a>
                     <a href="https://www.udio.com/" target="_blank" class="ai-platform"><i class="fas fa-headphones"></i> Udio</a>
@@ -407,18 +559,46 @@
             </div>
         </div>
         
-        <!-- Email Section -->
-                <div style="margin-top: 30px; padding: 25px; background: var(--glass-bg); border-radius: 15px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.1);">
-                    <h4 style="margin-bottom: 15px; color: var(--text-heading); font-size: 1.2rem; display: flex; align-items: center; gap: 10px;">
-                        <i class="fas fa-envelope"></i> Save Your Healing Journey
-                    </h4>
-                    <p style="margin-bottom: 20px; color: var(--text-color); font-size: 0.95rem; line-height: 1.6;">
-                        Email this prompt to archive your emotional journey and track your healing progress.
-                    </p>
-                    <button class="btn btn-primary" id="emailBtn" style="width: 100%;">
-                        <i class="fas fa-paper-plane"></i> Email to thedoctorshrink@gmail.com
-                    </button>
-                </div>
+        <div style="margin-top: 30px; padding: 25px; background: var(--glass-bg); border-radius: 15px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.1);">
+            <h4 style="margin-bottom: 15px; color: var(--text-heading); font-size: 1.2rem; display: flex; align-items: center; gap: 10px;">
+                <i class="fas fa-envelope"></i> Save Your Healing Journey
+            </h4>
+            <p style="margin-bottom: 20px; color: var(--text-color); font-size: 0.95rem; line-height: 1.6;">
+                Email this prompt to archive your emotional journey and track your healing progress.
+            </p>
+            <button class="btn btn-primary" id="emailBtn" style="width: 100%;">
+                <i class="fas fa-paper-plane"></i> Email to thedoctorshrink@gmail.com
+            </button>
+        </div>
+
+        <div class="community-section">
+            <h2 class="section-heading">Your Journey Doesn't End Here</h2>
+            <p style="text-align: center; margin-top: -1rem; margin-bottom: 2rem; opacity: 0.9;">Connect with others, share your journey, and explore further.</p>
+            <div class="community-grid">
+                <a href="https://www.twitch.tv/doctorshrinkt" target="_blank" class="community-card">
+                    <i class="fab fa-twitch icon"></i>
+                    <div>
+                        <h4>Live Healing Sessions</h4>
+                    </div>
+                </a>
+                <a href="https://discord.gg/your-discord-link" target="_blank" class="community-card">
+                    <i class="fab fa-discord icon"></i>
+                    <div>
+                        <h4>Join the Healing Café</h4>
+                    </div>
+                </a>
+                <a href="emotional-journeys/index.qmd" class="community-card">
+                    <i class="fas fa-book-open icon"></i>
+                    <div>
+                        <h4>Explore Emotional Journeys</h4>
+                    </div>
+                </a>
+                <a href="research/index.qmd" class="community-card">
+                    <i class="fas fa-flask icon"></i>
+                    <div>
+                        <h4>The Science Behind It</h4>
+                    </div>
+                </a>
             </div>
         </div>
 
@@ -427,9 +607,10 @@
         </div>
     </div>
 
+    <audio id="example-audio-player" style="display: none;"></audio>
+
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-    // Element references
     const micButton = document.getElementById('micButton');
     const instructions = document.getElementById('instructions');
     const transcriptBox = document.getElementById('transcriptBox');
@@ -442,13 +623,70 @@
     const step3 = document.getElementById('step3');
     const promptBox = document.getElementById('promptBox');
     
-    // Speech recognition variables
+    const examplePlayButtons = document.querySelectorAll('.play-button-example');
+    const audioPlayer = document.getElementById('example-audio-player');
+    
+    // UPDATED & CORRECTED: Audio sources for examples
+    // Added error and pause event handlers
+    audioPlayer.addEventListener('error', (e) => {
+    console.error('Audio error:', e);
+    if (currentlyPlayingButton) {
+        resetButtonState(currentlyPlayingButton);
+    }
+    showAudioError('Audio file could not be loaded.');
+    });
+    
+    audioPlayer.addEventListener('pause', () => {
+    if (currentlyPlayingButton) {
+        resetButtonState(currentlyPlayingButton);
+    }
+    });
+    
+    
+    
+    const audioTracks = {
+        anxiety: '/albums/HorizonLines.mp3',
+        hope: '/albums/MelttheGlacier.mp3',
+        grief: '/albums/LuminousGround.mp3'
+    };
+    let currentlyPlayingButton = null;
+
+    examplePlayButtons.forEach(button => {
+        button.addEventListener('click', () => {
+            const trackKey = button.dataset.track;
+            const trackSrc = audioTracks[trackKey];
+
+            if (currentlyPlayingButton === button) {
+                audioPlayer.pause();
+                button.innerHTML = '<i class="fas fa-play"></i>';
+                currentlyPlayingButton = null;
+            } else {
+                if (currentlyPlayingButton) {
+                    currentlyPlayingButton.innerHTML = '<i class="fas fa-play"></i>';
+                }
+                
+                audioPlayer.src = trackSrc;
+                // ADDED: Call .load() to ensure the new source is loaded
+                audioPlayer.load(); 
+                audioPlayer.play();
+                button.innerHTML = '<i class="fas fa-pause"></i>';
+                currentlyPlayingButton = button;
+            }
+        });
+    });
+
+    audioPlayer.addEventListener('ended', () => {
+        if (currentlyPlayingButton) {
+            currentlyPlayingButton.innerHTML = '<i class="fas fa-play"></i>';
+            currentlyPlayingButton = null;
+        }
+    });
+
     let recognition;
     let isRecording = false;
     let transcript = '';
     let generatedPrompt = '';
     
-    // Initialize speech recognition if supported
     if ('webkitSpeechRecognition' in window || 'SpeechRecognition' in window) {
         recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
         recognition.continuous = true;
@@ -577,18 +815,12 @@
                 }, 2000);
             }).catch(err => {
                 console.error('Failed to copy to clipboard:', err);
-                // Fallback for browsers that don't support clipboard API
                 const textArea = document.createElement('textarea');
                 textArea.value = generatedPrompt;
                 document.body.appendChild(textArea);
                 textArea.select();
                 try {
                     document.execCommand('copy');
-                    const originalText = copyPromptBtn.innerHTML;
-                    copyPromptBtn.innerHTML = '<i class="fas fa-check"></i> Copied!';
-                    setTimeout(() => {
-                        copyPromptBtn.innerHTML = originalText;
-                    }, 2000);
                 } catch (err) {
                     console.error('Fallback copy failed:', err);
                 }
@@ -596,6 +828,43 @@
             });
         }
     }
+    
+    const audioMap = {
+    anxiety: document.getElementById('audio-anxiety'),
+    hope: document.getElementById('audio-hope'),
+    grief: document.getElementById('audio-grief')
+};
+
+examplePlayButtons.forEach(button => {
+    button.addEventListener('click', () => {
+        const trackKey = button.dataset.track;
+        const thisAudio = audioMap[trackKey];
+
+        // Pause all audio and reset buttons
+        Object.entries(audioMap).forEach(([key, audio]) => {
+            if (audio !== thisAudio) {
+                audio.pause();
+                audio.currentTime = 0;
+                document.querySelector(`.play-button-example[data-track="${key}"]`).innerHTML = '<i class="fas fa-play"></i>';
+            }
+        });
+
+        // Toggle playback for clicked button
+        if (thisAudio.paused) {
+            thisAudio.play();
+            button.innerHTML = '<i class="fas fa-pause"></i>';
+        } else {
+            thisAudio.pause();
+            button.innerHTML = '<i class="fas fa-play"></i>';
+        }
+
+        // Reset button when audio ends
+        thisAudio.onended = () => {
+            button.innerHTML = '<i class="fas fa-play"></i>';
+        };
+    });
+});
+    
     
     function sendEmail() {
         if (!generatedPrompt) {
@@ -606,16 +875,12 @@
         const genre = document.getElementById('musicGenre').value;
         const feeling = document.getElementById('primaryFeeling').value;
         const vibe = document.getElementById('songVibe').value;
-        
         const subject = `🎵 Genre: ${genre} 💭 Primary Emotion: ${feeling} ✨ Vibe: ${vibe}`;
         const body = generatedPrompt;
-        
         const emailUrl = `mailto:thedoctorshrink@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
         
-        // Try to open the email client
         window.location.href = emailUrl;
         
-        // Visual feedback
         const originalText = emailBtn.innerHTML;
         emailBtn.innerHTML = '<i class="fas fa-check"></i> Email Opened!';
         emailBtn.style.background = 'linear-gradient(135deg, #28a745, #20c997)';
@@ -630,12 +895,10 @@
     generateBtn.addEventListener('click', generatePrompt);
     copyPromptBtn.addEventListener('click', copyPromptToClipboard);
     
-    // Email button event listener with error checking
     if (emailBtn) {
         emailBtn.addEventListener('click', sendEmail);
     }
 });
     </script>
 </body>
-</html>
 ```
