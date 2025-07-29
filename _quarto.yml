@@ -8,7 +8,7 @@ website:
   image: images/tds-logo-150px.png
   favicon: images/tds-favicon.png
   twitter-card:
-    site: "@TheDataShrink"
+    site: "@thedatashrink"
   open-graph: true
   site-url: https://www.thedoctorshrink.com/
   repo-url: https://github.com/Doctorshrink/Doctorshrink.github.io
@@ -31,14 +31,14 @@ website:
       href: therapy-techniques/index.qmd
 
   page-footer:
-    left: "Copyright © 2025 The Data Shrink. All rights reserved."
+    left: "Copyright © 2025 thedatashrink. All rights reserved."
     right:
       - icon: instagram
         href: https://instagram.com/thedatashrink
       - icon: twitter
-        href: https://twitter.com/TheDataShrink
+        href: https://twitter.com/thedatashrink
       - icon: youtube
-        href: https://youtube.com/@TheDataShrink
+        href: https://youtube.com/@thedatashrink
 
 format:
   html:

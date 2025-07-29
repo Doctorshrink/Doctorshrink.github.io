@@ -260,18 +260,8 @@ The composition mirrors the journey home:
 </div>
 :::
                   
-
-## **About the Artist** 🎤 {.unnumbered}
-
-> "My music is emotional archaeology - uncovering the artifacts of our becoming."
-
-Based in Brisbane, Australia, Doctor Shrink combines expertise in data science frameworks with the alchemy of musical healing.  
-
-Produced by [TheDataShrink](https://thedatashrink.com) record label.
-
-
 <!-- NEW Custom Hero Section -->
-::: {.journey-hero style="background-image: url('/images/gratitude.png');"}
+::: {.journey-hero style="background-image: url('/images/unpackinghome.jpg');"}
 ::: {.callout-note appearance="simple" icon=true}
 ## A Note From My Heart to Yours
 
@@ -290,4 +280,33 @@ The "compass not chain" metaphor embodies **Attachment Reorganization**, showing
 :::
 
 
-                  
+
+## **About the Artist** 🎤 {.unnumbered}
+
+> "My music is emotional archaeology - uncovering the artifacts of our becoming."
+
+Based in Brisbane, Australia, Doctor Shrink combines expertise in data science frameworks with the alchemy of musical healing.  
+
+Produced by [thedatashrink™](https://thedatashrink.com) record label.
+
+```{=html}
+<style>
+.lyrics {
+  font-family: Georgia, serif;
+  font-size: 1.1em;
+  line-height: 1.6;
+  padding: 15px;
+  background-color: #f8f8f8;
+  border-left: 4px solid #2A5C8D;
+  white-space: pre-wrap;
+}
+.artist-signature {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1.5em;
+  color: #2A5C8D;
+  margin-top: 1em;
+}
+</style>
+
+<div class="artist-signature">Doctor Shrink 🎵</div>
+```

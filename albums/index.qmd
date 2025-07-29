@@ -103,13 +103,13 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 :::
 <!-- End of Song Card -->
 
-<!-- === THE MAN I BECAME SONG CARD === -->
-::: {.song-card data-mood="grateful transformative" role="article" aria-labelledby="themanibecame-title"}
+<!-- === THE MAN I'm BECOMING SONG CARD === -->
+::: {.song-card data-mood="grateful transformative" role="article" aria-labelledby="themanimbecoming-title"}
 ::: {.song-image-container}
 
-<img src="/images/themanibecame.jpg" alt="The Man I Became Cover Art: Silhouette rising from flames with compass motif" class="song-image" loading="lazy">
+<img src="/images/themanimbecoming.jpg" alt="The Man I Became Cover Art: Silhouette rising from flames with compass motif" class="song-image" loading="lazy">
 <div class="play-overlay">
-<a href="/albums/themanibecame.html" class="play-btn-link" aria-label="Play The Man I Became">
+<a href="/albums/themanimbecoming.html" class="play-btn-link" aria-label="Play The Man I Became">
 <button class="play-btn">▶️</button>
 </a>
 </div>

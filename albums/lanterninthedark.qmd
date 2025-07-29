@@ -239,7 +239,7 @@ The song's structure creates a transformation journey:
 :::
 
 <!-- Hero Section -->
-::: {.journey-hero style="background-image: url('/images/lantern-hero.jpg');"}
+::: {.journey-hero style="background-image: url('/images/lanterninthedark.jpg');"}
 ::: {.callout-note appearance="simple" icon=true}
 ## A Note From the Wounded Healer
 
@@ -258,12 +258,13 @@ The "altars from mistakes" metaphor embodies **Sacred Repurposing**, showing how
 :::
 
 
-## **About the Artist** 🎤
+## **About the Artist** 🎤 {.unnumbered}
 
-> "My new identity as a force for all that is good and for all the souls out there that are going through pain. My music is emotional archaeology - uncovering the artifacts of our becoming."
+> "My music is emotional archaeology - uncovering the artifacts of our becoming."
 
-Based in Brisbane, Australia, Doctor Shrink combines expertise in A.I. data with the healing power of music.  
-[thedatashrink.com](https://thedatashrink.com) 
+Based in Brisbane, Australia, Doctor Shrink combines expertise in data science frameworks with the alchemy of musical healing.  
+
+Produced by [thedatashrink™](https://thedatashrink.com) record label.
 
 ```{=html}
 <style>

@@ -228,7 +228,7 @@ The song's structure creates a therapeutic journey:
 <a href="#ResilienceAnthem" class="therapy-tag">#ResilienceAnthem</a>
 <a href="#MentalHealthAdvocate" class="therapy-tag">#MentalHealthAdvocate</a>
 <a href="#SoundHealing" class="therapy-tag">#SoundHealing</a>
-<a href="#TheDataShrink" class="therapy-tag">#TheDataShrink</a>
+<a href="#thedatashrink" class="therapy-tag">#thedatashrink</a>
 <a href="#MentalHealthSupport" class="therapy-tag">#MentalHealthSupport</a>
 <a href="#spiritual" class="therapy-tag">#spiritual</a>
 <a href="#Brisbane" class="therapy-tag">#Brisbane</a>
@@ -262,12 +262,13 @@ This song operationalizes <strong>Complex PTSD recovery</strong> through musical
 
 
 
-## **About the Artist** 🎤
+## **About the Artist** 🎤 {.unnumbered}
 
-> "My new identity as a force for all that is good and for all the souls out there that are going through pain. My music is emotional archaeology - uncovering the artifacts of our becoming."
+> "My music is emotional archaeology - uncovering the artifacts of our becoming."
 
-Based in Brisbane, Australia, Doctor Shrink combines expertise in A.I. data with the healing power of music.  
-[thedatashrink.com](https://thedatashrink.com) 
+Based in Brisbane, Australia, Doctor Shrink combines expertise in data science frameworks with the alchemy of musical healing.  
+
+Produced by [thedatashrink™](https://thedatashrink.com) record label.
 
 ```{=html}
 <style>
