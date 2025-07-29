@@ -1,0 +1,262 @@
+---
+title: "Cracks in the Frame"
+author: "Doctor Shrink"
+date: "2025-08-01"
+categories: [music, trauma-recovery, fatherhood, redemption, Brisbane]
+image: images/cracksintheframe.jpg
+format:
+  html:
+    toc: false
+    code-fold: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+## **Featured Video** ▶️
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CRACKS_IN_THE_FRAME_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## **Lyrics** ✍️ {.unnumbered}
+
+::: {.h5}
+**Verse 1**  
+My bicycle groans like an old prayer  
+Chain rusted, tire thin as dusk  
+But I know these streets—they remember  
+How we raced gravity’s husk  
+You’re the wrench in my pocket  
+The knot I can’t undo  
+A celestial law I rewrote  
+Just to ride home to you  
+
+**Chorus**  
+Oh, we’ve got cracks in the frame  
+And brakes that scream in the rain  
+But these wheels turn on your name  
+Love ain’t polished—it’s reclaimed  
+
+**Verse 2**  
+The sunset’s a shared cigarette  
+You’re not here, but the sky’s still ours  
+This body’s a reckless engine  
+Burning through borrowed hours  
+At midnight, the pillow’s a battlefield  
+Your ghost wears my favorite shirt  
+But I send a kiss with the coffee steam  
+‘Cause almost don’t mean hurt  
+
+**Bridge**  
+They say heaven’s a clockwork tune  
+But we’re all misfit gears  
+I’d rather rust in your chaos  
+Than shine in their perfect years  
+
+**Outro**  
+So let’s ride crooked, darling  
+Through valleys where light expires  
+‘Til our chains sing hallelujah  
+On wires of solar fire  
+:::
+
+## **Therapeutic Significance** 🌱 {.unnumbered}
+
+::: {.panel-tabset .nav-pills}
+### Essential Info 🎶
+
+-   **Title:** Cracks in the Frame
+-   **Artist:** Doctor Shrink
+-   **Genre:** Soul-Blues / Country Rock
+-   **Focus:** Trauma Reclamation
+-   **Duration:** 4:42
+-   **Release:** 1 August 2025
+-   **Therapeutic Approach:** Post-Traumatic Growth
+
+### Experience Now 💫
+
+```{r}
+library(htmltools)
+tags$div(
+  class = "streaming-buttons",
+  style = "display: flex; gap: 10px; flex-wrap: wrap;",
+  tags$a(href = "#", class = "btn btn-success btn-sm", "Pre-Save on Spotify"),
+  tags$a(href = "#", class = "btn btn-danger btn-sm", "Pre-Add Apple Music"),
+  tags$a(href = "#", class = "btn btn-info btn-sm", "YouTube Notification")
+)
+```
+:::
+
+## **The Reclamation Journey** 🧭 {.unnumbered}
+
+This ballad chronicles the sacred passage from brokenness to reclaimed wholeness:
+
+1.  **The Unseen Prison**  
+    "Not reading past traumas that hooked me" - childhood wounds creating invisible chains  
+    "Made me a door mat" - learned helplessness patterns  
+
+2.  **The Gift of Love**  
+    "Planted love is a gift not a burden" - receiving grace without self-sabotage  
+    "Energy lingers positively like light" - internalized healing presence  
+
+3.  **Bicycle as Sacred Vessel**  
+    "What gets me where I need to go" - daily commute as spiritual practice  
+    "Rusted chain" as resilience symbol  
+
+4.  **Fatherhood Compass**  
+    "I will never fail them" - sacred vow of presence  
+    "Hold the space" - breaking intergenerational trauma  
+
+::: columns
+### 🌟 **Healing Framework**
+
+------------------------------------------------------------------------
+
+| **Element**          | **Therapeutic Representation**      | **Healing Mechanism**          |
+|------------------|-----------------------|-------------------------------|
+| Bicycle | "Wheels turn on your name" | Trauma-transcended vehicle |
+| Rust Symbolism | "Chain rusted" | Beauty in imperfection |
+| Frame Metaphor  | "Cracks in the frame" | Strength through vulnerability |
+| Solar Fire | "Chains sing hallelujah" | Alchemical transformation |
+| Knot Motif | "Knot I can't undo" | Acceptance of complexity |
+:::
+
+## **Clinical Vision** 🩺 {.unnumbered}
+
+::: {.panel-tabset .nav-pills}
+### English Original
+
+**"Cracks in the Frame"** is: ***A blues-drenched manifesto of post-traumatic becoming***.
+
+This anthem maps the journey from trauma-induced isolation to reclaimed wholeness through unexpected grace:
+
+- Verse 1: Embodies the "door mat" consciousness ("bicycle groans like an old prayer")  
+- Chorus: Declares reclaimed love as imperfect power ("Love ain't polished—it's reclaimed")  
+- Verse 2: Honors lingering healing energy ("kiss with the coffee steam")  
+- Bridge: Chooses authentic brokenness over false perfection ("misfit gears")  
+- Outro: Sacred transportation metaphor ("wires of solar fire")  
+
+**THERAPEUTIC NOTES:**  
+- Listen during commute to reframe transit as healing ritual  
+- Chorus functions as anchor during self-doubt attacks  
+- Bridge paired with inner child reparenting  
+- Outro: Play during somatic release work  
+
+**In reclaimed wholeness**,  
+Doctor Shrink
+
+### French Translation
+
+**"Fissures dans le Cadre"** est : ***Un manifeste envoûtant de devenir post-traumatique***.
+
+Cet hymne cartographie le chemin de l'isolement induit par le trauma vers l'intégrité retrouvée :
+
+Le premier couplet incarne la conscience de "paillasson". Le refrain déclare l'amour récupéré comme puissance imparfaite. Le deuxième couplet honore l'énergie de guérison persistante. Le pont choisit l'authenticité brisée. L'outro parachève la métaphore sacrée.
+
+**NOTES THÉRAPEUTIQUES :**  
+- À écouter pendant les trajets pour les ritualiser  
+- Refrain comme ancre lors des doutes  
+- Pont associé au reparentage de l'enfant intérieur  
+- Outro pendant le travail somatique  
+
+**En intégrité retrouvée**,  
+Doctor Shrink
+:::
+
+## **Healing Impact** 💬 {.unnumbered}
+
+::: {.callout-tip icon="false"}
+### **Early Listener Reflections**
+
+> "The 'reclaimed love' line made me stop seeing my scars as defects" - @TraumaAlchemist
+
+> "Now I ride Brisbane trains seeing solar fire in the overhead wires" - @CommutersJourney
+
+> "Finally a ballad that honors the sacredness of showing up broken for your children" - @FatherhoodRising
+
+> "Ces 'roues qui tournent sur ton nom' - voilà comment porter l'amour perdu" - @ParisHealing
+:::
+
+## **Therapeutic Composition** 🎚️ {.unnumbered}
+
+```{r}
+composition <- data.frame(
+  Aspect = c("Emotional Arc", "Therapeutic Techniques", "Neurological Design", "Vocal Therapy"),
+  Detail = c("Verse 1: Trapped → Chorus: Reclamation → Bridge: Sacred Choice → Outro: Transcendence", 
+             "Inner child work, Trauma mapping, Somatic release",
+             "Delta waves in bicycle rhythm → Gamma in solar fire imagery",
+             "Gravel tones for pain → Blues resonance for redemption")
+)
+
+knitr::kable(composition, col.names = c("Element", "Method"), format = "html") |> 
+  kableExtra::kable_styling(full_width = FALSE)
+```
+
+## **Musical Architecture** 🎵 {.unnumbered}
+
+The song's structure mirrors the journey from fracture to wholeness:
+
+-   **Sonic Progression:**
+    -   Verse 1: Distorted slide guitar (trauma's weight)
+    -   Chorus: Hammond organ swell (grace breaking through)
+    -   Bridge: Raw harmonica (authentic brokenness)
+    -   Outro: Gospel choir whispers (divine transportation)
+
+-   **Rhythmic Therapy:**
+    -   Chugging train beat: "bicycle groans" (mechanical survival)
+    -   Swinging chorus: "wheels turn on your name" (liberated movement)
+    -   Half-time bridge: "misfit gears" (sacred pause)
+    -   Double-time outro: "solar fire" (transcendent acceleration)
+
+## **Credits & Rights** 📜 {.unnumbered}
+
+- **Coming:** 1 August 2025  
+- **Lyrics & Music:** Doctor Shrink  
+- **Copyright:** Doctor Shrink  
+- **License:** All rights reserved  
+- **Tags:** 
+
+::: {.therapy-tags}
+<div class="tag-cloud">
+  <a href="#TraumaReclamation" class="therapy-tag">#TraumaReclamation</a>
+  <a href="#FatherhoodRising" class="therapy-tag">#FatherhoodRising</a>
+  <a href="#BicycleTherapy" class="therapy-tag">#BicycleTherapy</a>
+  <a href="#SacredCommute" class="therapy-tag">#SacredCommute</a>
+  <a href="#ReclaimedLove" class="therapy-tag">#ReclaimedLove</a>
+  <a href="#PostTraumaticGrowth" class="therapy-tag">#PostTraumaticGrowth</a>
+  <a href="#InnerChildHealing" class="therapy-tag">#InnerChildHealing</a>
+  <a href="#DoctorShrink" class="therapy-tag">#DoctorShrink</a>
+  <a href="#SoulBlues" class="therapy-tag">#SoulBlues</a>
+  <a href="#BrisbaneSound" class="therapy-tag">#BrisbaneSound</a>
+</div>
+:::
+
+
+
+## **About the Artist** 🎤 {.unnumbered}
+
+> "My music is emotional archaeology - uncovering the artifacts of our becoming."
+
+Based in Brisbane, Australia, Doctor Shrink combines expertise in data science frameworks with the alchemy of musical healing.  
+
+Produced by [TheDataShrink](https://thedatashrink.com) record label.
+
+
+<!-- NEW Custom Hero Section -->
+::: {.journey-hero style="background-image: url('/images/gratitude.png');"}
+::: {.callout-note appearance="simple" icon=true}
+## A Note From My Heart to Yours
+
+This song was born in the space between what I couldn't ask for and what love gave anyway. It's my tribute to those who loved me when I didn't know how to be loved - who showed me that love isn't something you deserve, but something that transforms you.
+
+The "podium of love" in the outro isn't a destination - it's the sacred ground we stand on when we finally understand that even lost love never leaves us. Every note is my promise to keep parsing this gift and give it back to the world.
+
+**Clinical Insight:**  
+This song operationalizes **Post-Traumatic Growth theory** through musical narrative. The progression from "silence in my chest" to "I walk with grace" demonstrates neural repatterning. 
+
+> In my deepest sorrow, I found the strength to continue the battle to freedom. This ballad is my weapon of gratitude.
+
+The "compass not chain" metaphor embodies **Attachment Reorganization**, showing how healing relationships continue to guide after separation.
+
+:::
+:::

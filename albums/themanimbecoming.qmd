@@ -1,5 +1,5 @@
 ---
-title: "The Man I Became"
+title: "The Man I'm Becoming"
 author: "Doctor Shrink"
 date: "2025-08-01"
 categories: [music, therapy, gratitude, transformation, relationships, Brisbane]
@@ -69,7 +69,7 @@ Till then, I'm the dust in the light missing you.
 ::: {.panel-tabset .nav-pills}
 ### Essential Info 🎶
 
--   **Title:** The Man I Became (For Love)
+-   **Title:** The Man I'm Becoming
 -   **Artist:** Doctor Shrink
 -   **Genre:** Transformative Ballad
 -   **Focus:** Gratitude Through Adversity
@@ -130,7 +130,7 @@ This therapeutic ballad charts the sacred passage from emotional isolation to gr
 ::: {.panel-tabset .nav-pills}
 ### English Original
 
-**"The Man I Became"** is: ***A musical monument to transformative gratitude***.
+**"The Man I'm Becoming"** is: ***A musical monument to transformative gratitude***.
 
 This ballad gives voice to the sacred paradox: that we often receive love most profoundly when we least know how to receive it.
 
@@ -151,7 +151,7 @@ Doctor Shrink
 
 ### French Translation
 
-**"L'Homme Que Je Suis Devenu"** est : ***Un monument musical à la gratitude transformatrice***.
+**"L'homme que je deviens"** est : ***Un monument musical à la gratitude transformatrice***.
 
 Cette ballade donne voix au paradoxe sacré : nous recevons souvent l'amour le plus profondément quand nous savons le moins comment le recevoir. Le premier couplet révèle la blessure fondamentale : "ne pouvait pas te tenir correctement" parle des blessures d'attachement qui rendent l'intimité terrifiante.
 

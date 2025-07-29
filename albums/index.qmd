@@ -121,8 +121,8 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 
 <div class="song-content">
 <div class="song-header">
-<h3 class="song-title" id="themanibecame-title">
-<a href="/albums/themanibecame.html">The Man I Became</a>
+<h3 class="song-title" id="themanimbecoming-title">
+<a href="/albums/themanimbecoming.html">The Man I'm Becoming</a>
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
@@ -135,8 +135,8 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </div>
 
 <div class="song-actions">
-<a href="/albums/themanibecame.html" class="btn btn-primary">Pre-Save & Preview</a>
-<button class="btn btn-outline favorite-btn" data-song="The Man I Became" aria-label="Add to favorites">💙</button>
+<a href="/albums/themanimbecoming.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="The Man I'm Becoming" aria-label="Add to favorites">💙</button>
 </div>
 </div>
 :::
@@ -342,6 +342,43 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 <!-- End of Song Card -->
 
 
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="weathered-hope" role="article" aria-labelledby="cracks-title"}
+::: {.song-image-container}
+
+<img src="/images/cracksintheframe.jpg" alt="Cracks in the Frame Cover Art - Bicycle leaning against train station at dawn" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/cracksintheframe.html" class="play-btn-link" aria-label="Play Cracks in the Frame">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">🚲 Sacred Commute</span>
+<span class="badge therapy-badge">🔥 Trauma Alchemy</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="cracksintheframe-title">
+<a href="/albums/cracksintheframe.html">Cracks in the Frame</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">1 August 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>Where rust meets grace. A Soul-Blues testament to love that finds you when you've forgotten how to ask, carried on wheels of reclaimed hope.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/cracksintheframe.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="Cracks in the Frame" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
 
 
 <!-- === SONG CARD === -->
@@ -383,6 +420,45 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 :::
 <!-- End of Song Card -->
 
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="redemptive transformative" role="article" aria-labelledby="unpackinghome-title"}
+::: {.song-image-container}
+
+<img src="/images/unpackinghome.jpg" alt="Unpacking Home Cover Art - Father embracing children on train platform" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/unpackinghome.html" class="play-btn-link" aria-label="Play Unpacking Home">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">🚉 Platform Redemption</span>
+<span class="badge therapy-badge">🚲 Resilience Anthem</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="unpackinghome-title">
+<a href="/albums/unpackinghome.html">Unpacking Home</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">1 August 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A father's journey from platform pain to sacred presence. Where commutes become pilgrimages and bedtime stories heal generations.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/unpackinghome.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="Unpacking Home" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
 
 <!-- === SONG CARD === -->
 ::: {.song-card data-mood="transformative peaceful" role="article" aria-labelledby="hoopoflight-title"}
@@ -407,7 +483,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
-<span class="release-date">September 2025</span>
+<span class="release-date">1 August 2025</span>
 </div>
 </div>
 
