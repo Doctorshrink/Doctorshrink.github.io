@@ -42,7 +42,7 @@ website:
 
 format:
   html:
-    theme: [default, tds-therapy.scss]
+    theme: [tds-therapy.scss]
     css: tds-therapy.css
     toc: false
 

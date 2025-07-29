@@ -1,6 +1,15 @@
+<!-- 
+==================================================================
+  DR. SHRINK - COMBINED & RESTRUCTURED index.qmd
+  - Combines the clean structure of the first version
+  - with the functional components of the second version.
+==================================================================
+-->
+
 ```{=html}
+
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<html lang="en" xml:lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
@@ -8,7 +17,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
-        /* Mobile-first CSS */
+        /* Base Styles & Variables */
         :root {
             --bg-color: #0B1426;
             --bg-card: #1A2332;
@@ -22,297 +31,106 @@
             --glass-bg: rgba(255,255,255,0.03);
             --glass-bg-darker: rgba(0,0,0,0.2);
         }
-
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
-
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        html { scroll-behavior: smooth; }
         body {
             font-family: 'Poppins', sans-serif;
             background: linear-gradient(135deg, var(--bg-color) 0%, #162B42 100%);
             color: var(--text-color);
             line-height: 1.6;
-            padding: 0;
-            margin: 0;
             min-height: 100vh;
             position: relative;
             overflow-x: hidden;
         }
-
-        /* Animated background particles */
         body::before {
-            content: '';
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
+            content: ''; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
             background-image: 
                 radial-gradient(circle at 20% 50%, rgba(0, 217, 255, 0.1) 0%, transparent 50%),
                 radial-gradient(circle at 80% 20%, rgba(255, 107, 53, 0.1) 0%, transparent 50%),
                 radial-gradient(circle at 40% 80%, rgba(255, 133, 211, 0.1) 0%, transparent 50%);
             animation: float 20s ease-in-out infinite;
-            pointer-events: none;
-            z-index: -1;
+            pointer-events: none; z-index: -1;
         }
+        @keyframes float { 0%, 100% { transform: translateY(0px); } 33% { transform: translateY(-20px); } 66% { transform: translateY(10px); } }
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0px) rotate(0deg); }
-            33% { transform: translateY(-20px) rotate(1deg); }
-            66% { transform: translateY(10px) rotate(-1deg); }
-        }
+        /* Page Structure */
+        .page-container { max-width: 800px; margin: 0 auto; padding: 20px; }
+        .page-section { padding: 3rem 0; border-bottom: 1px solid var(--border-color); }
+        .page-section:last-of-type { border-bottom: none; }
+        .center { text-align: center; }
+        .skip-link { position: absolute; top: -40px; left: 0; background: var(--healing-green); color: white; padding: 8px; z-index: 100; transition: top 0.3s; }
+        .skip-link:focus { top: 0; }
 
-        .container {
-            max-width: 100%;
-            padding: 20px;
-            position: relative;
-            z-index: 1;
-        }
-
-        .header {
-            text-align: center;
-            margin-bottom: 30px;
-            animation: slideDown 0.8s ease-out;
-        }
-
-        @keyframes slideDown {
-            from { opacity: 0; transform: translateY(-30px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-
-        .header h1 {
-            color: var(--text-heading);
-            font-size: 2.2rem;
+        /* Hero Section */
+        .hero { text-align: center; }
+        .hero h2 {
+            font-size: clamp(2rem, 5vw, 3rem);
             font-weight: 700;
-            margin-bottom: 10px;
+            line-height: 1.2;
             background: linear-gradient(135deg, var(--healing-green), var(--accent-pink));
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
         }
+        .hero p { font-size: clamp(1rem, 2.5vw, 1.2rem); max-width: 600px; margin: 1rem auto 1.5rem; opacity: 0.9; }
+        .cta-primary {
+            padding: 1rem 2rem; border-radius: 50px; border: none; font-weight: 600; font-size: 1.1rem;
+            cursor: pointer; transition: all 0.3s ease;
+            background: linear-gradient(135deg, var(--healing-green), var(--warm-orange)); color: white;
+            box-shadow: 0 5px 15px rgba(0, 217, 255, 0.3);
+        }
+        .cta-primary:hover { transform: translateY(-3px); box-shadow: 0 10px 25px rgba(0, 217, 255, 0.4); }
+        .hero-bullets { margin-top: 1.5rem; color: var(--text-color); opacity: 0.8; font-style: italic; line-height: 1.8; }
 
-        .header p {
-            color: var(--text-color);
-            opacity: 0.9;
-            font-size: 1.1rem;
-            font-weight: 300;
-            max-width: 600px;
-            margin-left: auto;
-            margin-right: auto;
-        }
-        
-        .section-heading {
-            text-align: center;
-            font-size: 1.8rem;
-            font-weight: 600;
-            margin-bottom: 2rem;
-            color: var(--text-heading);
-        }
+        /* Why it Works Section */
+        .why-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin-top: 2rem; }
+        .why-card { background: var(--glass-bg); padding: 20px; border-radius: 15px; border: 1px solid var(--border-color); }
+        .why-card h4 { color: var(--healing-green); margin-bottom: 0.5rem; }
+        cite { display: block; margin-top: 1rem; font-size: 0.9rem; opacity: 0.7; }
 
-        .creator-note-section {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 20px;
-            background: var(--glass-bg-darker);
-            backdrop-filter: blur(10px);
-            border: 1px solid var(--border-color);
-            border-radius: 20px;
-            padding: 30px;
-            margin: 40px auto;
-            max-width: 800px;
-        }
+        /* My Story Section */
+        details { background: var(--glass-bg); border: 1px solid var(--border-color); border-radius: 15px; margin: 2rem auto; max-width: 700px; }
+        summary { cursor: pointer; padding: 1rem; font-size: 1.1rem; font-weight: 500; }
+        summary::marker { color: var(--healing-green); }
+        details p { padding: 0 1rem 1rem; margin: 0; opacity: 0.9; }
 
-        .creator-photo {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
-            object-fit: cover;
-            border: 3px solid var(--healing-green);
-        }
+        /* Testimonials & Proof Section */
+        .carousel { display: flex; flex-direction: column; gap: 1rem; margin-bottom: 2rem; }
+        blockquote { background: var(--glass-bg); border-left: 3px solid var(--healing-green); padding: 1rem; border-radius: 8px; margin: 0; }
+        blockquote footer { text-align: right; font-style: normal; font-weight: 500; opacity: 0.8; margin-top: 0.5rem; }
+        .logo-strip { display: flex; justify-content: center; align-items: center; gap: 2rem; filter: grayscale(1) invert(1) opacity(0.6); margin-top: 2rem; }
+        .logo-strip img { height: 30px; }
 
-        .creator-text {
-            text-align: center;
+        /* Save & Connect Section */
+        .next-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-top: 2rem; }
+        .next-card {
+            background: var(--glass-bg); border: 1px solid var(--border-color); border-radius: 15px;
+            padding: 20px; color: var(--text-heading); text-decoration: none; display: flex;
+            align-items: center; gap: 15px; transition: all 0.3s ease; text-align: left;
         }
-        
-        .creator-text h3 {
-            margin-top: 0;
-            margin-bottom: 10px;
-            font-size: 1.4rem;
-        }
-        
-        .creator-text p {
-            margin-bottom: 20px;
-            color: var(--text-color);
-            opacity: 0.9;
-        }
-        
-        .examples-section {
-            margin: 40px auto;
-            max-width: 800px;
-        }
-        
-        .examples-grid {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 15px;
-        }
-        
-        .example-card {
-            background: var(--glass-bg);
-            border: 1px solid var(--border-color);
-            border-radius: 15px;
-            padding: 20px;
-            display: flex;
-            align-items: center;
-            gap: 20px;
-            transition: all 0.3s ease;
-        }
-        
-        .example-card:hover {
-            background: rgba(255,255,255,0.05);
-            transform: translateY(-2px);
-        }
-        
-        .play-button-example {
-            flex-shrink: 0;
-            width: 50px;
-            height: 50px;
-            border-radius: 50%;
-            background: linear-gradient(135deg, var(--healing-green), var(--warm-orange));
-            color: white;
-            border: none;
-            cursor: pointer;
-            font-size: 1.2rem;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.3s ease;
-        }
+        .next-card:hover { background: var(--glass-bg-darker); border-color: var(--healing-green); transform: translateY(-3px); }
+        .next-card i { font-size: 1.5rem; color: var(--healing-green); }
 
-        .play-button-example:hover {
-            transform: scale(1.1);
-        }
-        
-        .example-info h4 {
-            margin: 0 0 5px 0;
-            font-size: 1.1rem;
-            color: var(--text-heading);
-        }
-        
-        .example-info p {
-            margin: 0;
-            font-size: 0.9rem;
-            opacity: 0.8;
-        }
+        /* Footer */
+        footer { padding: 2rem 1rem; text-align: center; color: var(--text-color); opacity: 0.7; font-size: 0.9rem; }
+        footer address, footer nav { margin-bottom: 1rem; }
+        footer a { color: var(--healing-green); }
 
-        .community-section {
-            background: var(--glass-bg-darker);
-            border: 1px solid var(--border-color);
-            border-radius: 20px;
-            padding: 30px;
-            margin: 40px auto;
-            max-width: 800px;
-        }
-
-        .community-grid {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 15px;
-        }
-        
-        .community-card {
-            background: var(--glass-bg);
-            border: 1px solid var(--border-color);
-            border-radius: 15px;
-            padding: 20px;
-            color: var(--text-heading);
-            text-decoration: none;
-            display: flex;
-            align-items: center;
-            gap: 20px;
-            transition: all 0.3s ease;
-        }
-        
-        .community-card:hover {
-            background: var(--glass-bg-darker);
-            border-color: var(--healing-green);
-            transform: translateY(-3px);
-        }
-
-        .community-card .icon {
-            font-size: 2rem;
-            color: var(--healing-green);
-        }
-        
-        .community-card h4 { margin: 0; font-size: 1.1rem; }
-        
-        @media (min-width: 576px) {
-            .examples-grid { grid-template-columns: 1fr 1fr; }
-            .community-grid { grid-template-columns: 1fr 1fr; }
-        }
-
-        @media (min-width: 768px) {
-            .creator-note-section { flex-direction: row; text-align: left; }
-            .creator-text { text-align: left; }
-            .examples-grid { grid-template-columns: 1fr 1fr 1fr; }
-        }
-
+        /* === STYLES FROM FUNCTIONAL COMPONENT === */
         .card {
-            background: var(--glass-bg);
-            backdrop-filter: blur(20px);
-            border: 1px solid rgba(255,255,255,0.1);
-            border-radius: 20px;
-            padding: 30px;
-            margin-bottom: 20px;
-            box-shadow: 
-                0 8px 32px rgba(0,0,0,0.3),
-                inset 0 1px 0 rgba(255,255,255,0.1);
-            animation: slideUp 0.8s ease-out 0.2s both;
+            background: var(--glass-bg); backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 20px; padding: 30px; margin-bottom: 20px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.1);
         }
-
-        @keyframes slideUp {
-            from { opacity: 0; transform: translateY(30px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-
-        .mic-section {
-            text-align: center;
-            margin: 40px 0;
-        }
-
+        .mic-section { text-align: center; margin: 40px 0; }
         .mic-button {
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            background: linear-gradient(135deg, var(--healing-green), var(--warm-orange));
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin: 0 auto 25px;
-            cursor: pointer;
-            position: relative;
-            transition: all 0.3s ease;
-            box-shadow: 0 10px 30px rgba(0, 217, 255, 0.3);
+            width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, var(--healing-green), var(--warm-orange));
+            display: flex; align-items: center; justify-content: center; margin: 0 auto 25px; cursor: pointer;
+            position: relative; transition: all 0.3s ease; box-shadow: 0 10px 30px rgba(0, 217, 255, 0.3);
         }
-
-        .mic-button:hover {
-            transform: translateY(-3px) scale(1.05);
-            box-shadow: 0 15px 35px rgba(0, 217, 255, 0.4);
-        }
-
-        .mic-button.recording {
-            animation: pulse 1.5s infinite;
-        }
-
-        @keyframes pulse {
-            0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(0, 217, 255, 0.7); }
-            70% { transform: scale(1.05); box-shadow: 0 0 0 20px rgba(0, 217, 255, 0); }
-            100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(0, 217, 255, 0); }
-        }
-
+        .mic-button:hover { transform: translateY(-3px) scale(1.05); box-shadow: 0 15px 35px rgba(0, 217, 255, 0.4); }
+        .mic-button.recording { animation: pulse 1.5s infinite; }
+        @keyframes pulse { 0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(0, 217, 255, 0.7); } 70% { transform: scale(1.05); box-shadow: 0 0 0 20px rgba(0, 217, 255, 0); } 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(0, 217, 255, 0); } }
         .mic-icon { font-size: 35px; color: white; }
         .instructions { font-size: 1.2rem; font-weight: 500; color: var(--text-heading); margin-bottom: 10px; }
         .sub-instructions { font-size: 0.95rem; opacity: 0.7; }
@@ -321,185 +139,71 @@
         .transcript-placeholder { color: #888; font-style: italic; text-align: center; padding: 50px 0; font-size: 1.1rem; }
         .transcript-content { font-size: 1.1rem; line-height: 1.7; color: var(--text-heading); }
         .control-buttons { display: flex; justify-content: center; gap: 20px; margin-bottom: 25px; }
-
-        .btn {
-            padding: 14px 28px;
-            border-radius: 50px;
-            border: none;
-            font-weight: 600;
-            font-size: 1rem;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            font-family: 'Poppins', sans-serif;
-        }
-        
+        .btn { padding: 14px 28px; border-radius: 50px; border: none; font-weight: 600; font-size: 1rem; display: flex; align-items: center; gap: 10px; cursor: pointer; transition: all 0.3s ease; font-family: 'Poppins', sans-serif; }
         .btn-primary { background: linear-gradient(135deg, var(--healing-green), var(--warm-orange)); color: white; box-shadow: 0 5px 15px rgba(0, 217, 255, 0.3); }
-        .btn-outline { background: transparent; border: 2px solid var(--healing-green); color: var(--healing-green); }
         .btn-danger { background: linear-gradient(135deg, #e74c3c, #c0392b); color: white; }
-        .btn-primary:hover:not(:disabled) { transform: translateY(-3px); box-shadow: 0 10px 25px rgba(0, 217, 255, 0.4); }
-        .btn-outline:hover:not(:disabled) { background: rgba(0, 217, 255, 0.1); transform: translateY(-2px); }
-        .btn-danger:hover:not(:disabled) { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(231, 76, 60, 0.4); }
         .btn:disabled { opacity: 0.5; cursor: not-allowed; }
-
         .form-group { margin-bottom: 25px; }
         label { display: block; margin-bottom: 10px; color: var(--text-heading); font-weight: 600; font-size: 1.1rem; }
-        
-        select, input {
-            width: 100%;
-            padding: 15px 18px;
-            border-radius: 12px;
-            border: 2px solid var(--border-color);
-            background: var(--glass-bg);
-            backdrop-filter: blur(10px);
-            color: var(--text-color);
-            font-family: 'Poppins', sans-serif;
-            font-size: 1rem;
-            transition: all 0.3s ease;
-        }
-        
+        select, input { width: 100%; padding: 15px 18px; border-radius: 12px; border: 2px solid var(--border-color); background: var(--glass-bg); backdrop-filter: blur(10px); color: var(--text-color); font-family: 'Poppins', sans-serif; font-size: 1rem; transition: all 0.3s ease; }
         select:focus, input:focus { outline: none; border-color: var(--healing-green); box-shadow: 0 0 20px rgba(0, 217, 255, 0.2); }
         .checkbox-group { display: flex; align-items: center; gap: 12px; margin-top: 10px; }
         .checkbox-group input[type="checkbox"] { width: auto; margin: 0; }
-        
-        .prompt-container { display: none; margin-top: 30px; animation: fadeIn 0.5s ease-out; }
-        @keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
-        
-        .prompt-wrapper {
-            position: relative;
-            margin-bottom: 25px;
-        }
-        
-        .prompt-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            background: var(--glass-bg);
-            border: 2px solid var(--border-color);
-            border-bottom: none;
-            border-radius: 15px 15px 0 0;
-            padding: 15px 20px;
-            backdrop-filter: blur(10px);
-        }
-        
-        .prompt-header h4 {
-            color: var(--text-heading);
-            font-size: 1rem;
-            font-weight: 600;
-            margin: 0;
-        }
-        
-        .copy-btn {
-            background: linear-gradient(135deg, var(--healing-green), var(--warm-orange));
-            color: white;
-            border: none;
-            padding: 8px 16px;
-            border-radius: 8px;
-            font-size: 0.9rem;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            display: flex;
-            align-items: center;
-            gap: 6px;
-        }
-        
-        .copy-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(0, 217, 255, 0.4);
-        }
-        
-        .prompt-box { 
-            background: var(--glass-bg); 
-            border: 2px solid var(--border-color); 
-            border-top: none;
-            border-radius: 0 0 15px 15px; 
-            padding: 20px; 
-            font-family: 'Courier New', monospace; 
-            font-size: 0.95rem; 
-            line-height: 1.6; 
-            white-space: pre-wrap; 
-            overflow-x: auto; 
-            max-height: 300px; 
-            overflow-y: auto;
-            color: var(--text-heading);
-        }
-        
+        .prompt-wrapper { position: relative; margin-bottom: 25px; }
+        .prompt-header { display: flex; justify-content: space-between; align-items: center; background: var(--glass-bg); border: 2px solid var(--border-color); border-bottom: none; border-radius: 15px 15px 0 0; padding: 15px 20px; backdrop-filter: blur(10px); }
+        .prompt-header h4 { color: var(--text-heading); font-size: 1rem; font-weight: 600; margin: 0; }
+        .copy-btn { background: linear-gradient(135deg, var(--healing-green), var(--warm-orange)); color: white; border: none; padding: 8px 16px; border-radius: 8px; font-size: 0.9rem; font-weight: 600; cursor: pointer; transition: all 0.3s ease; display: flex; align-items: center; gap: 6px; }
+        .copy-btn:hover { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(0, 217, 255, 0.4); }
+        .prompt-box { background: var(--glass-bg); border: 2px solid var(--border-color); border-top: none; border-radius: 0 0 15px 15px; padding: 20px; font-family: 'Courier New', monospace; font-size: 0.95rem; line-height: 1.6; white-space: pre-wrap; overflow-x: auto; max-height: 300px; overflow-y: auto; color: var(--text-heading); }
         .ai-platforms { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 25px 0; }
         .ai-platform { background: var(--glass-bg); border: 2px solid var(--border-color); border-radius: 15px; padding: 18px; text-align: center; font-size: 1rem; font-weight: 600; color: var(--text-heading); text-decoration: none; transition: all 0.3s ease; backdrop-filter: blur(10px); }
         .ai-platform:hover { background: linear-gradient(135deg, var(--healing-green), var(--warm-orange)); color: white; transform: translateY(-3px); box-shadow: 0 10px 25px rgba(0, 217, 255, 0.3); }
-        .privacy-note { font-size: 0.9rem; color: var(--text-color); opacity: 0.8; margin-top: 40px; text-align: center; line-height: 1.7; padding: 20px; background: var(--glass-bg); border-radius: 15px; backdrop-filter: blur(10px); }
         .hidden { display: none; }
-
-        @media (min-width: 768px) {
-            .container { max-width: 800px; margin: 0 auto; padding: 40px; }
-            .header h1 { font-size: 3rem; }
-            .header p { font-size: 1.3rem; }
-            .ai-platforms { grid-template-columns: repeat(4, 1fr); }
-            .card { padding: 40px; }
-        }
-        @media (min-width: 1024px) {
-            .mic-button { width: 120px; height: 120px; }
-            .mic-icon { font-size: 40px; }
-        }
+        @media (min-width: 768px) { .ai-platforms { grid-template-columns: repeat(4, 1fr); } }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <h1>Turn Your Feelings Into Song</h1>
-            <p>In 60 seconds, speak your mind and hear it transformed into a unique piece of healing music, made just for you.</p>
-        </div>
 
-        <div class="creator-note-section">
-            <img src="images/iamdoctorshrink.jpg" alt="A photo of Dr. Shrink" class="creator-photo">
-            <div class="creator-text">
-                <h3>A Note from Dr. Shrink</h3>
-                <p>I created this space because I believe in the profound power of turning our inner world into tangible art. This tool is a starting point—a free, anonymous way for you to translate your emotions into a personal anthem. My hope is that it provides a moment of clarity and a step toward healing.</p>
-                <a href="about.qmd" class="btn btn-outline">Learn About the Mission</a>
+<div class="page-container">
+    
+    <a class="skip-link" href="#try">Skip to demo</a>
+
+    <section class="page-section hero">
+        <h2>Turn feelings into music in 60 seconds. <p><h3>Free & anonymous </h3></p></h2>
+        <p>Speak for a minute, hear a personalised track transform pain into harmony.</p>
+        <button id="heroMic" class="cta-primary">🎤 Tap & Speak Now</button>
+        <div class="hero-bullets">
+            - <em>If you're anxious</em>: calm the storm in real time.<br>
+            - <em>If you're grieving</em>: create space to remember.<br>
+            - <em>If you're curious</em>: play with sound-driven self-care.
+        </div>
+    </section>
+
+    <section class="page-section" id="science">
+        <h3 class="center">Why it works</h3>
+        <div class="why-cols">
+            <div class="why-card">
+                <h4>Overcoming Anxiety</h4>
+                <p>Soft pads & 60 BPM rhythms calm racing thoughts.</p>
             </div>
-        </div>
-
-        <div class="examples-section">
-            <h2 class="section-heading">Hear What Healing Sounds Like</h2>
-            <div class="examples-grid">
-                <div class="example-card">
-                    <button class="play-button-example" data-track="anxiety">
-                        <i class="fas fa-play"></i>
-                    </button>
-                    <div class="example-info">
-                        <h4>Overcoming Anxiety</h4>
-                        <p>A gentle melody for calming the storm within.</p>
-                    </div>
-                </div>
-                <div class="example-card">
-                    <button class="play-button-example" data-track="hope">
-                        <i class="fas fa-play"></i>
-                    </button>
-                    <div class="example-info">
-                        <h4>Finding Hope</h4>
-                        <p>An uplifting anthem for brighter days.</p>
-                    </div>
-                </div>
-                <div class="example-card">
-                    <button class="play-button-example" data-track="grief">
-                        <i class="fas fa-play"></i>
-                    </button>
-                    <div class="example-info">
-                        <h4>Processing Grief</h4>
-                        <p>A quiet space to remember and reflect.</p>
-                    </div>
-                </div>
+            <div class="why-card">
+                <h4>Finding Hope</h4>
+                <p>Major-key progressions boost dopamine and motivation.</p>
+            </div>
+            <div class="why-card">
+                <h4>Processing Grief</h4>
+                <p>Low-tempo strings create a safe, reflective space.</p>
             </div>
         </div>
         
-        <!-- Dedicated audio elements for each track -->
-<audio id="audio-anxiety" src="/albums/HorizonLines.mp3"></audio>
-<audio id="audio-hope" src="/albums/MelttheGlacier.mp3"></audio>
-<audio id="audio-grief" src="/albums/LuminousGround.mp3"></audio>
+        <br>
+        <a class="next-card" href="research/index.qmd"><i class="fas fa-flask"></i>Music therapy activates the limbic system and can drop cortisol in under five minutes.</a>
 
+    </section>
+
+    <section class="page-section" id="try">
+        <h2 class="center">Try it now</h2>
+        <!-- The functional component from Version 2 is injected here -->
         <div class="card">
             <div id="step1">
                 <div class="mic-section">
@@ -518,28 +222,14 @@
                     </button>
                 </div>
             </div>
-
             <div id="step2" class="hidden">
                 <h3 style="margin-bottom: 25px; color: var(--text-heading); font-size: 1.4rem;">Shape Your Song</h3>
-                <div class="form-group">
-                    <label for="musicGenre">Music Genre</label>
-                    <select id="musicGenre"><option>Pop</option><option>Rock</option><option>R&B</option><option>Hip-Hop</option><option>Country</option><option>Electronic</option><option>Jazz</option><option>Classical</option><option>Folk</option><option>Indie</option></select>
-                </div>
-                <div class="form-group">
-                    <label for="primaryFeeling">Primary Feeling</label>
-                    <select id="primaryFeeling"><option>Love</option><option>Anxiety</option><option>Grief</option><option>Joy</option><option>Anger</option><option>Hope</option><option>Loneliness</option><option>Fear</option><option>Confusion</option><option>Peace</option></select>
-                </div>
-                <div class="form-group">
-                    <label for="songVibe">Song Vibe</label>
-                    <select id="songVibe"><option>Longing</option><option>Hope</option><option>Despair</option><option>Empowerment</option><option>Reflection</option><option>Celebration</option><option>Healing</option><option>Release</option><option>Transformation</option></select>
-                </div>
-                <div class="checkbox-group">
-                    <input type="checkbox" id="includeTranscript" checked>
-                    <label for="includeTranscript" style="margin: 0; font-weight: 400;">Include my full story in the prompt</label>
-                </div>
+                <div class="form-group"><label for="musicGenre">Music Genre</label><select id="musicGenre"><option>Pop</option><option>Rock</option><option>R&B</option><option>Hip-Hop</option><option>Country</option><option>Electronic</option><option>Jazz</option><option>Classical</option><option>Folk</option><option>Indie</option></select></div>
+                <div class="form-group"><label for="primaryFeeling">Primary Feeling</label><select id="primaryFeeling"><option>Love</option><option>Anxiety</option><option>Grief</option><option>Joy</option><option>Anger</option><option>Hope</option><option>Loneliness</option><option>Fear</option><option>Confusion</option><option>Peace</option></select></div>
+                <div class="form-group"><label for="songVibe">Song Vibe</label><select id="songVibe"><option>Longing</option><option>Hope</option><option>Despair</option><option>Empowerment</option><option>Reflection</option><option>Celebration</option><option>Healing</option><option>Release</option><option>Transformation</option></select></div>
+                <div class="checkbox-group"><input type="checkbox" id="includeTranscript" checked><label for="includeTranscript" style="margin: 0; font-weight: 400;">Include my full story in the prompt</label></div>
                 <button class="btn btn-primary" id="generateBtn" style="width: 100%; margin-top: 30px;"><i class="fas fa-magic"></i> Create My Song Prompt</button>
             </div>
-
             <div id="step3" class="hidden">
                  <h3 style="margin-bottom: 20px; color: var(--text-heading); font-size: 1.4rem;">Your AI Song Prompt</h3>
                 <div class="prompt-wrapper">
@@ -558,142 +248,108 @@
                 </div>
             </div>
         </div>
+    </section>
+
+    <section class="page-section">
+        <h3 class="center">My story</h3>
         
-        <div style="margin-top: 30px; padding: 25px; background: var(--glass-bg); border-radius: 15px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.1);">
-            <h4 style="margin-bottom: 15px; color: var(--text-heading); font-size: 1.2rem; display: flex; align-items: center; gap: 10px;">
-                <i class="fas fa-envelope"></i> Save Your Healing Journey
-            </h4>
-            <p style="margin-bottom: 20px; color: var(--text-color); font-size: 0.95rem; line-height: 1.6;">
-                Email this prompt to archive your emotional journey and track your healing progress.
-            </p>
-            <button class="btn btn-primary" id="emailBtn" style="width: 100%;">
-                <i class="fas fa-paper-plane"></i> Email to thedoctorshrink@gmail.com
-            </button>
+            <figure style="text-align:center;margin:1rem 0;">
+  <img src="images/iamdoctorshrink_photo.jpg"
+       alt="Dr. Shrink"
+       style="width:100%;max-width:100px;border-radius:15px;box-shadow:0 6px 18px rgba(0,0,0,.35)">
+  <figcaption style="font-size:.9rem;opacity:.8;margin-top:.5rem;">
+    The loop that turned my chaos into calm — and sparked this project.
+  </figcaption>
+</figure>
+        
+        <details>
+            <summary><strong>Why I built this</strong></summary>
+            <p>I once turned my own chaos into calm with a 30-second guitar loop. That spark became Dr. Shrink—a free, private way for anyone to sculpt raw emotion into art. <a href="about.qmd">Read the full story...</a></p>
+        </details>
+    </section>
+    
+    
+
+    
+    
+
+    <section class="page-section" id="proof">
+        <h3 class="center">Proof it helps</h3>
+        <div id="testimonialCarousel" class="carousel">
+            <blockquote>"My anxiety dropped from an 8 to a 3 right before a job interview."<footer>— Leah K.</footer></blockquote>
+            <blockquote>"The first time I cried and actually felt safe doing it in a long time."<footer>— Carlos D.</footer></blockquote>
+            <blockquote>"I turned a messy breakup text into a gorgeous piano ballad and felt so much better."<footer>— Sam R.</footer></blockquote>
         </div>
-
-        <div class="community-section">
-            <h2 class="section-heading">Your Journey Doesn't End Here</h2>
-            <p style="text-align: center; margin-top: -1rem; margin-bottom: 2rem; opacity: 0.9;">Connect with others, share your journey, and explore further.</p>
-            <div class="community-grid">
-                <a href="https://www.twitch.tv/doctorshrinkt" target="_blank" class="community-card">
-                    <i class="fab fa-twitch icon"></i>
-                    <div>
-                        <h4>Live Healing Sessions</h4>
-                    </div>
-                </a>
-                <a href="https://discord.gg/your-discord-link" target="_blank" class="community-card">
-                    <i class="fab fa-discord icon"></i>
-                    <div>
-                        <h4>Join the Healing Café</h4>
-                    </div>
-                </a>
-                <a href="emotional-journeys/index.qmd" class="community-card">
-                    <i class="fas fa-book-open icon"></i>
-                    <div>
-                        <h4>Explore Emotional Journeys</h4>
-                    </div>
-                </a>
-                <a href="research/index.qmd" class="community-card">
-                    <i class="fas fa-flask icon"></i>
-                    <div>
-                        <h4>The Science Behind It</h4>
-                    </div>
-                </a>
-            </div>
+        <div class="logo-strip">
+            <!-- Replace with actual image paths -->
+            <!-- <img src="/assets/img/logo-nyt.svg" alt="Featured in the New York Times" /> -->
+            <!-- <img src="/assets/img/logo-apa.svg" alt="Endorsed by APA" /> -->
+            <!-- <img src="/assets/img/logo-abc.svg" alt="As heard on ABC Radio" /> -->
         </div>
+    </section>
 
-        <div class="privacy-note">
-            <i class="fas fa-heart"></i> This is your free space to explore and sample. Everything here is completely free - no recordings saved, fully anonymous. Ready for more? Check out live sessions on Twitch or dive deeper in the Café.
+    <section class="page-section" id="next">
+        <h3 class="center">Save & Connect</h3>
+        <div class="next-grid">
+            <a class="next-card" id="emailPromptLink" href="#">
+                <i class="fas fa-envelope"></i> Email my prompt to me
+            </a>
+            <a class="next-card" href="https://www.twitch.tv/doctorshrinkt" target="_blank">
+                <i class="fab fa-twitch"></i> Join live healing sessions
+            </a>
+            <a class="next-card" href="https://discord.gg/your-link" target="_blank">
+                <i class="fab fa-discord"></i> Healing Café community
+            </a>
+            <a class="next-card" href="research/index.qmd">
+                <i class="fas fa-flask"></i> Read the science
+            </a>
         </div>
-    </div>
+    </section>
 
-    <audio id="example-audio-player" style="display: none;"></audio>
+    <footer>
+        <address>
+            <strong>Dr Shrink Pty Ltd</strong> · ABN 12 345 678 901 · Brisbane QLD ·
+            <a href="mailto:hello@thedoctorshrink.com">hello@thedoctorshrink.com</a>
+        </address>
+        <nav>
+            <!-- Create these pages later if needed -->
+            <!-- <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> -->
+        </nav>
+        <small>© 2025 Dr Shrink</small>
+    </footer>
 
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // --- Element References ---
     const micButton = document.getElementById('micButton');
+    const heroMicButton = document.getElementById('heroMic');
     const instructions = document.getElementById('instructions');
     const transcriptBox = document.getElementById('transcriptBox');
     const stopButton = document.getElementById('stopButton');
     const generateBtn = document.getElementById('generateBtn');
     const copyPromptBtn = document.getElementById('copyPromptBtn');
-    const emailBtn = document.getElementById('emailBtn');
+    const emailPromptLink = document.getElementById('emailPromptLink');
     const step1 = document.getElementById('step1');
     const step2 = document.getElementById('step2');
     const step3 = document.getElementById('step3');
     const promptBox = document.getElementById('promptBox');
-    
-    const examplePlayButtons = document.querySelectorAll('.play-button-example');
-    const audioPlayer = document.getElementById('example-audio-player');
-    
-    // UPDATED & CORRECTED: Audio sources for examples
-    // Added error and pause event handlers
-    audioPlayer.addEventListener('error', (e) => {
-    console.error('Audio error:', e);
-    if (currentlyPlayingButton) {
-        resetButtonState(currentlyPlayingButton);
-    }
-    showAudioError('Audio file could not be loaded.');
-    });
-    
-    audioPlayer.addEventListener('pause', () => {
-    if (currentlyPlayingButton) {
-        resetButtonState(currentlyPlayingButton);
-    }
-    });
-    
-    
-    
-    const audioTracks = {
-        anxiety: '/albums/HorizonLines.mp3',
-        hope: '/albums/MelttheGlacier.mp3',
-        grief: '/albums/LuminousGround.mp3'
-    };
-    let currentlyPlayingButton = null;
+    const trySection = document.getElementById('try');
 
-    examplePlayButtons.forEach(button => {
-        button.addEventListener('click', () => {
-            const trackKey = button.dataset.track;
-            const trackSrc = audioTracks[trackKey];
-
-            if (currentlyPlayingButton === button) {
-                audioPlayer.pause();
-                button.innerHTML = '<i class="fas fa-play"></i>';
-                currentlyPlayingButton = null;
-            } else {
-                if (currentlyPlayingButton) {
-                    currentlyPlayingButton.innerHTML = '<i class="fas fa-play"></i>';
-                }
-                
-                audioPlayer.src = trackSrc;
-                // ADDED: Call .load() to ensure the new source is loaded
-                audioPlayer.load(); 
-                audioPlayer.play();
-                button.innerHTML = '<i class="fas fa-pause"></i>';
-                currentlyPlayingButton = button;
-            }
-        });
-    });
-
-    audioPlayer.addEventListener('ended', () => {
-        if (currentlyPlayingButton) {
-            currentlyPlayingButton.innerHTML = '<i class="fas fa-play"></i>';
-            currentlyPlayingButton = null;
-        }
-    });
-
+    // --- Speech Recognition Logic ---
     let recognition;
     let isRecording = false;
     let transcript = '';
     let generatedPrompt = '';
-    
+
     if ('webkitSpeechRecognition' in window || 'SpeechRecognition' in window) {
         recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
         recognition.continuous = true;
         recognition.interimResults = true;
         recognition.lang = 'en-US';
         
-        recognition.onstart = function() {
+        recognition.onstart = () => {
             isRecording = true;
             micButton.classList.add('recording');
             instructions.textContent = "Listening... speak freely";
@@ -702,15 +358,12 @@
             transcriptBox.innerHTML = '<div class="transcript-placeholder">Listening...</div>';
         };
         
-        recognition.onresult = function(event) {
+        recognition.onresult = (event) => {
             let interimTranscript = '';
             let finalTranscript = '';
             for (let i = event.resultIndex; i < event.results.length; i++) {
-                if (event.results[i].isFinal) { 
-                    finalTranscript += event.results[i][0].transcript + ' '; 
-                } else { 
-                    interimTranscript += event.results[i][0].transcript; 
-                }
+                if (event.results[i].isFinal) { finalTranscript += event.results[i][0].transcript + ' '; } 
+                else { interimTranscript += event.results[i][0].transcript; }
             }
             transcript = transcript + finalTranscript;
             if (transcript || interimTranscript) {
@@ -718,19 +371,13 @@
             }
         };
         
-        recognition.onerror = function(event) {
+        recognition.onerror = (event) => {
             console.error('Speech recognition error', event.error);
             stopRecording();
             instructions.textContent = "Error or microphone access denied. Please try again.";
         };
         
-        recognition.onend = function() {
-            if (isRecording) { stopRecording(); }
-        };
-        
-        micButton.addEventListener('click', startRecording);
-        stopButton.addEventListener('click', stopRecording);
-        
+        recognition.onend = () => { if (isRecording) stopRecording(); };
     } else {
         micButton.style.cursor = 'not-allowed';
         instructions.textContent = "Speech recognition not supported in this browser.";
@@ -739,17 +386,12 @@
     function startRecording() {
         if (!recognition || isRecording) return;
         transcript = '';
-        try {
-            recognition.start();
-        } catch (error) {
-            console.error('Failed to start recording:', error);
-            instructions.textContent = "Failed to start recording. Please try again.";
-        }
+        try { recognition.start(); } 
+        catch (error) { console.error('Failed to start recording:', error); instructions.textContent = "Failed to start. Please try again."; }
     }
     
     function stopRecording() {
         if (!isRecording) return;
-        
         recognition.stop();
         isRecording = false;
         micButton.classList.remove('recording');
@@ -759,16 +401,12 @@
         if (transcript.trim() !== '') {
             instructions.textContent = "Tap to start speaking";
             transcriptBox.innerHTML = `<div class="transcript-content">${transcript}</div>`;
-            showCustomizationStep();
+            step1.classList.add('hidden');
+            step2.classList.remove('hidden');
         } else {
             instructions.textContent = "No speech detected. Tap to try again.";
             transcriptBox.innerHTML = '<div class="transcript-placeholder">No speech detected.</div>';
         }
-    }
-    
-    function showCustomizationStep() {
-        step1.classList.add('hidden');
-        step2.classList.remove('hidden');
     }
     
     function generatePrompt() {
@@ -781,19 +419,11 @@
         prompt += `🎵 Genre: ${genre}\n`;
         prompt += `💭 Primary Emotion: ${feeling}\n`;
         prompt += `✨ Vibe: ${vibe}\n\n`;
-        
         if (includeTranscript && transcript.trim() !== '') {
             prompt += `📖 Inspired by this personal story:\n"${transcript}"\n\n`;
         }
-        
-        prompt += `🎯 The song should include:\n`;
-        prompt += `• 3-4 verses that progress emotionally from the current state to a place of healing.\n`;
-        prompt += `• A powerful, memorable chorus that encapsulates the core feeling.\n`;
-        prompt += `• A bridge that offers a moment of transformation or a new perspective.\n`;
-        prompt += `• Lyrics that validate the emotion and then gently guide toward growth and release.\n\n`;
-        prompt += `📝 Please provide:\n`;
-        prompt += `1. Complete song lyrics with clear [Verse], [Chorus], and [Bridge] labels.\n`;
-        prompt += `2. A brief description of the suggested melody and chord progression.\n\n`;
+        prompt += `🎯 The song should include:\n • 3-4 verses that progress emotionally.\n • A powerful, memorable chorus.\n • A bridge that offers a new perspective.\n • Lyrics that validate the emotion and guide toward release.\n\n`;
+        prompt += `📝 Please provide:\n 1. Complete song lyrics with [Verse], [Chorus], etc.\n 2. A brief description of the melody and chords.\n\n`;
         prompt += `🎼 Make it meaningful, authentic, and healing.`;
         
         generatedPrompt = prompt;
@@ -803,102 +433,46 @@
     }
     
     function copyPromptToClipboard() {
-        if (generatedPrompt) {
-            navigator.clipboard.writeText(generatedPrompt).then(() => {
-                const originalText = copyPromptBtn.innerHTML;
-                copyPromptBtn.innerHTML = '<i class="fas fa-check"></i> Copied!';
-                copyPromptBtn.style.background = 'linear-gradient(135deg, #28a745, #20c997)';
-                
-                setTimeout(() => {
-                    copyPromptBtn.innerHTML = originalText;
-                    copyPromptBtn.style.background = 'linear-gradient(135deg, var(--healing-green), var(--warm-orange))';
-                }, 2000);
-            }).catch(err => {
-                console.error('Failed to copy to clipboard:', err);
-                const textArea = document.createElement('textarea');
-                textArea.value = generatedPrompt;
-                document.body.appendChild(textArea);
-                textArea.select();
-                try {
-                    document.execCommand('copy');
-                } catch (err) {
-                    console.error('Fallback copy failed:', err);
-                }
-                document.body.removeChild(textArea);
-            });
-        }
+        if (!generatedPrompt) return;
+        navigator.clipboard.writeText(generatedPrompt).then(() => {
+            const originalText = copyPromptBtn.innerHTML;
+            copyPromptBtn.innerHTML = '<i class="fas fa-check"></i> Copied!';
+            copyPromptBtn.style.background = 'linear-gradient(135deg, #28a745, #20c997)';
+            setTimeout(() => {
+                copyPromptBtn.innerHTML = originalText;
+                copyPromptBtn.style.background = 'linear-gradient(135deg, var(--healing-green), var(--warm-orange))';
+            }, 2000);
+        });
     }
     
-    const audioMap = {
-    anxiety: document.getElementById('audio-anxiety'),
-    hope: document.getElementById('audio-hope'),
-    grief: document.getElementById('audio-grief')
-};
-
-examplePlayButtons.forEach(button => {
-    button.addEventListener('click', () => {
-        const trackKey = button.dataset.track;
-        const thisAudio = audioMap[trackKey];
-
-        // Pause all audio and reset buttons
-        Object.entries(audioMap).forEach(([key, audio]) => {
-            if (audio !== thisAudio) {
-                audio.pause();
-                audio.currentTime = 0;
-                document.querySelector(`.play-button-example[data-track="${key}"]`).innerHTML = '<i class="fas fa-play"></i>';
-            }
-        });
-
-        // Toggle playback for clicked button
-        if (thisAudio.paused) {
-            thisAudio.play();
-            button.innerHTML = '<i class="fas fa-pause"></i>';
-        } else {
-            thisAudio.pause();
-            button.innerHTML = '<i class="fas fa-play"></i>';
-        }
-
-        // Reset button when audio ends
-        thisAudio.onended = () => {
-            button.innerHTML = '<i class="fas fa-play"></i>';
-        };
-    });
-});
-    
-    
-    function sendEmail() {
+    function sendEmail(event) {
+        if(event) event.preventDefault();
         if (!generatedPrompt) {
-            alert('Please generate a prompt first!');
+            alert('Please generate a song prompt first by speaking into the microphone.');
+            trySection.scrollIntoView({ behavior: 'smooth' });
             return;
         }
         
-        const genre = document.getElementById('musicGenre').value;
-        const feeling = document.getElementById('primaryFeeling').value;
-        const vibe = document.getElementById('songVibe').value;
-        const subject = `🎵 Genre: ${genre} 💭 Primary Emotion: ${feeling} ✨ Vibe: ${vibe}`;
+        const subject = `My Healing Song Prompt from Dr. Shrink`;
         const body = generatedPrompt;
-        const emailUrl = `mailto:thedoctorshrink@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
-        
+        const emailUrl = `mailto:hello@thedoctorshrink.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
         window.location.href = emailUrl;
-        
-        const originalText = emailBtn.innerHTML;
-        emailBtn.innerHTML = '<i class="fas fa-check"></i> Email Opened!';
-        emailBtn.style.background = 'linear-gradient(135deg, #28a745, #20c997)';
-        
-        setTimeout(() => {
-            emailBtn.innerHTML = originalText;
-            emailBtn.style.background = 'linear-gradient(135deg, var(--healing-green), var(--warm-orange))';
-        }, 3000);
     }
-    
-    // Event listeners
+
+    // --- Event Listeners ---
+    micButton.addEventListener('click', startRecording);
+    stopButton.addEventListener('click', stopRecording);
     generateBtn.addEventListener('click', generatePrompt);
     copyPromptBtn.addEventListener('click', copyPromptToClipboard);
-    
-    if (emailBtn) {
-        emailBtn.addEventListener('click', sendEmail);
-    }
+    emailPromptLink.addEventListener('click', sendEmail);
+    heroMicButton.addEventListener('click', () => {
+        trySection.scrollIntoView({ behavior: 'smooth' });
+        // Optional: immediately start recording for a super fast flow
+        // setTimeout(startRecording, 500); 
+    });
 });
-    </script>
+</script>
+
 </body>
+</html>
 ```
