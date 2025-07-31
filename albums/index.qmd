@@ -103,11 +103,50 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 :::
 <!-- End of Song Card -->
 
+<!-- === THE MAN I Became SONG CARD === -->
+::: {.song-card data-mood="grateful transformative" role="article" aria-labelledby="themanibecame-title"}
+::: {.song-image-container}
+
+<img src="/images/themanibecame.jpg" alt="The Man I Became Cover Art: Silhouette rising from flames with compass motif" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/themanibecame.html" class="play-btn-link" aria-label="Play The Man I Became">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">🔥 Transformative Ballad</span>
+<span class="badge theme-badge">💖 Fatherhood Journey</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="themanibecame-title">
+<a href="/albums/themanibecame.html">The Man I Became</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">1 August 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A raw hymn to love received before it could be understood - honoring those who loved you into becoming. From frozen fear to the podium of gratitude.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/themanibecame.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="The Man I'm Becoming" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
 <!-- === THE MAN I'm BECOMING SONG CARD === -->
 ::: {.song-card data-mood="grateful transformative" role="article" aria-labelledby="themanimbecoming-title"}
 ::: {.song-image-container}
 
-<img src="/images/themanimbecoming.jpg" alt="The Man I Became Cover Art: Silhouette rising from flames with compass motif" class="song-image" loading="lazy">
+<img src="/images/themanimbecoming.jpg" alt="The Man I'm Becoming Cover Art: Silhouette rising from flames with compass motif" class="song-image" loading="lazy">
 <div class="play-overlay">
 <a href="/albums/themanimbecoming.html" class="play-btn-link" aria-label="Play The Man I Became">
 <button class="play-btn">▶️</button>

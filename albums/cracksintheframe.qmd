@@ -234,7 +234,7 @@ The song's structure mirrors the journey from fracture to wholeness:
 
 
 <!-- NEW Custom Hero Section -->
-::: {.journey-hero style="background-image: url('/images/gratitude.png');"}
+::: {.journey-hero style="background-image: url('/images/cracksintheframe.jpg');"}
 ::: {.callout-note appearance="simple" icon=true}
 ## A Note From My Heart to Yours
 
