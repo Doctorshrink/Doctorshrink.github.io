@@ -269,25 +269,22 @@
     </section>
     
     
+```
+   
+   
+::: {.callout-tip icon="false"}
+### **Early Listener Reflections**
 
+> "My anxiety dropped from an 8 to a 3 right before a job interview." - @Leah K.
+
+> "The first time I cried and actually felt safe doing it in a long time." - @Carlos D.
+
+> "I turned a messy breakup text into a gorgeous piano ballad and felt so much better." - @Sam R.
+
+:::    
     
-    
 
-    <section class="page-section" id="proof">
-        <h3 class="center">Proof it helps</h3>
-        <div id="testimonialCarousel" class="carousel">
-            <blockquote>"My anxiety dropped from an 8 to a 3 right before a job interview."<footer>— Leah K.</footer></blockquote>
-            <blockquote>"The first time I cried and actually felt safe doing it in a long time."<footer>— Carlos D.</footer></blockquote>
-            <blockquote>"I turned a messy breakup text into a gorgeous piano ballad and felt so much better."<footer>— Sam R.</footer></blockquote>
-        </div>
-        <div class="logo-strip">
-            <!-- Replace with actual image paths -->
-            <!-- <img src="/assets/img/logo-nyt.svg" alt="Featured in the New York Times" /> -->
-            <!-- <img src="/assets/img/logo-apa.svg" alt="Endorsed by APA" /> -->
-            <!-- <img src="/assets/img/logo-abc.svg" alt="As heard on ABC Radio" /> -->
-        </div>
-    </section>
-
+```{=html}
     <section class="page-section" id="next">
         <h3 class="center">Save & Connect</h3>
         <div class="next-grid">

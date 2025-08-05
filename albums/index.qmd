@@ -96,7 +96,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </div>
 
 <div class="song-actions">
-<a href="/albums/thelightthatstayed.html" class="btn btn-primary">Pre-Save & Preview</a>
+<a href="/albums/thelightthatstayed.html" class="btn btn-primary">Listen & Watch</a>
 <button class="btn btn-outline favorite-btn" data-song="The Light That Stayed" aria-label="Add to favorites">💙</button>
 </div>
 </div>
@@ -135,7 +135,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </div>
 
 <div class="song-actions">
-<a href="/albums/themanibecame.html" class="btn btn-primary">Pre-Save & Preview</a>
+<a href="/albums/themanibecame.html" class="btn btn-primary">Listen & Watch</a>
 <button class="btn btn-outline favorite-btn" data-song="The Man I'm Becoming" aria-label="Add to favorites">💙</button>
 </div>
 </div>
@@ -174,7 +174,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </div>
 
 <div class="song-actions">
-<a href="/albums/themanimbecoming.html" class="btn btn-primary">Pre-Save & Preview</a>
+<a href="/albums/themanimbecoming.html" class="btn btn-primary">Listen & Watch</a>
 <button class="btn btn-outline favorite-btn" data-song="The Man I'm Becoming" aria-label="Add to favorites">💙</button>
 </div>
 </div>
@@ -254,7 +254,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </div>
 
 <div class="song-actions">
-<a href="/albums/fromthisgroundirise.html" class="btn btn-primary">Pre-Save & Preview</a>
+<a href="/albums/fromthisgroundirise.html" class="btn btn-primary">Listen & Watch</a>
 <button class="btn btn-outline favorite-btn" data-song="From This Ground I Rise" aria-label="Add to favorites">💙</button>
 </div>
 </div>
@@ -294,7 +294,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </div>
 
 <div class="song-actions">
-<a href="/albums/onesignalonelove.html" class="btn btn-primary">Pre-Save & Preview</a>
+<a href="/albums/onesignalonelove.html" class="btn btn-primary">Listen & Watch</a>
 <button class="btn btn-outline favorite-btn" data-song="One Signal, One Love" aria-label="Add to favorites">💙</button>
 </div>
 </div>
@@ -332,7 +332,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </div>
 
 <div class="song-actions">
-<a href="/albums/afathersanthem.html" class="btn btn-primary">Pre-Save & Preview</a>
+<a href="/albums/afathersanthem.html" class="btn btn-primary">Listen & Watch</a>
 <button class="btn btn-outline favorite-btn" data-song="A Father's Anthem" aria-label="Add to favorites">🛡️</button>
 </div>
 </div>
@@ -373,7 +373,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </div>
 
 <div class="song-actions">
-<a href="/albums/beautifulfather.html" class="btn btn-primary">Pre-Save & Preview</a>
+<a href="/albums/beautifulfather.html" class="btn btn-primary">Listen & Watch</a>
 <button class="btn btn-outline favorite-btn" data-song="Beautiful Father" aria-label="Add to favorites">💙</button>
 </div>
 </div>
@@ -413,7 +413,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </div>
 
 <div class="song-actions">
-<a href="/albums/cracksintheframe.html" class="btn btn-primary">Pre-Save & Preview</a>
+<a href="/albums/cracksintheframe.html" class="btn btn-primary">Listen & Watch</a>
 <button class="btn btn-outline favorite-btn" data-song="Cracks in the Frame" aria-label="Add to favorites">💙</button>
 </div>
 </div>
@@ -452,7 +452,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </div>
 
 <div class="song-actions">
-<a href="/albums/scrapingbydaybyday.html" class="btn btn-primary">Pre-Save & Preview</a>
+<a href="/albums/scrapingbydaybyday.html" class="btn btn-primary">Listen & Watch</a>
 <button class="btn btn-outline favorite-btn" data-song="Scraping By Day By Day" aria-label="Add to favorites">💙</button>
 </div>
 </div>
@@ -491,7 +491,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </div>
 
 <div class="song-actions">
-<a href="/albums/unpackinghome.html" class="btn btn-primary">Pre-Save & Preview</a>
+<a href="/albums/unpackinghome.html" class="btn btn-primary">Listen & Watch</a>
 <button class="btn btn-outline favorite-btn" data-song="Unpacking Home" aria-label="Add to favorites">💙</button>
 </div>
 </div>
@@ -531,7 +531,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </div>
 
 <div class="song-actions">
-<a href="/albums/hoopoflight.html" class="btn btn-primary">Pre-Save & Preview</a>
+<a href="/albums/hoopoflight.html" class="btn btn-primary">Listen & Watch</a>
 <button class="btn btn-outline favorite-btn" data-song="One is a Wholesome Hoop of Light" aria-label="Add to favorites">💙</button>
 </div>
 </div>

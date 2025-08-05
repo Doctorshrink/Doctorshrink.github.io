@@ -84,7 +84,7 @@ tags$div(
          class = "btn btn-success btn-sm", "Spotify"),
   tags$a(href = "https://music.apple.com/us/artist/doctor-shrink/1828459282", target = "_blank",
          class = "btn btn-danger btn-sm", "Apple Music"),
-  tags$a(href = "https://www.youtube.com/watch?v=_SIULznLERQ", target = "_blank",
+  tags$a(href = "https://www.youtube.com/embed/EZffZpuDw8s?si=d5DHSv9pEuAJvdHz", target = "_blank",
          class = "btn btn-info btn-sm", "YouTube"),
   tags$a(href = "https://doctorshrink.bandcamp.com/track/i-am-doctor-shrink", 
          target = "_blank", class = "btn btn-warning btn-sm", "Bandcamp ($3.25 AUD)")

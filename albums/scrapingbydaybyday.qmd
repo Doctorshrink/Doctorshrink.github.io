@@ -81,9 +81,9 @@ library(htmltools)
 tags$div(
   class = "streaming-buttons",
   style = "display: flex; gap: 10px; flex-wrap: wrap;",
-  tags$a(href = "#", class = "btn btn-success btn-sm", "Pre-Save on Spotify"),
-  tags$a(href = "#", class = "btn btn-danger btn-sm", "Pre-Add Apple Music"),
-  tags$a(href = "#", class = "btn btn-info btn-sm", "YouTube Notification")
+  tags$a(href = "https://open.spotify.com/album/6VPgkp0mx5pUdChRsGnw43?si=gwHTUpMpQ0uc0fnfcwJhaw", class = "btn btn-success btn-sm", "Pre-Save on Spotify"),
+  tags$a(href = "https://music.apple.com/nz/album/soulprint-vol-1/1829528747", class = "btn btn-danger btn-sm", "Pre-Add Apple Music"),
+  tags$a(href = "https://youtu.be/hAM9pVP253A?si=lgDAiZiEwr2Qovsl", class = "btn btn-info btn-sm", "YouTube Notification")
 )
 ```
 :::
