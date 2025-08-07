@@ -539,6 +539,167 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 <!-- End of Song Card -->
 
 
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="grieving determined" role="article" aria-labelledby="thispainisreal-title"}
+::: {.song-image-container}
+
+<img src="/images/thispainisreal.jpg" alt="This Pain is Real Cover Art - Silhouette behind legal documents" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/thispainisreal.html" class="play-btn-link" aria-label="Play This Pain is Real">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">⚖️ Legal Trauma</span>
+<span class="badge therapy-badge">🕊️ Restrained Love</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="thispainisreal-title">
+<a href="/albums/thispainisreal.html">This Pain is Real</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">1 September 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A raw ballad documenting the impossible choices of parental alienation - where love must be restrained to survive, where every natural instinct becomes legal liability.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/thispainisreal.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="This Pain is Real" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+
+
+<!-- End of Song Card -->
+
+<!-- Song Card -->
+::: {.song-card data-mood="gritty hopeful" role="article" aria-labelledby="bottomdollar-title"}
+::: {.song-image-container}
+
+<img src="/images/bottomdollarblues.jpg" alt="Bottom Dollar Blues Cover Art - Broken chain transforming into musical notes" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/bottomdollarblues.html" class="play-btn-link" aria-label="Play Bottom Dollar Blues">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">🔥 Transformational Blues</span>
+<span class="badge therapy-badge">🛡️ Trauma-Informed</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="bottomdollar-title">
+<a href="/albums/bottomdollarblues.html">Bottom Dollar Blues</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">1 September 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A raw blues manifesto of transformation - from trauma's grip to conscious fatherhood. The sound of a man breaking chains he didn't know bound him.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/bottomdollarblues.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="Bottom Dollar Blues" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
+
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="solitude transformative" role="article" aria-labelledby="letitrise-title"}
+::: {.song-image-container}
+
+<img src="/images/letitrise.jpg" alt="Let It Rise Cover Art - Single figure facing sunrise in vast landscape" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/letitrise.html" class="play-btn-link" aria-label="Play Let It Rise">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">🔥 Alchemist's Anthem</span>
+<span class="badge therapy-badge">🌌 Solitude Integration</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="letitrise-title">
+<a href="/albums/letitrise.html">Let It Rise</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">1 September 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A phoenix's vow—from fragmentation to wholeness through sacred solitude. This ballad transforms aloneness from punishment to incubation chamber.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/letitrise.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="Let It Rise" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="forensic gritty" role="article" aria-labelledby="thistooshallpass-title"}
+::: {.song-image-container}
+
+<img src="/images/thistooshallpass.JPG" alt="This Too Shall Pass Cover Art - Father holding child against tidal backdrop" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/thistooshallpass.html" class="play-btn-link" aria-label="Play This Too Shall Pass">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">⚖️ Forensic Love</span>
+<span class="badge therapy-badge">🌊 Tidal Resilience</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="thistooshallpass-title">
+<a href="/albums/thistooshallpass.html">This Too Shall Pass</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">1 September 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A father's forensic lullaby—documenting neglect while building a tidal case for love. Survival meets strategy in this legal-warfare anthem.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/thistooshallpass.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="This Too Shall Pass" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
+
+
 :::
 
 ::: {.no-results .hidden}

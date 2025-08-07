@@ -8,7 +8,6 @@ format:
   html:
     toc: false
     code-fold: false
-css: tds-therapy.css
 ---
 
 ```{r setup, include=FALSE}
