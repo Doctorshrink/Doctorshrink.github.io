@@ -1,0 +1,274 @@
+---
+title: "Sad Eyes & Freedom"
+author: "Doctor Shrink"
+date: "2025-09-01"
+categories: [music, fatherhood, breakup-recovery, ptsd-healing, Brisbane]
+image: images/sad-eyes-hero.jpg
+format:
+  html:
+    toc: false
+    code-fold: false
+css: tds-therapy.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+## **Featured Video** ▶️
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SAD_EYES_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## **Lyrics** ✍️ {.unnumbered}
+
+::: {.h5}
+#### **[Verse 1]**  
+Twelve years in the rearview mirror,  
+Like tires on a gravel road.  
+You're out there chasing sparkles,  
+While I'm here carrying the load.  
+
+Oh, the car's still in your name, darlin',  
+But the keys won't turn for free.  
+You burned the love to ashes,  
+Now the truth's staring back at me.  
+
+#### **[Chorus]**  
+Sad eyes and freedom—  
+That's the price of letting go.  
+My angels are sleeping upstairs,  
+And they'll never feel alone.  
+I could've chased the pain,  
+But I'm done fighting ghosts.  
+Sad eyes and freedom…  
+That's all this love ever owed.  
+
+#### **[Verse 2]**  
+You lit up like a neon sign,  
+At some downtown bar.  
+I checked the logs like a fool,  
+Now I'm cleaning up the scars.  
+
+But the kids still laugh at breakfast,  
+And the sun still cracks the dawn.  
+You're just a name on the lease now,  
+And I'm the rock they lean upon.  
+
+#### **[Bridge]**  
+"Maybe it was over when you stopped trying…  
+Maybe it was over when I started crying.  
+But the clock don't lie, and the bills don't wait,  
+So I'll take the high road, even if it's late."  
+
+#### **[Final Chorus]** 
+Sad eyes and freedom—  
+That's the gift you gave to me.  
+I'll raise 'em right, I'll love 'em tight,  
+While you're lost in that bar scene.  
+The past can keep its shadows,  
+But the future's mine to hold.  
+Sad eyes and freedom…  
+Yeah, my heart's still made of gold.
+:::
+
+## **Therapeutic Significance** 🌱 {.unnumbered}
+
+::: {.panel-tabset .nav-pills}
+### Essential Info 🎶
+
+-   **Title:** Sad Eyes & Freedom  
+-   **Artist:** Doctor Shrink  
+-   **Genre:** Gritty Country/Folk Ballad  
+-   **Focus:** Breakup Trauma & Fatherhood Resilience  
+-   **Duration:** 4:18  
+-   **Release:** September 2025  
+-   **Therapeutic Approach:** Post-Relationship Rebuilding  
+
+### Experience Now 💫
+
+```{r}
+library(htmltools)
+tags$div(
+  class = "streaming-buttons",
+  style = "display: flex; gap: 10px; flex-wrap: wrap;",
+  tags$a(href = "https://open.spotify.com/album/6VPgkp0mx5pUdChRsGnw43?si=gwHTUpMpQ0uc0fnfcwJhaw", class = "btn btn-success btn-sm", "Pre-Save on Spotify"),
+  tags$a(href = "https://music.apple.com/nz/album/soulprint-vol-1/1829528747", class = "btn btn-danger btn-sm", "Pre-Add Apple Music"),
+  tags$a(href = "https://youtu.be/hAM9pVP253A?si=lgDAiZiEwr2Qovsl", class = "btn btn-info btn-sm", "YouTube Notification")
+)
+```
+:::
+
+## **The Alchemy of Pain** 🧠 {.unnumbered}
+
+This ballad transforms relational trauma into paternal purpose:
+
+1.  **The Rearview Revelation** (Verse 1):  
+    "Twelve years in the rearview mirror" - processing long-term betrayal  
+    "Carrying the load" - recognizing unbalanced responsibility  
+
+2.  **Sacred Exchange** (Chorus):  
+    "Sad eyes and freedom" - grief as liberation currency  
+    "Angels sleeping upstairs" - paternal purpose as anchor  
+
+3.  **Forensic Healing** (Verse 2):  
+    "Checked the logs like a fool" - obsessive trauma processing  
+    "Sun still cracks the dawn" - nature's healing constancy  
+
+4.  **The High Road Covenant** (Bridge/Outro):  
+    "Clock don't lie" - accepting irreversible change  
+    "Heart's still made of gold" - core self preserved  
+
+::: columns
+### 🌟 **Resilience Framework**
+
+------------------------------------------------------------------------
+
+| **Element**          | **Therapeutic Representation**      | **Healing Mechanism**          |
+|------------------|-----------------------|-------------------------------|
+| Rearview Metaphor | "Twelve years in the rearview" | Trauma temporal distancing |
+| Neon Imagery  | "Lit up like a neon sign" | Addiction/escapism symbolism |
+| Ghost Language   | "Done fighting ghosts" | Acceptance of emotional absence |
+| Rock Motif       | "Rock they lean upon" | Reparenting through stability |
+| Gold Refrain   | "Heart's still made of gold" | Core value preservation |
+:::
+
+## **Clinical Vision** 🩺 {.unnumbered}
+
+::: {.panel-tabset .nav-pills}
+### English Original
+
+**"Sad Eyes & Freedom"** is: ***The sound of a soul choosing wholeness over haunted love***.
+
+This ballad documents the moment when paternal devotion overrides relational devastation—when we stop auditing the past and start architecting the future.
+
+- Verse 1 exposes betrayal blindness - "truth's staring back at me"  
+- Chorus establishes the exchange rate: grief for autonomy  
+- Verse 2 is forensic healing: "cleaning up the scars"  
+- The bridge is the warrior's choice: "take the high road"  
+- The outro is the phoenix vow: "future's mine to hold"  
+
+**THERAPEUTIC NOTES:**  
+- Play during co-dependency recovery work  
+- Chorus functions as mantra during custody transitions  
+- Bridge paired with boundary reinforcement exercises  
+- Final lines: speak during father-child bonding rituals  
+
+**In sacred solitude**,  
+Doctor Shrink
+
+### French Translation
+
+**"Yeux Tristes et Liberté"** est : ***Le son d'une âme choisissant l'intégrité plutôt qu'un amour hanté***.
+
+Cette ballade documente l'instant où la dévotion paternelle surmonte la dévastation relationnelle.
+
+Le premier couplet expose la cécité face à la trahison. Le refrain établit le taux de change : chagrin contre autonomie. Le deuxième couplet montre la guérison médico-légale. Le pont représente le choix du guerrier. L'outro est le serment du phénix.
+
+**NOTES THÉRAPEUTIQUES :**  
+- À écouter pendant le travail sur la codépendance  
+- Le refrain comme mantra pendant les transitions de garde  
+- Le pont associé aux exercices de renforcement des limites  
+- Dernières lignes : à déclamer pendant les rituels père-enfant  
+
+**En solitude sacrée**,  
+Doctor Shrink
+:::
+
+## **Healing Impact** 💬 {.unnumbered}
+
+::: {.callout-tip icon="false"}
+### **Early Listener Reflections**
+
+> "When he sang 'my angels are sleeping upstairs', I finally understood parental love as spiritual armor" - @SoloDadRising
+
+> "The 'checked the logs' line destroyed me - that obsessive pain-tracking we do after betrayal" - @BetrayalRecovery
+
+> "This is the anthem for fathers choosing presence over bitterness" - @FatherhoodFirst
+
+> "J'ai pleuré à 'heart's still made of gold' - la préservation du soi essentiel" - @ParisHealer
+:::
+
+## **Therapeutic Composition** 🎚️ {.unnumbered}
+
+```{r}
+composition <- data.frame(
+  Aspect = c("Emotional Arc", "Therapeutic Techniques", "Neurological Design", "Vocal Therapy"),
+  Detail = c("Verse 1: Betrayal → Chorus: Exchange → Bridge: Choice → Outro: Reclamation", 
+             "Co-dependency mapping, Paternal anchoring, Core value preservation",
+             "Gamma waves in trauma recall → Theta waves in paternal imagery",
+             "Gravel tones in verses → Clear resonance in finale")
+)
+
+knitr::kable(composition, col.names = c("Element", "Method"), format = "html") |> 
+  kableExtra::kable_styling(full_width = FALSE)
+```
+
+## **Musical Architecture** 🎵 {.unnumbered}
+
+The song's structure embodies the journey from devastation to determination:
+
+-   **Emotional Progression:**
+    -   Verses: Acoustic guitar/piano (raw vulnerability)
+    -   Chorus: Pedal steel enters (grieving the dream)
+    -   Bridge: Spoken word over cello (solemn realization)
+    -   Outro: Full band swell (reclaimed power)
+
+-   **Vocal Therapy:**
+    -   Breathy delivery: "twelve years" (shock phase)
+    -   Strengthening tone: "rock they lean upon" (paternal resolve)
+    -   Defiant projection: "future's mine to hold" (reclamation)
+
+-   **Rhythmic Therapy:**
+    -   Dragging tempo: "gravel road" (emotional weight)
+    -   Steadier beat: "sun still cracks the dawn" (natural resilience)
+    -   March-like cadence: "raise 'em right" (purposeful motion)
+
+## **Credits & Rights** 📜 {.unnumbered}
+
+- **Coming:** September 2025  
+- **Lyrics & Music:** Doctor Shrink  
+- **Copyright:** Doctor Shrink  
+- **License:** All rights reserved  
+- **Tags:** 
+
+::: {.therapy-tags}
+<div class="tag-cloud">
+  <a href="#FatherhoodRising" class="therapy-tag">#FatherhoodRising</a>
+  <a href="#BreakupRecovery" class="therapy-tag">#BreakupRecovery</a>
+  <a href="#PaternalResilience" class="therapy-tag">#PaternalResilience</a>
+  <a href="#BetrayalHealing" class="therapy-tag">#BetrayalHealing</a>
+  <a href="#SoloParentStrong" class="therapy-tag">#SoloParentStrong</a>
+  <a href="#HighRoadHealing" class="therapy-tag">#HighRoadHealing</a>
+  <a href="#CoreSelfGold" class="therapy-tag">#CoreSelfGold</a>
+  <a href="#DoctorShrink" class="therapy-tag">#DoctorShrink</a>
+  <a href="#GrittyBallad" class="therapy-tag">#GrittyBallad</a>
+  <a href="#BrisbaneArtist" class="therapy-tag">#BrisbaneArtist</a>
+</div>
+:::
+
+## **About the Artist** 🎤 {.unnumbered}
+
+> "I make music for warriors parenting with phantom limb pain - where love once lived."
+
+Based in Brisbane, Australia, Doctor Shrink transforms relational trauma into paternal devotion anthems.  
+
+Produced by [TheDataShrink](https://thedatashrink.com) record label.
+
+<!-- Hero Section -->
+::: {.journey-hero style="background-image: url('/images/sad-eyes-hero.jpg');"}
+::: {.callout-note appearance="simple" icon=true}
+## A Note From the Solitary Warrior
+
+This song was forged in the crucible of relational collapse - when I had to choose between auditing the wreckage or building a new shelter for my sons. It's my tribute to every parent who transforms betrayal into bedrock.
+
+The "sad eyes and freedom" paradox captures the brutal exchange: we trade the illusion of partnership for the sanctity of selfhood. The tears water new growth.
+
+**Clinical Insight:**  
+This song operationalizes **Relational Trauma Integration** through paternal devotion. The progression from "carrying the load" to "rock they lean upon" demonstrates post-betrayal growth. 
+
+> In complete relational darkness, my children became my constellations. This song is my vow: their childhood won't be collateral damage.
+
+The "high road" bridge embodies **Transformational Boundaries** - protecting your essence without poisoning your heart.
+
+:::
+:::

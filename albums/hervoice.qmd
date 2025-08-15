@@ -1,0 +1,124 @@
+---
+title: "Her Voice"
+author: "Doctor Shrink"
+date: "2025-09-01"
+categories: [music, instrumental, trauma-recovery, soulprint-vol2, fatherhood]
+image: images/hervoice.jpg
+format:
+  html:
+    toc: false
+    code-fold: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+## **Featured Audio** ▶️
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CONCENTRIC_RINGS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## **Song Overview** 🎼 {.unnumbered}
+
+* **Title:** Her Voice
+* **Artist:** Doctor Shrink
+* **Key:** C Minor / E♭ Major
+* **Tempo:** 66 bpm (Slow, intimate, cinematic)
+* **Instrumentation:** Solo Cello, Piano undercurrent, Subtle Strings Pad
+* **Duration:** \~5:30
+* **Release:** 1 September 2025
+* **Genre:** Cinematic Healing Instrumental
+* **Therapeutic Approach:** Post-Traumatic Growth through Musical Arc
+
+---
+
+## **Musical Narrative** 🌊 {.unnumbered}
+
+This track closes **Soulprint Vol. 2**, emerging from the ashes of loss with a more mature, quiet strength.
+It is **voice-less by design** — because sometimes healing speaks loudest without words.
+
+### Composition Arc:
+
+| Bar | Notes            | Expression Stage       | Emotional Resonance  |
+| --- | ---------------- | ---------------------- | -------------------- |
+| 1   | C4 – Eb4 – G4    | Root longing theme     | Acceptance of pain   |
+| 2   | Ab4 – C5 – Eb5   | Rise into memory       | Gentle remembrance   |
+| 3   | Eb4 – G4 – Bb4   | Hope returning briefly | Fleeting warmth      |
+| 4   | Bb3 – D4 – F4    | Dissonant acceptance   | Truth without denial |
+| 5   | G4 – Ab4 – C5    | Reaching clarity       | Determined resolve   |
+| 6   | Eb4 (whole note) | Final gentle release   | Peace in becoming    |
+
+---
+
+## **Therapeutic Significance** 🌱 {.unnumbered}
+
+This song reflects:
+
+1. **Letting Go Without Erasing** — Honoring love as a gift, not a wound.
+2. **Owning the Past** — Acknowledging personal responsibility for blind spots and patterns.
+3. **Breaking Intergenerational Cycles** — Holding space for your children’s future.
+4. **Life as Concentric Rings** — Each year adding to the whole, not a linear start-to-end path.
+
+The absence of lyrics leaves space for listeners to insert their own memories and emotional truths.
+
+---
+
+## **Clinical & Symbolic Notes** 🧠 {.unnumbered}
+
+* **Root Longing** → Establishes emotional baseline, slow breathing tempo for grounding.
+* **Rise into Memory** → Evokes bittersweet imagery, activating gentle theta brainwaves.
+* **Hope Returning** → Brief major lift, stimulating optimism without full resolution.
+* **Dissonant Acceptance** → Engages reality testing; PTSD-conscious processing of truth.
+* **Reaching Clarity** → Builds resilience and forward focus.
+* **Final Gentle Release** → Parasympathetic activation, signaling safety and closure.
+
+---
+
+## **Healing Reflection** 💬 {.unnumbered}
+
+> “This is the first time I could sit in my grief without trying to fix it.” – Early Listener
+
+> “The final note felt like my own quiet exhale after years of holding it in.” – Trauma Recovery Coach
+
+---
+
+## **About the Artist** 🎤 {.unnumbered}
+
+Based in Brisbane, **Doctor Shrink** crafts music as emotional architecture.
+This track marks a pivotal turning point — moving from survival mode into conscious living, both for himself and his two sons.
+
+Produced by [TheDataShrink](https://thedatashrink.com) record label.
+All rights reserved.
+
+---
+
+## **Stream & Support** 💫 {.unnumbered}
+
+```{r}
+library(htmltools)
+tags$div(
+  class = "streaming-buttons",
+  style = "display: flex; gap: 10px; flex-wrap: wrap;",
+  tags$a(href = "https://open.spotify.com/album/6VPgkp0mx5pUdChRsGnw43?si=gwHTUpMpQ0uc0fnfcwJhaw", class = "btn btn-success btn-sm", "Pre-Save on Spotify"),
+  tags$a(href = "https://music.apple.com/nz/album/soulprint-vol-1/1829528747", class = "btn btn-danger btn-sm", "Pre-Add Apple Music"),
+  tags$a(href = "https://youtu.be/hAM9pVP253A?si=lgDAiZiEwr2Qovsl", class = "btn btn-info btn-sm", "YouTube Notification")
+)
+```
+
+---
+
+### 🔖 **Therapy Tags**
+
+<div class="tag-cloud">
+  <a href="#InstrumentalHealing" class="therapy-tag">#InstrumentalHealing</a>
+  <a href="#TraumaToTriumph" class="therapy-tag">#TraumaToTriumph</a>
+  <a href="#FatherhoodRising" class="therapy-tag">#FatherhoodRising</a>
+  <a href="#ConcentricLife" class="therapy-tag">#ConcentricLife</a>
+  <a href="#SacredScars" class="therapy-tag">#SacredScars</a>
+  <a href="#DoctorShrink" class="therapy-tag">#DoctorShrink</a>
+  <a href="#HealingThroughArt" class="therapy-tag">#HealingThroughArt</a>
+</div>
+---
+

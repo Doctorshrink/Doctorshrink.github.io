@@ -55,7 +55,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 :::
 
 <div class="song-content"><div class="song-header"><h3 class="song-title" id="iamdoctorshrink-title">
-<a href="/albums/iamdoctorshrink.html">I am Doctor Shrink</a></h3><div class="song-meta"><span class="artist">Doctor Shrink</span><span class="release-date">July 2025</span></div></div>
+<a href="/albums/iamdoctorshrink.html">I am Doctor Shrink</a></h3><div class="song-meta"><span class="artist">Doctor Shrink</span><span class="release-date">1 July 2025</span></div></div>
 
 <div class="song-description"><p>An anthem of resilience born from personal collapse, giving voice to the unspoken battles within and the journey from trauma back to self.</p></div>
 
@@ -323,7 +323,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
-<span class="release-date">September 2025</span>
+<span class="release-date">1 August 2025</span>
 </div>
 </div>
 
@@ -698,7 +698,205 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 :::
 <!-- End of Song Card -->
 
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="gritty-resolve" role="article" aria-labelledby="sadeyes-title"}
+::: {.song-image-container}
 
+<img src="/images/sadeyesandfreedom.jpg" alt="Sad Eyes Cover - Father's hands holding child's drawing with wedding ring in background" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/sadeyesandfreedom.html" class="play-btn-link" aria-label="Play Sad Eyes & Freedom">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">👨 👦 👦 Paternal Vow</span>
+<span class="badge therapy-badge">💔 Betrayal Alchemy</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="sadeyes-title">
+<a href="/albums/sadeyesandfreedom.html">Sad Eyes & Freedom</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">1 September 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A father's manifesto - transforming relational ashes into paternal bedrock. This ballad honors the brutal exchange: tears for autonomy, grief for presence.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/sadeyesandfreedom.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="Sad Eyes & Freedom" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="sacred-grit" role="article" aria-labelledby="noshame-title"}
+::: {.song-image-container}
+
+<img src="/images/noshameifitslove.jpg" alt="No Shame Cover Art - Phoenix rising from a heart-shaped fire" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/noshameifitslove.html" class="play-btn-link" aria-label="Play No Shame If It's Love">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">🔥 Phoenix Anthem</span>
+<span class="badge therapy-badge">🧬 Nervous System Repair</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="noshame-title">
+<a href="/albums/noshameifitslove.html">No Shame If It's Love</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">1 September 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>The culminating ballad of Soulprint Vol. II—where trauma bonds become sacred vows, and every ending plants the seed of a wiser beginning.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/noshameifitslove.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="No Shame If It's Love" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
+
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="transformative tender" role="article" aria-labelledby="thiswasus-title"}
+::: {.song-image-container}
+
+<img src="/images/thiswasus.jpg" alt="This Was Us Cover Art - Two silhouettes running toward moonlight on shore" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/thiswasus.html" class="play-btn-link" aria-label="Play This Was Us">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">💖 Love's Legacy</span>
+<span class="badge therapy-badge">🌊 Transformational Tide</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="thiswasus-title">
+<a href="/albums/thiswasus.html">This Was Us</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">1 September 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A love letter to transformation—honoring what shaped us while stepping into what awaits. This ballad sits at the shore between gratitude and becoming.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/thiswasus.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="This Was Us" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+
+<!-- End of Song Card -->
+
+
+
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="transcendent powerful" role="article" aria-labelledby="armored-title"}
+::: {.song-image-container}
+
+<img src="/images/armored-light.jpg" alt="Armored in This Love Cover Art - Celestial light forming armor around a figure" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/armored.html" class="play-btn-link" aria-label="Play Armored in This Love">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">🔥 Alchemy Anthem</span>
+<span class="badge therapy-badge">⚔️ Sacred Armor</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="armored-title">
+<a href="/albums/armored.html">Armored in This Love</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">1 September 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A warrior's revelation—human love as divine armor. This celestial ballad transforms stolen moments into eternal truth, forging sacred protection from earthly pain.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/armored.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="Armored in This Love" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
+
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="transformative" role="article" aria-labelledby="waitedlight-title"}
+::: {.song-image-container}
+
+<img src="/images/light-through-storm.jpg" alt="Waited for the Light Cover Art - Light breaking through storm clouds" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/waitedlight.html" class="play-btn-link" aria-label="Play Waited for the Light">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">💡 Light Through Storm</span>
+<span class="badge therapy-badge">🧰 Financial PTSD</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="waitedlight-title">
+<a href="/albums/waitedlight.html">Waited for the Light</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">1 September 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A father's impossible choice—sabotaging love today so his children might know healthier love tomorrow. This ballad transforms financial trauma into generational healing.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/waitedlight.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="Waited for the Light" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
 
 :::
 

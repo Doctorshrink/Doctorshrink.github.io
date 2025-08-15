@@ -1,0 +1,287 @@
+---
+title: "This Was Us"
+author: "Doctor Shrink"
+date: "2025-08-15"
+categories: [music, fatherhood, trauma-recovery, love-transformation, Brisbane]
+image: images/thiswasus_thumbnail.jpg
+format:
+  html:
+    toc: false
+    code-fold: false
+css: tds-therapy.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+## **Featured Video** ▶️
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/THIS_WAS_US_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## **Lyrics** ✍️ {.unnumbered}
+
+::: {.h5}
+**Verse 1**  
+We went running under moonlight,  
+When the world said, "There's no time."  
+You found a way to stay with me,  
+In silence, in rhythm, we aligned.  
+
+I didn't have to ask you,  
+You were already there.  
+Breathing in each moment,  
+Like we were always meant to care.  
+
+**Chorus**  
+This was us, no need for grand design,  
+A thousand tiny things that made the stars align.  
+From the way you laughed to the spark in your voice,  
+Every moment, every choice—  
+This was real, this was love,  
+This was us.  
+
+**Verse 2**  
+We discovered old things new,  
+Like the world was made for two.  
+Lobster nights and galaxy talks,  
+We had our truth in every walk.  
+
+I felt your trust, skin to skin,  
+Where words would only get in the way.  
+We let our bodies speak in poems,  
+In love that needed no display.  
+
+**Bridge**  
+Your voice—it changed…  
+From light to strain…  
+And I'm so sorry I didn't see your pain.  
+But even in the ache, even in the fall,  
+I loved you through it all.  
+
+**Chorus (reprise)**  
+This was us, no curtain or disguise,  
+A fire in your soul, the questions in your eyes.  
+Every whispered thought you let me inside,  
+Every fear you tried to hide—  
+This was deep, this was true,  
+This was us.  
+
+**Outro**  
+At work, a look across the hall,  
+Our secret code, no need to call.  
+You brought me home, I saw your world,  
+Incomplete, yet I was your pearl.  
+
+And I loved you in your music,  
+And I loved you in your rest—  
+This love may not have lasted,  
+But it was still our best.  
+
+This was real.  
+This was love.  
+This was… us.  
+:::
+
+## **Therapeutic Significance** 🌱 {.unnumbered}
+
+::: {.panel-tabset .nav-pills}
+### Essential Info 🎶
+
+-   **Title:** This Was Us  
+-   **Artist:** Doctor Shrink  
+-   **Genre:** Transformational Love Ballad  
+-   **Focus:** Love as Healing Catalyst  
+-   **Duration:** 5:18  
+-   **Release:**1 September 2025  
+-   **Therapeutic Approach:** Post-Relationship Integration  
+
+### Experience Now 💫
+
+```{r}
+library(htmltools)
+tags$div(
+  class = "streaming-buttons",
+  style = "display: flex; gap: 10px; flex-wrap: wrap;",
+  tags$a(href = "https://open.spotify.com/album/6VPgkp0mx5pUdChRsGnw43?si=gwHTUpMpQ0uc0fnfcwJhaw", class = "btn btn-success btn-sm", "Pre-Save on Spotify"),
+  tags$a(href = "https://music.apple.com/nz/album/soulprint-vol-1/1829528747", class = "btn btn-danger btn-sm", "Pre-Add Apple Music"),
+  tags$a(href = "https://youtu.be/hAM9pVP253A?si=lgDAiZiEwr2Qovsl", class = "btn btn-info btn-sm", "YouTube Notification")
+)
+```
+:::
+
+## **The Alchemy of Love** 🧠 {.unnumbered}
+
+This ballad maps the transformation from brokenness to wholeness through love's mirror:
+
+1.  **The Gift of Unasked Love** (Verse 1):  
+    "Didn't have to ask you" - receiving love without conditions  
+    "Meant to care" - first experience of secure attachment  
+
+2.  **Sacred Ordinary** (Chorus):  
+    "Thousand tiny things" - micro-moments of healing  
+    "Stars align" - cosmic belonging  
+
+3.  **Body as Truth-Teller** (Verse 2):  
+    "Skin to skin" - somatic healing  
+    "Poems without display" - authentic relating  
+
+4.  **Clear-Eyed Love** (Bridge/Outro):  
+    "Didn't see your pain" - accountability in grief  
+    "Still our best" - integrated gratitude  
+
+::: columns
+### 🌟 **Healing Framework**
+
+------------------------------------------------------------------------
+
+| **Element**          | **Therapeutic Representation**      | **Healing Mechanism**          |
+|------------------|-----------------------|-------------------------------|
+| Moonlight Imagery | "Running under moonlight" | Shadow work illumination |
+| Secret Code Motif | "Look across the hall" | Private language of safety |
+| Pearl Metaphor | "Incomplete yet your pearl" | Worthiness despite flaws |
+| Voice Change Note | "Your voice—it changed" | Attunement awareness |
+| Fire Symbolism | "Fire in your soul" | Transformational energy |
+:::
+
+## **Clinical Vision** 🩺 {.unnumbered}
+
+::: {.panel-tabset .nav-pills}
+### English Original
+
+**"This Was Us"** is: ***A love letter to healing***.
+
+This ballad crystallizes the moment when love becomes compost for growth—when we honor what was while planting seeds for what will be.
+
+- Verse 1 documents secure attachment - "didn't have to ask"  
+- Chorus sanctifies the mundane - "thousand tiny things"  
+- Verse 2 is somatic truth - "bodies speak in poems"  
+- The bridge is radical accountability - "didn't see your pain"  
+- The outro is integrated release - "still our best"  
+
+**THERAPEUTIC NOTES:**  
+- Play during grief processing  
+- Chorus as mantra for self-worth  
+- Bridge for shadow work integration  
+- Outro for letting go rituals  
+
+**In sacred remembrance**,  
+Doctor Shrink
+
+### French Translation
+
+**"C'Était Nous"** est : ***Une lettre d'amour à la guérison***.
+
+Cette ballade capture le moment où l'amour devient compost pour la croissance—quand nous honorons ce qui était tout en plantant les graines de ce qui sera.
+
+Le premier couplet montre l'attachement secure. Le refrain sanctifie l'ordinaire. Le deuxième couplet révèle la vérité somatique. Le pont représente la responsabilité radicale. L'outro est le lâcher-prise intégré.
+
+**NOTES THÉRAPEUTIQUES :**  
+- À écouter pendant le deuil  
+- Le refrain comme mantra de valeur personnelle  
+- Le pont pour l'intégration de l'ombre  
+- L'outro pour les rituels de libération  
+
+**En souvenir sacré**,  
+Doctor Shrink
+:::
+
+## **Healing Impact** 💬 {.unnumbered}
+
+::: {.callout-tip icon="false"}
+### **Early Listener Reflections**
+
+> "When he sang 'bodies speak in poems', I finally understood love as a language beyond words" - @TraumaToTrust
+
+> "The bridge destroyed me—'didn't see your pain' is the most courageous accountability I've heard in music" - @ConsciousMan
+
+> "This is the anthem for those who loved imperfectly but truly" - @HealingWarrior
+
+> "J'ai pleuré à 'still our best' - enfin une ballade qui honore l'amour même après" - @ParisTherapist
+:::
+
+## **Therapeutic Composition** 🎚️ {.unnumbered}
+
+```{r}
+composition <- data.frame(
+  Aspect = c("Emotional Arc", "Therapeutic Techniques", "Neurological Design", "Vocal Therapy"),
+  Detail = c("Verse 1: Safety → Chorus: Sanctification → Bridge: Accountability → Outro: Integration", 
+             "Attachment repair, Somatic awareness, Shadow work",
+             "Theta waves in memory recall → Gamma waves in gratitude moments",
+             "Soft tones in verses → Stronger resonance in bridge → Whispered release in outro")
+)
+
+knitr::kable(composition, col.names = c("Element", "Method"), format = "html") |> 
+  kableExtra::kable_styling(full_width = FALSE)
+```
+
+## **Musical Architecture** 🎵 {.unnumbered}
+
+The song's structure mirrors the healing journey:
+
+-   **Emotional Progression:**
+    -   Verses: Acoustic guitar (vulnerability)  
+    -   Chorus: Strings enter (expansion)  
+    -   Bridge: Minor key shift (shadow work)  
+    -   Outro: Single piano (integration)  
+
+-   **Vocal Therapy:**
+    -   Warm delivery: "meant to care" (safety)  
+    -   Breaking tone: "didn't see your pain" (grief)  
+    -   Whispered release: "still our best" (acceptance)  
+
+-   **Rhythmic Therapy:**
+    -   Waltz time: "running under moonlight" (flow)  
+    -   Pauses: "your voice—it changed" (attunement)  
+    -   Open space: "this was… us" (completion)  
+
+## **Credits & Rights** 📜 {.unnumbered}
+
+- **Coming:** 1 September 2025  
+- **Lyrics & Music:** Doctor Shrink  
+- **Copyright:** Doctor Shrink  
+- **License:** All rights reserved  
+- **Tags:** 
+
+::: {.therapy-tags}
+<div class="tag-cloud">
+  <a href="#LoveAsHealing" class="therapy-tag">#LoveAsHealing</a>
+  <a href="#AttachmentRepair" class="therapy-tag">#AttachmentRepair</a>
+  <a href="#FatherhoodRising" class="therapy-tag">#FatherhoodRising</a>
+  <a href="#SacredOrdinary" class="therapy-tag">#SacredOrdinary</a>
+  <a href="#ConsciousManhood" class="therapy-tag">#ConsciousManhood</a>
+  <a href="#MoonlightMetaphor" class="therapy-tag">#MoonlightMetaphor</a>
+  <a href="#IntegratedGrief" class="therapy-tag">#IntegratedGrief</a>
+  <a href="#DoctorShrink" class="therapy-tag">#DoctorShrink</a>
+  <a href="#HealingBallad" class="therapy-tag">#HealingBallad</a>
+  <a href="#BrisbaneArtist" class="therapy-tag">#BrisbaneArtist</a>
+</div>
+:::
+
+## **About the Artist** 🎤 {.unnumbered}
+
+> "My music is the archaeology of the soul—uncovering the artifacts of our becoming."
+
+Based in Brisbane, Australia, Doctor Shrink combines expertise in trauma recovery with musical alchemy.  
+
+Produced by [TheDataShrink](https://thedatashrink.com) record label.
+
+<!-- Hero Section -->
+::: {.journey-hero style="background-image: url('/images/thiswasus_thumbnail.jpg');"}
+::: {.callout-note appearance="simple" icon=true}
+## A Note From the Healing Warrior
+
+This song was forged in the crucible of loss and gratitude—standing at the shore between what was and what will be. It's my tribute to love that transforms even when relationships change form.
+
+The "this was us" refrain honors how love's imprint remains as an internal compass. Every moment of true connection becomes part of our healing architecture.
+
+**Clinical Insight:**  
+This song operationalizes **Attachment Theory** through musical narrative. The progression from "didn't have to ask" to "still our best" demonstrates secure base internalization. 
+
+> In my deepest sorrow, I discovered love had planted seeds that continue growing. This song is my promise to tend that garden—for myself, my children, and everyone I meet.
+
+The "pearl" metaphor embodies **Worthiness Work**, showing how love reveals our intrinsic value.
+
+:::
+:::
+
