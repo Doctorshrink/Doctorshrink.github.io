@@ -3,7 +3,7 @@ title: "Armored in This Love (Celestial Ballad)"
 author: "Doctor Shrink"
 date: "2025-09-01"
 categories: [music, transformation, trauma-recovery, divine-love, Brisbane]
-image: images/armored-light.jpg
+image: images/armoredinthislove.jpg
 format:
   html:
     toc: false
@@ -325,7 +325,7 @@ Based in Brisbane, Australia, Doctor Shrink combines trauma expertise with sacre
 Produced by [TheDataShrink](https://thedatashrink.com) record label.
 
 <!-- Hero Section -->
-::: {.journey-hero style="background-image: url('/images/armored-light-hero.jpg');"}
+::: {.journey-hero style="background-image: url('/images/armoredinthislove.jpg');"}
 ::: {.callout-note appearance="simple" icon=true}
 ## A Transmission From The Alchemist
 

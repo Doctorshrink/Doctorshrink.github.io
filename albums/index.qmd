@@ -823,9 +823,9 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 ::: {.song-card data-mood="transcendent powerful" role="article" aria-labelledby="armored-title"}
 ::: {.song-image-container}
 
-<img src="/images/armored-light.jpg" alt="Armored in This Love Cover Art - Celestial light forming armor around a figure" class="song-image" loading="lazy">
+<img src="/images/armoredinthislove.jpg" alt="Armored in This Love Cover Art - Celestial light forming armor around a figure" class="song-image" loading="lazy">
 <div class="play-overlay">
-<a href="/albums/armored.html" class="play-btn-link" aria-label="Play Armored in This Love">
+<a href="/albums/armoredinthislove.html" class="play-btn-link" aria-label="Play Armored in This Love">
 <button class="play-btn">▶️</button>
 </a>
 </div>
@@ -838,7 +838,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 <div class="song-content">
 <div class="song-header">
 <h3 class="song-title" id="armored-title">
-<a href="/albums/armored.html">Armored in This Love</a>
+<a href="/albums/armoredinthislove.html">Armored in This Love</a>
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
@@ -851,7 +851,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </div>
 
 <div class="song-actions">
-<a href="/albums/armored.html" class="btn btn-primary">Pre-Save & Preview</a>
+<a href="/albums/armoredinthislove.html" class="btn btn-primary">Pre-Save & Preview</a>
 <button class="btn btn-outline favorite-btn" data-song="Armored in This Love" aria-label="Add to favorites">💙</button>
 </div>
 </div>
@@ -863,9 +863,9 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 ::: {.song-card data-mood="transformative" role="article" aria-labelledby="waitedlight-title"}
 ::: {.song-image-container}
 
-<img src="/images/light-through-storm.jpg" alt="Waited for the Light Cover Art - Light breaking through storm clouds" class="song-image" loading="lazy">
+<img src="/images/waitedforthelight.jpg" alt="Waited for the Light Cover Art - Light breaking through storm clouds" class="song-image" loading="lazy">
 <div class="play-overlay">
-<a href="/albums/waitedlight.html" class="play-btn-link" aria-label="Play Waited for the Light">
+<a href="/albums/waitedforthelight.html" class="play-btn-link" aria-label="Play Waited for the Light">
 <button class="play-btn">▶️</button>
 </a>
 </div>
@@ -878,7 +878,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 <div class="song-content">
 <div class="song-header">
 <h3 class="song-title" id="waitedlight-title">
-<a href="/albums/waitedlight.html">Waited for the Light</a>
+<a href="/albums/waitedforthelight.html">Waited for the Light</a>
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
@@ -891,7 +891,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </div>
 
 <div class="song-actions">
-<a href="/albums/waitedlight.html" class="btn btn-primary">Pre-Save & Preview</a>
+<a href="/albums/waitedforthelight.html" class="btn btn-primary">Pre-Save & Preview</a>
 <button class="btn btn-outline favorite-btn" data-song="Waited for the Light" aria-label="Add to favorites">💙</button>
 </div>
 </div>

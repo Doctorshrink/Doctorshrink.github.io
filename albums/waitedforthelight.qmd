@@ -3,7 +3,7 @@ title: "Waited for the Light"
 author: "Doctor Shrink"
 date: "2025-09-01"
 categories: [music, fatherhood, trauma-recovery, ptsd-healing, Brisbane]
-image: images/light-through-storm.jpg
+image: images/waitedforthelight.jpg
 format:
   html:
     toc: false
@@ -241,4 +241,3 @@ This song operationalizes **John Bowlby's attachment theory** through the lens o
 
 :::
 :::
-
