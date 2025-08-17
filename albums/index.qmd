@@ -543,7 +543,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 ::: {.song-card data-mood="grieving determined" role="article" aria-labelledby="thispainisreal-title"}
 ::: {.song-image-container}
 
-<img src="/images/thispainisreal.jpg" alt="This Pain is Real Cover Art - Silhouette behind legal documents" class="song-image" loading="lazy">
+<img src="/images/thispainisreal.JPG" alt="This Pain is Real Cover Art - Silhouette behind legal documents" class="song-image" loading="lazy">
 <div class="play-overlay">
 <a href="/albums/thispainisreal.html" class="play-btn-link" aria-label="Play This Pain is Real">
 <button class="play-btn">▶️</button>
@@ -562,7 +562,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
-<span class="release-date">1 September 2025</span>
+<span class="release-date">19 August 2025</span>
 </div>
 </div>
 
@@ -603,7 +603,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
-<span class="release-date">1 September 2025</span>
+<span class="release-date">19 August 2025</span>
 </div>
 </div>
 
@@ -614,46 +614,6 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 <div class="song-actions">
 <a href="/albums/bottomdollarblues.html" class="btn btn-primary">Pre-Save & Preview</a>
 <button class="btn btn-outline favorite-btn" data-song="Bottom Dollar Blues" aria-label="Add to favorites">💙</button>
-</div>
-</div>
-:::
-<!-- End of Song Card -->
-
-
-<!-- === SONG CARD === -->
-::: {.song-card data-mood="solitude transformative" role="article" aria-labelledby="letitrise-title"}
-::: {.song-image-container}
-
-<img src="/images/letitrise.jpg" alt="Let It Rise Cover Art - Single figure facing sunrise in vast landscape" class="song-image" loading="lazy">
-<div class="play-overlay">
-<a href="/albums/letitrise.html" class="play-btn-link" aria-label="Play Let It Rise">
-<button class="play-btn">▶️</button>
-</a>
-</div>
-<div class="song-badges">
-<span class="badge featured-badge">🔥 Alchemist's Anthem</span>
-<span class="badge therapy-badge">🌌 Solitude Integration</span>
-</div>
-:::
-
-<div class="song-content">
-<div class="song-header">
-<h3 class="song-title" id="letitrise-title">
-<a href="/albums/letitrise.html">Let It Rise</a>
-</h3>
-<div class="song-meta">
-<span class="artist">Doctor Shrink</span>
-<span class="release-date">1 September 2025</span>
-</div>
-</div>
-
-<div class="song-description">
-<p>A phoenix's vow—from fragmentation to wholeness through sacred solitude. This ballad transforms aloneness from punishment to incubation chamber.</p>
-</div>
-
-<div class="song-actions">
-<a href="/albums/letitrise.html" class="btn btn-primary">Pre-Save & Preview</a>
-<button class="btn btn-outline favorite-btn" data-song="Let It Rise" aria-label="Add to favorites">💙</button>
 </div>
 </div>
 :::
@@ -682,7 +642,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
-<span class="release-date">1 September 2025</span>
+<span class="release-date">19 August 2025</span>
 </div>
 </div>
 
@@ -697,6 +657,47 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </div>
 :::
 <!-- End of Song Card -->
+
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="solitude transformative" role="article" aria-labelledby="letitrise-title"}
+::: {.song-image-container}
+
+<img src="/images/letitrise.jpg" alt="Let It Rise Cover Art - Single figure facing sunrise in vast landscape" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/letitrise.html" class="play-btn-link" aria-label="Play Let It Rise">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">🔥 Alchemist's Anthem</span>
+<span class="badge therapy-badge">🌌 Solitude Integration</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="letitrise-title">
+<a href="/albums/letitrise.html">Let It Rise</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">19 August 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>A phoenix's vow—from fragmentation to wholeness through sacred solitude. This ballad transforms aloneness from punishment to incubation chamber.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/letitrise.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="Let It Rise" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
+
 
 <!-- === SONG CARD === -->
 ::: {.song-card data-mood="gritty-resolve" role="article" aria-labelledby="sadeyes-title"}
@@ -721,7 +722,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
-<span class="release-date">1 September 2025</span>
+<span class="release-date">19 August 2025</span>
 </div>
 </div>
 
@@ -760,7 +761,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
-<span class="release-date">1 September 2025</span>
+<span class="release-date">19 August 2025</span>
 </div>
 </div>
 
@@ -800,7 +801,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
-<span class="release-date">1 September 2025</span>
+<span class="release-date">19 August 2025</span>
 </div>
 </div>
 
@@ -842,7 +843,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
-<span class="release-date">1 September 2025</span>
+<span class="release-date">19 August 2025</span>
 </div>
 </div>
 
@@ -882,7 +883,7 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 </h3>
 <div class="song-meta">
 <span class="artist">Doctor Shrink</span>
-<span class="release-date">1 September 2025</span>
+<span class="release-date">19 August 2025</span>
 </div>
 </div>
 
@@ -892,6 +893,47 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 
 <div class="song-actions">
 <a href="/albums/waitedforthelight.html" class="btn btn-primary">Pre-Save & Preview</a>
+<button class="btn btn-outline favorite-btn" data-song="Waited for the Light" aria-label="Add to favorites">💙</button>
+</div>
+</div>
+:::
+<!-- End of Song Card -->
+
+
+
+<!-- === SONG CARD === -->
+::: {.song-card data-mood="transformative" role="article" aria-labelledby="hervoicer-title"}
+::: {.song-image-container}
+
+<img src="/images/hervoice.jpg" alt="Her Voice - Post-Traumatic Growth through Musical Arc" class="song-image" loading="lazy">
+<div class="play-overlay">
+<a href="/albums/hervoicer.html" class="play-btn-link" aria-label="Play Her Voice">
+<button class="play-btn">▶️</button>
+</a>
+</div>
+<div class="song-badges">
+<span class="badge featured-badge">🎼 Cinematic Healing Instrumental</span>
+<span class="badge therapy-badge">🌱 Therapeutic Significance</span>
+</div>
+:::
+
+<div class="song-content">
+<div class="song-header">
+<h3 class="song-title" id="hervoice-title">
+<a href="/albums/hervoice.html">Her Voice</a>
+</h3>
+<div class="song-meta">
+<span class="artist">Doctor Shrink</span>
+<span class="release-date">19 August 2025</span>
+</div>
+</div>
+
+<div class="song-description">
+<p>The absence of lyrics leaves space for listeners to insert their own memories and emotional truths.</p>
+</div>
+
+<div class="song-actions">
+<a href="/albums/hervoice.html" class="btn btn-primary">Pre-Save & Preview</a>
 <button class="btn btn-outline favorite-btn" data-song="Waited for the Light" aria-label="Add to favorites">💙</button>
 </div>
 </div>
