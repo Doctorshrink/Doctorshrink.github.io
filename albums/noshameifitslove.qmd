@@ -1,7 +1,7 @@
 ---
 title: "No Shame If It's Love"
 author: "Doctor Shrink"
-date: "2025-09-01"
+date: "2025-08-19"
 categories: [music, fatherhood, trauma-recovery, ptsd-healing, Brisbane]
 image: images/noshameifitslove.jpg
 format:
@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 ## **Featured Video** ▶️
 
-<iframe width="560" height="315" src="https://youtu.be/FkZSmK6bwXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f5aRLe9uMSk?si=hKwV6f0yjuUQCyy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## **Lyrics** ✍️ {.unnumbered}
 
@@ -75,7 +75,7 @@ No shame if it's love.
 - **Genre:** Post-Traumatic Phoenix Ballad  
 - **Focus:** PTSD Integration & Sacred Masculinity  
 - **Duration:** 5:18  
-- **Release:** November 2025  
+- **Release:** 19 August 2025   
 - **Therapeutic Approach:** Concentric Growth Model  
 
 ### Experience Now 💫
@@ -218,9 +218,9 @@ The song's structure embodies nervous system regulation:
 
 ## **Credits & Rights** 📜 {.unnumbered}
 
-- **Release:** November 2025  
+- **Release:** 19 August 2025    
 - **Lyrics & Music:** Doctor Shrink  
-- **Copyright:** Soulprint Vol. II  
+- **Copyright:** Soulprint Vol. 2  
 - **License:** All rights reserved  
 - **Tags:** 
 
@@ -237,13 +237,6 @@ The song's structure embodies nervous system regulation:
 </div>
 :::
 
-## **About the Artist** 🎤 {.unnumbered}
-
-> "I sing the wounds that become wisdom—the love that survives its own funeral."
-
-Based in Brisbane, Australia, Doctor Shrink fuses clinical trauma expertise with musical medicine.  
-
-Produced by [TheDataShrink](https://thedatashrink.com) record label.
 
 <!-- Hero Section -->
 ::: {.journey-hero style="background-image: url('/images/noshameifitslove.jpg');"}
@@ -263,4 +256,35 @@ The concentric growth model ("made me who I am") rejects linear healing myths—
 
 :::
 :::
+
+
+## **About the Artist** 🎤 {.unnumbered}
+
+> "My music is emotional archaeology - uncovering the artifacts of our becoming."
+
+Based in Brisbane, Australia, Doctor Shrink combines expertise in data science frameworks with the alchemy of musical healing.  
+
+Produced by [thedatashrink™](https://thedatashrink.com) record label.
+
+```{=html}
+<style>
+.lyrics {
+  font-family: Georgia, serif;
+  font-size: 1.1em;
+  line-height: 1.6;
+  padding: 15px;
+  background-color: #f8f8f8;
+  border-left: 4px solid #2A5C8D;
+  white-space: pre-wrap;
+}
+.artist-signature {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1.5em;
+  color: #2A5C8D;
+  margin-top: 1em;
+}
+</style>
+
+<div class="artist-signature">Doctor Shrink 🎵</div>
+```
 

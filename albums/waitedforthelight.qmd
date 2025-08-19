@@ -1,14 +1,13 @@
 ---
 title: "Waited for the Light"
 author: "Doctor Shrink"
-date: "2025-09-01"
+date: "2025-08-19"
 categories: [music, fatherhood, trauma-recovery, ptsd-healing, Brisbane]
 image: images/waitedforthelight.jpg
 format:
   html:
     toc: false
     code-fold: false
-css: tds-therapy.css
 ---
 
 ```{r setup, include=FALSE}
@@ -17,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 ## **Featured Video** ▶️
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WAITED_FOR_LIGHT_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_1awmyEDHw?si=yjuKrsgaNAvqeLFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## **Lyrics** ✍️ {.unnumbered}
 
@@ -73,7 +72,7 @@ And love is the reason—I'm here today
 -   **Genre:** Trauma-Transformation Ballad  
 -   **Focus:** Self-Sacrifice & Post-Traumatic Growth  
 -   **Duration:** 5:18  
--   **Release:** August 2025  
+-   **Release:** 19 August 2025  
 -   **Therapeutic Approach:** Reparenting Through Loss  
 
 ### Experience Now 💫
@@ -204,7 +203,7 @@ The composition mirrors the emotional journey:
 
 ## **Credits & Rights** 📜 {.unnumbered}
 
-- **Coming:** August 2025  
+- **Release:** 19 August 2025 
 - **Lyrics & Music:** Doctor Shrink  
 - **Copyright:** Doctor Shrink  
 - **License:** All rights reserved  
@@ -241,3 +240,34 @@ This song operationalizes **John Bowlby's attachment theory** through the lens o
 
 :::
 :::
+
+
+## **About the Artist** 🎤 {.unnumbered}
+
+> "My music is emotional archaeology - uncovering the artifacts of our becoming."
+
+Based in Brisbane, Australia, Doctor Shrink combines expertise in data science frameworks with the alchemy of musical healing.  
+
+Produced by [thedatashrink™](https://thedatashrink.com) record label.
+
+```{=html}
+<style>
+.lyrics {
+  font-family: Georgia, serif;
+  font-size: 1.1em;
+  line-height: 1.6;
+  padding: 15px;
+  background-color: #f8f8f8;
+  border-left: 4px solid #2A5C8D;
+  white-space: pre-wrap;
+}
+.artist-signature {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1.5em;
+  color: #2A5C8D;
+  margin-top: 1em;
+}
+</style>
+
+<div class="artist-signature">Doctor Shrink 🎵</div>
+```

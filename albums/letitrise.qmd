@@ -1,7 +1,7 @@
 ---
 title: "Let It Rise"
 author: "Doctor Shrink"
-date: "2025-09-01"
+date: "2025-08-19"
 categories: [music, fatherhood, ptsd-healing, solitude, Brisbane]
 image: images/letitrise.jpg
 format:
@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 ## **Featured Video** ▶️
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LET_IT_RISE_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qzhtRsv6dQw?si=uFSmPEkrCSwZiUC5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## **Lyrics** ✍️ {.unnumbered}
 
@@ -86,7 +86,7 @@ Let the hurt breathe—and let it rise
 -   **Genre:** Solitude Ballad  
 -   **Focus:** Transformative Aloneness  
 -   **Duration:** 5:18  
--   **Release:** September 2025  
+-   **Release:** 19 August 2025
 -   **Therapeutic Approach:** Solitude Integration  
 
 ### Experience Now 💫
@@ -230,7 +230,7 @@ The song's structure mirrors the alchemy of solitude:
 
 ## **Credits & Rights** 📜 {.unnumbered}
 
-- **Coming:** September 2025  
+- **Release:** 19 August 2025
 - **Lyrics & Music:** Doctor Shrink  
 - **Copyright:** Doctor Shrink  
 - **License:** All rights reserved  
@@ -251,13 +251,6 @@ The song's structure mirrors the alchemy of solitude:
 </div>
 :::
 
-## **About the Artist** 🎤 {.unnumbered}
-
-> "My music is the crucible where pain transforms into purpose—where solitude becomes sacred ground for rebirth."
-
-Based in Brisbane, Australia, Doctor Shrink transforms psychological insight into musical medicine.  
-
-Produced by [TheDataShrink](https://thedatashrink.com) record label.
 
 <!-- Hero Section -->
 ::: {.journey-hero style="background-image: url('/images/solitude-hero.jpg');"}
@@ -277,3 +270,34 @@ The "quiet fire" metaphor embodies **Resilient Core Self**, showing how warmth s
 
 :::
 :::
+
+
+## **About the Artist** 🎤 {.unnumbered}
+
+> "My music is emotional archaeology - uncovering the artifacts of our becoming."
+
+Based in Brisbane, Australia, Doctor Shrink combines expertise in data science frameworks with the alchemy of musical healing.  
+
+Produced by [thedatashrink™](https://thedatashrink.com) record label.
+
+```{=html}
+<style>
+.lyrics {
+  font-family: Georgia, serif;
+  font-size: 1.1em;
+  line-height: 1.6;
+  padding: 15px;
+  background-color: #f8f8f8;
+  border-left: 4px solid #2A5C8D;
+  white-space: pre-wrap;
+}
+.artist-signature {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1.5em;
+  color: #2A5C8D;
+  margin-top: 1em;
+}
+</style>
+
+<div class="artist-signature">Doctor Shrink 🎵</div>
+```

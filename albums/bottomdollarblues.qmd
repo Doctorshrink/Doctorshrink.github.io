@@ -1,7 +1,7 @@
 ---
 title: "Bottom Dollar Blues"
 author: "Doctor Shrink"
-date: "2025-09-01"
+date: "2025-08-19"
 categories: [music, healing, fatherhood, trauma-recovery, blues]
 image: images/bottomdollarblue.jpg
 format:
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 ## **Featured Video** ▶️
 
-<iframe width="560" height="315" src="https://youtu.be/995pZ4lnKh4" title="Bottom Dollar Blues - Doctor Shrink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0YSkeWDAALg?si=Vj5F_olI49IjuBbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## **Lyrics** ✍️ {.unnumbered}
 
@@ -175,7 +175,7 @@ The composition mirrors the healing journey:
 
 ## **Credits & Rights** 📜 {.unnumbered}
 
-- **Release:** September 2025  
+- **Release:** 19 August 2025  
 - **Lyrics & Music:** Doctor Shrink  
 - **Copyright:** Doctor Shrink  
 - **License:** All rights reserved  
@@ -213,4 +213,32 @@ For all fathers doing the hard work - your healing matters more than you know.
 :::
 :::
 
+## **About the Artist** 🎤 {.unnumbered}
 
+> "My music is emotional archaeology - uncovering the artifacts of our becoming."
+
+Based in Brisbane, Australia, Doctor Shrink combines expertise in data science frameworks with the alchemy of musical healing.  
+
+Produced by [thedatashrink™](https://thedatashrink.com) record label.
+
+```{=html}
+<style>
+.lyrics {
+  font-family: Georgia, serif;
+  font-size: 1.1em;
+  line-height: 1.6;
+  padding: 15px;
+  background-color: #f8f8f8;
+  border-left: 4px solid #2A5C8D;
+  white-space: pre-wrap;
+}
+.artist-signature {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1.5em;
+  color: #2A5C8D;
+  margin-top: 1em;
+}
+</style>
+
+<div class="artist-signature">Doctor Shrink 🎵</div>
+```

@@ -1,14 +1,13 @@
 ---
 title: "Sad Eyes & Freedom"
 author: "Doctor Shrink"
-date: "2025-09-01"
+date: "2025-08-19"
 categories: [music, fatherhood, breakup-recovery, ptsd-healing, Brisbane]
-image: images/sad-eyes-hero.jpg
+image: images/sadeyesandfreedom.jpg
 format:
   html:
     toc: false
     code-fold: false
-css: tds-therapy.css
 ---
 
 ```{r setup, include=FALSE}
@@ -17,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 ## **Featured Video** ▶️
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SAD_EYES_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ki4FzJoHgrc?si=AXLNmabuhiyMUIow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## **Lyrics** ✍️ {.unnumbered}
 
@@ -81,7 +80,7 @@ Yeah, my heart's still made of gold.
 -   **Genre:** Gritty Country/Folk Ballad  
 -   **Focus:** Breakup Trauma & Fatherhood Resilience  
 -   **Duration:** 4:18  
--   **Release:** September 2025  
+-   **Release:** 19 August 2025   
 -   **Therapeutic Approach:** Post-Relationship Rebuilding  
 
 ### Experience Now 💫
@@ -225,7 +224,7 @@ The song's structure embodies the journey from devastation to determination:
 
 ## **Credits & Rights** 📜 {.unnumbered}
 
-- **Coming:** September 2025  
+- **Release:** 19 August 2025   
 - **Lyrics & Music:** Doctor Shrink  
 - **Copyright:** Doctor Shrink  
 - **License:** All rights reserved  
@@ -246,14 +245,6 @@ The song's structure embodies the journey from devastation to determination:
 </div>
 :::
 
-## **About the Artist** 🎤 {.unnumbered}
-
-> "I make music for warriors parenting with phantom limb pain - where love once lived."
-
-Based in Brisbane, Australia, Doctor Shrink transforms relational trauma into paternal devotion anthems.  
-
-Produced by [TheDataShrink](https://thedatashrink.com) record label.
-
 <!-- Hero Section -->
 ::: {.journey-hero style="background-image: url('/images/sad-eyes-hero.jpg');"}
 ::: {.callout-note appearance="simple" icon=true}
@@ -272,3 +263,33 @@ The "high road" bridge embodies **Transformational Boundaries** - protecting you
 
 :::
 :::
+
+## **About the Artist** 🎤 {.unnumbered}
+
+> "My music is emotional archaeology - uncovering the artifacts of our becoming."
+
+Based in Brisbane, Australia, Doctor Shrink combines expertise in data science frameworks with the alchemy of musical healing.  
+
+Produced by [thedatashrink™](https://thedatashrink.com) record label.
+
+```{=html}
+<style>
+.lyrics {
+  font-family: Georgia, serif;
+  font-size: 1.1em;
+  line-height: 1.6;
+  padding: 15px;
+  background-color: #f8f8f8;
+  border-left: 4px solid #2A5C8D;
+  white-space: pre-wrap;
+}
+.artist-signature {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1.5em;
+  color: #2A5C8D;
+  margin-top: 1em;
+}
+</style>
+
+<div class="artist-signature">Doctor Shrink 🎵</div>
+```

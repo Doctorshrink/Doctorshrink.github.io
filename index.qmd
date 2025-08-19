@@ -305,14 +305,14 @@
 
     <footer>
         <address>
-            <strong>Dr Shrink Pty Ltd</strong> · ABN 12 345 678 901 · Brisbane QLD ·
-            <a href="mailto:hello@thedoctorshrink.com">hello@thedoctorshrink.com</a>
+            <strong>TheDataShrink™</strong> · ABN 52 870 528 853 · Brisbane QLD ·
+            <a href="mailto:thedatashrink@gmail.com">thedatashrink@gmail.com</a>
         </address>
         <nav>
             <!-- Create these pages later if needed -->
             <!-- <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> -->
         </nav>
-        <small>© 2025 Dr Shrink</small>
+        <small>© 2025 Doctor Shrink</small>
     </footer>
 
 </div>

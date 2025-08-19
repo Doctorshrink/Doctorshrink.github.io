@@ -1,7 +1,7 @@
 ---
 title: "Her Voice"
 author: "Doctor Shrink"
-date: "2025-09-01"
+date: "2025-08-19"
 categories: [music, instrumental, trauma-recovery, soulprint-vol2, fatherhood]
 image: images/hervoice.jpg
 format:
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 ## **Featured Audio** ▶️
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CONCENTRIC_RINGS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vt6QnD9gRjs?si=uF9koh4BPV6PCRfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## **Song Overview** 🎼 {.unnumbered}
@@ -28,11 +28,10 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 * **Tempo:** 66 bpm (Slow, intimate, cinematic)
 * **Instrumentation:** Solo Cello, Piano undercurrent, Subtle Strings Pad
 * **Duration:** \~5:30
-* **Release:** 1 September 2025
+* **Release:** 19 August 2025  
 * **Genre:** Cinematic Healing Instrumental
 * **Therapeutic Approach:** Post-Traumatic Growth through Musical Arc
 
----
 
 ## **Musical Narrative** 🌊 {.unnumbered}
 
@@ -50,7 +49,6 @@ It is **voice-less by design** — because sometimes healing speaks loudest with
 | 5   | G4 – Ab4 – C5    | Reaching clarity       | Determined resolve   |
 | 6   | Eb4 (whole note) | Final gentle release   | Peace in becoming    |
 
----
 
 ## **Therapeutic Significance** 🌱 {.unnumbered}
 
@@ -63,7 +61,6 @@ This song reflects:
 
 The absence of lyrics leaves space for listeners to insert their own memories and emotional truths.
 
----
 
 ## **Clinical & Symbolic Notes** 🧠 {.unnumbered}
 
@@ -74,7 +71,6 @@ The absence of lyrics leaves space for listeners to insert their own memories an
 * **Reaching Clarity** → Builds resilience and forward focus.
 * **Final Gentle Release** → Parasympathetic activation, signaling safety and closure.
 
----
 
 ## **Healing Reflection** 💬 {.unnumbered}
 
@@ -82,17 +78,7 @@ The absence of lyrics leaves space for listeners to insert their own memories an
 
 > “The final note felt like my own quiet exhale after years of holding it in.” – Trauma Recovery Coach
 
----
 
-## **About the Artist** 🎤 {.unnumbered}
-
-Based in Brisbane, **Doctor Shrink** crafts music as emotional architecture.
-This track marks a pivotal turning point — moving from survival mode into conscious living, both for himself and his two sons.
-
-Produced by [TheDataShrink](https://thedatashrink.com) record label.
-All rights reserved.
-
----
 
 ## **Stream & Support** 💫 {.unnumbered}
 
@@ -107,7 +93,6 @@ tags$div(
 )
 ```
 
----
 
 ### 🔖 **Therapy Tags**
 
@@ -120,5 +105,34 @@ tags$div(
   <a href="#DoctorShrink" class="therapy-tag">#DoctorShrink</a>
   <a href="#HealingThroughArt" class="therapy-tag">#HealingThroughArt</a>
 </div>
----
 
+
+## **About the Artist** 🎤 {.unnumbered}
+
+> "My music is emotional archaeology - uncovering the artifacts of our becoming."
+
+Based in Brisbane, Australia, Doctor Shrink combines expertise in data science frameworks with the alchemy of musical healing.  
+
+Produced by [thedatashrink™](https://thedatashrink.com) record label.
+
+```{=html}
+<style>
+.lyrics {
+  font-family: Georgia, serif;
+  font-size: 1.1em;
+  line-height: 1.6;
+  padding: 15px;
+  background-color: #f8f8f8;
+  border-left: 4px solid #2A5C8D;
+  white-space: pre-wrap;
+}
+.artist-signature {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1.5em;
+  color: #2A5C8D;
+  margin-top: 1em;
+}
+</style>
+
+<div class="artist-signature">Doctor Shrink 🎵</div>
+```
