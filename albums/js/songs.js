@@ -1,8 +1,8 @@
+<script>
 // js/songs.js
 // Vanilla JS; no external libraries.
 // Builds mood chips dynamically from .song-card[data-mood],
 // applies search + filter, updates stats, and normalizes CTAs to "Listen & Watch".
-<script>
 (() => {
   const q = (sel, el = document) => el.querySelector(sel);
   const qa = (sel, el = document) => Array.from(el.querySelectorAll(sel));
@@ -195,4 +195,5 @@
     }
   });
 })();
+
 </script>
