@@ -4,3 +4,5 @@
 _site/
 _freeze/
 /_freeze/
+
+**/*.quarto_ipynb
