@@ -1,0 +1,86 @@
+---
+title: "Poeții Noștri"
+subtitle: "Marea poezie a lumii — pusă pe muzică și imagine"
+page-layout: full
+anchor-sections: false
+---
+
+::: {.poetii-hero}
+# 📜 Poeții Noștri
+Marea poezie a lumii — românească și universală — recitată spoken-word peste imagine și sunet.<br>
+**6** poeme publicate · interpretare Doctor Shrink
+:::
+
+::: {.poem-grid}
+<a class="poem-card" href="a-e-baconsky-batran-si-singur.html">
+  <span class="poem-theme">singuratate</span>
+  <span class="poem-title">Bătrân și singur</span>
+  <span class="poem-poet">A. E. Baconsky</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="a-e-baconsky-vara-tarzie.html">
+  <span class="poem-theme">caldura</span>
+  <span class="poem-title">Vara târzie</span>
+  <span class="poem-poet">A. E. Baconsky</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adam-mickiewicz-ganduri-de-ziua-plecarii.html">
+  <span class="poem-theme">drum</span>
+  <span class="poem-title">Gânduri de ziua plecării</span>
+  <span class="poem-poet">Adam Mickiewicz</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adam-puslojic-bucurie.html">
+  <span class="poem-theme">fericire</span>
+  <span class="poem-title">Bucurie</span>
+  <span class="poem-poet">Adam Puslojić</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adam-puslojic-mor-pe-drum.html">
+  <span class="poem-theme">drum</span>
+  <span class="poem-title">Mor pe drum</span>
+  <span class="poem-poet">Adam Puslojić</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adam-puslojic-un-edict-nou-fratilor-mei-romani.html">
+  <span class="poem-theme">frate</span>
+  <span class="poem-title">Un edict nou: fraţilor mei români</span>
+  <span class="poem-poet">Adam Puslojić</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+:::
+
+```{=html}
+<style>
+.poetii-hero {
+  text-align:center; padding: clamp(2rem,5vw,4rem) 1rem;
+  background: linear-gradient(135deg,#0f1419 0%,#1e3a8a 30%,#7c3aed 70%,#ec4899 100%);
+  color:#fff; border-radius:0 0 18px 18px; margin-bottom:2rem;
+}
+.poetii-hero h1 { color:#fff; border:none; }
+.poem-grid {
+  display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
+  gap:1.25rem; max-width:1200px; margin:0 auto; padding:0 1rem 3rem;
+}
+.poem-card {
+  display:flex; flex-direction:column; gap:.4rem; padding:1.25rem 1.4rem;
+  background:#242b3d; border:1px solid #3c4043; border-radius:14px;
+  text-decoration:none; transition:all .25s ease;
+}
+.poem-card:hover {
+  transform:translateY(-4px); border-color:#4f9cf9;
+  box-shadow:0 12px 30px rgba(79,156,249,.2);
+}
+.poem-theme {
+  align-self:flex-start; font-size:.72rem; text-transform:uppercase; letter-spacing:.05em;
+  color:#fff; background:rgba(79,156,249,.9); padding:.18rem .6rem; border-radius:12px;
+}
+.poem-title { font-size:1.18rem; font-weight:700; color:#fff; line-height:1.3; }
+.poem-poet { font-size:.95rem; color:#9aa0a6; font-style:italic; }
+.poem-cta {
+  margin-top:.5rem; font-size:.9rem; font-weight:600;
+  background:linear-gradient(45deg,#4f9cf9,#e879f9);
+  -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text;
+}
+</style>
+```

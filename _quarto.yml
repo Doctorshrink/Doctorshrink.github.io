@@ -23,6 +23,8 @@ website:
     right:
     - text: "Albums"
       href: albums/index.qmd
+    - text: "Poeții Noștri"
+      href: poetii-nostri/index.qmd
     - text: "Emotional Journeys"
       href: emotional-journeys/index.qmd
     - text: "Research"

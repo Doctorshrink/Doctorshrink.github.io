@@ -21,6 +21,34 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 :::
 :::
 
+<!-- Poeții Noștri cross-promo banner -->
+::: {.poetii-banner}
+<a href="/poetii-nostri/" aria-label="Explore Poeții Noștri — poetry put to music">
+<div class="pb-icon">📜</div>
+<div class="pb-text">
+<h2>Poeții Noștri</h2>
+<p>Marea poezie a lumii — românească și universală — pusă pe muzică și imagine. Descoperă colecția →</p>
+</div>
+</a>
+:::
+
+```{=html}
+<style>
+.poetii-banner { max-width:1200px; margin:1.5rem auto 0; padding:0 1rem; }
+.poetii-banner a {
+  display:flex; align-items:center; gap:1.25rem; padding:1.4rem 1.6rem;
+  text-decoration:none; border-radius:15px;
+  background:linear-gradient(135deg,#1e3a8a 0%,#7c3aed 55%,#ec4899 100%);
+  border:1px solid rgba(255,255,255,.15); transition:all .25s ease;
+}
+.poetii-banner a:hover { transform:translateY(-3px); box-shadow:0 12px 32px rgba(124,58,237,.35); }
+.poetii-banner .pb-icon { font-size:2.4rem; line-height:1; }
+.poetii-banner h2 { margin:0 0 .25rem; color:#fff; border:none; font-size:1.5rem; }
+.poetii-banner p { margin:0; color:rgba(255,255,255,.92); font-size:1rem; }
+@media (max-width:600px){ .poetii-banner a{ flex-direction:column; text-align:center; } }
+</style>
+```
+
 ::: {.search-stats-bar}
 <!-- STATS (on the left) -->
 <div class="stats-container"><div class="stat-item"><span class="stat-number" id="totalSongs">4</span><span class="stat-label">Songs</span></div>
