@@ -1,0 +1,54 @@
+---
+title: "Bătrân și singur"
+subtitle: "A. E. Baconsky"
+author: "Doctor Shrink"
+date: "2026-06-20"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/34zUJooMGrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Bătrân și singur toamna umblând prin oraș<br>
+<br>
+bătrân și singur femeia copilul câinele<br>
+<br>
+femeia a imbătrânit cu altcineva, câinele<br>
+<br>
+îmbătrânind a murit, copilul singur<br>
+<br>
+nu s-a născut niciodată pe străzi vântul și soarele<br>
+<br>
+bătrâni și singuri flașnetarul bătrân cu un singur<br>
+<br>
+picior prostituata bătrână și singură<br>
+<br>
+cineva într-un cimitir cântă o melodie<br>
+<br>
+bătrână și singură capul se clatină gol<br>
+<br>
+cu o singură amintire bătrână, copacul<br>
+<br>
+se clatină, idiotul din reclamă se clatină,<br>
+<br>
+orașul plin de lume se clatină mulți, mulți<br>
+<br>
+singuri tineri bătrâni toți toate<br>
+<br>
+bătrâni bătrâni și singuri.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** A. E. Baconsky
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
