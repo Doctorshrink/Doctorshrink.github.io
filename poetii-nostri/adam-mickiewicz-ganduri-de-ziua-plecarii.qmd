@@ -1,0 +1,132 @@
+---
+title: "Gânduri de ziua plecării"
+subtitle: "Adam Mickiewicz"
+author: "Doctor Shrink"
+date: "2026-06-20"
+categories: [poezie, spoken-word, drum]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SqrsyiCavTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+M-a şi cuprins regretul! Ce-i oare? Sunt în prag,<br>
+<br>
+Mă-ntorc iar în lăcaşul pustiu şi-atât de drag,<br>
+<br>
+Parc-am uitat ceva; iar ochii-mi rătăciţi<br>
+<br>
+Tot vor să mai salute aceşti pereţi iubiţi<br>
+<br>
+Ce-atâtea dimineţi şi nopţi atât de multe<br>
+<br>
+Suspinele-mi deşarte ştiură să le-asculte.<br>
+<br>
+În geamul ăsta, seara, adeseori am stat<br>
+<br>
+Privind, făr’ să ştiu bine la ce m-oi fi uitat,<br>
+<br>
+Apoi plecam, sătul de-acelaşi peisaj.<br>
+<br>
+Trezind din nou ecouri cu solitarii-mi paşi,<br>
+<br>
+Eu, fără rost, din uşă în uşă trec pe rând,<br>
+<br>
+Ai ornicului paşi metalici numărând<br>
+<br>
+Sau ale unei gâze opriri, când lin îşi poartă<br>
+<br>
+Încetul mers, de parcă stă la iubita-n poartă.<br>
+<br>
+Vin zorii. Cărăuşii nesuferiţi au tras.<br>
+<br>
+Luaţi aste cărţi şi lucruri puţine, ce-au rămas.<br>
+<br>
+Să mergem! Cum sosit-am, ne’ntâmpinat de nime,<br>
+<br>
+La fel plec: nici drum bun să-mi spună, n-are cine.<br>
+<br>
+Ce-i dacă plec, ce-i dacă dispar din ochii mei<br>
+<br>
+Localnicii, ce-n suflet nu m-au simţit cu ei?...<br>
+<br>
+Plecarea-mi nimănuia nu va stârni amar<br>
+<br>
+Şi-o lacrimă în urmă nu vreau să las măcar.<br>
+<br>
+Ca-n pajiştea-nflorită-n culori, pe care zboară<br>
+<br>
+O floare ca şi firul paingului, uşoară,<br>
+<br>
+De pe-o uscată creangă, suflată ca un strai –<br>
+<br>
+Şi care dând de-o roză, o-mbrăţişează-n mai,<br>
+<br>
+Prinzându-se de dânsa-n popas, cu fire moarte,<br>
+<br>
+Iar vântul o desprinde, gonind-o mai departe –<br>
+<br>
+La fel şi eu, un nume şi-o faţă, lor străine,<br>
+<br>
+Purtai prin aste pieţe şi străzi de lume pline,<br>
+<br>
+Unde femei frumoase în roiuri întâlneam.<br>
+<br>
+De ce să mă cunoască? Doar un străin eream!<br>
+<br>
+Fug ţâncii după-un flutur doar cât sclipeşte-n soare,<br>
+<br>
+De-l prind, privesc la dânsul şi-l zvârle iar, să zboare!<br>
+<br>
+Să zbori! Din fericire, aripi ne-au mai rămas...<br>
+<br>
+Să zbori! Nicicând în zboru-mi prea jos n-am să mă las!<br>
+<br>
+Îmi amintesc când, tânăr, din locuri dragi plecam,<br>
+<br>
+De lânga buni prietini şi fata ce-o iubeam;<br>
+<br>
+Atuncea, printre arbori, în urmă am privit:<br>
+<br>
+Strigând şi fluturându-şi batiste i-am zărit;<br>
+<br>
+Am plâns. Duioase lacrimi din ani de patimi, dor!<br>
+<br>
+De ce-aş mai plânge astăzi, bătrân, nepăsător?<br>
+<br>
+Uşor e să mori tânăr. Nimic necunoscând,<br>
+<br>
+Crezi că soţie, frate, amici te poartă-n gând;<br>
+<br>
+Dar când, bătrân, smulgi vieţii făţarnicul veşmânt,<br>
+<br>
+Lumeşti sau nelumeşti minuni nemaisperând,<br>
+<br>
+Ştii bine că vecia te-nchide în mormânt...<br>
+<br>
+Oraş străin, de-aceea plec trist din tine-acum!<br>
+<br>
+Pornim! Nu poate nimeni opri sicriu-n drum,<br>
+<br>
+Nici chiar cu o privire un om nu-l va conduce<br>
+<br>
+Şi-o lacrimă-ntorcându-se-acasă nu-i va curge<br>
+<br>
+Când la poştalionul ce trece pe şosea,<br>
+<br>
+Suna-vor clopoţeii, vestind plecarea mea.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adam Mickiewicz
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

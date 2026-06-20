@@ -1,0 +1,110 @@
+---
+title: "Mor pe drum"
+subtitle: "Adam Puslojić"
+author: "Doctor Shrink"
+date: "2026-06-20"
+categories: [poezie, spoken-word, drum]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sFqKHEcsdfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nataşei mele<br>
+<br>
+Tu mori pe drum, Adame,<br>
+<br>
+dacă mai călătoreşti<br>
+<br>
+aşa, nebunule...aşa, atât de<br>
+<br>
+nebun ca un nebun! Opreşte-te<br>
+<br>
+mă, omule, salvează-te!<br>
+<br>
+Lasă la o parte, odată...<br>
+<br>
+toată literatura românească!<br>
+<br>
+Lasă-te de Eminescu, Blaga, Bacovia.<br>
+<br>
+Uită-l pe Barbu şi Arghezi, uită-i.<br>
+<br>
+Nu vezi cum dispari din cauza lui Bogza<br>
+<br>
+şi tot te micşorezi, acum, de la Naum?<br>
+<br>
+Ce-ai tu cu Urmuz şi Caragiale!<br>
+<br>
+Şi ce dacă este pe lume Oda<br>
+<br>
+în metru antic şi Rugăciunea<br>
+<br>
+unui dac, Poarta sărutului<br>
+<br>
+şi Coloana infinită?<br>
+<br>
+Lasă-te de toţi, lasă-te de tot.<br>
+<br>
+Vină, mă, acasă, omule sălbatic.<br>
+<br>
+Nemernicule, muritorule!<br>
+<br>
+Mălaiul mă-tii, auzi!<br>
+<br>
+Dar, crede-mă, vei muri<br>
+<br>
+aşa, pe drumuri trăind.<br>
+<br>
+Tot la masa cu hârtie<br>
+<br>
+şi de munca de tradus. Viaţa ta<br>
+<br>
+atunci, adevărată, unde-i?<br>
+<br>
+Din ce mâncăm acasă, ce pâine de Cristos<br>
+<br>
+şi unde sunt vinurile noastre de altă dată,<br>
+<br>
+albe şi grele, carnea afumată,<br>
+<br>
+cu cartofi mărunţi pentru copii,<br>
+<br>
+din ce sumă fabuloasă încă<br>
+<br>
+mai trăim şi noi doi, spune-mi<br>
+<br>
+traducătorule răstignit<br>
+<br>
+din răsărit?<br>
+<br>
+Şi eu spun:<br>
+<br>
+Poetul, ca şi<br>
+<br>
+soldatul...asta este, iubito,<br>
+<br>
+aşa ne este, aşa, frate Hristea<br>
+<br>
+al meu!Eu nu mă las, Nichita.<br>
+<br>
+Lăsaţi-mă<br>
+<br>
+să mor!<br>
+<br>
+(În trenul spre Belgrad, 11 mai 1994)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adam Puslojić
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

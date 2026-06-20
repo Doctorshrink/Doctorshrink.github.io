@@ -1,0 +1,66 @@
+---
+title: "Vara târzie"
+subtitle: "A. E. Baconsky"
+author: "Doctor Shrink"
+date: "2026-06-20"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hjDXj9NyCCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vremea iubirilor noastre-a fost vara fugară,<br>
+<br>
+vara târzie-a pus capăt grăbitului zbor.<br>
+<br>
+Parcă văd cum plecai pe nisip - strigau,<br>
+<br>
+strigau și piereau în septembrie mâinile tale.<br>
+<br>
+Nu mai știu ce-a urmat după tine.<br>
+<br>
+Poate un gol, poate păsări sau vânt.<br>
+<br>
+Te-am chemat încă mult timp și nimenea<br>
+<br>
+nu-mi răspundea,<br>
+<br>
+până când, într-o noapte, a răspuns pentru tine zăpada.<br>
+<br>
+Ar fi fost să te uit ori să-mi spun<br>
+<br>
+că-ntâlnirile noastre n-au fost decât visul<br>
+<br>
+grădinii aceleia,<br>
+<br>
+că volutele sânilor tăi nu erau decât umbletul<br>
+<br>
+lunii prin apă,<br>
+<br>
+surprins de un tânăr.<br>
+<br>
+Dar vara de câte ori trece și tremură-n zare,<br>
+<br>
+din nou bănuindu-se toamna cu capul tău roșu,<br>
+<br>
+văd iarăși nisipul acela, văd iarăși cum pleci-<br>
+<br>
+și strigă,<br>
+<br>
+strigă pierind în septembrie mâinile tale.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** A. E. Baconsky
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,58 @@
+---
+title: "Un edict nou: fraţilor mei români"
+subtitle: "Adam Puslojić"
+author: "Doctor Shrink"
+date: "2026-06-20"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F55P-lOTzDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Eu sunt soldatul poeziei româneşti,<br>
+<br>
+Dar tu, Doamne, oare eşti?<br>
+<br>
+Sunt trist, Părinte, ca Nichita cel luminos<br>
+<br>
+şi acum plâng, nu plâng dureros.<br>
+<br>
+Stau aici, privesc spre Blaga -<br>
+<br>
+spaţiul meu mioritic a ajuns la Haga,<br>
+<br>
+unde, acum cu anii, m-ai dat, Bătrâne,<br>
+<br>
+ca pe Iason, cel ce fură Aur-lâne,<br>
+<br>
+neştiind că mor vreodată prin tine,<br>
+<br>
+ca regele meu Marco - la Rovine,<br>
+<br>
+nu ucis de-un frate (de Mircea cel Mare),<br>
+<br>
+ci de crucea de lumină, grea şi tare.<br>
+<br>
+Hai să cântăm Hora sfântă, românească,<br>
+<br>
+noi, doi, Doamne, din gura mea, sârbească.<br>
+<br>
+La Lugoj, cu Blaga,<br>
+<br>
+de 10 mai 1994
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adam Puslojić
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

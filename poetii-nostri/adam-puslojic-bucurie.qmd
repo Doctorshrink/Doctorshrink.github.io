@@ -1,0 +1,58 @@
+---
+title: "Bucurie"
+subtitle: "Adam Puslojić"
+author: "Doctor Shrink"
+date: "2026-06-20"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OJqh-hLk_hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Bucură-te, Doamne, de bucuria noastră,<br>
+<br>
+pentru că linia vieţii pe-aici, iată,<br>
+<br>
+ne trece neîntreruptă şi verde exact<br>
+<br>
+ca un fir de mătase aurie, care uneori<br>
+<br>
+este în stare (oricât de fragilă ar fi)<br>
+<br>
+să ne adune toate oasele şi osemintele<br>
+<br>
+grele şi unite într-un singur loc din<br>
+<br>
+această lume atât de tumultuoasă AZI<br>
+<br>
+IAR bucuria noastră spre Tine acum<br>
+<br>
+atât de fulgerător se întinde-n sus<br>
+<br>
+precum o săgeată care din tinereţe<br>
+<br>
+fusese trimisă spre o aripă de pasăre<br>
+<br>
+ce încă mai cântă şi cântă zborul vieţii<br>
+<br>
+chiar şi atunci când ochii Poetului<br>
+<br>
+de demult pe ceruri o şi uitaseră.<br>
+<br>
+Botoşani, iulie 2005
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adam Puslojić
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
