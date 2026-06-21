@@ -1,0 +1,86 @@
+---
+title: "Cerere de uitare"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-22"
+categories: [poezie, spoken-word, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ductiGNhMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+La toamnă, sub nebunul glas de greieri,<br>
+<br>
+Când şi singurătatea va fi grea,<br>
+<br>
+Să-mi faceţi operaţie pe creier,<br>
+<br>
+Să mă scăpaţi de gândul despre ea.<br>
+<br>
+Să scap de gândul pentru cea iubită,<br>
+<br>
+Când anul vechi va trece spre amurg,<br>
+<br>
+Să-mi faceţi curăţenie-n orbită,<br>
+<br>
+La toamnă vreau un neurochirurg.<br>
+<br>
+Să cred că n-am văzut-o niciodată,<br>
+<br>
+Să uit şi cine-a fost şi cum a fost,<br>
+<br>
+Prin târguri mici şi cu şosea uzată<br>
+<br>
+Să rătăcesc mai prost decât un prost.<br>
+<br>
+Să merg la berării, să joc popice,<br>
+<br>
+Să-mi fie greu şi să nu-mi fie greu,<br>
+<br>
+Şi după ce se duc să le ridice,<br>
+<br>
+Să simt că între ele cad şi eu.<br>
+<br>
+La toamnă, mă apuc să număr frunze,<br>
+<br>
+Să fac recensăminte prin grădini,<br>
+<br>
+Interesat de viciile-ascunse,<br>
+<br>
+La toamnă am să-mi fac şi-un pat de spini.<br>
+<br>
+Problema e sub glas nebun de greieri,<br>
+<br>
+Sub rumeguş de ruginit de chei,<br>
+<br>
+Să-mi faceţi operaţie pe creier<br>
+<br>
+Să pot scăpa de amintirea ei.<br>
+<br>
+Şi dacă nu se poate, nu se poate,<br>
+<br>
+Vă rog, luaţi-mi creierul de tot<br>
+<br>
+Şi puneţi-mi sub tâmplele-ntristate<br>
+<br>
+Sistem inoxidabil de robot.<br>
+<br>
+Adrian Păunescu<br>
+<br>
+(“Deromânizarea României”, 1998)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

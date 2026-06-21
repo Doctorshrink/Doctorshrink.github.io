@@ -1,0 +1,102 @@
+---
+title: "Colind de mamă și tată"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-22"
+categories: [poezie, spoken-word, mama, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dyxStuR9Qmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Mai deschide, mamă, geamul, mai deschide vechea ușă,<br>
+<br>
+Nu te teme, nu străinii au bătut la poarta ta,<br>
+<br>
+Asta e ninsoare, mamă, să nu crezi că e cenușă,<br>
+<br>
+Au trecut colindătorii, cum treceau și altcândva.<br>
+<br>
+Și s-au speriat, sărmanii, și-au fugit la ei acasă,<br>
+<br>
+C-au văzut că nu e nimeni să le dea și lor răspuns,<br>
+<br>
+Că din hornurile noastre fumul a uitat să iasă,<br>
+<br>
+Că și tata, lângă tine, de o vreme a ajuns.<br>
+<br>
+S-au întunecat ferestre și metalele din linguri,<br>
+<br>
+Nici un câine nu mai latră într-o curte fără gard,<br>
+<br>
+Și mai singură e, astăzi, casa oamenilor singuri,<br>
+<br>
+Și-mprejur mai sunt și case unde focurile ard.<br>
+<br>
+Un colind cu vorbe mute, pentru mamă, pentru tată,<br>
+<br>
+Spus pământului din care parte fac și ei acum,<br>
+<br>
+Dar, deschide, mamă, ușa, lasă viscolul să bată,<br>
+<br>
+Dar, aprinde, tată, focul, să vedem pe hornuri fum.<br>
+<br>
+Calul, mort în alte timpuri, parcă bate din copită,<br>
+<br>
+În pătul, porumb din vremuri putrezește-n strat mărunt,<br>
+<br>
+Nu putem să bem nici apă din fântâna neslăită,<br>
+<br>
+Cei ce nu-și aduc aminte, din pământ, de cei ce sunt.<br>
+<br>
+Scaunele sunt umflate aberant, în casa goală,<br>
+<br>
+Cade varul din perete, fără să fi fost atins,<br>
+<br>
+Cineva, la miezul nopții, nevăzut, din pat se scoală,<br>
+<br>
+Către calul, care nu e, duce apă dinadins.<br>
+<br>
+Tu ești, tată? Tu, ești mamă? Cine iese din odaie?<br>
+<br>
+Cine a mișcat nămeții spre fântână și spre grajd?<br>
+<br>
+Nici un fum, pe casa noastră, de prin hornuri nu se-ndoaie,<br>
+<br>
+Poate mai venim vreodată, poate mai venim la Paști.<br>
+<br>
+Au bătut colindătorii, precum bat mereu la poartă<br>
+<br>
+Și, trăgându-și stâlpii putrezi, poarta a căzut și ea,<br>
+<br>
+Mamă, iartă-mă de toate, tată, uită și mă iartă,<br>
+<br>
+Simt că-n cea mai scurtă vreme casa noastră va cădea.<br>
+<br>
+Ca pe un mormânt al vostru, voi veni și voi privi-o,<br>
+<br>
+N-am luat nimic dintr-însa, e al vostru tot ce-ați strâns,<br>
+<br>
+Au venit colindătorii cu colindul de adio,<br>
+<br>
+Cineva, departe-n vifor, parcă izbucnește-n plâns.<br>
+<br>
+19-22 decembrie 1991<br>
+<br>
+(Noaptea marii beții, 1993-1994 / Trilogia căruntă II)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** mama, tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

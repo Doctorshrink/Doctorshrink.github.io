@@ -1,0 +1,102 @@
+---
+title: "Cerșesc suferința"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-22"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CXwT86MyXfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Acum, mă-ntreb ce se va întâmpla,<br>
+<br>
+Cu viața mea, cu scrisul meu, cu toate,<br>
+<br>
+Când mă voi liniști și am s-adorm,<br>
+<br>
+Măcar o noapte, cu seninătate.<br>
+<br>
+Cum voi putea trăi părăginit,<br>
+<br>
+Când înfloresc, în plină tragedie,<br>
+<br>
+Şi vor pleca departe câinii răi<br>
+<br>
+Ce sângele și nervii îmi sfâșie?<br>
+<br>
+Viteza de reacție ce-o am,<br>
+<br>
+Nu va putea, în toate, să-mi rămână,<br>
+<br>
+Dar mă-nspăimânt că voi înnebuni<br>
+<br>
+Şi o să mă distrug, la prima frână.<br>
+<br>
+Regimul meu de viață e, acum,<br>
+<br>
+Fără să vreau, înalta tensiune<br>
+<br>
+Şi libertatea că mai pot trăi<br>
+<br>
+Plăcerea de-a simți și de a spune.<br>
+<br>
+Cândva, așa îl descriam pe Iov,<br>
+<br>
+Înnobilat de cer, prin suferință,<br>
+<br>
+Dar și mai suferind când Dumnezeu<br>
+<br>
+Îi părăsea, și rană, și ființă.<br>
+<br>
+Am tot dorit uitarea, ca pe-un leac,<br>
+<br>
+Dar înțeleg necazul ce m-ar paște<br>
+<br>
+Dac-aș putea să fiu indiferent,<br>
+<br>
+Să nu pot învia în zi de Paște.<br>
+<br>
+Şi-l rog pe Dumnezeu să nu mă dea<br>
+<br>
+Pustiului uscat, de nicăierea,<br>
+<br>
+Să-mi lase privilegiul unei răni,<br>
+<br>
+Să-mi pot păstra iubirea și durerea.<br>
+<br>
+Iubirea mea, pe viaţă, a plecat<br>
+<br>
+În munții ei, în ţara de departe,<br>
+<br>
+Iubirea mea, pe moarte, n-a venit,<br>
+<br>
+Iubesc egal, pe viață și pe moarte.<br>
+<br>
+Şi nici o vindecare nu mai vreau,<br>
+<br>
+Chiar dacă umilința e prea multă,<br>
+<br>
+Indiferența nu e stilul meu,<br>
+<br>
+Uitarea o tratez ca pe-o insultă.<br>
+<br>
+20 ianuarie 2003<br>
+<br>
+(Din doi în doi, 2003)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

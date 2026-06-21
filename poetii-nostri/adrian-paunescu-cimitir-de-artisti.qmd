@@ -1,0 +1,54 @@
+---
+title: "Cimitir de artişti"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-22"
+categories: [poezie, spoken-word, moarte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KLnG_UKd1KA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Numai artiştii au corupt ţărâna,<br>
+<br>
+Din vina lor răsar pe lume flori,<br>
+<br>
+Prin arbori trec pierduţii dirijori,<br>
+<br>
+Şi-şi mişcă-n fiecare creangă mâna.<br>
+<br>
+De-atâţia pictori morţi în cimitire,<br>
+<br>
+Culorile se strâng ca pe la nunţi,<br>
+<br>
+Un sculptor taie nebuneşte munţi,<br>
+<br>
+Planeta e-n pericol de iubire.<br>
+<br>
+Gerosul vânt şi vântul prea fierbinte,<br>
+<br>
+Ce sfărâmă ţări şi prescurtează vieţi,<br>
+<br>
+Pleacă din pieptul marilor poeţi,<br>
+<br>
+Ei după moarte, mai rostind cuvinte.<br>
+<br>
+Artişti nocivi în viaţă şi în arte,<br>
+<br>
+Ei sunt cu-atâta mai nocivi în moarte.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,94 @@
+---
+title: "Ce toamnă mi-e, în plin delir de vară"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-22"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8cxoR69q5cg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Încet-încet, puterile mă lasă<br>
+<br>
+Și focul verii mă transformă-n scrum,<br>
+<br>
+E timpul să mă sting și eu acum<br>
+<br>
+Și să mă-ntorc sub iarba de acasă.<br>
+<br>
+Mi-ngălbenește ceasul de la mână,<br>
+<br>
+Deodată cu declinul frunzei verzi,<br>
+<br>
+Lumina mea, e timpul să mă pierzi,<br>
+<br>
+Și gustul vieții mele să-ți rămână.<br>
+<br>
+Acum părea c-am să le am pe toate<br>
+<br>
+De-atâta vară câtă mă chema<br>
+<br>
+Și, vai, ce scurt răstimp, lumina mea,<br>
+<br>
+Și ce grăbit e vântul care bate!<br>
+<br>
+La desfrunzire rodul mă condamnă<br>
+<br>
+Și cucul a cântat de bun rămas,<br>
+<br>
+Ce artificii prin livezi s-au tras<br>
+<br>
+Și-n plină vară ce miros de toamnă!<br>
+<br>
+Mai ies pe dealuri oile să pască,<br>
+<br>
+Dar nu mai este iarbă de ajuns,<br>
+<br>
+E o-ntrebare fără de raspuns<br>
+<br>
+Gutuia dinspre casa părintească.<br>
+<br>
+Mă strigă parcă iarba de acasă,<br>
+<br>
+Port în sprâncene rădăcina ei,<br>
+<br>
+Lumina mea, că vrei sau că nu vrei,<br>
+<br>
+Încet-încet, puterile mă lasă.<br>
+<br>
+E vară plină, roadele sunt coapte<br>
+<br>
+Și ziua-i lungă să ajung la cer<br>
+<br>
+Și-n plin coșmar obștesc mă simt stinger<br>
+<br>
+Și, vai, ce toamnă mi-e și, vai, ce noapte!<br>
+<br>
+Prin flacăra ce zilnic mă omoară,<br>
+<br>
+Abia schiez pe-o pârtie de scrum<br>
+<br>
+Și, totuși, iarna am s-o gust oricum,<br>
+<br>
+Ce toamnă mi-e, în plin delir de vară!<br>
+<br>
+30 iunie 1997<br>
+<br>
+(Deromânizarea României, 1998)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

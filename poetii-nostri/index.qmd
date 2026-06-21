@@ -8,7 +8,7 @@ anchor-sections: false
 ::: {.poetii-hero}
 # 📜 Poeții Noștri
 Marea poezie a lumii — românească și universală — recitată spoken-word peste imagine și sunet.<br>
-**18** poeme publicate · interpretare Doctor Shrink
+**24** poeme publicate · interpretare Doctor Shrink
 :::
 
 ::: {.poem-grid}
@@ -111,6 +111,42 @@ Marea poezie a lumii — românească și universală — recitată spoken-word 
 <a class="poem-card" href="adrian-paunescu-casa-de-lemn.html">
   <span class="poem-theme">casa</span>
   <span class="poem-title">Casa de lemn</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-ce-toamna-mi-e-in-plin-delir-de-vara.html">
+  <span class="poem-theme">caldura</span>
+  <span class="poem-title">Ce toamnă mi-e, în plin delir de vară</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-cerere-de-uitare.html">
+  <span class="poem-theme">amintire</span>
+  <span class="poem-title">Cerere de uitare</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-cersesc-suferinta.html">
+  <span class="poem-theme">durere</span>
+  <span class="poem-title">Cerșesc suferința</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-cimitir-de-artisti.html">
+  <span class="poem-theme">moarte</span>
+  <span class="poem-title">Cimitir de artişti</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-colind-de-mama-si-tata.html">
+  <span class="poem-theme">mama</span>
+  <span class="poem-title">Colind de mamă și tată</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-colind-pentru-tata-bolnav.html">
+  <span class="poem-theme">tata</span>
+  <span class="poem-title">Colind pentru tată bolnav</span>
   <span class="poem-poet">Adrian Păunescu</span>
   <span class="poem-cta">▶️ Ascultă</span>
 </a>

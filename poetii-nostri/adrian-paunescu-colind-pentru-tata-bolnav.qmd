@@ -1,0 +1,82 @@
+---
+title: "Colind pentru tată bolnav"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-22"
+categories: [poezie, spoken-word, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BK38LrHFLfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Tată amărât, ce-ai pățit de toate,<br>
+<br>
+Îți colind atât, multă sănătate.<br>
+<br>
+Iubitul meu tată, cel aspru în toate,<br>
+<br>
+Tu nu ai avut niciodată dreptate,<br>
+<br>
+Că aspră ți-e mâna ce-a fost să mă bată,<br>
+<br>
+Dar azi ți-o sărut că slăbită ți-e, tată.<br>
+<br>
+Și uită-te, dragule, casa-i senină<br>
+<br>
+Și pomii și fiii sunt toți în grădină,<br>
+<br>
+Apucă de clanță cu mâna trudită,<br>
+<br>
+Să știi că-i minciună, tu nu ai flebită.<br>
+<br>
+Bătrâne al meu, eu ți-aș da milioane -<br>
+<br>
+La câte-ai avut pân&#x27;-acum ghinioane -<br>
+<br>
+Mă rogi să-ți mai spun ce-i cu lumea, cu țara,<br>
+<br>
+Dar vezi că tușești și mai lasă țigara.<br>
+<br>
+De ce te-ai uscat, parcă ești pergamentul<br>
+<br>
+Pe care bunicul și-a scris testamentul,<br>
+<br>
+Și nu mai tresări la poștaș când te cheamă<br>
+<br>
+Că nu sunt vești proaste, să n-ai nici o teamă.<br>
+<br>
+Aș vrea să-ți colind, trecătorule tată,<br>
+<br>
+Măcar să te simți și tu mare o dată.<br>
+<br>
+Părinte al meu, toți ai casei sunt bine<br>
+<br>
+Și vitele-n curte întreabă de tine.<br>
+<br>
+Mai lasă-le-ncolo, tristețe și boală.<br>
+<br>
+Din cerga cea aspră de lână te scoală,<br>
+<br>
+A ta este ziua, venirăm cu toții<br>
+<br>
+Și vor să-și cunoască bunicul nepoții.<br>
+<br>
+februarie 1984<br>
+<br>
+(Poezii cenzurate, 1990)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
