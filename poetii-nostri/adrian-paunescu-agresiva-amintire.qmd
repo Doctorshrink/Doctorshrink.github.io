@@ -1,0 +1,58 @@
+---
+title: "Agresiva amintire"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-21"
+categories: [poezie, spoken-word, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LLBoI8l1VnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Străbat aceleaşi drumuri, dar astăzi fără tine,<br>
+<br>
+Într-un amestec straniu de bine şi ruşine,<br>
+<br>
+Aş vrea să plec departe, ca dorul să se aline,<br>
+<br>
+Dar amintirea este mai tare decât mine.<br>
+<br>
+Şi nu-nţeleg cum poate această libertate,<br>
+<br>
+Să-mi fie confiscată, să-mi fie luate toate,<br>
+<br>
+De stau cu ochii-n lacrimi şi genele lăsate<br>
+<br>
+Şi numai amintirea pe crucea ei mă bate.<br>
+<br>
+Prezentul nu există, venirea lui mă doare,<br>
+<br>
+Nu ştiu nici viitorul, dorit de fiecare,<br>
+<br>
+Eu în halucinante oglinzi retrovizoare<br>
+<br>
+Puterea amintirii o simt, dominatoare.<br>
+<br>
+E viforul în toate, ferestrele-mi îngheaţă,<br>
+<br>
+De-atâta amintire, nu mai există viaţă.<br>
+<br>
+Adrian Păunescu<br>
+<br>
+(&quot;Liber să sufăr&quot;, 2003)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

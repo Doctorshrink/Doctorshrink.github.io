@@ -1,0 +1,98 @@
+---
+title: "Biet nemuritor la zidul mortii"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-21"
+categories: [poezie, spoken-word, moarte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nSCNjXzvtOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Numai viteza mă mai ține viu<br>
+<br>
+și sclav măreț acelorași proporții,<br>
+<br>
+să mă opresc, n-am dreptul nici să știu<br>
+<br>
+că sunt alergător la zidul morții.<br>
+<br>
+N-am timp la zidul morții să m-așez,<br>
+<br>
+și combustibil am, de nicăierea,<br>
+<br>
+probabil unii cred că și trișez,<br>
+<br>
+dacă, de-o viață, îmi refuz căderea.<br>
+<br>
+N-am mai dormit de când eram copil,<br>
+<br>
+cu-aceste roți, cu-această șa sunt una,<br>
+<br>
+iar dacă aș încetini, umil,<br>
+<br>
+m-aș prăbuși din zid, pe totdeauna.<br>
+<br>
+Distanțele pe care mi le-asum,<br>
+<br>
+paradoxal, sunt cele și ramase,<br>
+<br>
+pe zidul lentei morți, de-atâta drum,<br>
+<br>
+vehiculul mi s-a urcat în oase.<br>
+<br>
+A mă mai crede liber, nu încerc,<br>
+<br>
+în toată cursa asta nebunească,<br>
+<br>
+ființei mele, alergând în cerc,<br>
+<br>
+îi este interzis să se oprească.<br>
+<br>
+Și, vai, în toată tragica belea,<br>
+<br>
+Cobor și urc mereu aceeași pantă<br>
+<br>
+și nemurirea e o boală grea,<br>
+<br>
+un fel de plictiseală arogantă.<br>
+<br>
+Destui își pot închipui că eu<br>
+<br>
+ador această-ntrecere vulgară,<br>
+<br>
+că-mi place tot acest absurd turneu<br>
+<br>
+pe zidul morții unui circ la țară.<br>
+<br>
+Dar eu alerg, ca să nu mor, cumva,<br>
+<br>
+și înțeleg cu vrere vinovată<br>
+<br>
+că nu mai am puterea de-a pleca<br>
+<br>
+de-aici, din zidul morții, niciodată.<br>
+<br>
+Nu pot trăi, precum nu pot muri,<br>
+<br>
+nu mă opresc, precum m-alungă sorții,<br>
+<br>
+nu pierd nimic și nu pot birui,<br>
+<br>
+ca biet nemuritor la zidul morții.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

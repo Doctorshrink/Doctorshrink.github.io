@@ -1,0 +1,70 @@
+---
+title: "A venit aseară mama"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-21"
+categories: [poezie, spoken-word, mama]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ewvG5ckDyxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+A venit aseară mama, ca-n romanța populară,<br>
+<br>
+Oare te-a găsit acasă, oare mai știai că-i ea,<br>
+<br>
+N-a venit ca să-ți aducă, a venit ca să îți ceară,<br>
+<br>
+A venit aseară mama cu broboada ei cea grea.<br>
+<br>
+A venit aseară mama și-i atâta de-nstărită,<br>
+<br>
+Încât nici nu poate spune tot ce are-ntr-adevăr,<br>
+<br>
+Are astm, contracte, noră, pensie, nepoți, flebită,<br>
+<br>
+Și argint din cel mai strașnic în sprâncene și în păr.<br>
+<br>
+A venit aseară mama, bună seara, sărutmâna,<br>
+<br>
+A simțit că nu te doare și că te-a și indispus,<br>
+<br>
+Îi citeai în ochi căderea și-i vedeai în trup țărâna,<br>
+<br>
+A venit aseară mama, s-o ajute cel de sus.<br>
+<br>
+A venit aseară mama, n-a mai apucat să-ți spună<br>
+<br>
+Dacă vrei s-o iei la tine, pentru cât va mai trăi,<br>
+<br>
+Că o dau afar-din casă, că la dânșii în comună<br>
+<br>
+Fac curat, dărâmă totul, lasă brazdele pustii.<br>
+<br>
+A venit aseară mama, a plecat în zori la gară,<br>
+<br>
+Cu broboada ca un plânset peste ultimul temei,<br>
+<br>
+Hotărâtă să te uite și în casa ei să moară,<br>
+<br>
+Când or omorî cu fierul, cei ca tine, casa ei.<br>
+<br>
+19/20 august 1988, Boiu Mare<br>
+<br>
+(Poezii cenzurate, 1990)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

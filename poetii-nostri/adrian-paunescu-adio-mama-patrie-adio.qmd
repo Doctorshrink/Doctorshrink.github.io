@@ -1,0 +1,104 @@
+---
+title: "Adio, mamă patrie, adio!"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-21"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4ycMZiscds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Probabil, mâine-aici va fi pustiu<br>
+<br>
+Şi toţi în pribegie vom porni-o.<br>
+<br>
+Drum bun, popor pierdut la un pariu,<br>
+<br>
+Adio, mamă patrie, adio!<br>
+<br>
+În loc să fim o ţară numai fraţi,<br>
+<br>
+Simţim, în noua epocă barbară,<br>
+<br>
+C-am fost în viaţa noastră blestemaţi<br>
+<br>
+S-ajungem chiriaşi la noi în ţară.<br>
+<br>
+Din tot ce facem, nu avem nimic,<br>
+<br>
+Ne macină străine interese,<br>
+<br>
+Făina noastră n-are spor nici pic,<br>
+<br>
+Nici pâinea în cuptor nu ne mai iese.<br>
+<br>
+Trăim acelaşi tragic simţământ<br>
+<br>
+Sub politicieni şi sub contabili,<br>
+<br>
+Că noi, ca neam, avem destinul frânt<br>
+<br>
+Şi suntem de prisos şi nerentabili.<br>
+<br>
+Umili, ne cerem scuze de la toţi,<br>
+<br>
+Că nu ne-au chinuit destul în viaţă,<br>
+<br>
+Şi ne conduc nişte fanarioţi<br>
+<br>
+Ce pe cei mici trădarea îi învaţă.<br>
+<br>
+Poet nebun, ce vorbe mai îndrugi,<br>
+<br>
+Când am ajuns în ţara noastră slugi<br>
+<br>
+Şi suntem cerşetori la noi acasă?<br>
+<br>
+Şi vii, şi morţi, amestecaţi, acum,<br>
+<br>
+Dispuşi să emigreze, se arată,<br>
+<br>
+Mormintele se pregătesc de drum,<br>
+<br>
+În România deromânizată.<br>
+<br>
+Sus-puşii nu mai au nimica sfânt,<br>
+<br>
+Ca pe cravate, jurământu-şi schimbă,<br>
+<br>
+Nu mai avem nici fabrici, nici pământ,<br>
+<br>
+Vorbim şi limba noastră-n altă limbă<br>
+<br>
+Şi-acum, se aude clopotul final.<br>
+<br>
+Vin vremuri de urgie şi de grindini<br>
+<br>
+Şi este seara ultimului bal,<br>
+<br>
+Din zori, vom fi români de pretutindeni.<br>
+<br>
+Probabil, mâine–aici va fi pustiu<br>
+<br>
+Şi toţi în pribegie, vom porni-o,<br>
+<br>
+Drum bun popor pierdut la un pariu,<br>
+<br>
+Adio, mamă patrie, adio!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

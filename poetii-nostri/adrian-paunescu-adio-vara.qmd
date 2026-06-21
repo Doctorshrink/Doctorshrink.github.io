@@ -1,0 +1,58 @@
+---
+title: "Adio, vară"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-21"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l616n7kR11o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Adio, vară, pleacă-n ascunzișuri,<br>
+<br>
+Noi suntem gata de-a cădea-ntr-o carte<br>
+<br>
+Și de-a mai lăcrima către pietrișuri<br>
+<br>
+De dor de tine și de dor de moarte.<br>
+<br>
+Din fructe coapte picură alcoolul,<br>
+<br>
+Nimic nu mai rămâne cum fusese,<br>
+<br>
+Ce cosmic iese dintre ramuri golul<br>
+<br>
+Penultimelor tragice regrese.<br>
+<br>
+Și va veni și ultima rafală,<br>
+<br>
+Dar nu-o vom apuca-o, nu e șansă,<br>
+<br>
+Când în ninsoarea imaterială<br>
+<br>
+Bolnavii lumii vor cădea în transă.<br>
+<br>
+Ci noi atâta am putea decide,<br>
+<br>
+Inconștienți și triști ca prima oară,<br>
+<br>
+Prin fumurile toamnelor putride,<br>
+<br>
+O carte pentru voi: adio, vară!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

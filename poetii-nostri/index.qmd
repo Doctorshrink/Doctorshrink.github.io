@@ -8,7 +8,7 @@ anchor-sections: false
 ::: {.poetii-hero}
 # 📜 Poeții Noștri
 Marea poezie a lumii — românească și universală — recitată spoken-word peste imagine și sunet.<br>
-**6** poeme publicate · interpretare Doctor Shrink
+**12** poeme publicate · interpretare Doctor Shrink
 :::
 
 ::: {.poem-grid}
@@ -46,6 +46,42 @@ Marea poezie a lumii — românească și universală — recitată spoken-word 
   <span class="poem-theme">frate</span>
   <span class="poem-title">Un edict nou: fraţilor mei români</span>
   <span class="poem-poet">Adam Puslojić</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-a-venit-aseara-mama.html">
+  <span class="poem-theme">mama</span>
+  <span class="poem-title">A venit aseară mama</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-aceeasi-floare.html">
+  <span class="poem-theme">flori</span>
+  <span class="poem-title">Aceeași floare</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-adio-mama-patrie-adio.html">
+  <span class="poem-theme">tara</span>
+  <span class="poem-title">Adio, mamă patrie, adio!</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-adio-vara.html">
+  <span class="poem-theme">caldura</span>
+  <span class="poem-title">Adio, vară</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-agresiva-amintire.html">
+  <span class="poem-theme">amintire</span>
+  <span class="poem-title">Agresiva amintire</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-biet-nemuritor-la-zidul-mortii.html">
+  <span class="poem-theme">moarte</span>
+  <span class="poem-title">Biet nemuritor la zidul mortii</span>
+  <span class="poem-poet">Adrian Păunescu</span>
   <span class="poem-cta">▶️ Ascultă</span>
 </a>
 :::

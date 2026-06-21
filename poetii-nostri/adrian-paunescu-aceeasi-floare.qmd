@@ -1,0 +1,58 @@
+---
+title: "Aceeași floare"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-21"
+categories: [poezie, spoken-word, flori]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s2x3vpXVvNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Iubito, pe prispă ți-am pus<br>
+<br>
+O floare din lumea de sus,<br>
+<br>
+O floare din insula Marte,<br>
+<br>
+O floare a căilor moarte.<br>
+<br>
+Ea are petalele lungi,<br>
+<br>
+Suflând ai să poți să le smulgi,<br>
+<br>
+Iubito, eu flori nu prea știu,<br>
+<br>
+Sunt un grădinar damblagiu.<br>
+<br>
+Nu știu - trandafir, liliac<br>
+<br>
+Pe toate ca tine le fac,<br>
+<br>
+Pe toate le-aduc la un fel<br>
+<br>
+Lalea, trandafir, ghiocel.<br>
+<br>
+O floare a vieții vecine<br>
+<br>
+Și care miroase a tine.<br>
+<br>
+Iubito, pe prispă tu ai<br>
+<br>
+O floare din insula Rai.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** flori
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
