@@ -8,7 +8,7 @@ anchor-sections: false
 ::: {.poetii-hero}
 # 📜 Poeții Noștri
 Marea poezie a lumii — românească și universală — recitată spoken-word peste imagine și sunet.<br>
-**24** poeme publicate · interpretare Doctor Shrink
+**30** poeme publicate · interpretare Doctor Shrink
 :::
 
 ::: {.poem-grid}
@@ -150,9 +150,45 @@ Marea poezie a lumii — românească și universală — recitată spoken-word 
   <span class="poem-poet">Adrian Păunescu</span>
   <span class="poem-cta">▶️ Ascultă</span>
 </a>
+<a class="poem-card" href="adrian-paunescu-colindul-celui-fara-de-tara.html">
+  <span class="poem-theme">tara</span>
+  <span class="poem-title">Colindul celui fără de ţară</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-condamnare-la-toamna.html">
+  <span class="poem-theme">toamna</span>
+  <span class="poem-title">Condamnare la toamnă</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-copiii-de-tarani.html">
+  <span class="poem-theme">tara</span>
+  <span class="poem-title">Copiii de țărani</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-copilarie-cu-must.html">
+  <span class="poem-theme">copilarie</span>
+  <span class="poem-title">Copilărie cu must</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
 <a class="poem-card" href="adrian-paunescu-carare-de-morti.html">
   <span class="poem-theme">moarte</span>
   <span class="poem-title">Cărare de morți</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-dacii-liberi.html">
+  <span class="poem-theme">libertate</span>
+  <span class="poem-title">Dacii liberi</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-delta-lunara.html">
+  <span class="poem-theme">luna_stele</span>
+  <span class="poem-title">Delta lunară</span>
   <span class="poem-poet">Adrian Păunescu</span>
   <span class="poem-cta">▶️ Ascultă</span>
 </a>

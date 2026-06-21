@@ -1,0 +1,82 @@
+---
+title: "Copiii de țărani"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-22"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NqgVXD5UGp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Poemul acesta îl scriu într-o noapte,<br>
+<br>
+Puțin după ziua de treizeci de ani,<br>
+<br>
+E-un scrâșnet, un plânset, un geamăt de șoapte,<br>
+<br>
+Căci e pentru voi, fii curați de tărani!<br>
+<br>
+Când țara îndreaptă și legi, și-a sa cale,<br>
+<br>
+Când sus în idee nu-i loc de abuz,<br>
+<br>
+Mai sunt de-mplinit și la capăt de dus,<br>
+<br>
+Dorinți izvorând din nevoi sociale.<br>
+<br>
+Și una e-aceea că încă la țară<br>
+<br>
+Nu-i școală făcută cum e la oraș,<br>
+<br>
+Că fiul țăranului, totuși, nu poate<br>
+<br>
+Intra-n facultăți cu același curaj.<br>
+<br>
+Eu știu câte lucruri în țară sunt gata<br>
+<br>
+Și câte vor fi, dacă suntem cuminți.<br>
+<br>
+Dar una e dacă director e tata,<br>
+<br>
+Și alta e dacă-i țăran de la Vânt...<br>
+<br>
+Eu, iată, priviți, sunt un fel de director,<br>
+<br>
+N-aveți nicio grijă că vă voi minți,<br>
+<br>
+Am și eu copii ce pot fi de bani gata<br>
+<br>
+Cu toate-i îndop pentru că-mi sunt copii.<br>
+<br>
+Dar țara stă-n alții întâi, și pe urmă<br>
+<br>
+În fiii aceștia de directorași,<br>
+<br>
+Nu, satele noastre nu sunt trista turmă<br>
+<br>
+Ce lâna și brânza trimite-n oraș!<br>
+<br>
+Producția lor cea mai sfântă sunt fiii!<br>
+<br>
+Lor li se cuvine răsplata de preț,<br>
+<br>
+Țăranii dau aur, când dau României<br>
+<br>
+Curații lor fii, rod al unicei vieți!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

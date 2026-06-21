@@ -1,0 +1,122 @@
+---
+title: "Dacii liberi"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-22"
+categories: [poezie, spoken-word, libertate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eNmH0IQOKkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Noi n-am avut nevoie<br>
+<br>
+Să luăm adeverințe<br>
+<br>
+Că vieţuim acasă,<br>
+<br>
+În patrie la noi,<br>
+<br>
+Am fost și vom rămâne<br>
+<br>
+De-a pururi dacii liberi<br>
+<br>
+Și iubitori de pace,<br>
+<br>
+Și vrednici de război.<br>
+<br>
+La Sarmisegetuza,<br>
+<br>
+La focuri, cu Zamolxe,<br>
+<br>
+Şi stelele din ceruri<br>
+<br>
+Din sânge ni se rup.<br>
+<br>
+Nu ne-au învins romanii<br>
+<br>
+Şi-am râs de toţi barbarii<br>
+<br>
+Strigând la ei cu steagul<br>
+<br>
+Făcut din cap de lup.<br>
+<br>
+Aceasta dăm de ştire,<br>
+<br>
+De sub pământul nostru,<br>
+<br>
+Urmaşilor în care<br>
+<br>
+Reinviem acum.<br>
+<br>
+Femeile iubindu-şi<br>
+<br>
+Să nască dacii liberi<br>
+<br>
+Spre răzbunarea noastră<br>
+<br>
+Pe cel din urmă drum.<br>
+<br>
+Numiţi şi ţara noastră<br>
+<br>
+Cu numele ei dacic,<br>
+<br>
+Iubiţi pe nou veniţii<br>
+<br>
+După atâţia ani,<br>
+<br>
+Dar veşnic ţineţi minte<br>
+<br>
+Că peste dacii liberi<br>
+<br>
+Au tot călcat invazii<br>
+<br>
+Şi altfel de romani.<br>
+<br>
+Noi am rămas în glie<br>
+<br>
+Şi devenim pădure,<br>
+<br>
+Şi devenim recolte,<br>
+<br>
+Să vă hrănim pe voi,<br>
+<br>
+Şi temelia ţării<br>
+<br>
+S-o întărim cu oase,<br>
+<br>
+Şi iubitori de pace,<br>
+<br>
+Şi vrednici de război.<br>
+<br>
+Cu tot ce năzăreşte<br>
+<br>
+Din firea noastră veche,<br>
+<br>
+Dăm Romelor de ştire,<br>
+<br>
+Prin ierburi murmurând,<br>
+<br>
+Că numai oboseala<br>
+<br>
+Ne-a aşezat sub scoarţă,<br>
+<br>
+Dar dacă e nevoie<br>
+<br>
+Ne vom scula orïcând.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** libertate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

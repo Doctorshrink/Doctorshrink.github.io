@@ -1,0 +1,98 @@
+---
+title: "Condamnare la toamnă"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-22"
+categories: [poezie, spoken-word, toamna]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bBYIoJIdeek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nu e toamna cum esti tu,<br>
+<br>
+vara mea de suflet, nu,<br>
+<br>
+pe pamant,<br>
+<br>
+vara decazu.<br>
+<br>
+Daca padurea ne condamna<br>
+<br>
+la nostalgie, fara rost,<br>
+<br>
+e toamna, vara mea, e toamna,<br>
+<br>
+asa cum poate n-a mai fost.<br>
+<br>
+Atatea taine nepatrunse<br>
+<br>
+ne cad in brate la un semn<br>
+<br>
+si suntem imbracati in frunze<br>
+<br>
+si captusiti c-un fel de lemn.<br>
+<br>
+In rau sunt doua lazi de bere,<br>
+<br>
+pe foc s-a pus un ultim vreasc,<br>
+<br>
+trec cerbi frumosi, bolnavi de fiere,<br>
+<br>
+catre cerboaice care nasc.<br>
+<br>
+Si ziua e atat de mica<br>
+<br>
+incat n-ai vreme de-un salut,<br>
+<br>
+si-un fum noptatec o complica<br>
+<br>
+si saptamana a trecut.<br>
+<br>
+Mai e in tot un pic de vara,<br>
+<br>
+dar paturi aspre ne-nsotesc,<br>
+<br>
+la orice drum mai lung afara<br>
+<br>
+prin clai de aburi nefiresc.<br>
+<br>
+Mai am senzatia ca toate<br>
+<br>
+pot fi si altfel decat sunt,<br>
+<br>
+dar muntii-mi pun poveri in spate<br>
+<br>
+si simt ca port pe talpi pamant.<br>
+<br>
+Acum si fiarelor li-i foame<br>
+<br>
+si ies lunatice la drum,<br>
+<br>
+padurea este numai drame<br>
+<br>
+si-o mai salvam cu cate-un fum.<br>
+<br>
+Dar ea, deodata, ne condamna<br>
+<br>
+la nostalgii si la pacat,<br>
+<br>
+e toamna, vara mea, e toamna,<br>
+<br>
+si-atat de singur m-ai lasat.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** toamna
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

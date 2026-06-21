@@ -1,0 +1,122 @@
+---
+title: "Colindul celui fără de ţară"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-22"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dInVwAVzq34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Unde-ai fi şi unde te-ai tot duce,<br>
+<br>
+Cât ai fi de rău sau cât de bun,<br>
+<br>
+Că mai crezi sau nu mai crezi în cruce,<br>
+<br>
+Cel mai greu îţi este de Crăciun.<br>
+<br>
+Când se strâng străinii pe la case<br>
+<br>
+Şi aprind lumini în pomii lor,<br>
+<br>
+Ţi se face mare frig în oase<br>
+<br>
+Şi de ţară ţi se face dor.<br>
+<br>
+Cumpără-ţi un cântec de pe piaţă<br>
+<br>
+Şi-o să-ţi cadă neîndoios cu tronc,<br>
+<br>
+Şi-ai să-l ţii cu tine-ntreaga viaţă,<br>
+<br>
+Imigrant and very tragic song.<br>
+<br>
+Bate vântul, bate dinspre ţară,<br>
+<br>
+Suflă-n răni cu sare şi pelin,<br>
+<br>
+Bate vântul şi te-nchide-afară,<br>
+<br>
+Rudele în vizită nu vin.<br>
+<br>
+Uite, Anul Nou cu dor de casă,<br>
+<br>
+Cum e ea, mai bună sau mai rea,<br>
+<br>
+Amintirea-n pace nu te lasă,<br>
+<br>
+Pân-la comă în zadar vei bea.<br>
+<br>
+Poţi să ţii şi două, trei neveste,<br>
+<br>
+Ştii prea bine, toţi suntem la fel,<br>
+<br>
+Însă ţara numai una este,<br>
+<br>
+Emigrant atât de singurel.<br>
+<br>
+Mori aici şi nimeni nu te-aude,<br>
+<br>
+Dar visează tot ce-ţi e pe plac,<br>
+<br>
+Că te bărbiereşti și pleci la rude<br>
+<br>
+Şi găseşti pe masă cozonac.<br>
+<br>
+Bate vântul plin de dor de ţară,<br>
+<br>
+Ţi se face dintr-o dată rău,<br>
+<br>
+Bate vântul şi te-nchide-afară,<br>
+<br>
+Nu ştii ce să faci cu trupul tău.<br>
+<br>
+Nu e mare lucru, ştii prea bine,<br>
+<br>
+Alţii mese mai bogate pot,<br>
+<br>
+Dar un simţământ e viu în tine<br>
+<br>
+Că acasă e mai mult ca tot.<br>
+<br>
+Din puţinul lor, ai tăi vor face<br>
+<br>
+Tot ce pot să fie fericiţi,<br>
+<br>
+Să petreacă-n linişte şi pace,<br>
+<br>
+Să mai râdă şi să bea un șpriț.<br>
+<br>
+Unde-ai fi şi orice-ai fi, bătrâne,<br>
+<br>
+Parcă dorul şalele ţi-a frânt,<br>
+<br>
+Şi atât din tot îţi mai rămâne,<br>
+<br>
+Să te-aşezi cu faţa la pământ<br>
+<br>
+Şi să plângi când toţi în sărbătoare<br>
+<br>
+Hohotesc de parcă te-ar sfida,<br>
+<br>
+Şi să plângi durerea ta cea mare,<br>
+<br>
+Şi să plângi de dor de ţara ta.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

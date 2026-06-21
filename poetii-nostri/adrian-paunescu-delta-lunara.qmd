@@ -1,0 +1,94 @@
+---
+title: "Delta lunară"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-22"
+categories: [poezie, spoken-word, luna_stele]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YE8zNhvvlsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nuferi palizi pe apă fac semne<br>
+<br>
+Şi tot cerul e-un nufăr bătrân,<br>
+<br>
+La măcelul de nuferi al toamnei<br>
+<br>
+Zburătoare puţine rămân.<br>
+<br>
+În castelele verzi ale apei -<br>
+<br>
+Mai sticlesc princiar ochi de peşti<br>
+<br>
+Şi-ntrebări despre cumpăna lumii<br>
+<br>
+Ce se-aud din instanţe cereşti.<br>
+<br>
+Eu aici am să vin într-o noapte,<br>
+<br>
+Cu tot clarul de lună în jur,<br>
+<br>
+De la trestia care ţi-e mamă<br>
+<br>
+Cu o barcă să vin să te fur.<br>
+<br>
+Dar de unde o barcă de sprijin,<br>
+<br>
+Când pe bărci e-aşezat lucrul tot?<br>
+<br>
+Tras spre tine de Steaua Polară<br>
+<br>
+Am să vin printre papuri înot.<br>
+<br>
+Şi iubirea în delta lunară,<br>
+<br>
+Sub un cer priponit de năvod,<br>
+<br>
+Să ne treacă spre lumi neştiute<br>
+<br>
+Cât e clarul de lună un pod.<br>
+<br>
+Parcă, totuşi, se-aude o barcă<br>
+<br>
+Lunecând din poveste pieziş<br>
+<br>
+Şi-un cuvânt dinspre stele spre lume<br>
+<br>
+Care cântă-ntr-un alb trestiiş.<br>
+<br>
+Am să fur de pe lume o vâslă<br>
+<br>
+Pentru barca părerii de rău<br>
+<br>
+Dintre clarul himeric de lună<br>
+<br>
+Şi-ntunericul fluviului tău.<br>
+<br>
+Devastată de toamnă e Delta,<br>
+<br>
+Zburătoarele-i pleacă pe rând,<br>
+<br>
+Numai noi, numai noi vom rămâne,<br>
+<br>
+Două aripi prin trestii bătând.<br>
+<br>
+Adrian Păunescu<br>
+<br>
+(„Totuşi, iubirea”, 1983)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** luna_stele
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

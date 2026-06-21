@@ -1,0 +1,74 @@
+---
+title: "Copilărie cu must"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-22"
+categories: [poezie, spoken-word, copilarie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rMXo90omSog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Mi-a fost așa de dor de must de struguri,<br>
+<br>
+de-un must făcut încet de tatăl meu<br>
+<br>
+la ora când tomnaticele pluguri<br>
+<br>
+prin brazde ară hurducând din greu.<br>
+<br>
+Și mi-era dor de frunza stacojie<br>
+<br>
+să mi se urce-n păr și s-o arunc,<br>
+<br>
+de toată toamna din copilărie<br>
+<br>
+îmi era dor și nu mai pot fi prunc.<br>
+<br>
+Lădițele cu struguri stau în curte,<br>
+<br>
+obiectiv, sunt soiul cel mai bun,<br>
+<br>
+lucind noptos în spațiul zilei scurte<br>
+<br>
+și bob cu bob încep în teasc să-i pun.<br>
+<br>
+Și tata se apleacă să culeagă<br>
+<br>
+câteva boabe ce-au rămas pe jos<br>
+<br>
+și dintr-o dată ființa lui întreagă<br>
+<br>
+se strânge brusc sub timpul viforos.<br>
+<br>
+I-a răsărit din nări un pic de sânge<br>
+<br>
+și a crezut că-i strugure strivit,<br>
+<br>
+îl duc spre pat și teascul care plânge<br>
+<br>
+îmi spune cât de mult a-mbătrânit.<br>
+<br>
+Voiam în curtea mea o zi de toamnă,<br>
+<br>
+copil în ea cu tata să rămân,<br>
+<br>
+dar via-ncărunțită ne condamnă,<br>
+<br>
+zdrobiți suntem și tata e bătrân .
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** copilarie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
