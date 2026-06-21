@@ -1,0 +1,144 @@
+---
+title: "Bocet pentru mama"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-21"
+categories: [poezie, spoken-word, mama]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iba1J_PGG0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Hei, frate, iartă-mă că strig la tine,<br>
+<br>
+e-un fel de plâns în felul cum te strig,<br>
+<br>
+dar cineva îmi spune, prin suspine,<br>
+<br>
+că mama noastră tremură de frig.<br>
+<br>
+Ea a bătut, cât a bătut, la poartă,<br>
+<br>
+şi au lătrat-o câinii noştri răi<br>
+<br>
+şi ea, ce nu-i făcută pentru ceartă,<br>
+<br>
+n-a mai sunat la poarta alor săi.<br>
+<br>
+Noi ce făceam, în vremea asta, frate?<br>
+<br>
+Benchetuiam cu nişte venetici<br>
+<br>
+şi n-am putut să auzim când bate<br>
+<br>
+bătrâna mamă ce-a trecut pe-aici.<br>
+<br>
+Acum, că e târziu, mă tem că mama<br>
+<br>
+a degerat în stradă, aşteptând,<br>
+<br>
+de-un viscol alb i s-a umplut năframa,<br>
+<br>
+probabil, mama va muri curând.<br>
+<br>
+Și nu ştiu cine a strigat la mine<br>
+<br>
+şi eu la tine m-am pornit să strig,<br>
+<br>
+ce-am auzit de la fereşti străine,<br>
+<br>
+că mama noastră a căzut, de frig.<br>
+<br>
+Deschide către stradă o fereastră<br>
+<br>
+şi spune-mi dacă e adevărat,<br>
+<br>
+că-n gerul mare, iată, mama noastră<br>
+<br>
+s-a prăbuşit şi viscole o bat.<br>
+<br>
+E mama, frate, trista mogâldeaţă<br>
+<br>
+care-a venit, de sărbători, la noi,<br>
+<br>
+şi-acum, în stradă, aşteptând, îngheaţă,<br>
+<br>
+şi nu mai ştie drumul înapoi.<br>
+<br>
+Vecinul ăla, voce de cătuşă,<br>
+<br>
+băzmeşte şi mă bagă la idei,<br>
+<br>
+el cică ţara a sunat la uşă,<br>
+<br>
+în chip de mamă, pe la fiii ei.<br>
+<br>
+Prin ambiguitatea funerară,<br>
+<br>
+ce mă deprimă-n fiecare zi,<br>
+<br>
+eu nu ştiu, a fost mamă, a fost ţară,<br>
+<br>
+de ce n-a anunţat că va veni?<br>
+<br>
+Pe-un timp ca ăsta, omenos de rece,<br>
+<br>
+bătrânii trebuie să stea cuminţi,<br>
+<br>
+că pot răci şi asta nu le trece,<br>
+<br>
+de sunt popoare sau de sunt părinţi.<br>
+<br>
+Noi locuim în cartier de frunte,<br>
+<br>
+e ordine şi linişte în jur<br>
+<br>
+şi n-are nimeni forța să înfrunte<br>
+<br>
+acest context întotdeauna pur.<br>
+<br>
+De-aceea, ia te uită, frate dragă,<br>
+<br>
+că, după cheful mare care-a fost,<br>
+<br>
+salubritatea gunoierii-şi bagă<br>
+<br>
+şi-aceştia iau gunoaiele la rost.<br>
+<br>
+Rămâi, te rog, cu mine, la fereastră,<br>
+<br>
+să plângem, între vânători şi prăzi,<br>
+<br>
+când gunoierii iau pe mama noastră,<br>
+<br>
+ca pe-un gunoi al importantei străzi.<br>
+<br>
+Să ne-mpăcăm cu cei ce-au huiduit-o,<br>
+<br>
+să ne-mpăcăm şi noi, cu noi, stingher,<br>
+<br>
+şi iartă-ne că te-am pierdut, jertfito,<br>
+<br>
+şi că venirea ta n-am auzit-o.<br>
+<br>
+Dar bine că-i curat în cartier.<br>
+<br>
+16-17 decembrie 1997<br>
+<br>
+(Tragedia națională, 1997)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

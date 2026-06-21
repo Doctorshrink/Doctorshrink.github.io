@@ -1,0 +1,66 @@
+---
+title: "Ca o reverenţă, frunza"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-21"
+categories: [poezie, spoken-word, toamna]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tpjcaYxJY9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pregătiri de toamnă şi la mine-n sânge,<br>
+<br>
+Şi o greutate simt acum la mers,<br>
+<br>
+Cred că-mi face semne frunza ce se frânge,<br>
+<br>
+Printr-o reverenţă dinspre univers.<br>
+<br>
+Doamne, vine toamna, parcă-i o dovadă<br>
+<br>
+Că-i destulă toamnă s-o aştepte-n noi,<br>
+<br>
+Dacă nu le vine ochilor să-şi creadă<br>
+<br>
+Că senini din toate sunt numai ei doi.<br>
+<br>
+Ca o reverenţă frunza-n prăbuşire<br>
+<br>
+Umerii mi-i umple de un tragic scrum,<br>
+<br>
+Triste monumente uită să respire<br>
+<br>
+Când se-aude ţipăt de cocor în drum.<br>
+<br>
+Sunt schimbări grozave orşiunde, parcă,<br>
+<br>
+Prin tufişe slute - zdrenţe moi de nimb,<br>
+<br>
+Cu prilejul vieţii, moartea mă încearcă,<br>
+<br>
+Toamna-i anotimpul ce devine timp.<br>
+<br>
+De-ntrebări finale, ziua este plină,<br>
+<br>
+Toamna arde cuprul în copacii gri,<br>
+<br>
+Ca o reverenţă frunza în lumină<br>
+<br>
+Caută motivul de a se jerfi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** toamna
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

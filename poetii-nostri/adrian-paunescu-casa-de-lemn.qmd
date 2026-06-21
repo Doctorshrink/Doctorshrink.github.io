@@ -1,0 +1,92 @@
+---
+title: "Casa de lemn"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-21"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uxVQBAuxSLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Să fiu cu tine într-un sat de munte,<br>
+<br>
+să ningă mult ca pentru-a ne-ngropa,<br>
+<br>
+să mă-ncălzesc lângă mirarea ta<br>
+<br>
+că lumea-i un izvor de amănunte.<br>
+<br>
+De lemne - casa, și de lemn - pădurea<br>
+<br>
+și lemne să zvârlim și noi pe foc,<br>
+<br>
+să-mi fii neșansă și să-ți fiu noroc,<br>
+<br>
+și eu să plec afară cu securea.<br>
+<br>
+Să plec afară spre-a aduce lemne<br>
+<br>
+și să m-aștepți stingându-te amar<br>
+<br>
+ca vechiul nostru magic felinar,<br>
+<br>
+să te gândești că am ceva, pesemne.<br>
+<br>
+„S-a întâmplat ceva dacă-ntârzie!”<br>
+<br>
+Eu, lemnele pădurii să le știu,<br>
+<br>
+și prin nămeți cu pete de vecie<br>
+<br>
+să mă întorc, la focul tău, sicriu.<br>
+<br>
+Sicriu de lemne fragede prin vifor<br>
+<br>
+și tu să simți că m-ai pierdut de tot,<br>
+<br>
+că focuri fi-vor, și alți oameni fi-vor,<br>
+<br>
+dar doi ca noi pe lume nu se pot.<br>
+<br>
+Și-ncet, încet, prin iarna tutelară<br>
+<br>
+în care focul o să-nghețe stins,<br>
+<br>
+deodată cu copacii de afară<br>
+<br>
+pe care nu va mai sfârși de nins<br>
+<br>
+să simți și tu cum eu, sicriul care<br>
+<br>
+venisem să te văd într-un târziu<br>
+<br>
+în casa rece-a lemnelor bizare<br>
+<br>
+suntem alături într-un alt sicriu.<br>
+<br>
+Esența e un snop de amănunte,<br>
+<br>
+afară norii au un pal drăcesc,<br>
+<br>
+se construiește casa de la munte<br>
+<br>
+în care-am să te duc să te iubesc.<br>
+<br>
+(Rezervația de zimbri, 1982)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

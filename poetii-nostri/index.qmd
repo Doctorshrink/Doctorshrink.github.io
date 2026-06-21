@@ -8,7 +8,7 @@ anchor-sections: false
 ::: {.poetii-hero}
 # 📜 Poeții Noștri
 Marea poezie a lumii — românească și universală — recitată spoken-word peste imagine și sunet.<br>
-**12** poeme publicate · interpretare Doctor Shrink
+**18** poeme publicate · interpretare Doctor Shrink
 :::
 
 ::: {.poem-grid}
@@ -81,6 +81,42 @@ Marea poezie a lumii — românească și universală — recitată spoken-word 
 <a class="poem-card" href="adrian-paunescu-biet-nemuritor-la-zidul-mortii.html">
   <span class="poem-theme">moarte</span>
   <span class="poem-title">Biet nemuritor la zidul mortii</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-bocet-pentru-mama.html">
+  <span class="poem-theme">mama</span>
+  <span class="poem-title">Bocet pentru mama</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-bocetul-lui-ion-cel-fara-mormant.html">
+  <span class="poem-theme">moarte</span>
+  <span class="poem-title">Bocetul lui Ion cel fără mormânt</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-ca-o-reverenta-frunza.html">
+  <span class="poem-theme">toamna</span>
+  <span class="poem-title">Ca o reverenţă, frunza</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-cartea-cartilor-de-poezie-prefata.html">
+  <span class="poem-theme">cuvant</span>
+  <span class="poem-title">Cartea cărţilor de poezie (prefață)</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-casa-de-lemn.html">
+  <span class="poem-theme">casa</span>
+  <span class="poem-title">Casa de lemn</span>
+  <span class="poem-poet">Adrian Păunescu</span>
+  <span class="poem-cta">▶️ Ascultă</span>
+</a>
+<a class="poem-card" href="adrian-paunescu-carare-de-morti.html">
+  <span class="poem-theme">moarte</span>
+  <span class="poem-title">Cărare de morți</span>
   <span class="poem-poet">Adrian Păunescu</span>
   <span class="poem-cta">▶️ Ascultă</span>
 </a>

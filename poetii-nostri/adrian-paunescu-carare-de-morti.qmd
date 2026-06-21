@@ -1,0 +1,76 @@
+---
+title: "Cărare de morți"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-06-21"
+categories: [poezie, spoken-word, moarte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7QYcFrdc8JA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dacă mă uit în urmă pe cărarea<br>
+<br>
+care se pierde-n umbra primei porți,<br>
+<br>
+sunt numai punți căzute în prăpăstii<br>
+<br>
+și-n iarba de pe mijloc, numai morți.<br>
+<br>
+Desigur, este multă lume-n față,<br>
+<br>
+halucinant, nestăvilit puhoi,<br>
+<br>
+dar sunt la fel de mulți cei morți în urmă,<br>
+<br>
+îmi e închisă calea înapoi.<br>
+<br>
+Când calendarul anului ce trece<br>
+<br>
+la termenul obișnuit l-am scos,<br>
+<br>
+cădeau din el sicrie sfărâmate<br>
+<br>
+și doliul pătrundea până la os.<br>
+<br>
+Sunt cimitire-ntregi aici în spate,<br>
+<br>
+privirea mi se-ngroapă-n iarba lor,<br>
+<br>
+e-nghesuială mare în morminte,<br>
+<br>
+se bat pentru o groapă cei ce mor.<br>
+<br>
+Scot calendarul trist de pe perete,<br>
+<br>
+spălat de plânsul nostru, strop cu strop,<br>
+<br>
+și lângă morții coborâți dintr-însul<br>
+<br>
+îl port pe brate și îl și îngrop.<br>
+<br>
+Și parcă iarba de pe drumul groazei<br>
+<br>
+care-i amestecă pe morti și vii,<br>
+<br>
+sub pașii mei se vaietă și plânge<br>
+<br>
+și poate că-ntr-o zi va și vorbi.<br>
+<br>
+1 ianuarie 2010
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
