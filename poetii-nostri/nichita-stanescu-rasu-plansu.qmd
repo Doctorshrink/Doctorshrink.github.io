@@ -1,0 +1,62 @@
+---
+title: "Râsu' plânsu'"
+subtitle: "Nichita Stănescu"
+author: "Doctor Shrink"
+date: "2026-06-23"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5g73zlCSGzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pleoapă cu dinţi, cu lacrimă mânjită,<br>
+<br>
+sare căzută în bucate,<br>
+<br>
+dovadă că nu pot trăi numai acum<br>
+<br>
+sunt amintirele mele, toate...<br>
+<br>
+Dovadă că nu pot vedea fără martori<br>
+<br>
+e copilăria, adolescenţa mea,<br>
+<br>
+dublând nefiinţa acestei secunde<br>
+<br>
+cu nefiinţa ei de cândva.<br>
+<br>
+Ah, râsu&#x27; plânsu&#x27;<br>
+<br>
+ah, râsu&#x27; plânsu&#x27;<br>
+<br>
+mă bufneşte când spun<br>
+<br>
+secundei vechi putrezind în secunda<br>
+<br>
+de-acum.<br>
+<br>
+Ah, râsu&#x27; plânsu&#x27;<br>
+<br>
+ah, râsu&#x27; plânsu&#x27;<br>
+<br>
+în ochiul lucrurilor reci<br>
+<br>
+şi-n dintele lor muşcător, ca şi sceptrul<br>
+<br>
+neinventaţilor regi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Nichita Stănescu
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

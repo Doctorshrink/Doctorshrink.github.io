@@ -1,0 +1,70 @@
+---
+title: "Zapada viscolita"
+subtitle: "Nichita Stănescu"
+author: "Doctor Shrink"
+date: "2026-06-23"
+categories: [poezie, spoken-word, iarna]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bS2unaQBjFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+MI-ai viscolit gindirea<br>
+<br>
+tu tandra Dora mea<br>
+<br>
+ca o zapada de demult<br>
+<br>
+intind spre tine o zapada si o nea<br>
+<br>
+de nimeni nu ascult<br>
+<br>
+ma viscolise-n mine<br>
+<br>
+chiar singele cel alb<br>
+<br>
+care ninsese mama<br>
+<br>
+ca sa ma faca slav<br>
+<br>
+Ma viscolise piatra<br>
+<br>
+cu greaua ei tacere<br>
+<br>
+ma viscolise clipa<br>
+<br>
+aceea, care piere<br>
+<br>
+Dra mi-am dat foc la radacini<br>
+<br>
+si frunze am de aur<br>
+<br>
+jumatate cal, in rest senin<br>
+<br>
+vedeti-ma centaur<br>
+<br>
+cu trunchi de om<br>
+<br>
+cu trup de cal<br>
+<br>
+la sarbatoarea voastra<br>
+<br>
+cind faceti in metal<br>
+<br>
+pe pasarea albastra.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Nichita Stănescu
+* **Temă:** iarna
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

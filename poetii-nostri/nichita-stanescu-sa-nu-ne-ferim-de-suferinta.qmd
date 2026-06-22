@@ -1,0 +1,68 @@
+---
+title: "Sa nu ne ferim de suferință"
+subtitle: "Nichita Stănescu"
+author: "Doctor Shrink"
+date: "2026-06-23"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SjjuHjya-u8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Să nu ne ferim de suferinţă,<br>
+<br>
+ea este pământul cu morţi ai ierburilor<br>
+<br>
+şi cerul cu zei al vederii.<br>
+<br>
+Ea este focul mortal născător al luminilor,<br>
+<br>
+ea este patul cel putred al duhorilor<br>
+<br>
+care-adormind se schimbă-n miresme<br>
+<br>
+şi în parfume.<br>
+<br>
+Să nu ne ferim de durere,<br>
+<br>
+ea este gura de sânge a cântecelor...<br>
+<br>
+Urletul naşte îngeri şi iepuri deopotrivă<br>
+<br>
+şi crivăţ cu vulturii îngropaţi înlăuntru-i.<br>
+<br>
+Durerea e cea care-nroşeşte<br>
+<br>
+piperatele şi iuţile garoafe când le jupoaie<br>
+<br>
+de alb şi de negru.<br>
+<br>
+Să nu ne ferim de moarte;<br>
+<br>
+ea este aceea care ne face<br>
+<br>
+mai nenăscuţi decât nenăscuţii<br>
+<br>
+... un nenăscut de om, un nenăscut de fir<br>
+<br>
+de iarbă verde<br>
+<br>
+un nenăscut al legii nenăscute<br>
+<br>
+ce-şi pregăteşte domnia, - râzândă, plângândă...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Nichita Stănescu
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

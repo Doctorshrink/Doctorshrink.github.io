@@ -1,0 +1,82 @@
+---
+title: "Trecerea de la noţiuni la poezie, împotrivire la aspectul pietros al versurilor de până acum"
+subtitle: "Nichita Stănescu"
+author: "Doctor Shrink"
+date: "2026-06-23"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yyOXAPze1d8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cade peste mine umbra<br>
+<br>
+mării pururi fără umbră, –<br>
+<br>
+foarte lungă, friguroasă<br>
+<br>
+când peste vertebre-mi umblă.<br>
+<br>
+Las un ochi răcit în lună<br>
+<br>
+și o mână țin afară<br>
+<br>
+din mormântul de cuvinte<br>
+<br>
+care veșnic mă-mpresoară.<br>
+<br>
+O, am fost un om frumos<br>
+<br>
+și subțire, foarte palid.<br>
+<br>
+Trunchi avui de chiparos<br>
+<br>
+și miros de crin noptatic.<br>
+<br>
+Iată-mă, împing femurul<br>
+<br>
+în tunel de carne seacă<br>
+<br>
+de picior în alergare<br>
+<br>
+precum sabia în teacă.<br>
+<br>
+Și-mi închid sub tâmplă gândul<br>
+<br>
+și-mi închid în ochi privirea<br>
+<br>
+și în nară tot mirosul<br>
+<br>
+care-adulmecase firea.<br>
+<br>
+Și las ceafa peste pernă<br>
+<br>
+ca peste un ochi de taur<br>
+<br>
+care m-a străpuns cu cornul<br>
+<br>
+pe arena cea de aur.<br>
+<br>
+Și din treaz devin netreaz<br>
+<br>
+și adorm în somn, într-una,<br>
+<br>
+ca fântâna, sub găleată<br>
+<br>
+sfărâmând în sine luna.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Nichita Stănescu
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
