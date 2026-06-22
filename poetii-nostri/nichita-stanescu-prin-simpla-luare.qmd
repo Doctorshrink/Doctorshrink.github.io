@@ -1,0 +1,128 @@
+---
+title: "Prin simpla luare"
+subtitle: "Nichita Stănescu"
+author: "Doctor Shrink"
+date: "2026-06-23"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2SBHmeYJf0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nu pot să plâng decât<br>
+<br>
+dacă mă vede cineva.<br>
+<br>
+Umflat de lacrimi, nu-mi pot elibera<br>
+<br>
+lacrimile<br>
+<br>
+decât dacă ele cad drept<br>
+<br>
+din ochiul meu în alt ochi.<br>
+<br>
+Dac-aș putea să plâng singur<br>
+<br>
+nevăzut, în întuneric,<br>
+<br>
+în frig, –<br>
+<br>
+aș putea să nu mai fiu, dintr-o dată.<br>
+<br>
+O, lucrurile,<br>
+<br>
+ele sunt umflate în sine<br>
+<br>
+de lacrima lucrurilor.<br>
+<br>
+O, verdele ierburilor,<br>
+<br>
+el e umflat în sine<br>
+<br>
+de lacrima<br>
+<br>
+verdelui<br>
+<br>
+ierburilor.<br>
+<br>
+Dar nu este ochi sec în vreun lucru,<br>
+<br>
+ca să absoarbă lacrima lucrului<br>
+<br>
+Și nu este ochi sec<br>
+<br>
+în verdele<br>
+<br>
+ierburilor,<br>
+<br>
+căruia să-i fie sete de lacrima<br>
+<br>
+verdelui<br>
+<br>
+ierburilor.<br>
+<br>
+Nu pot să plâng, decât<br>
+<br>
+dacă mă vede cineva,<br>
+<br>
+nu pot să plâng, decât<br>
+<br>
+dacă îi vede cineva.<br>
+<br>
+Vederea nu e altceva<br>
+<br>
+decât absență,<br>
+<br>
+necomunicare.<br>
+<br>
+Numai lacrima, numai ea<br>
+<br>
+transportă sinele către sine<br>
+<br>
+ridică sinele din sine,<br>
+<br>
+ia sinele din sine,<br>
+<br>
+prin simplă luare.<br>
+<br>
+Dac-ar putea să plângă iarba, ah,<br>
+<br>
+n-ar mai fi nimic de păscut;<br>
+<br>
+dac-ar putea să plângă caii, ah,<br>
+<br>
+n-ar mai fi nimic de călărit.<br>
+<br>
+Dac-ar putea să plângă călăreții, ah,<br>
+<br>
+nu ar mai fi deasupra cer cu stele;<br>
+<br>
+dac-ar putea să plângă cerul, ah.<br>
+<br>
+nu ai mai fi deasupra, doamne.<br>
+<br>
+Iar marea ta lucrare<br>
+<br>
+exprimată deodată,<br>
+<br>
+printr-o simplă luare,<br>
+<br>
+ar fi ca și cum n-ar fi fost<br>
+<br>
+niciodată.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Nichita Stănescu
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

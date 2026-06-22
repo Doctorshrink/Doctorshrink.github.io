@@ -1,0 +1,56 @@
+---
+title: "Acasă"
+subtitle: "Nichita Stănescu"
+author: "Doctor Shrink"
+date: "2026-06-23"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/md1dOrk0Y2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Acasa mea e intr-un cavant<br>
+<br>
+gandit de altul.<br>
+<br>
+Acasa mea e intr-un sarut<br>
+<br>
+pe care l-am gandit<br>
+<br>
+in alti doi adolescenti.<br>
+<br>
+Acasa mea este inlauntrul<br>
+<br>
+sagetii trase inspre zeu de geti.<br>
+<br>
+Acasa mea e gandul ce-l gandesti<br>
+<br>
+spre mine.<br>
+<br>
+Acasa mea e numele ce-l am<br>
+<br>
+si mi-l rostesti.<br>
+<br>
+Acasa mea e un cuvant,<br>
+<br>
+un prieten si o curva.<br>
+<br>
+Fugind din timpul care trece,<br>
+<br>
+ah, timp, bordel al vietii mele!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Nichita Stănescu
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

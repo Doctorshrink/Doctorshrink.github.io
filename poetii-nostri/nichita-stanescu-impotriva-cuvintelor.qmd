@@ -1,0 +1,244 @@
+---
+title: "Împotriva cuvintelor"
+subtitle: "Nichita Stănescu"
+author: "Doctor Shrink"
+date: "2026-06-23"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sjO4ZbwShLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+I<br>
+<br>
+Ah, cuvintele, tristele,<br>
+<br>
+ele curg în ele însele,<br>
+<br>
+deşi sensul lor este static.<br>
+<br>
+Ce tragedie cuvântul &quot;iubito&quot;!<br>
+<br>
+După litera &quot;I&quot; urmează litera &quot;U&quot;,<br>
+<br>
+după litera &quot;B&quot;, litera &quot;I&quot;,<br>
+<br>
+apoi &quot;T&quot;, apoi &quot;O&quot;...<br>
+<br>
+Şi asta-i ca şi cum ar trece un timp<br>
+<br>
+între &quot;I&quot; şi &quot;O&quot;,<br>
+<br>
+deşi &quot;Iubito&quot; nu are timp,<br>
+<br>
+ci este tot şi dintr-o dată.<br>
+<br>
+Sau nu: a fost... Sau nu: va fi<br>
+<br>
+sau este pur şi simplu.<br>
+<br>
+II<br>
+<br>
+Prima literă a oricărui cuvânt<br>
+<br>
+se află-n trecut, -<br>
+<br>
+ultima literă - de asemeni,<br>
+<br>
+Numai trupul cuvântului<br>
+<br>
+e în prezent.<br>
+<br>
+&quot;Iubito, iubito, iubito...&quot;<br>
+<br>
+Uită-te la mâna mea<br>
+<br>
+pe care o ţin împodobită cu un pahar.<br>
+<br>
+Acum e sus,<br>
+<br>
+acum lângă chipul meu,<br>
+<br>
+acum, pe masă, paharul gol.<br>
+<br>
+&quot;I&quot;, - a fost sus, &quot;U&quot;, - lângă chipul meu<br>
+<br>
+&quot;B&quot;, - se află acum pe masă, gol.<br>
+<br>
+Va urma din nou &quot;I&quot;,<br>
+<br>
+lângă chip îl voi ţine pe &quot;T&quot;, şi<br>
+<br>
+iarăşi &quot;O&quot; va sta pe masă, singur şi gol...<br>
+<br>
+Iubito, tu,<br>
+<br>
+viaţa mea despre care<br>
+<br>
+nu pot striga<br>
+<br>
+decât lucruri ale trecutului, -<br>
+<br>
+viaţa împodobită cu sunete<br>
+<br>
+care-ndată ce sunt<br>
+<br>
+au şi fost...<br>
+<br>
+III<br>
+<br>
+Cuvintele - tristele<br>
+<br>
+jumătate Timp - jumătate lucruri,<br>
+<br>
+atât de multe încât<br>
+<br>
+nelămuresc timpul,<br>
+<br>
+atât de timp<br>
+<br>
+încât adumbresc lucrurile.<br>
+<br>
+Cuvintele<br>
+<br>
+peşti abisali,<br>
+<br>
+numai sub stratul de lucruri există.<br>
+<br>
+Cum le scoţi în afară<br>
+<br>
+în timp,<br>
+<br>
+explodează.<br>
+<br>
+Jalnică, tristă explozie -<br>
+<br>
+încât îmi vine să strig:<br>
+<br>
+&quot;iubito&quot;, &quot;iubito&quot;<br>
+<br>
+rămâi înainte-mi, iubito;<br>
+<br>
+lasă-mi cuvintele să se izbească de tine<br>
+<br>
+ca să se întoarcă la mine.<br>
+<br>
+Tu eşti cerul gurii mele<br>
+<br>
+şi dacă<br>
+<br>
+ai să râzi<br>
+<br>
+şi-ai să-mi spui că ai chip<br>
+<br>
+şi făptură cu braţe,<br>
+<br>
+am să-ţi spun: nu-i nimic,<br>
+<br>
+eu nu am nici făptură, nici chip...<br>
+<br>
+IV<br>
+<br>
+Cuvintele - tristele,<br>
+<br>
+numai dacă se lovesc de ceva,<br>
+<br>
+numai dacă le apasă ceva<br>
+<br>
+există.<br>
+<br>
+Cuvintele<br>
+<br>
+nu au loc decât în centrul lucrurilor,<br>
+<br>
+numai înconjurate de lucruri.<br>
+<br>
+Numele lucrurilor<br>
+<br>
+nu e niciodată afară.<br>
+<br>
+Şi totuşi,<br>
+<br>
+cuvintele, tristele,<br>
+<br>
+înconjoară câteodată timpul<br>
+<br>
+ca o ţeavă, apa care curge prin ea.<br>
+<br>
+...ca şi cum ar fi lucruri,...<br>
+<br>
+oho, ca şi cum ar fi lucruri...<br>
+<br>
+V<br>
+<br>
+Iubito, mai bine<br>
+<br>
+ţi-aş aşeza o ramură în braţe.<br>
+<br>
+(Numai timpul are timp<br>
+<br>
+şi nicicând<br>
+<br>
+nu-şi întrerupe creşterea nefinită...)<br>
+<br>
+Cuvintele, laşele,<br>
+<br>
+ele singure se ucid pe ele,<br>
+<br>
+numai ele se pot nega<br>
+<br>
+pe ele însele,<br>
+<br>
+numai ele, neliniştitele,<br>
+<br>
+se neagă tot timpul unele pe altele,<br>
+<br>
+se ucid<br>
+<br>
+numai între ele, pentru dreptul<br>
+<br>
+întâiului născut,<br>
+<br>
+tot timpul şi tot lucrul,<br>
+<br>
+unele pe altele.<br>
+<br>
+Niciodată un copac<br>
+<br>
+n-a ucis un copac, -<br>
+<br>
+Niciodată o piatră<br>
+<br>
+n-a depus împotriva pietrei<br>
+<br>
+mărturie.<br>
+<br>
+Numai numele copacului ucide<br>
+<br>
+numele copacului<br>
+<br>
+numai numele pietrei<br>
+<br>
+ucide, depunând mărturie<br>
+<br>
+despre numele pietrei...<br>
+<br>
+Iubito, iubito<br>
+<br>
+pururi fără de nume, iubito.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Nichita Stănescu
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

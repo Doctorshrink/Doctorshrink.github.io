@@ -1,0 +1,216 @@
+---
+title: "Frunză Verde De Albastru"
+subtitle: "Nichita Stănescu"
+author: "Doctor Shrink"
+date: "2026-06-23"
+categories: [poezie, spoken-word, toamna]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r6GTa1V6D2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Si-am zis verde de albastru,<br>
+<br>
+ma doare un cal maiastru,<br>
+<br>
+si-am zis para de un mar,<br>
+<br>
+minciuna de adevar,<br>
+<br>
+si-am zis pasare de peste,<br>
+<br>
+desclestare de ce creste,<br>
+<br>
+si secunda-am zis de ora,<br>
+<br>
+curcubeu de aurora,<br>
+<br>
+am zis os de un schelet,<br>
+<br>
+am zis hot de om întreg,<br>
+<br>
+si privire-am zis de ochi<br>
+<br>
+si ca-i boala ce-i deochi.<br>
+<br>
+Frunza verde de albastru,<br>
+<br>
+ma doare un cal maiastru,<br>
+<br>
+ca am zis doar un cuvânt<br>
+<br>
+despre întregul pamânt,<br>
+<br>
+si de bine-am zis de morti<br>
+<br>
+si de sase-am zis la sorti,<br>
+<br>
+si am zis unu de doi<br>
+<br>
+si zapada de noroi,<br>
+<br>
+si am vrut sa fac cu gura<br>
+<br>
+focul ce-l facea arsura<br>
+<br>
+ca n-am fost trezit, ca dorm<br>
+<br>
+pe un cal cu sa de domn,<br>
+<br>
+alergând pe-un câmp de noapte,<br>
+<br>
+de la unu pân’ la sapte -<br>
+<br>
+de la sapte pân’ la zece<br>
+<br>
+mi-a cazut o viata rece,<br>
+<br>
+de la frunza pân’ la umbra<br>
+<br>
+mi-a cazut o viata dubla<br>
+<br>
+ca pamântul si cu luna,<br>
+<br>
+noaptea când stau împreuna.<br>
+<br>
+Si-am zis verde de albastru,<br>
+<br>
+ma doare un cal maiastru,<br>
+<br>
+pe care ma tin calare<br>
+<br>
+cu capul la cingatoare,<br>
+<br>
+cu calcâiul la spinare<br>
+<br>
+si cu ochiul în potcoave,<br>
+<br>
+si cu inima-n silabe<br>
+<br>
+de ma duc mari, ma duc<br>
+<br>
+ca toamna frunza de nuc,<br>
+<br>
+ori ca iarna frunza alba<br>
+<br>
+de la floarea de zapada…<br>
+<br>
+Frunza verde de albastru,<br>
+<br>
+ma doare un cal maiastru,<br>
+<br>
+potcovit pe luna plina<br>
+<br>
+cu miros de la sulcina,<br>
+<br>
+înhamat pe soare plin<br>
+<br>
+tot cu miros de pelin,<br>
+<br>
+si tinut de gât cu mine<br>
+<br>
+tot în dragoste de tine,<br>
+<br>
+ca mi-a fost crescut pe umar<br>
+<br>
+de din doi în doi un numar,<br>
+<br>
+tot din trei în trei o iarba<br>
+<br>
+si din patru-n patru-o salba,<br>
+<br>
+si din cinci în cinci un pom,<br>
+<br>
+si din sase-n sase-un om.<br>
+<br>
+Frunza verde de albastru,<br>
+<br>
+ma doare un cal maiastru,<br>
+<br>
+vad în fata mov si verde,<br>
+<br>
+coloarea care ma perde,<br>
+<br>
+corcov vad cu veselie,<br>
+<br>
+coloarea ce nu se stie,<br>
+<br>
+mai aud si-un sunet sus<br>
+<br>
+care nu a fost adus<br>
+<br>
+în timpan de oameni vii,<br>
+<br>
+în a fi si a nu fi,<br>
+<br>
+când îmi cade umbra lunga<br>
+<br>
+pe sub ochii grei cu punga.<br>
+<br>
+Si-am zis aripa de pene<br>
+<br>
+ca sa zbor cu ea prin vreme,<br>
+<br>
+si-am zis mar ca sa zic sâmburi,<br>
+<br>
+si-am zis pom ca sa zic scânduri,<br>
+<br>
+si-am zis nord ca sa zic suduri<br>
+<br>
+si dulceata ca sa sudui,<br>
+<br>
+si-am zis inima la piatra<br>
+<br>
+si cântec la tot ce latra,<br>
+<br>
+si potcoava<br>
+<br>
+la octava,<br>
+<br>
+si uscata la jilava,<br>
+<br>
+tot le-am potrivit pe dos<br>
+<br>
+pe un fluieras de os,<br>
+<br>
+din osul de la picior<br>
+<br>
+care-mi cânta cu fior,<br>
+<br>
+si din osul de la mâna<br>
+<br>
+fluierând o saptamâna,<br>
+<br>
+din osul de la arcada<br>
+<br>
+recea lumii acolada<br>
+<br>
+peste doua oase mari<br>
+<br>
+unde stau ochii polari.<br>
+<br>
+Si-am cântat din coasta mea<br>
+<br>
+din vertebra ca o stea,<br>
+<br>
+de-a-ncalecare pe-o sa,<br>
+<br>
+pe o sa de cal maiastru,<br>
+<br>
+foaie verde de albastru.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Nichita Stănescu
+* **Temă:** toamna
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

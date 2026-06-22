@@ -1,0 +1,58 @@
+---
+title: "Acasă nimanuia"
+subtitle: "Nichita Stănescu"
+author: "Doctor Shrink"
+date: "2026-06-23"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p90q7gI6DoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Acasa nimanuia mi-am culcat<br>
+<br>
+fluturele si paianjenul.<br>
+<br>
+Nu va mai inmultiti, - am strigat la ei,<br>
+<br>
+hraniti-va cu raze!<br>
+<br>
+Fluture tu, sa visezi ovale!<br>
+<br>
+Paianjane tu, sa visezi cifra sapte!<br>
+<br>
+Acasa nimanuia mi-am pus<br>
+<br>
+stele verzi ale durerii, in durere,<br>
+<br>
+si aerul pe care-l mai am ,<br>
+<br>
+In respiratia pietrelor, l-am pus.<br>
+<br>
+Mi-e caine de pisica<br>
+<br>
+si atat de cald de inghetare,<br>
+<br>
+cum nu mi-a fost niciodata!<br>
+<br>
+Acasa nimanuia<br>
+<br>
+m-am stres pe mine insumi<br>
+<br>
+cu un burete taios.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Nichita Stănescu
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

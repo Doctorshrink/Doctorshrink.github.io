@@ -1,0 +1,152 @@
+---
+title: "Căutarea tonului"
+subtitle: "Nichita Stănescu"
+author: "Doctor Shrink"
+date: "2026-06-23"
+categories: [poezie, spoken-word, dumnezeu]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/boCdBeAWKRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Înger?<br>
+<br>
+Înger...<br>
+<br>
+Nu, nu e bine!<br>
+<br>
+Va să zică, de la început!<br>
+<br>
+Înger?<br>
+<br>
+Nu, nu e bine înger!<br>
+<br>
+Va să zică, adică nu culoare<br>
+<br>
+nu auz, nu miros, nu.<br>
+<br>
+Nu, nu sânt bune!<br>
+<br>
+Înger?<br>
+<br>
+Nu, nu e bine înger!<br>
+<br>
+Să luăm trei nume frumoase<br>
+<br>
+Trei nume frumoase şi atât.<br>
+<br>
+Va să zică trei.<br>
+<br>
+Bineînţeles Voichiţa<br>
+<br>
+După Voichiţa ce merge?<br>
+<br>
+Înger?<br>
+<br>
+Nu, nu e bine înger.<br>
+<br>
+Raluca merge după Voichiţa.<br>
+<br>
+Va să zică mai întâi Voichiţa<br>
+<br>
+după Voichiţa, Raluca,<br>
+<br>
+şi după aceea înger.<br>
+<br>
+Înger?<br>
+<br>
+Nu, nu e bine înger.<br>
+<br>
+Altceva, alt nume!<br>
+<br>
+Doamne, ce merge după Voichiţa şi Raluca?<br>
+<br>
+A, Andra,<br>
+<br>
+B, Beatrice,<br>
+<br>
+C, of Doamne,<br>
+<br>
+Nu, nu, nu merge!<br>
+<br>
+Ba da, am găsit!<br>
+<br>
+Chira.<br>
+<br>
+Şi dacă am găsit Voichiţa, Raluca, Chira<br>
+<br>
+după aceea, bineînţeles înger.<br>
+<br>
+Nu, nu merge înger!<br>
+<br>
+Nu se loveşte.<br>
+<br>
+Altceva, altceva, altceva, altceva...<br>
+<br>
+De fapt nici să te naşti nu e ceva nou<br>
+<br>
+şi nici să mori nu e ceva nou.<br>
+<br>
+Nu, nu e bine.<br>
+<br>
+A scris-o înainte Serghei Esenin...<br>
+<br>
+Altceva, altceva, altceva...<br>
+<br>
+Nu credeam să-nvăţ a muri vreodată.<br>
+<br>
+Nu, nu, nu e bine!<br>
+<br>
+E exclamarea lui Mihai Enimescu.<br>
+<br>
+Nu, nu...<br>
+<br>
+A fi sau a nu fi<br>
+<br>
+aceasta-i întrebarea<br>
+<br>
+Bineînţeles că aceasta-i întrebarea!<br>
+<br>
+Absolut bineînţeles că aceasta e întrebarea.<br>
+<br>
+Mă şi mir că a mai fost pusă.<br>
+<br>
+Cred că am găsit ceva, însă.<br>
+<br>
+Tristeţea mea aude nenăscuţii câini<br>
+<br>
+pe nenăscuţii oameni cum îi latră.<br>
+<br>
+Nu, nu e bun.<br>
+<br>
+E vechi, e vechi...<br>
+<br>
+Deci, înger...<br>
+<br>
+Nu, nu e bun înger!<br>
+<br>
+Deci înger?<br>
+<br>
+Nu, nu, nu e bun.<br>
+<br>
+Deci înger?<br>
+<br>
+Nu.<br>
+<br>
+Deci înger?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Nichita Stănescu
+* **Temă:** dumnezeu
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

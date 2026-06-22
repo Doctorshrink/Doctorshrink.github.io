@@ -1,0 +1,68 @@
+---
+title: "Numai o clipă"
+subtitle: "Nichita Stănescu"
+author: "Doctor Shrink"
+date: "2026-06-23"
+categories: [poezie, spoken-word, timp]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hfBM5zZ7Qfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Numai o clipă, spuse aerul<br>
+<br>
+păsării care zbura,<br>
+<br>
+Numai o clipă, lasă-mă numai o clipă<br>
+<br>
+sa nu fiu de faţă cu dumneata.<br>
+<br>
+Numai o clipă, numai o clipă,<br>
+<br>
+spuse inima sângelui care venea<br>
+<br>
+Numai o clipă, numai o clipă<br>
+<br>
+lasă-mă singură de dumneata.<br>
+<br>
+Numai o clipă, numai o clipă,<br>
+<br>
+i-am spus morţii care rânjea<br>
+<br>
+cu roşii buze, cu albă dantură,<br>
+<br>
+cu tu şi cu A.<br>
+<br>
+Lasă-mă numai o clipă<br>
+<br>
+întârzie numai o clipă<br>
+<br>
+i-am spus celei care venea.<br>
+<br>
+Dar ea nici o clipă<br>
+<br>
+n-avu vedere<br>
+<br>
+nici pentru mine<br>
+<br>
+nici pentru putere<br>
+<br>
+căci se grăbea<br>
+<br>
+se foarte grăbea...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Nichita Stănescu
+* **Temă:** timp
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

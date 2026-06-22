@@ -1,0 +1,214 @@
+---
+title: "Moartea păsărilor"
+subtitle: "Nichita Stănescu"
+author: "Doctor Shrink"
+date: "2026-06-23"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iGx_A8zTu1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Deasupra de zarzari, de tigle, de cosuri<br>
+<br>
+se înnoreaza cu pasari.<br>
+<br>
+Îngerul sta cu aripile-ntinse, foarte întinse.<br>
+<br>
+Penele din stînga îi trec printr-un zid,<br>
+<br>
+aripa din dreapta si-o reazema de cracul copacului<br>
+<br>
+de parca ar rage în stele<br>
+<br>
+un glonte arhaic al zborului...<br>
+<br>
+Cum sta si cum fumeaza<br>
+<br>
+tigare de la tigare,<br>
+<br>
+îngerul<br>
+<br>
+mereu îsi duce mîna la beregata,<br>
+<br>
+mereu îsi duce mîna la beregata.<br>
+<br>
+Aura lui afumata<br>
+<br>
+i-a cazut în jurul gîtului<br>
+<br>
+ca un streang.<br>
+<br>
+&quot;Am sa fiu spînzurat<br>
+<br>
+de propriul meu har, de propriul meu har<br>
+<br>
+afumat de tutun&quot;<br>
+<br>
+se gîndeste îngerul.<br>
+<br>
+&quot;O sa mor si n-o sa mai fie îngeri&quot; ,<br>
+<br>
+se gîndeste îngerul, stînd<br>
+<br>
+cu aripile-ntinse, foarte întinse,<br>
+<br>
+stînd<br>
+<br>
+pe vine între o casa si un copac,<br>
+<br>
+stînd<br>
+<br>
+acolo unde-l ajunge din urma<br>
+<br>
+starea.<br>
+<br>
+Se înnoreaza cu pasari,<br>
+<br>
+cu pasari zburînde, zburate.<br>
+<br>
+Ele-si pierd ouale din zbor, ouale<br>
+<br>
+albe si minunate. Ouale, ouale.<br>
+<br>
+Ploua cu oua, ploua<br>
+<br>
+din norii de pasari oua,<br>
+<br>
+peste orasul de tinichea ploua cu oua,<br>
+<br>
+din norii de pasari zburate, zburînde, ah, ploua.<br>
+<br>
+Nu tuna, nu fulgera.<br>
+<br>
+Ploua torential cu oua.<br>
+<br>
+Nu se aude decît<br>
+<br>
+coaja plesnind,<br>
+<br>
+albusul curgînd,<br>
+<br>
+galbenusul murind.<br>
+<br>
+...Corn teapan de melc<br>
+<br>
+nemaiavînd<br>
+<br>
+un sine în care sa se retraga<br>
+<br>
+aiurînd<br>
+<br>
+orice atingere de orice, abhorînd.<br>
+<br>
+Îngerul fumeaza tigare<br>
+<br>
+de la tigare.<br>
+<br>
+Ploua cu oua, se-aude<br>
+<br>
+numai coaja spargîndu-se,<br>
+<br>
+albusul scurgîndu-se,<br>
+<br>
+galbenusul murindu-se.<br>
+<br>
+Se-ngroasa norul de pasari<br>
+<br>
+peste orasu-ngropat, lipicios;<br>
+<br>
+ploua cu oua torential<br>
+<br>
+peste caruta si peste cal,<br>
+<br>
+peste motor si peste canal.<br>
+<br>
+Îngerul îsi duce mîna întruna la gît,<br>
+<br>
+tigara-ncleiata îi curge pe jugulara.<br>
+<br>
+Miroase-a avort si a hoit nenascut,<br>
+<br>
+o ora barbara.<br>
+<br>
+Rap! Crok! Coji de oua murdare<br>
+<br>
+înfunda burlane, canale.<br>
+<br>
+E aripa îngerului încleiata de zid si de pom.<br>
+<br>
+Cu albus, cu galbenus, e lipita de om.<br>
+<br>
+Ar vrea sa se-azvîrle<br>
+<br>
+pe zdrelituri si sa le cloceasca,<br>
+<br>
+sa refaca, sa faca...<br>
+<br>
+Sa cloceasca desurubatele gîrle.<br>
+<br>
+Ouale se ciocnesc între ele în aer.<br>
+<br>
+Ploua torential. Norul de pasari smintit<br>
+<br>
+se-nteteste aripa-n aripa.<br>
+<br>
+Ploua înghesuit.<br>
+<br>
+Se sparge în aer oul de ou.<br>
+<br>
+Ploua cu albus, cu galbenus.<br>
+<br>
+Aerul se lipeste de albus, de galbenus,<br>
+<br>
+de albus de galbenus.<br>
+<br>
+Si începe sa ploua cu aer<br>
+<br>
+pîna cînd ploua cu tot aerul,<br>
+<br>
+torential, pîna cînd ploua tot aerul.<br>
+<br>
+Îngerul<br>
+<br>
+mereu îsi duce mîna la beregata<br>
+<br>
+mereu îsi duce mîna la beregata.<br>
+<br>
+Coboara aerul, se scurge în canale<br>
+<br>
+pe lînga turloaiele îngerului,<br>
+<br>
+se scurge-n canale<br>
+<br>
+amestecat cu albusul<br>
+<br>
+si tot galbenusul.<br>
+<br>
+Îngerul încearca sa respire,<br>
+<br>
+sa se respire,<br>
+<br>
+dar gura îi este sudata<br>
+<br>
+cu albus - o data, cu galbenus - o data,<br>
+<br>
+si mereu îsi duce mîna la beregata,<br>
+<br>
+si mereu îsi duce mîna la beregata...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Nichita Stănescu
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

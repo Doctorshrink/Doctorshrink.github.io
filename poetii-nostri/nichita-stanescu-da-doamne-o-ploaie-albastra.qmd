@@ -1,0 +1,94 @@
+---
+title: "Dă, Doamne, o ploaie albastră"
+subtitle: "Nichita Stănescu"
+author: "Doctor Shrink"
+date: "2026-06-23"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B8e9_J0w518" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+I<br>
+<br>
+Ca să se spele, ca să se usuce într-un simun<br>
+<br>
+de suflete, părăsind trupuri de copii striviți<br>
+<br>
+sub roata de beton a clipei de acum,<br>
+<br>
+sculptată de fenicieni și de hitiți,<br>
+<br>
+las sufletul istoric și prădat<br>
+<br>
+în piramida unei limbi de mult latine,<br>
+<br>
+întinsă să stea ca într-un pat<br>
+<br>
+de aripi jupuite de pe îngeri, bine,<br>
+<br>
+și strig în sus, și strig în jos,<br>
+<br>
+la dreapta și la stânga și-nainte<br>
+<br>
+și înapoi, profund nesomnoros,<br>
+<br>
+limba cu luna nouă, dinte:<br>
+<br>
+Să fim spălați de un lichid, să fim spălați<br>
+<br>
+cum speli cu cârpa udă o fereastră<br>
+<br>
+de tine, Doamne, vitregii tăi frați,<br>
+<br>
+cu o torențială ploaie-albastră.<br>
+<br>
+II<br>
+<br>
+Plouă, șiroiește cu îngeri, cu stafii,<br>
+<br>
+pe acoperișurile de tablă, pe mansarde.<br>
+<br>
+Râuri verticale, sunet gri.<br>
+<br>
+Acum se stinge tot ce arde.<br>
+<br>
+Plouă, călătorim în sus pe crocodili<br>
+<br>
+de taină dintr-un Nil smucit, în sus,<br>
+<br>
+dus într-un Nord de nori aproape imobili,<br>
+<br>
+ferind de noi un cer din Sud, hindus.<br>
+<br>
+Plouă, se lipesc aripi de apă de geamuri.<br>
+<br>
+Frigul își întinde spre noi o limbă ascuțită și dublă.<br>
+<br>
+Duce-m-aș călare pe un cal fără hamuri<br>
+<br>
+în câmpia neagră, lugubră.<br>
+<br>
+Duce-m-aș cu părul ud de îngeri, de stafii,<br>
+<br>
+izbit în tâmplă de icarii scânteind<br>
+<br>
+ai apelor, căzând de sus atât de vii<br>
+<br>
+din suspendatul, fixul, labirint.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Nichita Stănescu
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,66 @@
+---
+title: "Ninge cu ochi"
+subtitle: "Nichita Stănescu"
+author: "Doctor Shrink"
+date: "2026-06-23"
+categories: [poezie, spoken-word, iarna, ochi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7TOGQgH-7-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dar ninge. Ninge cu ochi de pesti,<br>
+<br>
+cu ochi de serpi, de caini.<br>
+<br>
+Ninge izbind in ziduri pana devin nefiresti,<br>
+<br>
+oarbe si fara stapani.<br>
+<br>
+Ninge. Si ochii se sparg, lasand afara<br>
+<br>
+vederi de piatra, privelisti marine,<br>
+<br>
+infatisari ale lumii fara de sine,<br>
+<br>
+micsorata, fugara.<br>
+<br>
+Ninge. Pupile rotunde, drepte, piezise,<br>
+<br>
+patrate, triunghiulare,<br>
+<br>
+inghetand in turturi fara culoare,<br>
+<br>
+atarnand de jgheaburi, de acoperise....<br>
+<br>
+Ochi rostogoliti in canale. Azvarliti cu lopata de lemn<br>
+<br>
+sa se faca partie goala, pe strada.<br>
+<br>
+Ochi, bulgari de gheata. Ochi, om-de-zapada.<br>
+<br>
+Ochi peste care trece sania-n clinchet solemn.<br>
+<br>
+Ochi mari. Din ce in ce mai mari, pana se sfarma.<br>
+<br>
+Ochi cu pupile negre latindu-se-ntruna,<br>
+<br>
+cat fereastra-n care bate luna,<br>
+<br>
+ochi cat zidul. Ninge. Ochi cat turla. Ochi de iarna.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Nichita Stănescu
+* **Temă:** iarna, ochi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
