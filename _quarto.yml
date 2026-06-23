@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - images/themes/
 
 website:
   # --- CHANGED: Updated title and description for better OG data ---
