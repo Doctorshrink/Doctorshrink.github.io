@@ -1,0 +1,56 @@
+---
+title: "Căldura ta - (A te melegséged)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-06-24"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U4pmc3oBe_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+De ce poză, statuie<br>
+<br>
+Vor să te fure din mine?<br>
+<br>
+Ar fi vii sau reci:<br>
+<br>
+Cine să-mi dea, încă,<br>
+<br>
+Căldura unică din tine?<br>
+<br>
+Mor în fiecare sărut<br>
+<br>
+Și învii pe buza ta,<br>
+<br>
+Sirocco-dame pot veni:<br>
+<br>
+Suflând căldura lor dulce,<br>
+<br>
+Atrofiantă, degeaba.<br>
+<br>
+Morți și vii, în zadar<br>
+<br>
+Te-ar dori în răcire,<br>
+<br>
+N-am alt foc, decât al tău.<br>
+<br>
+Cine să-mi dea, încă,<br>
+<br>
+Căldura unică din tine?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

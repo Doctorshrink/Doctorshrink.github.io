@@ -1,0 +1,124 @@
+---
+title: "Amintire de o noapte de vară - (Emlékezés egy nyár-éjszakára)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-06-24"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OLpvmK7-HZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Din Cer îngeri turbați au dat<br>
+<br>
+Alarmă pe Pământul trist,<br>
+<br>
+Sute de tineri s-au desfrânat,<br>
+<br>
+Sute de stele au căzut,<br>
+<br>
+Sute de cununi s-au destrămat:<br>
+<br>
+Ciudată,<br>
+<br>
+Ciudată noapte de vară a fost,<br>
+<br>
+S-a aprins stupul cel vechi,<br>
+<br>
+Mânzul și-a rupt piciorul,<br>
+<br>
+Am visat viu pe cel mort,<br>
+<br>
+Câinele, Burkus, a dispărut<br>
+<br>
+Și slujnica mută, Mári,<br>
+<br>
+A început să cânte zgomotos:<br>
+<br>
+Ciudată,<br>
+<br>
+Ciudată noapte de vară a fost.<br>
+<br>
+Au zăngănit potlogarii,<br>
+<br>
+Și omul sincer s-a pitulat,<br>
+<br>
+A furat și hoțul mofturos:<br>
+<br>
+Ciudată,<br>
+<br>
+Ciudată noapte de vară a fost.<br>
+<br>
+Știam, că omul e păcătos<br>
+<br>
+Și dator cu dragostea:<br>
+<br>
+Degeaba, tot a fost curios<br>
+<br>
+Rondul lumii noi și vechi.<br>
+<br>
+Luna pe cerul misterios:<br>
+<br>
+Omul atât de mic, nicicând<br>
+<br>
+N-a ajuns, cum atunci a fost:<br>
+<br>
+Ciudată,<br>
+<br>
+Ciudată noapte de vară a fost.<br>
+<br>
+Groaza cu poftă sarcastică<br>
+<br>
+Pe suflete s-a aplecat,<br>
+<br>
+În fiecare om a intrat<br>
+<br>
+Soarta tainică din străbuni,<br>
+<br>
+La nuntă cumplită, cruntă,<br>
+<br>
+Judecata a pornit băută,<br>
+<br>
+Feciorul mândru de Om,<br>
+<br>
+Care, iată, infirm, fără rost:<br>
+<br>
+Ciudată,<br>
+<br>
+Ciudată noapte de vară a fost.<br>
+<br>
+Am crezut, atunci am crezut,<br>
+<br>
+Că vreun Dumnezeu uitat<br>
+<br>
+Învie și mă ia în moarte<br>
+<br>
+Și, iată, încă tot trăiesc,<br>
+<br>
+Cum am rămas din acea noapte,<br>
+<br>
+Așteptând Domnul, îmi amintesc<br>
+<br>
+De o noapte groaznică,<br>
+<br>
+Scufundătoare de lume:<br>
+<br>
+Ciudată,<br>
+<br>
+Ciudată noapte de vară a fost.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

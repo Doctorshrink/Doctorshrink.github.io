@@ -1,0 +1,50 @@
+---
+title: "De la Ier la Ocean - (Az Értől az Óceánig)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-06-24"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Si-B6kbZee4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ier, râuț mare, fad, bizar,<br>
+<br>
+E plin de smârc, rogoz, papura.<br>
+<br>
+Crasna, Somes, Tisa, Dunăre<br>
+<br>
+Îi duc în Ocean spuma.<br>
+<br>
+Dacă m-ar îngropa chiar, cerul scit,<br>
+<br>
+Cu sute de osânde-n sânge,<br>
+<br>
+Cârtițele scobind baraje,<br>
+<br>
+La Ocean voi ajunge.<br>
+<br>
+Vreau, că e un curaj trist,<br>
+<br>
+Vreau, că e fast, minune:<br>
+<br>
+Cineva pornind de la gârlă<br>
+<br>
+Și în Ocean va ajunge.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

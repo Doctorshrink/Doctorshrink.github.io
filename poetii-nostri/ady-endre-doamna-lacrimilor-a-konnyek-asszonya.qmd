@@ -1,0 +1,74 @@
+---
+title: "Doamna lacrimilor - (A könnyek asszonya)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-06-24"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uL9E3js18hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Simt pe inimă fața tristă<br>
+<br>
+A doamnei cu lacrima,<br>
+<br>
+Cu degete roze, tremurând,<br>
+<br>
+Acum scobindu-mi inima.<br>
+<br>
+Desigur, simt și parfumul<br>
+<br>
+Degetului roz, să răpună<br>
+<br>
+Și pe inima-n sânge, trist,<br>
+<br>
+Lacrimi picură, picură.<br>
+<br>
+Gura ei plăcut mă mușcă,<br>
+<br>
+Părul aici flutură,<br>
+<br>
+Femeia aci distruge<br>
+<br>
+Aci, aci: în măduvă.<br>
+<br>
+Aci răzbunând pe viață,<br>
+<br>
+De trecut, mină aci să pună.<br>
+<br>
+Pe inima în sânge, trist,<br>
+<br>
+Lacrimi picură, picură.<br>
+<br>
+E mare vina mea. Ducă-se,<br>
+<br>
+Care are rând la soartă,<br>
+<br>
+Ca pe femeia-sfinx cu lacrimi<br>
+<br>
+S-o simtă, s-o înțeleagă.<br>
+<br>
+Rămânănd sfânta enigmă Ea,<br>
+<br>
+Rămânând mereu nouă.<br>
+<br>
+În fine, pe inimă, trist,<br>
+<br>
+Lacrimi picură, picură.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

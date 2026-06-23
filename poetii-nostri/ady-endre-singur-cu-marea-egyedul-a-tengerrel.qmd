@@ -1,0 +1,62 @@
+---
+title: "Singur cu marea - (Egyedül a tengerrel)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-06-24"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EXUpmNobizY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cameră de hotel, amurg, plajă.<br>
+<br>
+Plecă, n-o să văd niciodată,<br>
+<br>
+Plecă, n-o să văd niciodată.<br>
+<br>
+Lăsă o floare pe dormeză,<br>
+<br>
+O apuc dormeza deșuetă,<br>
+<br>
+O apuc dormeza deșuetă.<br>
+<br>
+Prins de parfumu-i, mă sărută,<br>
+<br>
+Jos marea muge, se bucură,<br>
+<br>
+Jos marea muge, se bucură.<br>
+<br>
+Departe un far luminează,<br>
+<br>
+Jos marea cântă, vino dragă,<br>
+<br>
+Jos marea cântă, vino dragă.<br>
+<br>
+Ascult apa mugind, violentă,<br>
+<br>
+Visând, pe dormeza deșuetă,<br>
+<br>
+Visând, pe dormeza deșuetă.<br>
+<br>
+În brațe mi-a fost, dând sărutul,<br>
+<br>
+Cântă marea, cântă trecutul,<br>
+<br>
+Cântă marea, cântă trecutul.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
