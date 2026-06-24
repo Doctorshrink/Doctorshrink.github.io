@@ -1,0 +1,52 @@
+---
+title: "Vânt aspru, vânt cu mânie"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-06-25"
+categories: [poezie, spoken-word, vant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6WyuKcxECQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vânt aspru, vânt cu mânie<br>
+<br>
+Pământ biciuiește,<br>
+<br>
+Troiene pe-ntinsa câmpie<br>
+<br>
+Întoarnă, trezește.<br>
+<br>
+Sub lună, pe verste,-ncrustate<br>
+<br>
+Almazuri sticloase,<br>
+<br>
+Și vântul se zbate și scoate<br>
+<br>
+Scrâșniri ca de oase.<br>
+<br>
+Din troițe orgă își face<br>
+<br>
+Și sună turbat<br>
+<br>
+Ai stepelor iepuri în pace<br>
+<br>
+Zăpezile bat.<br>
+<br>
+1847
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** vant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

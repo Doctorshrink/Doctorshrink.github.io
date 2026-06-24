@@ -1,0 +1,46 @@
+---
+title: "Seara limpede de vară - traducere V.Bragagiu"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-06-25"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yLqvMHXotB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+***<br>
+<br>
+Seara limpede de vară<br>
+<br>
+Vezi în moțăire sălcii?<br>
+<br>
+Prin apusul roșu-n pară<br>
+<br>
+Râu-și luce apa păcii.<br>
+<br>
+Lunecând din vârf în vârfuri<br>
+<br>
+Vântul codrul îl tresaltă.<br>
+<br>
+Auzi nechezatu-n câmpuri?<br>
+<br>
+Trapul herghelia-și poartă.<br>
+<br>
+1847
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

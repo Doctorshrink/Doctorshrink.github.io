@@ -1,0 +1,52 @@
+---
+title: "Când sânul tău fraged și blânda și calda"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-06-25"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NEMz7Q0IYEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Când sânul tău fraged și blânda și calda<br>
+<br>
+Lumină sărut a cosițelor tale,<br>
+<br>
+De ce tot încerci a-mi vorbi despre alta,<br>
+<br>
+Și ochii tăi n-au către ochii mei cale?<br>
+<br>
+De-i frigul aproape din orele serii,<br>
+<br>
+Eu bine te apăr sub mantia mea.<br>
+<br>
+În pâcle nu-i luna, și stele-s puzderii,<br>
+<br>
+Din toate ales-am o singură stea.<br>
+<br>
+Credință nu ai… Ci de-ai crede și-n clipă,<br>
+<br>
+Iubirea în mine cetire-ai întreagă.<br>
+<br>
+Arzând în sărut a-ndoielii aripă,<br>
+<br>
+În brațele tale, tu, zână, mă leagă.<br>
+<br>
+1842
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

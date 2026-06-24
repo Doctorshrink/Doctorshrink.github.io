@@ -1,0 +1,68 @@
+---
+title: "Tu în zori n-o trezi, când stăpân"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-06-25"
+categories: [poezie, spoken-word, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sJbD5bEEmKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Tu în zori n-o trezi, când stăpân,<br>
+<br>
+Mut și blând, numa&#x27; somnu-i în zori;<br>
+<br>
+Vin lumini lângă fragedu-i sân,<br>
+<br>
+În obrazu-i, lumină și flori.<br>
+<br>
+Dogorește omătul în perne<br>
+<br>
+Și o mistuie vis în văpăi<br>
+<br>
+Și cu bezne cosița-I așterne<br>
+<br>
+Vălurind peste umerii săi.<br>
+<br>
+Dar, aseară-ndelung,  la fereastră,<br>
+<br>
+Ea rămas-a vrăjită privind<br>
+<br>
+Cum prin nouri, pe bolta albastră,<br>
+<br>
+Valsa luna-mbrăcată-n argint.<br>
+<br>
+Și cu cât luna mai clară,<br>
+<br>
+Și pădurea de cânt se umplea,<br>
+<br>
+Își simțea clipa ei mai amară,<br>
+<br>
+În obraz tot mai mult ea pălea.<br>
+<br>
+De aceea pe fragedu-i sân<br>
+<br>
+Și-n obraz vine-I ziua cu flori.<br>
+<br>
+Tu acum n-o trezi, când stăpân<br>
+<br>
+Are somnul prea dulce în zori.<br>
+<br>
+1842
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

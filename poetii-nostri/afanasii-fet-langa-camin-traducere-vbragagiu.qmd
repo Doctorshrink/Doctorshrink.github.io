@@ -1,0 +1,110 @@
+---
+title: "Lângă cămin - traducere V.Bragagiu"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-06-25"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gFP_X6PoCW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+У камина<br>
+<br>
+Тускнеют угли. В полумраке<br>
+<br>
+Прозрачный вьется огонек.<br>
+<br>
+Так плещет на багряном маке<br>
+<br>
+Крылом лазурным мотылек.<br>
+<br>
+Видений пестрых вереница<br>
+<br>
+Влечет, усталый теша взгляд,<br>
+<br>
+И неразгаданные лица<br>
+<br>
+Из пепла серого глядят.<br>
+<br>
+Встает ласкательно и дружно<br>
+<br>
+Былое счастье и печаль,<br>
+<br>
+И лжет душа, что ей не нужно<br>
+<br>
+Всего, чего глубоко жаль.<br>
+<br>
+1856<br>
+<br>
+Literal.<br>
+<br>
+Lângă cămin<br>
+<br>
+Se sting cărbunii. În semiîntuneric<br>
+<br>
+Se-nvârte focușorul străveziu<br>
+<br>
+Așa stropește purpuriul mac<br>
+<br>
+Cu aripi azuriul fluturaș.<br>
+<br>
+Un șir de pestrițe vedenii<br>
+<br>
+Atrag, amăgind privirea obosită<br>
+<br>
+Și fețe nelămurite<br>
+<br>
+Din scrumul sur privesc.<br>
+<br>
+Se înalță mângâietor și prietenos<br>
+<br>
+Fosta fericire și tristețe<br>
+<br>
+Și minte sufletul că nu îi trebuiește<br>
+<br>
+Tot, după ce acum regretă adânc.<br>
+<br>
+Lângă cămin<br>
+<br>
+Jăraticul încet se stinge,<br>
+<br>
+Un foc se-nvărte străveziu<br>
+<br>
+Precum stropește-un mac în sânge<br>
+<br>
+Un fluturaș liliachiu.<br>
+<br>
+În șir, imaginile mute<br>
+<br>
+Invită văzul obosit<br>
+<br>
+Și fețele necunoscute<br>
+<br>
+Din scrumul sur au răsărit.<br>
+<br>
+Prietenoase-n mângâiere<br>
+<br>
+Vin foste fericiri din greu<br>
+<br>
+Și mint că sufletul nu-mi  cere<br>
+<br>
+Tot după ce îmi pare rău.<br>
+<br>
+1856
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

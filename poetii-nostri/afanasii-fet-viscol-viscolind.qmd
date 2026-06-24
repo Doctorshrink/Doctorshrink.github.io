@@ -1,0 +1,60 @@
+---
+title: "Viscol, viscolind"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-06-25"
+categories: [poezie, spoken-word, iarna, vant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9qdGU8BL0mU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Viscol, viscolind<br>
+<br>
+Drum a măturat.<br>
+<br>
+Luna, bănuind,<br>
+<br>
+Cată peste sat.<br>
+<br>
+Ieși la geam de-i sta –<br>
+<br>
+Ce-i pân&#x27; a greși?<br>
+<br>
+Zori vor lumina,<br>
+<br>
+Urmele-or ivi.<br>
+<br>
+Slobozi pe afară,<br>
+<br>
+Câinii, răi, se țin.<br>
+<br>
+”Vină-n astă seară” –<br>
+<br>
+Pot ca să nu vin?<br>
+<br>
+Sar ca-ntotdeauna<br>
+<br>
+Gardul de nuia –<br>
+<br>
+Soacra și cu luna,<br>
+<br>
+Poate, n-or vedea.<br>
+<br>
+Iarna lui 1855
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** iarna, vant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
