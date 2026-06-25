@@ -1,0 +1,68 @@
+---
+title: "Bucuria"
+subtitle: "Alain Bosquet"
+author: "Doctor Shrink"
+date: "2026-06-26"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w2RQ8Bxuoxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Bucuria, bucuria<br>
+<br>
+un soare întreg<br>
+<br>
+un refren de fluviu și câmpie<br>
+<br>
+mulțumesc mulțumesc că am trăit<br>
+<br>
+mulțumesc mulțumesc că sunt viu<br>
+<br>
+și satul bătrân<br>
+<br>
+și teiul care dansează<br>
+<br>
+și pavajul<br>
+<br>
+ce râde ca un acordeon<br>
+<br>
+și drumul mare<br>
+<br>
+care adună toate stelele<br>
+<br>
+și cockerul<br>
+<br>
+cu un strop de rouă între ochi<br>
+<br>
+și tucanul<br>
+<br>
+ca o insulă în propriul său cioc<br>
+<br>
+bucuria de a fi tu însuți și de a regreta<br>
+<br>
+bucuria ca o torță aniversară<br>
+<br>
+și durerea totuși la fund<br>
+<br>
+ca fracul nou-nouț a celor douăzeci de ani<br>
+<br>
+ca fracul cu stofa rărită a celor treizeci de ani<br>
+<br>
+o mică bucurie-atât de tristă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alain Bosquet
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

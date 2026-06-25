@@ -1,0 +1,54 @@
+---
+title: "Lumină din amurg"
+subtitle: "Agatha Bacovia"
+author: "Doctor Shrink"
+date: "2026-06-26"
+categories: [poezie, spoken-word, lumina, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ImaScui0_Sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Lumină din amurg, lumină nouă,<br>
+<br>
+Îmi amurgesc şi mie anii<br>
+<br>
+Ca şi ţie,<br>
+<br>
+Când te-nfăşoară-a nopţilor<br>
+<br>
+Magie...<br>
+<br>
+Lumină din amurg şi viaţa mea,<br>
+<br>
+Cu nici o stea,<br>
+<br>
+Cu nici o izbândire...<br>
+<br>
+Dormi peste şesuri largi de nea,<br>
+<br>
+Eşti rece şi te stingi,<br>
+<br>
+Lumina mea,<br>
+<br>
+În trista haosului risipire...<br>
+<br>
+Lumină din amurg,<br>
+<br>
+Lumină grea!...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Agatha Bacovia
+* **Temă:** lumina, soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

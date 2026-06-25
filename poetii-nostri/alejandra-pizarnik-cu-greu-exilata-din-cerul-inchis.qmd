@@ -1,0 +1,38 @@
+---
+title: "~ Cu greu exilată din cerul închis"
+subtitle: "Alejandra Pizarnik"
+author: "Doctor Shrink"
+date: "2026-06-26"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e0X6C6ApiJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+~<br>
+<br>
+Cu greu exilată din cerul închis<br>
+<br>
+unde eram, fără culoare și fără formă,<br>
+<br>
+doar o contemplată<br>
+<br>
+cu greu retrimisă în crepusculul<br>
+<br>
+plajei însingurate, inimii tăcute.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alejandra Pizarnik
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

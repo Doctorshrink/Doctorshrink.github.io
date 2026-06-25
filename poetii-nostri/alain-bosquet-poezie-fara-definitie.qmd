@@ -1,0 +1,56 @@
+---
+title: "Poezie fără definiție"
+subtitle: "Alain Bosquet"
+author: "Doctor Shrink"
+date: "2026-06-26"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LAiQUlVFW98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Poezie, acest ulcer de-a curmezișul beregatei.<br>
+<br>
+Poezie, acest vultur care-ți curăță craniul.<br>
+<br>
+Poezie, acest pocker unde-ți pierzi mințile.<br>
+<br>
+Poezie, această datorie de a scăpa de real.<br>
+<br>
+Poezie, tăcerea-ți unde se omoară unul pe altul cuvintele.<br>
+<br>
+Poezie, această floare țipătoare și carnivoră.<br>
+<br>
+Poezie, această soră care se culcă sub pielea ta.<br>
+<br>
+Poezie, această insultă adusă celor mai gingașe lucruri.<br>
+<br>
+Poezie, această răscoală în adâncul tandreței.<br>
+<br>
+Poezie, refuzul împărăției vizibile.<br>
+<br>
+Poezie, acest venin ce-ți injectează-ndoiala.<br>
+<br>
+Poezie, această grădină unde copacii-s nebuni.<br>
+<br>
+Poezie, o lecție ca să nu înveți nimic.<br>
+<br>
+Poezie, întoarcerea la oceanul natal<br>
+<br>
+Poezie, fericirea de a nu mai fi tu, ci altul.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alain Bosquet
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

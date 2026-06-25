@@ -1,0 +1,100 @@
+---
+title: "Cantarea Romaniei"
+subtitle: "Alecu Russo"
+author: "Doctor Shrink"
+date: "2026-06-26"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N1ZAevkL-Ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+CANTAREA ROMÎNIEI<br>
+<br>
+Doina și iar doina !.cantecul meu e versul<br>
+<br>
+de moarte al poporului la sezătoarea priveghiului.<br>
+<br>
+pămantul ii e de lipsa.și aerul îl îneacă. văzut-am flăcăi<br>
+<br>
+scuturandu-și pletele. și fruntea lor a se încreti fără de vreme.,<br>
+<br>
+florile de pe capul copilelor a se veșteji. și poporul cantand în betie<br>
+<br>
+uitarea necazurilor. Trist e cantecul în sărbatorile satului: Birul e greu,<br>
+<br>
+podvoada e grea !. Bătranii își ascund ochii plini de lacrimi, bărbații<br>
+<br>
+stau obiditi., cantecele să sfărșesc în blastamuri. și copii cainează<br>
+<br>
+nașterea lor. Poporul e stîlpul țării. fiecare particica de pămant e vapsită<br>
+<br>
+de sangele lui. și îintr-o zi ni s&#x27;au zis: Muncește, Romane, de dimineață<br>
+<br>
+panăîin seara. și rodul muncii nu va fi al tău !. tatăl tău ți-au lăsat de<br>
+<br>
+moștenire o tărină și arme. și nu te vei bucura de dansele. și tu vei<br>
+<br>
+trai veșnic robind., trupul și sufletul tău vor fi străini pe pămîntul înrodit<br>
+<br>
+de tine. vei plăti aerul ce răsufli. vei plăti soarele ce te incălzește și<br>
+<br>
+locul unde zac oasele mamei tale, vei plăti dreptul să crești vaca ce<br>
+<br>
+hrănește pe copiii tăi și boul ce-ți ajuta la muncă. trupul tău se va gîrbovi<br>
+<br>
+subt bătaie și partea ta în lume va fi ocară ! Veneticii, zisu-ne-au în limba lor:<br>
+<br>
+Al nostru e pămantul și acei ce locuesc pe dînsul. ale noastre cîmpurile.<br>
+<br>
+ale noastre dealurile. ale noastre cătunele, satele și tîrgurile, colibele și<br>
+<br>
+curțile, toată mascarea și toata suflarea. Tu ai fost puternic ăi viteaz în luptă.<br>
+<br>
+dar puterile tale s&#x27;au tocit de sărăcie și de stricăciune. și noi am cules rodul<br>
+<br>
+vitejiei tale. vor veni feciori cu mîngîieri mincinoase de ți-or povesti că ești și<br>
+<br>
+tu un popor. noi suntem păstorii. tu ești turma chinurilor. toți își bat joc de<br>
+<br>
+vieața, muncă și sărăcia ta, și slugile slugilor calc peste trupul tău. cei ce zic<br>
+<br>
+ca sunt aleșii tăi cresc în măriri și avuții și ție-ți este frig și copiilor tăi le este<br>
+<br>
+foame !. Ei fac legi, dar nu pentru dînșii, ci pentru împovararea ta !.<br>
+<br>
+Doina și iar doina !.. suntem pribegi în coliba părintească. și străini în pămîntul<br>
+<br>
+răscumpărat cu sîngele nostru !.. Dar în campie creste, și pe dealuri iarăși crește o<br>
+<br>
+floare pentru popoarele chinuite. Nadejdea !<br>
+<br>
+Ești searbadă și slăbanogită.ai suferit toate. o țară de chinuri !. Ridică-ți capul<br>
+<br>
+strivit și caută de vezi., semne s&#x27;au arătat pe ceriu.furtuna mîntuirii au început !.<br>
+<br>
+Cinge-ți coapsa, țară romană. și-ți întărește inima. miază noapte și<br>
+<br>
+miază zi, apusul și răsăritul, lumina și întunericul, cugetul disbrăcător și dreptatea<br>
+<br>
+s&#x27;au luat la luptă. Urlă vijelia de pe urmă. duhul Domnului trece pre pămant !.<br>
+<br>
+˙<br>
+<br>
+Adăugată de către-Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alecu Russo
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

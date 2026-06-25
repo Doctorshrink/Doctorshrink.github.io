@@ -1,0 +1,76 @@
+---
+title: "Poet mort"
+subtitle: "Alain Bosquet"
+author: "Doctor Shrink"
+date: "2026-06-26"
+categories: [poezie, spoken-word, moarte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dro1JJQoecg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Poet mort pe eșafod.<br>
+<br>
+Poet mort cu ochii străpunși.<br>
+<br>
+Poet mort într-un duel.<br>
+<br>
+Poet mort fiindcă a iubit această lume.<br>
+<br>
+Poet mort pentru că a criticat această lume.<br>
+<br>
+Poet mort pentru patrie.<br>
+<br>
+Poet mort pentru patria celorlalți.<br>
+<br>
+Poet mort din dragoste.<br>
+<br>
+Poet mort din lipsă de dragoste.<br>
+<br>
+Poet mort pentru libertatea noastră.<br>
+<br>
+Poet mort pentru beția noastră.<br>
+<br>
+Poet mort pentru zece mii de motive.<br>
+<br>
+Poet mort pentru nici un motiv.<br>
+<br>
+Poet mort precum o floare de liliac: e prea stupid.<br>
+<br>
+Poet mort precum o păsărică botgros: nu plângeți.<br>
+<br>
+Poet mort l-au spânzurat.<br>
+<br>
+Poet mort nu a fost înțeles.<br>
+<br>
+Poet mort sub povara cuvintelor.<br>
+<br>
+Poet mort pentru că nu și-a găsit cuvintele.<br>
+<br>
+Poet mort de a fi știut cine e.<br>
+<br>
+Poet mort de a nu se fi cunoscut.<br>
+<br>
+Poet mort ca să facă loc certitudinilor.<br>
+<br>
+Poet mort spre a ne înfrumuseța îndoielile.<br>
+<br>
+Poet mort așa cum cad arborii.<br>
+<br>
+Poet mort pentru a nu deranja nepăsarea. – Tăcere, tăcere: aici, niciodată, un poet nu e mort.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alain Bosquet
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
