@@ -1,0 +1,56 @@
+---
+title: "Furtuna geme ne-ncetat,"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-06-27"
+categories: [poezie, spoken-word, vant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3FUxqywJ_So" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+&quot;O, voi sărmanidezmoșteniți ai soartei&#x27;&#x27;...<br>
+<br>
+Lear<br>
+<br>
+Furtuna geme ne-ncetat,<br>
+<br>
+Șin-geamuri bate și vuiește<br>
+<br>
+Și norii trec și stropii cad,<br>
+<br>
+Și vântu urlă nebunește!<br>
+<br>
+Grozavă noapte plâng acum<br>
+<br>
+Pe cei goniți și fără casă,<br>
+<br>
+Și mila mă gonește-n drum,<br>
+<br>
+În noaptea rece fioroasă!...<br>
+<br>
+Să lupt în beznă ne-nfricat,<br>
+<br>
+S-ajut pe cel ce flămânzește...<br>
+<br>
+Furtuna geme ne-ncetat<br>
+<br>
+Și vântul urlă nebunește!<br>
+<br>
+24 august 1889
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** vant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

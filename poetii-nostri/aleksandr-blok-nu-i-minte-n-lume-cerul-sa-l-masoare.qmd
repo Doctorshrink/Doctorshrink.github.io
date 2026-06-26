@@ -1,0 +1,58 @@
+---
+title: "Nu-i minte-n lume cerul să-l măsoare"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-06-27"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iQU8QSrncd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+ȘAHMATOVO.<br>
+<br>
+VARA ȘI TOAMNA ANULUI 1901<br>
+<br>
+Nu-i minte-n lume cerul să-l măsoare,<br>
+<br>
+Azuru-i de ne-atins de pe pământ.<br>
+<br>
+Doar serafimii uneori coboară<br>
+<br>
+Aleșilor vreun sacru vis ducând.<br>
+<br>
+Și-mi pare-așa pe Venus c-am văzut-o,<br>
+<br>
+Cu trupul strâns într-o tunică grea,<br>
+<br>
+Senină-n puritatea-i, nemăsurat de tristă -<br>
+<br>
+Un vis suav pe chipu-i se citea.<br>
+<br>
+Ea pe pământ fuse-se și-altădată,<br>
+<br>
+Dar pentru prima oară-o-nconjurau<br>
+<br>
+Nu mulți voinici, ci o galantă gloată...<br>
+<br>
+Și straniu ochii ei adânci sclipeau.<br>
+<br>
+29 mai 1901, Șahmatovo<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

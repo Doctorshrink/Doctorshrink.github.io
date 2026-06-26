@@ -1,0 +1,62 @@
+---
+title: "Când împrejur e uitare"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-06-27"
+categories: [poezie, spoken-word, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MCJtNAGV7oI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Când împrejur e uitare<br>
+<br>
+Și-i liniște-n asfințit,<br>
+<br>
+Privește cu blândă-alinare<br>
+<br>
+Prin stuful de mal răsărit.<br>
+<br>
+În zile de lenevie<br>
+<br>
+Mă plimb pe-acolo și eu.<br>
+<br>
+Nu-n stufuri oare să fie<br>
+<br>
+Văpăile focului meu?<br>
+<br>
+Privește severă, senină,<br>
+<br>
+În ochii fostului gând.<br>
+<br>
+Pășind pe-o cale străină,<br>
+<br>
+Eu alte cântece cânt...<br>
+<br>
+Curând amurg în calea<br>
+<br>
+Destinului va ieși.<br>
+<br>
+Va fi răsturnată cărarea-mi,<br>
+<br>
+La tine eu iar voi veni.<br>
+<br>
+mai 1902<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,108 @@
+---
+title: "Casei Pușkin"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-06-27"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kYdf9GGD3rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Casa Pușkin ! Doar se știe;<br>
+<br>
+Că-i un vechi așezământ !<br>
+<br>
+For de-naltă- Academie,<br>
+<br>
+Nu-i o simplă vorbă-n vânt !<br>
+<br>
+Este zvonul gheții sparte<br>
+<br>
+Lunecând pe râu ușor,<br>
+<br>
+E vaporul ce departe<br>
+<br>
+Cheamă-ntr-una alt vapor.<br>
+<br>
+E străvechiul Sfinx, bătrânul<br>
+<br>
+Spre talazuri ațintit,<br>
+<br>
+Calărețu-n bronz ce-și mână<br>
+<br>
+Bidiviul neclintit.<br>
+<br>
+Știe-ntreaga noastră jale<br>
+<br>
+Neva tainica - doar ea !<br>
+<br>
+Cum în noaptea alba-n cale<br>
+<br>
+Ziua neagră ne ieșea.<br>
+<br>
+Neva ne-a deschis senină<br>
+<br>
+Orizontu-nflăcărat,<br>
+<br>
+Alte zile-am vrut să vină,<br>
+<br>
+Alte veacuri am visat !<br>
+<br>
+Ca o scurtă înșelare<br>
+<br>
+Jugul zilelor trecea,<br>
+<br>
+Ochiu-n ceața plutitoare<br>
+<br>
+Alte zile desprindea.<br>
+<br>
+Pușkin ! Sfânta libertate<br>
+<br>
+O cântam și noi cu dor,<br>
+<br>
+Dă-ne mâna ta de frate,<br>
+<br>
+Dă-ne-n luptă ajutor.<br>
+<br>
+Tu, cu sunete duioase,<br>
+<br>
+Ne vrăjeai pe-atunci ! Și-apoi,<br>
+<br>
+Pușkin, nu ne-naripase<br>
+<br>
+Voioșia ta pe noi ?<br>
+<br>
+De aceea doar se știe :<br>
+<br>
+Nu-i o simplă vorbă-n vânt<br>
+<br>
+Casa ta-n Academie,<br>
+<br>
+Ci-i un vechi așezământ !<br>
+<br>
+Când Senatu-n Piața-i pradă<br>
+<br>
+Întunericului mut,<br>
+<br>
+Eu trecând tăcut pe stradă<br>
+<br>
+Casa, Pușkin, ți-o salut !<br>
+<br>
+29 ianuarie- 11 febroarie 1921
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

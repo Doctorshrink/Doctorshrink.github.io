@@ -1,0 +1,68 @@
+---
+title: "Hărăzitu-ne-a Soare"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-06-27"
+categories: [poezie, spoken-word, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dKizp37JnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Și Duhul și Mireasa zis:<br>
+<br>
+&#x27;&#x27;Vino&#x27;&#x27;.<br>
+<br>
+APOCALIPSA<br>
+<br>
+Hărăzitu-ne-a Soare,<br>
+<br>
+Cred în el neclintit.<br>
+<br>
+Văd lumina răsare<br>
+<br>
+Din pământu-amorțit.<br>
+<br>
+Primăvara-mprăștie<br>
+<br>
+Tot ce-n iarnă-a mințit.<br>
+<br>
+Înspre calea-mi pustie -<br>
+<br>
+Un hotar aurit.<br>
+<br>
+Rătăcesc în neștire,<br>
+<br>
+Trec prin codrii de crini.<br>
+<br>
+Văd în lină plutire<br>
+<br>
+Prin azur serafimi.<br>
+<br>
+Preacurata lumină,<br>
+<br>
+Ba se-arată, ba nu-i.<br>
+<br>
+Ochii Tăi mă-nsenină,<br>
+<br>
+Cred în soarele Lui.<br>
+<br>
+22 februarie 1902<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

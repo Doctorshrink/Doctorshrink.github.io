@@ -1,0 +1,52 @@
+---
+title: "Ma voi trezi in zori, de dimineata"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-06-27"
+categories: [poezie, spoken-word, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_upgIY3rDVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ma voi trezi in zori de dimineata<br>
+<br>
+Si soarele ma va izbi in fata.<br>
+<br>
+Cerdacul meu de multa vreme-asteapta<br>
+<br>
+Sa-i urci, iubito, treapta dupa treapta.<br>
+<br>
+Fereste voi deschide spre gradina<br>
+<br>
+Sa intre vand in casa, si lumina.<br>
+<br>
+De multa vreme, sub obloane trase,<br>
+<br>
+N-au mai sunat aici cantari voioase.<br>
+<br>
+Cu soarele odata, si cu vantul<br>
+<br>
+Sa se auda-n zori de ziua cantul.<br>
+<br>
+Ca eu, cu orice pas al tau pe scara,<br>
+<br>
+Sa mor si sa-nviez pe urma iara.<br>
+<br>
+3 octombrie 1901
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
