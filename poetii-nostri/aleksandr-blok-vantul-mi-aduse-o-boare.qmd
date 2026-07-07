@@ -1,0 +1,54 @@
+---
+title: "Vântul mi-aduse o boare"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-07-04"
+categories: [poezie, spoken-word, vant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V6nWPx3sazk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vântul mi-aduse o boare<br>
+<br>
+Pală de cântec. Stingher,<br>
+<br>
+Limpede-și scapără-n zare<br>
+<br>
+Ochiul un petic de cer<br>
+<br>
+Și-n azuria-nserare<br>
+<br>
+A primăverii venind,<br>
+<br>
+Viscolul plânge cu jale,<br>
+<br>
+Vise stelare trezind.<br>
+<br>
+Plâng, neguroase, supuse,<br>
+<br>
+Strunele-mi pline de dor.<br>
+<br>
+Vântul o boare mi-aduse -<br>
+<br>
+Cântul tău gingaș, sonor.<br>
+<br>
+29 ianuarie 1901<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** vant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

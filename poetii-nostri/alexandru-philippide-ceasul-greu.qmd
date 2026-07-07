@@ -1,0 +1,168 @@
+---
+title: "Ceasul greu"
+subtitle: "Alexandru Philippide"
+author: "Doctor Shrink"
+date: "2026-07-08"
+categories: [poezie, spoken-word, timp]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qXU-whLIZCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Mi-era pustiu în suflet. Plin de trudă<br>
+<br>
+Mergeam pe malul unei ape,<br>
+<br>
+Si blestemam în gândul meu cu ciudă.<br>
+<br>
+Blestem nu era de necaz ori ură;<br>
+<br>
+De nici un om n-aveam ca să mă plâng;<br>
+<br>
+Dar îmi muşcam din suflet să nu plâng;<br>
+<br>
+- Si parc-aş fi muşcat din zgură.<br>
+<br>
+Si doar pornisem blând de dimineaţă,<br>
+<br>
+Cu ochii mari şi gândurile-n vânt!<br>
+<br>
+Mă bucuram de flori, de vânt, de viaţă,<br>
+<br>
+Si mă simţeam la mine-acasă,<br>
+<br>
+Oriunde pe pământ.<br>
+<br>
+In urma mea oraşul ca o fiară<br>
+<br>
+Cu solzi de zmoală şi aripi de fum<br>
+<br>
+Işi clocotea urgia seculară.<br>
+<br>
+Dar eu pornisem singur, din zori, blajin, la drum.<br>
+<br>
+Nu mă aveam decât pe mine-n minte,<br>
+<br>
+Mă bucuram de mine ca de-o plantă<br>
+<br>
+Pe care-o creşti cu grijă, zi cu zi;<br>
+<br>
+Si-un singur gând aveam: tot înainte.<br>
+<br>
+Mai mult decât oricând eram departe<br>
+<br>
+De orice gând nemernic, de orice dor milog<br>
+<br>
+De unde-atunci venise ca un fior de moarte<br>
+<br>
+Dorinţa asta crudă: să mă rog?<br>
+<br>
+Lăsasem în oraşul de piatră şi metal<br>
+<br>
+Biserici proaspete de cărămidă<br>
+<br>
+Cu-nfăţişare roşă de spital<br>
+<br>
+Si clopote ce sună cu scârbă şi obidă.<br>
+<br>
+Dar gândul nu-mi fusese niciodată<br>
+<br>
+Să-ngenunchez pe lespedea lor tristă,<br>
+<br>
+Iar dumnezeul lor, dacă există,<br>
+<br>
+Mă îndoiam în ele să fi intrat vreodată.<br>
+<br>
+Cu pumnu-n inimă-mi dădeam, spunând:<br>
+<br>
+Dorinţa mi-i nevolnică şi mică.<br>
+<br>
+Cui să mă rog? De ce? Te rogi de frică:<br>
+<br>
+Nu tremură în mine nici un gând;<br>
+<br>
+Si sufletul mi-l simt ca-ntotdeauna<br>
+<br>
+Pe-atât de mândru pe cât e de bând.<br>
+<br>
+Cât despre Dumnezeul cel de-acum,<br>
+<br>
+In faţa lui dorinţa mi-o măsur prea adâncă.<br>
+<br>
+E drept că-n el se scaldă atâţia oameni încă,<br>
+<br>
+Dar eu sunt singur, nimeni nu m-a-nsoţit la drum!<br>
+<br>
+Cum aş fi vrut un fir de adevăr!<br>
+<br>
+Un adevăr  o, fie cât de mic <br>
+<br>
+Să mi-l culeg şi să mi-l prind în suflet,<br>
+<br>
+Să mi-l culeg Dar nu găseam nimic.<br>
+<br>
+Mai ieri aveam atâtea adevăruri,<br>
+<br>
+Savante mingi cu care mă jucam!<br>
+<br>
+Pe unul singur le-aş fi dat pe toate:<br>
+<br>
+Pe-acela numai aş fi vrut să-l am.<br>
+<br>
+O, ceasul greu  o, ceasul rău  o, ceasul<br>
+<br>
+Pe care-ai vrea să-l sari în timp, să-l treci,<br>
+<br>
+- Când nu e clopot să-i rostească glasul<br>
+<br>
+Si să vestească clipele lui reci.<br>
+<br>
+Fusese drumul lung şi obosisem.<br>
+<br>
+Mi-am aşternut truditul trup<br>
+<br>
+Pe-o pajişte la care poposisem.<br>
+<br>
+Spre-un fir de iarbă m-am plecat, să-l rup.<br>
+<br>
+Dar mâna-mi şovăi o clipă, oarbă,<br>
+<br>
+Si făr-a-l rupe-l mângâia uşor<br>
+<br>
+Când gândul meu deodată frânt din zbor<br>
+<br>
+Se agăţă de firul zvelt de iarbă.<br>
+<br>
+Nu ştiu dar nu mai cugetam acum<br>
+<br>
+La firul meu de adevăr fără prihană.<br>
+<br>
+Trecuse ceasul greu?<br>
+<br>
+Pornii la drum,<br>
+<br>
+Cu firul meu de iarbă, pe suflet, ca pe-o rană.<br>
+<br>
+Mergeam din nou pe mal ca dimineaţă<br>
+<br>
+Cu ochii mari şi gândurile-n vânt.<br>
+<br>
+Mă bucuram de flori, de vânt, de viaţă.<br>
+<br>
+Si-n loc ca să mă rog, am început să cânt.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Philippide
+* **Temă:** timp
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

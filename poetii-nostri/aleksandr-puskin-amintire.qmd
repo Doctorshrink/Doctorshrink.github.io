@@ -1,0 +1,43 @@
+---
+title: "Amintire"
+subtitle: "Aleksandr Puşkin"
+author: "Doctor Shrink"
+date: "2026-07-04"
+categories: [poezie, spoken-word, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ZiNPdwe4-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cînd zarva zilei se preface-n şoapte,<br>
+Şi-n pieţele, de linişte-acum pline,<br>
+Şi-aşterne umbra străvezia noapte,<br>
+Iar somnul cu răsplata trudei vine,<br>
+Atunci începe truda mea şi chinul,<br>
+Şi ceasurile picură-n tăcere:<br>
+În nemişcarea nopţii simt veninul<br>
+Mustrărilor arzînd pîn’la durere.<br>
+În cugetul meu trist, noiam de vise,<br>
+Sfîşietoare gînduri s-au ivit.<br>
+Iar amintirea iese din abise<br>
+Rostogolindu-şi gheamul nesfîrşit.<br>
+Şi recitindu-mi viaţa mea în silă<br>
+Blestem şi mă cutremur, plîng amar,<br>
+Dar rîndurile triste de pe filă<br>
+Răsar prin pînza lacrimilor iar.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Puşkin
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

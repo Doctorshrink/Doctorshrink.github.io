@@ -1,0 +1,170 @@
+---
+title: "Ruinelor cetăţii Neamţu"
+subtitle: "Alexandru Hrisoverghi"
+author: "Doctor Shrink"
+date: "2026-07-08"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WkHYzOfUkrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Odă<br>
+<br>
+I<br>
+<br>
+Vă iubesc, răsipuri sfinte, sămn mărirei strămoşeşti,<br>
+<br>
+Zid vechi ce de p-al tău munte, încă patria-mi slăveşti.<br>
+<br>
+A cărora-nfăţoşare orişicui samini a zice:<br>
+<br>
+„M-au părăsit cetăţenii, m-au daramat cruda vreme,<br>
+<br>
+Dar copii strămoşii voştri odineoară aice<br>
+<br>
+Ocrotea patria voastră de vrăjmaşi făr-a se teme”.<br>
+<br>
+O, singure monument ce te aveam drept dovadă<br>
+<br>
+Slavei acei strămoşeşti! Videţi-l cum a să cadă!<br>
+<br>
+O, ziduri din care Ştefan, înviat la bărbăţie,<br>
+<br>
+Întorcându-se cu grabă, pe vrajmaşi au biruit,<br>
+<br>
+Însufleţiţi-mi puterea, daţi-mi glas, daţi-mi tărie,<br>
+<br>
+Să pot tângui cu jale starea-n care aţi venit.<br>
+<br>
+II<br>
+<br>
+Rădice-se pân&#x27; la ceruri tânguirea şi strigarea<br>
+<br>
+A obştiei moldovene! Plânsul, bocitul şi jalea<br>
+<br>
+Meargă adânc să răsune pe bolta acea cerească;<br>
+<br>
+A lor zile cu Cetatea Neamţul să se risipească!<br>
+<br>
+Vedeţi sfântul loc acela, unde viteji-au murit,<br>
+<br>
+De copii cum se dăramă, se sapă păn-în pământ.<br>
+<br>
+Lăcomia unor aprigi, după vreme patrioţi,<br>
+<br>
+Sfântul loc îl defăimează, ca nişte vitregi, ca hoţi!<br>
+<br>
+O, pavăză neînvins-a neamului moldovinesc!<br>
+<br>
+Ca să-ţi dau destulă slavă, ce cuvinte să găsesc!<br>
+<br>
+Tu, care cu-a ta umbrire veacuri întregi ai păzit<br>
+<br>
+Fala strămoşilor noştri, viaţa le-ai ocrotit,<br>
+<br>
+Viaţa ce ei ne-au dat nouă, prin care astăzi trăim,<br>
+<br>
+De a ei pastrare-acuma, noi ţie să-ţi mulţămim.<br>
+<br>
+Sângele lor ce ş-acuma curge prin a noastre vine<br>
+<br>
+S-au pastrat, cetate sfântă, s-au pastrat de cătră tine.<br>
+<br>
+Paza zidurilor tale pe vrajmaşi batjocorea,<br>
+<br>
+Când pe mii de duşmani leşi optspre&#x27;ce plăieşi bătea,<br>
+<br>
+Tu, care la orişicare defăimare de străin<br>
+<br>
+Erai stavilă; ş-acuma erai un martur deplin<br>
+<br>
+Unei slave, unei soarte, ce-n veci au încoronat<br>
+<br>
+Armele patriei mele, când de viteji s-au purtat.<br>
+<br>
+Tu, care cu-a ta umbrire învitezi la bărbăţie,<br>
+<br>
+Prin aducere-aminte, şi acum fiind pustie,<br>
+<br>
+Pe tot moldovanul care păstrează strămoşesc sânge,<br>
+<br>
+Pe tot tânărul ce poate o sabie a încinge.<br>
+<br>
+III<br>
+<br>
+O, fraţilor moldoveni, bătrâni, tineri, de-a valmă,<br>
+<br>
+Veacurilor viitoare nu gândiţi că-i să daţi samă?<br>
+<br>
+Şi puteţi cu sânge răce privi ace daramare?<br>
+<br>
+Nu opriţi barbara faptă, nu-nălţaţi toţi o strigare?<br>
+<br>
+Priviţi marturul ce unul din veacuri ne rămăsese,<br>
+<br>
+Că neamul nostru din neamuri de viteji se alesăse,<br>
+<br>
+Cum îl darămă şi-l strică lăcomia-n sumeţire,<br>
+<br>
+Şi îşi face ei palaturi, spre a-şi găsi mulţămire.<br>
+<br>
+Voi sunteţi cei de dăunăzi când pe Teatru cânta<br>
+<br>
+Trei franţuji în altă limbă, şi cetatea o sărba,<br>
+<br>
+Strigaţi şi băteaţi în palme, plângeaţi cu lacrimi fierbinţi,<br>
+<br>
+Căutaţi unul la altul, daţi din cap, crâşcaţi din dinţi;<br>
+<br>
+Ş-acum vedeţi daramarea, şi nu ziceţi un cuvânt!<br>
+<br>
+Oar-au fost de bucurie, că ei joacă pe mormânt?<br>
+<br>
+Oare nu era ş-acele vro jărtvă d-a măgulirii?<br>
+<br>
+Nu, fraţilor, nu, vă rog, nu mai daţi prilej hulirii,<br>
+<br>
+Nu vă mai trageţi asupră-vi hula neamurilor toate,<br>
+<br>
+Ci strigaţi, opriţi pacatul, cereţi cu glas o dreptate.<br>
+<br>
+Iară voi care pacatul nu vă sumeţiţi a-l face,<br>
+<br>
+Ci patimii vă-nchinaţi, cugetul poate vă tace?<br>
+<br>
+N-aţi gândit că-i să daţi samă veacurilor viitoare?<br>
+<br>
+N-aţi gândit c-al vostru nume, lor lasaţi spre blastamare?<br>
+<br>
+Aceast-a voastră urmare, o defăimare obştească,<br>
+<br>
+Prin aducere-aminte, în veci să v-agonisască.<br>
+<br>
+Lăcomia de voi însuşi şi de a voastră avere<br>
+<br>
+Bucure-se, aibă parte, stăpâneasc-o în putere,<br>
+<br>
+Iar blăstămul cu-a sa mână în firea toată să săpe<br>
+<br>
+A voastre nume urâte! Cu ţâţa să se adăpe<br>
+<br>
+Pruncilor viitorimei, blăstemul cel mai urât<br>
+<br>
+A nevinovatei guri fie cel întâi cuvânt!!!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Hrisoverghi
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

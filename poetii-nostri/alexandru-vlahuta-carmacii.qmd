@@ -1,0 +1,202 @@
+---
+title: "Cârmacii"
+subtitle: "Alexandru Vlahuţă"
+author: "Doctor Shrink"
+date: "2026-07-08"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_quszcoiZnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Lui V. A. Urechiă<br>
+<br>
+Din bordei — de lângă vatra unde stă nenorocirea<br>
+<br>
+Ca o strajă neclintită — ridicatu-mi-am privirea<br>
+<br>
+Sus, spre sfetnici, şi văzut-am a lor feţe luminoase,<br>
+<br>
+Ş-am văzut maimuţăria, strâmbăturile greţoase<br>
+<br>
+Astor molii, astor ciocli, dezmăţaţi copii ai spumei,<br>
+<br>
+Care-n aur văd, smintiţii, sufletul şi cinstea lumei,<br>
+<br>
+Inimi dogorâte-n para poftei de-a se-navuţi,<br>
+<br>
+Stând ca viermii pe-un cadavru, ce-a-nceput a se-mpuţi.<br>
+<br>
+I-am văzut — păpuşi gătite, tologiţi în jeţuri moi,<br>
+<br>
+Trântori, fără nici o grijă, şi străini de-orice nevoi,<br>
+<br>
+Răscolind în a lor cuget ale ţării măruntaie<br>
+<br>
+Şi cătând, nesocotiţii, ca din trupul ei să taie<br>
+<br>
+Partea ce-a mai rămas bună, membrul ce-a mai rămas teafăr.<br>
+<br>
+Pieptul lor, plin de medalii, strălucea ca un luceafăr.<br>
+<br>
+Dar înnuntru — sub medalii — şi sub hainele bogate<br>
+<br>
+Clocoteşte-n oala cărnei, otrăvită de păcate,<br>
+<br>
+La a negrelor lor pofte, la a infamiei pară<br>
+<br>
+Clocoteşte crima . . . . . . . . . . . . . . .<br>
+<br>
+. . . . . . . . . . . . . . . . . . . . . . .<br>
+<br>
+. . . . . . Stoarceţi, stoarceţi măduva din ţară!<br>
+<br>
+Nu vă pese! Striviţi totul! Cugetaţi că poate mâini<br>
+<br>
+O să pierdeţi cârma ţării ş-or să vină alţi stăpâni.<br>
+<br>
+Deci, pârjol şi jaf! Opinca — hoitul să rămână os —<br>
+<br>
+Ca să nu mai aibă alţii, după voi, nimic de ros.<br>
+<br>
+. . . . . . . . . . . . . . . . . . . . . .<br>
+<br>
+Voi, cucoane mari, avute, ce-n mătăsuri şi-n dantele<br>
+<br>
+Vă-nveliţi a voastră carne, voi, ce-n câteva inele<br>
+<br>
+Purtaţi hrana ce lipseşte unei jumătăţi de ţară,<br>
+<br>
+Spuneţi, nu cumva vrodată s-a-ntâmplat să vi se pară<br>
+<br>
+Că a voastre diamante se topesc şi vi s-arată<br>
+<br>
+Ca atâtea lăcrimi curse dintr-o geană întristată?<br>
+<br>
+Vai, acele pietre scumpe — ochi focoşi sub geana serii —<br>
+<br>
+Credeţi voi că sunt podoabe? Nu! sunt lăcrimile ţării!<br>
+<br>
+Dar te-a-ncălecat de-acuma, cal, te du unde te mână<br>
+<br>
+Călăreţul, o maimuţă, care ţine-n a ei mână<br>
+<br>
+Frâul tău a ta viaţă. Du-o unde vrea să meargă!<br>
+<br>
+Când uscatele-i călcâie bat în burta ta, aleargă,<br>
+<br>
+Iar când frâul tău îl strânge, de-ţi trosnesc dinţii din gură,<br>
+<br>
+Te opreşte: să răsufle vrea scârboasa pocitură.<br>
+<br>
+Vai, nenorocită ţară, rele zile-ai mai ajuns!<br>
+<br>
+A lor gheare-nfipte-n pieptu-ţi fără milă l-au străpuns<br>
+<br>
+Şi-n bucăţi împart, infamii, carnea ta, avutul tău!<br>
+<br>
+Tot ce s-a găsit pe lume mai stricat, mai crud, mai rău,<br>
+<br>
+Ăşti nemernici fără suflet, fără nici un căpătâi,<br>
+<br>
+Ţin a tale zile-n mână, ş-a ta cinste sub călcâi.<br>
+<br>
+Şi călări pe tine, ţară, se cred zei aceste bestii,<br>
+<br>
+Cum se cred ades copiii împăraţi — călări pe trestii.<br>
+<br>
+Ei sunt mari şi tari, şi nu au nici ruşine, nici sfială<br>
+<br>
+Că-ntr-o zi, poate, urmaşii le vor cere socoteală<br>
+<br>
+De-a lor fapte. Ce le pasă? Lopătari, la cârma ţării<br>
+<br>
+Sunt stăpâni pe vas, pe vânturi, şi pe valurile mării!<br>
+<br>
+Şi când cugeţi c-aceşti trântori, astă haită de samsari<br>
+<br>
+Prin tertipuri şi prin intrigi au ajuns puternici, mari,<br>
+<br>
+Şi când vezi pe-a vieţii scară unde-au fost şi unde sunt,<br>
+<br>
+Când îi vezi cu ce mândrie, cu ce ochi semeţi şi crunt<br>
+<br>
+Privesc azi din înălţime spre norodul tăvălit<br>
+<br>
+În mizeriile-n care ei, călăii, l-au trântit,<br>
+<br>
+Când te uiţi cum se răsfaţă, cum îşi fac de cap mişeii,<br>
+<br>
+Vai, începi să crezi că-n ceruri adormit-au de mult zeii!<br>
+<br>
+Ş-apoi, după ce-au dat palme, şi-au scuipat în faţa ţării,<br>
+<br>
+După ce-a-mbrâncit poporul în prăpastia pierzării,<br>
+<br>
+După ce n-a rămas lucru nebatjocorit de ei,<br>
+<br>
+Au curajul — aceşti oameni de nimic, aceşti mişei —<br>
+<br>
+Au curaju-n faţa lumii ca să strige-n gura mare:<br>
+<br>
+Ne vrea ţara! Îi vrea ţara? Auziţi neruşinare!<br>
+<br>
+Vai, de-ar fi pe voia ţării, ştiţi voi unde v-aţi trezi!<br>
+<br>
+Într-o ocnă — da! — acolo oasele v-ar putrezi!<br>
+<br>
+Cum să mai vedem în ţară cinste, muncă, propăşire,<br>
+<br>
+Când spoiala azi e totul, când vezi că prin linguşire<br>
+<br>
+Şi făţărnicii, netoţii, au ajuns aşa departe!<br>
+<br>
+Cum să-ţi mai trudeşti viaţa ca să-nveţi puţină carte<br>
+<br>
+Când te uiţi că-n astă ţară, dată pradă celor răi,<br>
+<br>
+Înţelepţii sunt victime, ticăloşii sunt călăi!<br>
+<br>
+Fii viclean, corupt, sperjur, pune-ţi mască, fă-te blând,<br>
+<br>
+Pleacă-ţi fruntea ta cucernic, bate-ţi pieptul tău strigând:<br>
+<br>
+&quot;Scumpa, draga Românie, idolul vieţii mele!&quot;<br>
+<br>
+Şi când vei fi Leu, pisică, scoate-ţi ghearele din piele!<br>
+<br>
+Iată norma după care poţi s-ajungi unde pofteşti!<br>
+<br>
+Ş-apoi, ca să n-ai mustrare, nici vreodată să roşeşti,<br>
+<br>
+Înainte de-a purcede pe-ale crimei negre căi,<br>
+<br>
+Cearcă-ţi sabia în gâtul conştiinţei tale-ntăi!<br>
+<br>
+Asta-i lecţia pe care o lăsaţi posterităţii!<br>
+<br>
+Ah, cumplit v-aţi râs de lege şi de cumpăna dreptăţii,<br>
+<br>
+Şi de oameni, şi de ţară, şi de tot ce-i sfânt pe lume!<br>
+<br>
+Peste veacuri depărtate vor pluti a voastre nume,<br>
+<br>
+Şi vor spune că sub soare n-au stat răi, călăi, bandiţi,<br>
+<br>
+Nici atât de cruzi la suflet, nici atât de iscusiţi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Vlahuţă
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

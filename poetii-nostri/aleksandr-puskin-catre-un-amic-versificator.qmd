@@ -1,0 +1,222 @@
+---
+title: "Catre un amic versificator"
+subtitle: "Aleksandr Puşkin"
+author: "Doctor Shrink"
+date: "2026-07-08"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OA_0_CnX4Ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Te-avânti si tu, Ariste, ca altii spre Parnas,<br>
+<br>
+Râvnind, oricum, sa-ncaleci pe aprigul Pegas-<br>
+<br>
+Cautator de lauri pe cai primejdioase<br>
+<br>
+Dai cu-ndrazneala lupta în critici bataioase.<br>
+<br>
+Ci lasa, tu, cerneala si pana ta, Ariste,<br>
+<br>
+Uitând paduri, pârâie si tintirimuri triste-<br>
+<br>
+Nu cresc iubiri de flacari în carticica slaba.<br>
+<br>
+Vezi, sa nu cazi din munte! Coboara mai degraba.<br>
+<br>
+Tot sunt si fara tine prea multi poeti, si-or fi,<br>
+<br>
+Ce scot la carti, uitarea sa aiba ce-nghiti.<br>
+<br>
+Poate si-acum, de zgomot când te retragi departe,<br>
+<br>
+Având de-o muza proasta, de vesnicie, parte,<br>
+<br>
+Aripile Minervei avându-le egida<br>
+<br>
+Ascunzi un tata pentru alta Telemahida.<br>
+<br>
+Deci teme-te de soarta poetilor de-ocara,<br>
+<br>
+Ce cu gramezi de versuri întruna ne omoara-<br>
+<br>
+Rasplata harazita de viitor e dreapta<br>
+<br>
+Ca-n Pind asteapta lauri, dar si urzici asteapta.<br>
+<br>
+Când gloria nu-ti vine, sa te-nspaimanti! Apollo<br>
+<br>
+Privindu-si Heliconul si dând de tine-acolo<br>
+<br>
+Va clatina din capul cu cârliont ca, -ndata,<br>
+<br>
+Cu-o joarda de rachita în geniul tau sa bata.<br>
+<br>
+Dar ce-i? Te-ncrunti? Raspunsul mi-l da sarmana-ti pana<br>
+<br>
+&quot;Mai bine taci, vei scrie. Bati gura de pomana!<br>
+<br>
+Eu nu fac cale-ntoarsa când sortii harazira<br>
+<br>
+(Sa stii si tu!) ca pururi sa fiu legat de lira.<br>
+<br>
+Ce-i de ma-acuza lumea când eu în mine cred?<br>
+<br>
+Tu zbiara si huleste caci tot ramân poet!&quot;<br>
+<br>
+Artist, poet nu-i omul ce rima o brodeste,<br>
+<br>
+Si, scârtâindu-si pana, hârtie cheltuieste.<br>
+<br>
+A scrie versuri bune nu e un fleac, cum crezi-<br>
+<br>
+Cum Vitgenstein usor e sa-i bata pe francezi.<br>
+<br>
+Pe când Derjavin, Dmitrev, Lomonosov sunt pusi<br>
+<br>
+Mereu, la loc de cinste, între poetii rusi,<br>
+<br>
+Hranind cu minte-nalta învataturi strabune-<br>
+<br>
+Prea multe carti mor iute, abia sosite-n lume,<br>
+<br>
+Caci opera lui Grafov, care-n desert rasuna,<br>
+<br>
+Cu Bibrus si Glazunov va putrezi-mpreuna-<br>
+<br>
+Nimeni n-o s-o mai stie, si n-o ceti prostii,<br>
+<br>
+Blestemele lui Phoebus o vor pecetlui.<br>
+<br>
+Ci hai sa zicem însa c-ai fi în Pind ajuns,<br>
+<br>
+Si ca poet, multimea, pe drept cuvânt, te-a uns,<br>
+<br>
+Ca toti vor sa citeasca ce scris la tine-n vers e.<br>
+<br>
+Crezi tu ca înspre tine-or începe sa se verse,<br>
+<br>
+În fluviu, avutia- cu-avere sa te-alegi,<br>
+<br>
+Tu, ca poet, sa cumperi de-a valma, state-ntregi,<br>
+<br>
+În lazi de fier tot galbeni rasunatori sa strângi,<br>
+<br>
+Si-apoi, trântit pe-o rana, sa bei si sa manânci?<br>
+<br>
+Vai! Nu sunt scriitori bogati pe lume, frate,<br>
+<br>
+Ursita nu le taie în marmura palate,<br>
+<br>
+Nici lazi în care aur sa sune si tresalte!<br>
+<br>
+Cocioaba de sub huma si podurile-nalte<br>
+<br>
+Sunt ale lor palate si sali imperiale.<br>
+<br>
+Îi lauda multimea, dar îi nutresc jurnale.<br>
+<br>
+Roata fortunei trece, la ei nu face halta;<br>
+<br>
+Gol s-a nascut, gol merse Rousseau-n lumea cealalta,<br>
+<br>
+Cu cersetorii Camoes, sarmanu-a petrecut,<br>
+<br>
+Kostrov prin pod murit-a de nimenea stiut,<br>
+<br>
+Si mâini straine trupul în racla i-au închis.<br>
+<br>
+Viata lor durere-i si gloria-i un vis.<br>
+<br>
+La spusa mea, îmi pare, ca stai îngândurat!<br>
+<br>
+-&quot;Atunci de ce, vei zice, sever m-ai judecat,<br>
+<br>
+Ca Juvenal pe toate sa mi le pomenesti,<br>
+<br>
+Când despre poezie tu însuti îmi vorbesti,<br>
+<br>
+Certat fiind tu însuti cu muza si Parnasul,<br>
+<br>
+Sa-mi predici despre versuri îti dregi întruna glasul.<br>
+<br>
+Ce s-a-ntamplat cu tine? Îi fi smintit sau ba?&quot;<br>
+<br>
+Ariste, la-ntrebare am sa-ti raspund asa:<br>
+<br>
+Cândva, -ntr-un sat, tin minte si eu, ca toti mirenii,<br>
+<br>
+Traia un popa vârstnic, albit de-amarul vremii.<br>
+<br>
+Traia-n belsug si pace, si cu vecinii drept,<br>
+<br>
+Încât se duse vestea ca-i popa întelept.<br>
+<br>
+Însa, odata, popa prea desertând pahare<br>
+<br>
+Sosind de la o nunta, cam beat, spre înserare,<br>
+<br>
+Niste mujici, saracii, iesitu-i-au-nainte<br>
+<br>
+Zicându-i cu sfiala: &quot;Asculta-ne parinte,<br>
+<br>
+Noi stim ca bautura, în predici, o-nterzici<br>
+<br>
+Si, sa nu bea, aparte, oricarui om îi zici.<br>
+<br>
+Noi credem, dar, ne spune, de ce chiar dumneata...&quot;<br>
+<br>
+-&quot;Stati si-ascultati! Si popa astfel le raspundea:<br>
+<br>
+Ce spune popa, faceti, si nu ce popa face!<br>
+<br>
+Nu pilda ci cuvântu-i urmati. Si fiti pe pace.&quot;<br>
+<br>
+Eu, cu aceleasi vorbe am sa-ti raspund, pe loc,<br>
+<br>
+Dar nu sa ma justific! Asta n-o vreau deloc.<br>
+<br>
+Ferice-acela care, uitând de poezie,<br>
+<br>
+Fara de chin si grija sa vietuiasca stie,<br>
+<br>
+Cu ale sale ode ne-mpovarand jurnale,<br>
+<br>
+Si, fara sa îsi piarda comoara vremii sale,<br>
+<br>
+Nu-i place sa se plimbe pe piscuri de Parnas,<br>
+<br>
+Nu-i poftitor de muze, nici de focos Pegas.<br>
+<br>
+Pe el, cu pana-n mâna Ramakov nu-l spaimânta,<br>
+<br>
+El nu-i poet, Ariste, dar duce viata blânda.<br>
+<br>
+Ci sa sfârsesc odata c-oi fi plictisitor,<br>
+<br>
+Si cu-a satirei pana n-as vrea sa te omor:<br>
+<br>
+Prietene, acuma, dupa povata mea<br>
+<br>
+Lasa-vei oare lira sa taca mâlc sau ba?<br>
+<br>
+Alege deci: e bine când gloria-i cu tine,<br>
+<br>
+Dar sa traiesti în tihna-i de doua ori mai bine!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Puşkin
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

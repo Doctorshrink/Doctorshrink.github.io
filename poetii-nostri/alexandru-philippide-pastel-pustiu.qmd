@@ -1,0 +1,206 @@
+---
+title: "Pastel pustiu"
+subtitle: "Alexandru Philippide"
+author: "Doctor Shrink"
+date: "2026-07-08"
+categories: [poezie, spoken-word, vant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JwtQYfn6Kgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O noapte senină, fără lună.<br>
+<br>
+Drumul, adormit.<br>
+<br>
+La marginea lui, Mesteacănul.<br>
+<br>
+Printre frunze, departe, clipeşte Steaua albastră.<br>
+<br>
+Parfumul, nedesluşit încă, rătăcitor.<br>
+<br>
+Vântul.<br>
+<br>
+VÂNTUL<br>
+<br>
+(alunecând deasupra drumului)<br>
+<br>
+Vin de departe.<br>
+<br>
+În mâna mea aduc ecouri moarte.<br>
+<br>
+Şi trupul meu fluid se desfăşoară<br>
+<br>
+Ca o albastră mantie uşoară.<br>
+<br>
+DRUMUL<br>
+<br>
+(trezindu-se)<br>
+<br>
+Tu zbori, şi niciodată pe pământ<br>
+<br>
+Nu te scobori, fugarnic vânt!<br>
+<br>
+Dar eu sunt drumul ostenit,<br>
+<br>
+Din cine ştie ce ţinut pornit,<br>
+<br>
+Ca un pârâu cu-ncremenite unde<br>
+<br>
+Spre nu ştiu unde.<br>
+<br>
+În sufletul meu mut, acum, ascult<br>
+<br>
+Ecoul paşilor trecuţi demult.<br>
+<br>
+De-atâta timp în spate port<br>
+<br>
+Trecutul mort!<br>
+<br>
+VÂNTUL<br>
+<br>
+(nepăsător)<br>
+<br>
+Pe urma paşilor alerg<br>
+<br>
+Şi amintirea lor o şterg:<br>
+<br>
+Şi paşii morţi şi moartele ecouri<br>
+<br>
+Le-arunc în nouri!<br>
+<br>
+(Parfumul care plutea ici şi colo, în neştire, se lămureşte din ce în ce. Si cântecul lui se înalţă, tremurător, spre steaua albastră.)<br>
+<br>
+PARFUMUL<br>
+<br>
+Ca un fior,<br>
+<br>
+Din florile-adormite mă scobor<br>
+<br>
+Şi rătăcesc Dar viaţa mea de-o clipă,<br>
+<br>
+Pe care vântul o-nfioară,<br>
+<br>
+Ca praful care doarme pe-o aripă<br>
+<br>
+De flutur, zboară.<br>
+<br>
+Din leagănul de-argint al unei flori<br>
+<br>
+M-am ridicat şi paşii mei uşori<br>
+<br>
+Înfiorau, în liniştea grădinii,<br>
+<br>
+Crinii.<br>
+<br>
+Ca un fluid arcuş pe flori s-aşterne<br>
+<br>
+Fiorul zâmbetului tău senin,<br>
+<br>
+Şi-n muzica privirilor eterne<br>
+<br>
+E-o liră albă fiecare crin.<br>
+<br>
+Din somnul florilor de visuri pline<br>
+<br>
+Mă-nalţ spre tine.<br>
+<br>
+(Dar vântul suflă; parfumul şovăie.)<br>
+<br>
+VÂNTUL<br>
+<br>
+(sarcastic)<br>
+<br>
+Biet flutur care te-ai pornit<br>
+<br>
+În infinit!<br>
+<br>
+PARFUMUL<br>
+<br>
+Nu pot să plâng, căci sunt surâs de floare;<br>
+<br>
+Dar ca un plâns surâsul meu mă doare.<br>
+<br>
+STEAUA<br>
+<br>
+(clipind încet)<br>
+<br>
+Spre tine în zadar m-aş îndrepta,<br>
+<br>
+Căci prea îndepărtată sunt;<br>
+<br>
+Dar zâmbetul meu trist spre fruntea ta<br>
+<br>
+Coboară, nimb albastru, pe pământ.<br>
+<br>
+PARFUMUL<br>
+<br>
+(aproape stins)<br>
+<br>
+În giulgiul zâmbetului meu eu mor;<br>
+<br>
+Mormântul meu e vântul călător;<br>
+<br>
+Şi-n cea din urmă clipă de iubire<br>
+<br>
+Eu nu mai sunt decât o amintire.<br>
+<br>
+(Dar parfumul moare. Vântul îl culege.)<br>
+<br>
+VÂNTUL<br>
+<br>
+E mult până la steaua de cristal,<br>
+<br>
+Sărman parfum sentimental!<br>
+<br>
+(Vântul pleacă. Mesteacănul, cu crengile întinse, îl opreşte.)<br>
+<br>
+MESTEACĂNUL<br>
+<br>
+Vânt care treci şi hohoteşti întruna,<br>
+<br>
+Spune-mi şi mie, dacă ştii,<br>
+<br>
+Când are să se-ntoarcă luna<br>
+<br>
+În zările albastre şi pustii!<br>
+<br>
+VÂNTUL<br>
+<br>
+Nu ştiu, nu-mi pasă de nimic:<br>
+<br>
+Pământul pentru mine-i mic!<br>
+<br>
+Sentimentalele suspine<br>
+<br>
+N-au nici un farmec pentru mine,<br>
+<br>
+Mărturisesc Rămâi cu bine!<br>
+<br>
+(Vântul se îndepărtează. Drumul, o clipă, tresare.)<br>
+<br>
+DRUMUL<br>
+<br>
+Tăcere Nici un pas, nici un ecou.<br>
+<br>
+O clipă, ochii mei străbat departe.<br>
+<br>
+Dar, pustnic obosit, adorm din nou,<br>
+<br>
+În praful visurilor mele moarte.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Philippide
+* **Temă:** vant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

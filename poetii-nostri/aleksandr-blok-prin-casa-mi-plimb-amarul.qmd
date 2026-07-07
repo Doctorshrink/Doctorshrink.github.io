@@ -1,0 +1,124 @@
+---
+title: "Prin casă-mi plimb amarul"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-07-04"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kLGWibih-Ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Prin casă-mi plimb amarul<br>
+<br>
+Cu pasul măsurat.<br>
+<br>
+Afară flașnetarul<br>
+<br>
+Suspină ne-ncetat<br>
+<br>
+De sfânta libertate -<br>
+<br>
+Un vis pe care-l plâng.<br>
+<br>
+De vântul care bate,<br>
+<br>
+De primăvară-n crâng.<br>
+<br>
+Dar mie - hei, ce-mi pasă !<br>
+<br>
+Îmi plimb al meu amar.<br>
+<br>
+S-a stins lumina-n casă,<br>
+<br>
+Pendula bate rar.<br>
+<br>
+Nutresc un vis în taină :<br>
+<br>
+Prin geam ea-mi va zâmbi<br>
+<br>
+Și-n luminoasa haină<br>
+<br>
+La mine va veni.<br>
+<br>
+Ce față încruntată<br>
+<br>
+Din nou i-oi spune ei<br>
+<br>
+Cât sânge rău făcut-am<br>
+<br>
+Prietenilor mei.<br>
+<br>
+Va fi lumina blândă-n<br>
+<br>
+Ungherul liniștit<br>
+<br>
+Sub candela izbândă,<br>
+<br>
+Și sufletul smerit...<br>
+<br>
+De ce mai vine oare<br>
+<br>
+Când singur stau posac,<br>
+<br>
+Fir vesel să strecoare<br>
+<br>
+Prin mici urechi de ac?<br>
+<br>
+De ce îmi dă povață<br>
+<br>
+Ba-n glumă, ba duios?<br>
+<br>
+De ce-și ascunde fața<br>
+<br>
+În hohote,sfios?<br>
+<br>
+Ce rece e odaia<br>
+<br>
+Când nu e ea aici !<br>
+<br>
+Când va țâșnii văpaia<br>
+<br>
+În geamurile-i mici?<br>
+<br>
+Mi-e fața iarăși pală<br>
+<br>
+Când o aștept cu drag...<br>
+<br>
+Și iarăși cu sială<br>
+<br>
+O voi primi în prag...<br>
+<br>
+Dar n-am de ce mă teme<br>
+<br>
+Și de pierdut nimic...<br>
+<br>
+Aștept de lungă vreme,<br>
+<br>
+Și ce-aș putea săi zic?<br>
+<br>
+Și-i spun duiosei oare<br>
+<br>
+C-afară-i vânt hoinar,<br>
+<br>
+Că inima mi-en floare?<br>
+<br>
+Că-i cald în casă, iar?<br>
+<br>
+7 decembrie 1906
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,52 @@
+---
+title: "Ravnesc slavita libertate"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-07-04"
+categories: [poezie, spoken-word, libertate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n5WdF1D6MN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ravnesc slavita libertate.<br>
+<br>
+Gonesc spre tarmuri minunate,<br>
+<br>
+Cu largi campii si zari senine<br>
+<br>
+Si unde ca-ntr-un vis, ti-e bine!<br>
+<br>
+Acolo-n floare da trifoiul<br>
+<br>
+Si albastrele de tot soiul<br>
+<br>
+Si spicul vrea inalt s-ajunga…<br>
+<br>
+Pana acolo-i cale lunga!<br>
+<br>
+Ceva e-n marile superbe<br>
+<br>
+Si leagana si firul ierbii…<br>
+<br>
+Vin pacle ochii sa-ti astupe.<br>
+<br>
+Nu-l vezi. Eu vad. Eu il voi rupe.<br>
+<br>
+7 august 1899
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** libertate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,62 @@
+---
+title: "Privește libertatea-n cer"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-07-04"
+categories: [poezie, spoken-word, libertate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nIfanmav9ko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Privește libertatea-n cer.<br>
+<br>
+Pe geam patrunde-un aer tare.<br>
+<br>
+În rugul frunzelor, stingher,<br>
+<br>
+Se-scunde ciobul lunii pale.<br>
+<br>
+El fi-va seceră-n lumini,<br>
+<br>
+În lanul nopții de secară.<br>
+<br>
+Al lui amurg, al lui declin<br>
+<br>
+Pe ochi e-n cea din urmă oară.<br>
+<br>
+Răsuna iar fereastra mea,<br>
+<br>
+Dar glasul tânăr mi-i aproape -<br>
+<br>
+Sa dus demult, s-a stins cândva<br>
+<br>
+În stufăriș, pe-un mal de ape.<br>
+<br>
+Ce lună palidă-n înalt,<br>
+<br>
+Ce fir de păr lucind departe...<br>
+<br>
+În rugul frunzelor, uitat<br>
+<br>
+Ce spic se clatină pe moarte...<br>
+<br>
+10 octombrie 1902<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** libertate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

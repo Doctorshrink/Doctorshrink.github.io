@@ -1,0 +1,51 @@
+---
+title: "Prinos de flori"
+subtitle: "Alexandru Andriţoiu"
+author: "Doctor Shrink"
+date: "2026-07-08"
+categories: [poezie, spoken-word, flori]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xOrYBOZpcCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Veneam cântând spre ochii-ti visatori,<br>
+cu mari buchete-n brat. Aveai pe masa<br>
+gradini si-alei de felurite flori,<br>
+ca în Liban, pontifica mireasa.<br>
+<br>
+Flori ce plutesc pe apa, flori de fulgi,<br>
+sau flori în munti, pe niste stânci severe,<br>
+flori grase tolanite-n clime dulci<br>
+si flori ce cresc sub cer de sticla-n sere.<br>
+<br>
+Dar tu ai râs de gestu-mi desuet<br>
+si de neprihanita-i vâlvataie,<br>
+ai pus sub indoiala un poet<br>
+buchetul risipindu-l prin odaie.<br>
+<br>
+M-am razbunat atunci pe flori. Si sunt<br>
+dusmanul lor de temut. Dau foc prin Rome<br>
+de trandafiri, cutreier devastând<br>
+hectare mari de flacari si arome.<br>
+<br>
+Fara gradini prin anii mei te plimbi,<br>
+pradând frumos dactilii amintirii.<br>
+Am palmi însângerate si cu ghimpi,<br>
+ca-n drum am palmuit toti trandafirii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Andriţoiu
+* **Temă:** flori
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,80 @@
+---
+title: "Odă Libertăţii"
+subtitle: "Aleksandr Puşkin"
+author: "Doctor Shrink"
+date: "2026-07-08"
+categories: [poezie, spoken-word, libertate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CGZ4lO9I9jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Regină slabă a Cyterii,<br>
+Să-mi piei din ochi şi ieşi în faţă,<br>
+Tu, ce pe regi cumplit îi sperii,<br>
+A Libertăţii cântăreaţă!<br>
+Cununa dă-mi-o mai curând<br>
+Şi-n liră pune-mi aspre tonuri<br>
+Să fulger viciul de pe tronuri<br>
+Şi viaţa liberă s-o cânt.<br>
+<br>
+Arată-mi calea acelui gal<br>
+Cu avânturile-i îndârjite!<br>
+Tu i-ai dat imnul triumfal<br>
+Prin aspre cumpene slăvite!<br>
+Tirani ai lumii, tremuraţi,<br>
+Cei  cu coroane sclipitoare,<br>
+Iar voi căliţi-vă mai tare,<br>
+Sculaţi voi, robi îngenuncheaţi!<br>
+<br>
+Oriunde ochii mi-i arunc<br>
+Văd pretutindeni bice, fiare,<br>
+Văd al robiei plânset lung<br>
+Şi ruşinoase legi murdare!<br>
+Şi văd canalii mai ales,<br>
+Văd nedreptatea stăpânirii,<br>
+Văd zeul crud al asupririi,<br>
+Văd goana dup-un sterp succes.<br>
+<br>
+Însă e-n lume o mână, ea<br>
+Nelegiuirea o retează<br>
+Şi mâna n-o poţi cumpăra<br>
+Nici prin avere, nici prin groază!<br>
+Tot mâna asta ea v-a dat,<br>
+O, regilor, cununi de rege,<br>
+Peste popoare v-a urcat,<br>
+Dar aţi uitat de vechea lege!<br>
+<br>
+De aceea straja-n noapte tace<br>
+Când vede podul mişcător<br>
+Purtând, spre porţi ce s-or desface,<br>
+Întunecaţi conspiratori.<br>
+Sună alarma la Palat,<br>
+Gărzile luptă la intrare,<br>
+Cad lovituri fără onoare,<br>
+Dispari,  tiran încoronat!<br>
+<br>
+Aminte luaţi voi, împăraţii,<br>
+Nici temniţi, nici altarul sfânt,<br>
+Nici gărzi, poliţii, decoraţii,<br>
+N-or să vă apere nicicând!<br>
+Precum un mucenic vestit,<br>
+Rege, în iureşul furtunii,<br>
+Capu-ţi vei pierde sub cuţit,<br>
+Plătind şi ce au greşit străbunii!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Puşkin
+* **Temă:** libertate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

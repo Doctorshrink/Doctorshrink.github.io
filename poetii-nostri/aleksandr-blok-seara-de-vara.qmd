@@ -1,0 +1,82 @@
+---
+title: "Seara de vara"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-07-04"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OJMjrvsUE3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Летний вечер/Seara de vara<br>
+<br>
+А.Блок/A.Blok<br>
+<br>
+Последние лучи заката<br>
+<br>
+Лежат на поле сжатой ржи.<br>
+<br>
+Дремотой розовой объята<br>
+<br>
+Трава некошенной межи.<br>
+<br>
+Ни ветерка, ни крика птицы,<br>
+<br>
+Над рощей — красный диск луны,<br>
+<br>
+И замирает песня жницы<br>
+<br>
+Среди вечерней тишины.<br>
+<br>
+Забудь заботы и печали,<br>
+<br>
+Умчись без цели на коне<br>
+<br>
+туман и луговые дали,<br>
+<br>
+Навстречу ночи и луне!<br>
+<br>
+Seara de vara<br>
+<br>
+Al.Blok<br>
+<br>
+Ale apusului ultime raze<br>
+<br>
+Se-ntind pe lanurile compacte de secara<br>
+<br>
+O somnolenta roz,pare sa imbratiseze,<br>
+<br>
+Hotarele de necosita iarba.<br>
+<br>
+Nici de vant o boare,nici tipete de pasari,<br>
+<br>
+Peste cranguri – rosul disc al lunii,<br>
+<br>
+Si-ngheata ale cosasilor glasuri<br>
+<br>
+In linistea adanca a-nserarii.<br>
+<br>
+Uita de griji ,de suparari<br>
+<br>
+Pe cal goneste nicaieri anume,<br>
+<br>
+Prin ceata,departe pe coclauri<br>
+<br>
+In intampinarea noptii si a lunii
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

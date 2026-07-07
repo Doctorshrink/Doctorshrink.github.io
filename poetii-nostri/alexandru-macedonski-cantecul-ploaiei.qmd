@@ -1,0 +1,74 @@
+---
+title: "Cântecul ploaiei"
+subtitle: "Alexandru Macedonski"
+author: "Doctor Shrink"
+date: "2026-07-08"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z0RA-j8npXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Plouă, plouă,<br>
+<br>
+Plouă cît poate să plouă.<br>
+<br>
+Cu ploaia ce cade, m-apasă<br>
+<br>
+Durerea cea veche, cea nouă...<br>
+<br>
+Afară e trist ca şi-n casă, -<br>
+<br>
+Plouă, plouă.<br>
+<br>
+Plouă, plouă... -<br>
+<br>
+Plouă cît poate să plouă...<br>
+<br>
+Zadarnic vor cîntece clare<br>
+<br>
+Ca florile umezi de rouă<br>
+<br>
+Cei vecinic scutiţi de-ntristare... -<br>
+<br>
+Plouă, plouă.<br>
+<br>
+Plouă, plouă,<br>
+<br>
+Plouă cît poate să plouă...<br>
+<br>
+Fiinţa mea şi simţirea<br>
+<br>
+Sufăr şi plîng amîndouă...<br>
+<br>
+Viaţa-şi urmează-ndîrjirea...<br>
+<br>
+Plouă, plouă.<br>
+<br>
+Plouă, plouă,<br>
+<br>
+Plouă cît poate să plouă...<br>
+<br>
+Rapănă-n geamuri ca-n tobe...<br>
+<br>
+Spintecă inima-n două<br>
+<br>
+Cîntecul ploaiei de cobe... -<br>
+<br>
+Plouă, plouă... -
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Macedonski
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

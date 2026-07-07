@@ -1,0 +1,218 @@
+---
+title: "Libertatea"
+subtitle: "Aleksandr Puşkin"
+author: "Doctor Shrink"
+date: "2026-07-08"
+categories: [poezie, spoken-word, libertate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7iN2Vus30Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Regina slaba a Cytherii,<br>
+<br>
+Sa-mi piei din ochi! Si iesi în fata,<br>
+<br>
+Tu, ce pe tari cumplit îi sperii,<br>
+<br>
+A libertatii cântareata!<br>
+<br>
+Cununa frânge-mi mai curând<br>
+<br>
+Si lira, gingasele-i tonuri,<br>
+<br>
+Sa fulgere viciul de pe tronuri<br>
+<br>
+Si libertatea sa o cânt.<br>
+<br>
+Arata-mi calea-acelui Gal<br>
+<br>
+Cu-avânturile-i îndârjite<br>
+<br>
+Tu i-ai dat imnul triumfal<br>
+<br>
+Prin aspre cumpene slavite.<br>
+<br>
+Tirani ai lumii, tremurati,<br>
+<br>
+Copii ai soartei schimbatoare!<br>
+<br>
+Iar voi, caliti-va mai tare,<br>
+<br>
+Sculati voi robi îngenuncheati!<br>
+<br>
+Oriunde ochii mi-i arunc<br>
+<br>
+Vad pretutindeni bice, fiare,<br>
+<br>
+Vad al robiei plânset lung<br>
+<br>
+Si rusinoase legi murdare,<br>
+<br>
+Prejudecata- nour des-<br>
+<br>
+Vad nedreptatea stapânirii<br>
+<br>
+Si zeul crud al asupririi<br>
+<br>
+Si goana dup-un sterp succes.<br>
+<br>
+S-ar lumina desigur regii,<br>
+<br>
+Popoare n-ar mai suferi<br>
+<br>
+Acolo unde forta legii<br>
+<br>
+Cu libertatea s-ar uni.<br>
+<br>
+Unde-al lor scut e-al tuturor<br>
+<br>
+Si cetatenii tin în mâna<br>
+<br>
+O spada limpede, stapâna<br>
+<br>
+În drumu-i nepartinitor.<br>
+<br>
+De sus nelegiuirea grea<br>
+<br>
+Ea o doboara, o reteaza.<br>
+<br>
+Si mâna n-o poti cumpara<br>
+<br>
+Nici prin avere, nici prin groaza.<br>
+<br>
+Natura? Nu. Legea v-a dat,<br>
+<br>
+Cârmuitori, cununi de rege.<br>
+<br>
+Peste popoare v-ati urcat<br>
+<br>
+Dar mai presus i-eterna lege.<br>
+<br>
+Când doarme ea, e vai si-amar!<br>
+<br>
+Când, fie gloata, fie regii<br>
+<br>
+Dispun cum vor de soarta legii,<br>
+<br>
+Te iau drept martor secular<br>
+<br>
+Pe tine, mucenic vestit,<br>
+<br>
+Tu care-n iuresul furtunii<br>
+<br>
+Augustu-ti cap l-ai pravalit<br>
+<br>
+Platind si ce-au gresit strabunii.<br>
+<br>
+Spre moarte Ludovic urca.<br>
+<br>
+Tacut, norodu-n jur se strânge.<br>
+<br>
+Si capu-i dezgolit cadea<br>
+<br>
+Pe esafodul plin de sânge.<br>
+<br>
+Tacu si legea si popor.<br>
+<br>
+Securea mortii va sa cada.<br>
+<br>
+Si purpura de-asupritor<br>
+<br>
+Cazu pe Galia-ncatusata.<br>
+<br>
+O, tu, nelegiuit despot!<br>
+<br>
+Cum mai urasc a ta domnie!<br>
+<br>
+Pieirea ta cu prunci cu tot<br>
+<br>
+Eu o privesc cu bucurie.<br>
+<br>
+Pecetea blestemului greu<br>
+<br>
+O vad pe fruntea ta popoare,<br>
+<br>
+Tu, monstru-al astei lumi sub soare,<br>
+<br>
+Mustrare pentru Dumnezeu!<br>
+<br>
+Când sta pe Neva ceata grea<br>
+<br>
+Si-un somn tihnit îngreuiaza<br>
+<br>
+Un cap ce fara griji viseaza,<br>
+<br>
+Si-n miezul noptii arde-o stea,<br>
+<br>
+Un bard supus îngândurarii<br>
+<br>
+Vede statuia de tiran.<br>
+<br>
+Palatul prada dat uitarii,<br>
+<br>
+În neguri, ca-ntr-un somn avan.<br>
+<br>
+Si al lui Clio glas îl simte<br>
+<br>
+De dupa-ngrozitorul zid<br>
+<br>
+Si parca ochi-n ochi aievea prinde<br>
+<br>
+Al lui Caligula sfârsit.<br>
+<br>
+Cum îmbatati de vin si rele<br>
+<br>
+Merg tainuitii ucigasi<br>
+<br>
+La fete, dârzi, în inimi lasi,<br>
+<br>
+Pe piept, cu panglici si cu stele.<br>
+<br>
+Necredincioasa straja tace<br>
+<br>
+Se lasa podul miscator<br>
+<br>
+Si poarta-n noapte se desface<br>
+<br>
+Prin mercenarii tradatori.<br>
+<br>
+Rusinea veacul l-a patat.<br>
+<br>
+Dau buzna ienicerii- fiare.<br>
+<br>
+Cad lovituri fara onoare.<br>
+<br>
+Pieri tiran-ncoronat.<br>
+<br>
+Aminte luati, voi, împaratii!<br>
+<br>
+Nici temniti, nici altarul sfânt,<br>
+<br>
+Nici cazne, nici decoratii<br>
+<br>
+N-o sa va apere nicicând.<br>
+<br>
+Voi, crestetul, plecati-l, deci<br>
+<br>
+Sub scutul legii-ocrotitoare,<br>
+<br>
+Pacea-ntre libere popoare<br>
+<br>
+Va strajui si tronu-n veci!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Puşkin
+* **Temă:** libertate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

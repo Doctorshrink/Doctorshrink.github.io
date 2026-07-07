@@ -1,0 +1,80 @@
+---
+title: "Fosile-n roca timpului"
+subtitle: "Alexandru Philippide"
+author: "Doctor Shrink"
+date: "2026-07-08"
+categories: [poezie, spoken-word, timp]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-AUY0QY5Nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Fosile-n roca timpului păstrate,<br>
+<br>
+O, gânduri în durată încrustate,<br>
+<br>
+Mișcări în aer împietrite,<br>
+<br>
+Rămase-n ațipite ere,<br>
+<br>
+Ce raze încă nedescoperite<br>
+<br>
+Vă vor trezi, eterne efemere?<br>
+<br>
+Mașini, ciudate azi, banale mâne,<br>
+<br>
+Vor strânge clipe-n haznale<br>
+<br>
+În care viu trecutul va rămâne<br>
+<br>
+ca-n cele mai fidele din anale,<br>
+<br>
+Și poate că unelte mai profunde<br>
+<br>
+Vor scormoni cu agere antene<br>
+<br>
+Prin straturi de durată, până unde<br>
+<br>
+Vor da de miezul veșnicei Atene.<br>
+<br>
+Vom auzi atunci (vedea-vom, poate?)<br>
+<br>
+Pe Diotima de la Mantinea,<br>
+<br>
+Femeia înțeleaptă întru toate,<br>
+<br>
+Cea de la care-a învățat Socrate<br>
+<br>
+Cum să descopere-n frumos ideea.<br>
+<br>
+Vom înteți cu zelul prisosinții<br>
+<br>
+Această veche dragoste a minții,<br>
+<br>
+Dorindu-ne să mai putem petrece<br>
+<br>
+Cu harurile rădăcinii grece,<br>
+<br>
+Până la vremea de apoi,<br>
+<br>
+Când vreo civilizație mai tare<br>
+<br>
+Ne va azvârli, astral gunoi,<br>
+<br>
+În ultima, statornica uitare.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Philippide
+* **Temă:** timp
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,40 @@
+---
+title: "Psalmi moderni IX - N-am în ceruri"
+subtitle: "Alexandru Macedonski"
+author: "Doctor Shrink"
+date: "2026-07-08"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XBEy9xwclPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+N-am în ceruri nici o stea...<br>
+Soarta mea e soarta rea,<br>
+Am pierdut orice credinţă<br>
+Înecată-n suferinţă,<br>
+Am pierdut orice putere<br>
+Nimicită de durere;<br>
+Însă viaţa nu-mi blestem<br>
+Şi nici moartea nu mi-o chem;<br>
+Fără scop trăiesc în lume:<br>
+Nu mai sunt decât un nume,<br>
+Nu mai plâng, nici nu mai gem,<br>
+Iar cuprins de griji amare,<br>
+Nu mai sunt decât răbdare...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Macedonski
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
