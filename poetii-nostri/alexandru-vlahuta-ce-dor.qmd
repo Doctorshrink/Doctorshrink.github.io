@@ -1,0 +1,198 @@
+---
+title: "Ce dor..."
+subtitle: "Alexandru Vlahuţă"
+author: "Doctor Shrink"
+date: "2026-07-09"
+categories: [poezie, spoken-word, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lTCFBhNaJlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ce dor trebui să te cuprindă<br>
+<br>
+De dragostile din poveşti<br>
+<br>
+Când te priveşti toată-n oglindă<br>
+<br>
+Şi vezi cât de frumoasă eşti!...<br>
+<br>
+Când singură parcă te sperii<br>
+<br>
+De patima ochilor tăi,<br>
+<br>
+Ce ard de farmecul durerii,<br>
+<br>
+În spasmul visului dintâi.<br>
+<br>
+Căci eşti în vârsta când fioruri<br>
+<br>
+Te-apuc-aşa, ca din senin,<br>
+<br>
+Când te frământă mii de doruri,<br>
+<br>
+Şi nici nu ştii de unde-ţi vin...<br>
+<br>
+Iată că prinzi să cazi pe gânduri,<br>
+<br>
+Ţi se lungesc ochii a drum<br>
+<br>
+Câte-ţi plăceau în alte rânduri<br>
+<br>
+Încep să-ţi facă rău acum.<br>
+<br>
+Te simţi străină-ntre ai tăi,<br>
+<br>
+Şi stai, tânjind, într-un ungher,<br>
+<br>
+Biet suflet fără căpătâi,<br>
+<br>
+Atât de trist şi de stingher!<br>
+<br>
+Ţi-e greu de lume şi de tine;<br>
+<br>
+O jale-adâncă te pătrunde.<br>
+<br>
+Parc-ai iubi, şi n-ai pe cine,<br>
+<br>
+Parc-ai pleca, şi nu ştii unde.<br>
+<br>
+Iar noaptea, când te culci în pat,<br>
+<br>
+Ca-n friguri, te cuprind călduri.<br>
+<br>
+Şi piept şi tâmple ţi se bat<br>
+<br>
+De-a gândurilor dulci torturi.<br>
+<br>
+Cu faţa-n sus, în întuneric,<br>
+<br>
+Încremeneşti ceasuri întregi,<br>
+<br>
+Robită de-un amor himeric,<br>
+<br>
+De-un farmec ce nu-l înţelegi!<br>
+<br>
+Parcă răsar, de mai-nainte,<br>
+<br>
+În inima-ţi nevinovată,<br>
+<br>
+Iubiri de-acelea dulci şi sfinte<br>
+<br>
+Ce numa-n cărţi se mai arată...<br>
+<br>
+Deodată-ţi luminează-n gând,<br>
+<br>
+Aşa de viu, că te-nfiori,<br>
+<br>
+Un tânăr trist, frumos şi blând,<br>
+<br>
+Cu ochii mari şi visători...<br>
+<br>
+Să fie-o umbră din poveşti?...<br>
+<br>
+Căci nicăieri nu l-ai văzut;<br>
+<br>
+Cu toate astea, îl iubeşti,<br>
+<br>
+Şi chipul lui ţi-e cunoscut!<br>
+<br>
+Te uiţi în ochii lui fierbinţi,<br>
+<br>
+Şi pare că-nţelegi ce vor,<br>
+<br>
+Ce taine şi ce suferinţi<br>
+<br>
+Se zbuciumă-n adâncul lor.<br>
+<br>
+Ş-o milă te cuprinde-atunci<br>
+<br>
+De tinereţea ta şi-a lui;<br>
+<br>
+Ai vrea la pieptu-i să te-arunci,<br>
+<br>
+Să-i plângi, iubirea-ţi să i-o spui;<br>
+<br>
+Şi-nvinsă de dorinţi secrete,<br>
+<br>
+De oarba inimii furtună,<br>
+<br>
+Te-ntorci cu faţa la părete<br>
+<br>
+Şi-ncepi să plângi ca o nebună...<br>
+<br>
+Ce dulce e acest prinos<br>
+<br>
+Al unui suflet fermecat<br>
+<br>
+De-un vis atât de dureros<br>
+<br>
+Şi-atât de fără de păcat!<br>
+<br>
+Ca mâni ţi-o răsări în cale<br>
+<br>
+Frumosul tânăr visător,<br>
+<br>
+Podoaba gândurilor tale<br>
+<br>
+Şi-a nempăcatului tău dor,<br>
+<br>
+Ş-aveţi să tresăriţi deodată,<br>
+<br>
+Cuprinşi de-acelaşi farmec sfânt;<br>
+<br>
+De-a lui priviri înfiorată,<br>
+<br>
+Pleca-vei ochii în pământ,<br>
+<br>
+A voastre mâni se vor atinge,<br>
+<br>
+Tremurătoare şi fierbinţi,<br>
+<br>
+Şi pe-amândoi vă vor încinge<br>
+<br>
+Aceleaşi tainice dorinţi.<br>
+<br>
+El, dornic, are să te soarbă,<br>
+<br>
+Cu ochi adânci şi pătimaşi,<br>
+<br>
+Tu,-nvinsă de-o iubire oarbă,<br>
+<br>
+La sânu-i cald ai să te laşi.<br>
+<br>
+Şi moale, ca de somn topită,<br>
+<br>
+O vorbă neştiind să-i spui,<br>
+<br>
+Vei sta aşa, înmărmurită,<br>
+<br>
+Obrazul tău lipit de-al lui...<br>
+<br>
+................................<br>
+<br>
+De ce nu poţi împiedica<br>
+<br>
+Al vremii pas neobosit,<br>
+<br>
+Ca fericirea lui ş-a ta<br>
+<br>
+Să nu mai poat-avea sfârşit!<br>
+<br>
+Lupta, an. III, nr. 117, 23 noiembrie 1886
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Vlahuţă
+* **Temă:** dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

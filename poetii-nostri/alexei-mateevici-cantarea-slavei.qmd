@@ -1,0 +1,194 @@
+---
+title: "Cântarea slavei"
+subtitle: "Alexei Mateevici"
+author: "Doctor Shrink"
+date: "2026-07-09"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gwwqRcwEUHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Voi, munţi singuratici, moşnegi cununaţi<br>
+<br>
+Cu stele în ceruri albastre,<br>
+<br>
+În leagănul vostru de codri păstraţi<br>
+<br>
+În taină cântările voastre,<br>
+<br>
+Căci păsări sălbatice, cu ochii arzând<br>
+<br>
+Din tainica voastră dumbravă<br>
+<br>
+Se-nalţă cu fală în sus, proslăvind<br>
+<br>
+Nespusa a Domnului slavă.<br>
+<br>
+*<br>
+<br>
+În voi îşi deşteaptă plânsorile lor<br>
+<br>
+Pădurile-n toamna târzie,<br>
+<br>
+Pe când le apucă al luptei fior<br>
+<br>
+Şi-a vântului groază, mânie,<br>
+<br>
+Şi mare vi-i jalea, când vânturi străbat<br>
+<br>
+Prin tainica voastră dumbravă,<br>
+<br>
+Dar vifori, furtuni şi chiar frunze ce cad<br>
+<br>
+Vă cântă a Domnului slavă.<br>
+<br>
+*<br>
+<br>
+La voi m-a adus în cărările ei<br>
+<br>
+A zilelor soartă săracă,<br>
+<br>
+Pădurea cea mândră din ani mititei<br>
+<br>
+Mi-a fost şi iubită şi dragă;<br>
+<br>
+Cântarea frumoasă din codrii bătrâni<br>
+<br>
+Dă strunelor mele viaţă;<br>
+<br>
+Şi mândre poveşti din strămoşii creştini<br>
+<br>
+Truditul meu suflet învaţă, --<br>
+<br>
+Poveşti — de pe când oameni sfinţi locuiau<br>
+<br>
+Prin tainica voastră dumbravă,<br>
+<br>
+Poveşti — de pe când ne-ncetat proslăveau<br>
+<br>
+Nespusa a Domnului slavă.<br>
+<br>
+*<br>
+<br>
+Din văile voastre, în largul cuprins,<br>
+<br>
+Privirea mea zboară departe<br>
+<br>
+Şi-n mintea mirată răsare aprins<br>
+<br>
+Fiorul măririlor moarte...<br>
+<br>
+Un cântec de jale eu parcă aud,<br>
+<br>
+Ce moare în zvonuri de ape,<br>
+<br>
+El plânge frumoasele vremi ce-au trecut<br>
+<br>
+A sfintei iubiri de aproape,<br>
+<br>
+Vremi, de pe când lume multă venea<br>
+<br>
+Prin tainica voastră dumbravă<br>
+<br>
+Şi scârbele lumii cei sfinţi mângâia<br>
+<br>
+Spre marea a Domnului slavă.<br>
+<br>
+*<br>
+<br>
+Nu mai vezi pustnici prin dese păduri,<br>
+<br>
+Prin tainici dumbrăvi şi poiene:<br>
+<br>
+Vremi grele de patimi, păcate şi uri<br>
+<br>
+Venit-au amarnic viclene...<br>
+<br>
+Dar ştiu eu, schimba-se-vor vremile iar,<br>
+<br>
+Căci toate în lume se schimbă;<br>
+<br>
+Aşa-mi povesteşte bătrânul stejar<br>
+<br>
+Cu-a frunzelor tainică limbă;<br>
+<br>
+Iar slava Preasfântului este în veac,<br>
+<br>
+Luceşte în toată schimbarea,<br>
+<br>
+Şi răul şi binele într-un şirag<br>
+<br>
+Ne-urmează în veci îndrumarea.<br>
+<br>
+Amarele vremi de păcate şi uri,<br>
+<br>
+Cum au venit — se vor duce;<br>
+<br>
+Şi iarăşi în pacea umbroasei păduri<br>
+<br>
+Luci-va a sfântului cruce;<br>
+<br>
+Pătrunde-vor cântece sfinte de foc,<br>
+<br>
+Prin tainica voastră dumbravă,<br>
+<br>
+Copacul şi fiara cea rea la un loc<br>
+<br>
+Cânta-vor a Domnului slavă.<br>
+<br>
+Adeseori vara, când soarele-n dungi<br>
+<br>
+Verdeaţa bogată vă-nvie,<br>
+<br>
+Porniţi credincioşi preaînaltei porunci,<br>
+<br>
+Năprasnica voastră mânie.<br>
+<br>
+Din urletul vostru, sub cerul nestins<br>
+<br>
+Din ploaie cu trăsnete grele,<br>
+<br>
+Se naşte atunci, ca un fulger aprins,<br>
+<br>
+Cântarea cântărilor mele.<br>
+<br>
+Când vâjâie vântul, urlând mânios,<br>
+<br>
+Prin tainica voastră dumbravă,<br>
+<br>
+Atunci prin strune-mi răsună frumos<br>
+<br>
+Nespusa a Domnului slavă.<br>
+<br>
+Voi, munţi singuratici, moşnegi cununaţi<br>
+<br>
+Cu stele în ceruri albastre,<br>
+<br>
+În leagănul vostru de codri păstraţi<br>
+<br>
+În taină cântările voastre,<br>
+<br>
+Căci păsări sălbatice, cu ochii arzând,<br>
+<br>
+Din tainica voastră dumbravă<br>
+<br>
+Se-nalţă cu fală în sus, proslăvind<br>
+<br>
+Nespusa a Domnului slavă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexei Mateevici
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,88 @@
+---
+title: "Eternul cântec"
+subtitle: "Alexandru Vlahuţă"
+author: "Doctor Shrink"
+date: "2026-07-09"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y8Hlz0TsW4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+E vechi de când lumea, dar celui de-l cântă<br>
+<br>
+Ce nou i se pare!… S-ascultă uimit.<br>
+<br>
+În el i-o legendă frumoasă şi sfântă,<br>
+<br>
+Şi vorbele-o sfarmă cu zgomotul lor:<br>
+<br>
+E cântecul inimii care-a murit,<br>
+<br>
+Ş-al primului nostru amor.<br>
+<br>
+E noapte, sunt singur, şi iar mi-aud gândul<br>
+<br>
+Cum, notă cu notă, mi-l cântă în taină.<br>
+<br>
+Ce dulce-i… Îmi vine să plâng ascultându-l…<br>
+<br>
+De ce nu se poate o dată s-aştern<br>
+<br>
+Săraca şi aspra cuvântului haină<br>
+<br>
+Pe-al gândului cântec etern!<br>
+<br>
+Ah, iată grădina… văd urmele mele<br>
+<br>
+Pe prundul aleii. Pământul miroase,<br>
+<br>
+Ş-albasrtu-i de cele dintăi micşunele.<br>
+<br>
+Curg valuri de raze din cerul deschis;<br>
+<br>
+E linişte-n aer, şi toate-s frumoase,<br>
+<br>
+Şi toate le văd ca-ntr-un vis.<br>
+<br>
+Şi crăngile-atârnă-ncărcate de floare<br>
+<br>
+S-atingă pământul ai crede că-s ninse<br>
+<br>
+Sub alba podoabă ce tremură-n soare;<br>
+<br>
+Iar tu, ca din basme, deodată mi-apari,<br>
+<br>
+Înaltă şi zveltă, cu braţele-ntinse,<br>
+<br>
+Cu ochii tăi limpezi şi mari…<br>
+<br>
+Şi ce-a fost pe urmă?<br>
+<br>
+Zadarnic! Cuvintele-s tulburi şi grele.<br>
+<br>
+Se-ntunecă-n juru-mi, şi cântecul moare.<br>
+<br>
+Nici farmecul celor dintăi micşunele,<br>
+<br>
+Nici zâmbetu-ţi galeş, nici leneşu-ţi mers,<br>
+<br>
+Nici crăngile albe-ndoite de floare,<br>
+<br>
+Nimic nu-mi mai scapără-n vers!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Vlahuţă
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

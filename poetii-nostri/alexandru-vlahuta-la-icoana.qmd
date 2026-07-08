@@ -1,0 +1,156 @@
+---
+title: "La icoană"
+subtitle: "Alexandru Vlahuţă"
+author: "Doctor Shrink"
+date: "2026-07-09"
+categories: [poezie, spoken-word, dumnezeu]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/84yLENw95eQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Noaptea s-a lăsat pe vale, şi cătunu-i adormit.<br>
+<br>
+În bordei sărac, la vatră, suflet trist şi chinuit,<br>
+<br>
+Fără somn, tânăra mamă copilaşu-şi ţine-n poală,<br>
+<br>
+Şi plângând îl netezeşte pe obrajii arşi de boală.<br>
+<br>
+De cu sară mititelul încetase să mai ţipe:<br>
+<br>
+Se ducea, văzând cu ochii, viaţa-i fărâmită-n clipe.<br>
+<br>
+Peste ochii mari şi tulburi cad pleoapele-obosite,<br>
+<br>
+Somnu-l biruie adoarme. Suflări repezi, ca gonite<br>
+<br>
+De al morţii frig, din urmă, trec mai slabe, mai curmate…<br>
+<br>
+Ea tresare; cum le-ascultă, şir de fulgeri îi străbate<br>
+<br>
+Întunericul din suflet. Pe păreţi, în bezna rece,<br>
+<br>
+Fâlfâind ca o aripă, para focului se trece.<br>
+<br>
+Iat-o scoborând la vale, galbenă şi istovită,<br>
+<br>
+Cu odorul strâns la sânu-i; cu privirea aţintită<br>
+<br>
+Spre biserica cu sfânta, ea-şi sileşte-ncetu-i pas.<br>
+<br>
+De trei nopţi şi două zile bate drum făr de popas;<br>
+<br>
+Ş-ar fi ocolit pământul făr-a se simţi trudită:<br>
+<br>
+Ea credea profund, orbeşte… Mare şi nenchipuită<br>
+<br>
+E credinţa ce-ntr-un suflet înnoptat şi trist încape!<br>
+<br>
+Nu se poate făcătoarea de minuni să nu mi-l scape,<br>
+<br>
+Îşi zicea mereu în gându-i, inimă de piatră fie,<br>
+<br>
+Şi-ncă s-ar zdrobi de milă. Toată jalea mea pustie<br>
+<br>
+Mi-oi preface-o-n rugăciune la picioarele preasfintei;<br>
+<br>
+Ş-în cucernică-nchinare, şi plângând sta-voi nainte-i,<br>
+<br>
+Pân ce l-oi vedea din somnu-i ochii mari blând deschizându-şi,<br>
+<br>
+Zâmbitor cătând spre mine, şi mânuţele tinzându-şi…<br>
+<br>
+Cum să nu-nţeleagă sfânta glasul sfintei mele plângeri?<br>
+<br>
+Eu atâta am pe lume, pe când ceru-i plin de îngeri!<br>
+<br>
+Blândă, cu Isus în braţe, din argint, Fecioara cată<br>
+<br>
+Cu iubire spre spăsita mamă, jos îngenuncheată:<br>
+<br>
+Parc-ascultă şi-nţelege…<br>
+<br>
+O, îndură-te, priveşte-l,<br>
+<br>
+Şi din ochii tăi c-o rază de viaţă încălzeşte-l!<br>
+<br>
+Căci tu ştii ce farmec dulce-i să-ţi lipeşti pruncul de piept,<br>
+<br>
+Aţintit să-ţi steie-asupră-i, şi prin somn, ochiul deştept,<br>
+<br>
+Şi cum inima-ţi tresare, c-un scâncit când el te cheamă<br>
+<br>
+Să-l acoperi cu iubirea şi cu paza ta de mamă.<br>
+<br>
+Vezi-l, tânjitor, cum doarme-n frumuseţea-i îngerească…<br>
+<br>
+Cum putere-ar fără dânsul mama lui să mai trăiască?<br>
+<br>
+Te îndură din văpaia vieţii tale dă-i viaţă,<br>
+<br>
+Să-mi cuprindă iar grumazul cu micuţele lui braţe.<br>
+<br>
+Ca şi mine strângi la pieptu-ţi lumea-ntreagă-n fiul tău…<br>
+<br>
+O, de-ai şti cu ce-ntuneric copere sufletul meu<br>
+<br>
+Ochiu-i stins şi ce pustie mi-ar fi viaţa fără dânsul,<br>
+<br>
+N-ai putea să stai, o clipă, rece, ascultându-mi plânsul!…<br>
+<br>
+Dar deodată-şi rupse vorba limba-i amuţise-n gură,<br>
+<br>
+Spre copil şi-ntoarce iute lacoma-i căutătură…<br>
+<br>
+Era mort. Înmărmurită, stătu drept, cu pruncu-n braţe,<br>
+<br>
+Cu ochi groaznic de mânie ea privi icoana-n faţă…<br>
+<br>
+Cum? Tu n-ai simţit, preasfânto, milă de cumplita-mi jale?<br>
+<br>
+Eu, sărmana, plâng, cerşindu-ţi raza îndurării tale,<br>
+<br>
+Şi tu, rece şi cu pumnii încleştaţi, mi-l dai vederii?…<br>
+<br>
+Astfel înţelege cerul lacrima, limba durerii?<br>
+<br>
+S-a sfârşit orice nădejde!… Şi privirea ta de lemn<br>
+<br>
+Aţintită stete-asupra-mi, fără ca să-mi dea un semn<br>
+<br>
+C-a mea rugă-i ascultată şi durerea mea-i crezută!…<br>
+<br>
+Ia-ţi şi lutul… Ca şi dânsul împietrită eşti şi mută!…<br>
+<br>
+Şi c-un hohot lung cadavrul îl aruncă-n faţa sfintei,<br>
+<br>
+Care, huruind greoaie, la pământ căzu-nainte-i.<br>
+<br>
+Şi durerea i se sparse-n neagră deznădăjduire,<br>
+<br>
+De mânie-i scapăr’ ochii ea strigă în aiurire:<br>
+<br>
+O, desigur, n-ai fost mamă, şi de porţi un prunc la sân,<br>
+<br>
+E-o minciună!… Ce smintită-s unei scânduri să mă-nchin!<br>
+<br>
+Şi izbind icoana-n faţă cu piciorul, e-o minciună!<br>
+<br>
+Mai răcni-ntr-un râs sălbatic, şi porni… Era nebună.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Vlahuţă
+* **Temă:** dumnezeu
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

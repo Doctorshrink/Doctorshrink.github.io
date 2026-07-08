@@ -1,0 +1,146 @@
+---
+title: "Ce fericiţi am fi-mpreună!"
+subtitle: "Alexandru Vlahuţă"
+author: "Doctor Shrink"
+date: "2026-07-09"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cT07KBxnlsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Noi nu ne-am spus-o dar, vezi bine<br>
+<br>
+Că ne iubim; şi ochii tăi<br>
+<br>
+De mult aşteaptă de la mine<br>
+<br>
+Să spun cuvântul greu dintâi.<br>
+<br>
+Când ne-ntâlnim, e-o fericire,<br>
+<br>
+Ce-am fost dorit-o amândoi;<br>
+<br>
+Nu-i limba-n stare să înşire<br>
+<br>
+Din ochi câte ne spunem noi! ...<br>
+<br>
+Se sorb, adânci şi însetate,<br>
+<br>
+A noastre lacome priviri,<br>
+<br>
+Acelaşi gând şi dor ne-abate,<br>
+<br>
+Aceleaşi tainice porniri.<br>
+<br>
+Ş-atâta ţi-i de înţeleasă<br>
+<br>
+Cerşirea ochilor mei trişti,<br>
+<br>
+Că te roşeşti, ca o mireasă,<br>
+<br>
+Clipeşti, nervos buzele-ţi mişti ...<br>
+<br>
+Şi dulce-mi caţi o dezmierdare,<br>
+<br>
+Pe-ascuns un zâmbet îmi trimeţi:<br>
+<br>
+În noi, întunecat, tresare<br>
+<br>
+Misterul veşnicei vieţi.<br>
+<br>
+O, ne-nţelegem de minune,<br>
+<br>
+Cu cât ne întâlnim mai des,<br>
+<br>
+Şi, totuşi ne sfiim a spune<br>
+<br>
+Ce fiecare-am înţeles.<br>
+<br>
+De rămânem singuri vrodată,<br>
+<br>
+Stăm muţi, cu ochii în pământ.<br>
+<br>
+Tu parc-aştepţi înfiorată,<br>
+<br>
+Eu în deşert mintea-mi frământ ...<br>
+<br>
+De ce nu vrei ? ... Mai lesne-ţi vine<br>
+<br>
+Să-mi faci tu cale la-nceput:<br>
+<br>
+Apropie-te blând de mine<br>
+<br>
+Şi-ntinde-mi mâna s-o sărut.<br>
+<br>
+Din vraja dulcilor ispite<br>
+<br>
+Nemaicătând să te abaţi,<br>
+<br>
+Ne-om pomeni, pe negândite,<br>
+<br>
+Ca de când lumea-mbrăţişaţi.<br>
+<br>
+La ce vrei să se risipească<br>
+<br>
+Atâtea visuri în zadar?<br>
+<br>
+La ce comoara ta firească<br>
+<br>
+Să ţi-o îngropi, ca un avar? ...<br>
+<br>
+Acum ţi-i inima fierbinte,<br>
+<br>
+Frumoasă eşti, iubită eşti ...<br>
+<br>
+Ce mai aştepti, aşa cuminte,<br>
+<br>
+Şi-n taină singură tânjeşti?<br>
+<br>
+Nu simţi cum prinde să te-mbete<br>
+<br>
+Tăria-nfrăntelor dorinţi ?<br>
+<br>
+Nu vezi cum arzi de sfânta sete<br>
+<br>
+A sărutărilor fierbinţi? ...<br>
+<br>
+Îndemnul tinereţii tale<br>
+<br>
+Ascultă-l - cât e de-nţelept!<br>
+<br>
+Cu-atâta dor îţi cat în cale!<br>
+<br>
+E-atâta timp de când te-aştept! ...<br>
+<br>
+Ce fericiţi am fi-mpreună ! ...<br>
+<br>
+Ne-am alinta, ca doi copii.<br>
+<br>
+Acu ni-i vremea, numai bună,<br>
+<br>
+De dezmierdări, de nebunii! ...<br>
+<br>
+O, vino, fă ce vrei din mine,<br>
+<br>
+Stăpâna vieţii mele fii,<br>
+<br>
+Rentoarce-mi vremile senine,<br>
+<br>
+Comoara de copilării! ...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Vlahuţă
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,62 @@
+---
+title: "Luna şi noaptea"
+subtitle: "Alexandru Vlahuţă"
+author: "Doctor Shrink"
+date: "2026-07-09"
+categories: [poezie, spoken-word, luna_stele, noapte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v8lf0W1EUKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Luna<br>
+<br>
+Noapte, tu eşti sclava neagră a veciei, iară eu<br>
+<br>
+Sunt regina. De pe tronul întunericului tău,<br>
+<br>
+Revărs valuri de lumină; ș-un popor întreg de stele<br>
+<br>
+Furnică-n razele mele.<br>
+<br>
+Fără mine, neştiută, vecinic ai fi pribegit,<br>
+<br>
+Ca un ghem de întuneric dat de-a dura-n nesfârşit.<br>
+<br>
+Umilită, pleacă-ţi fruntea şi-naintea mea te-nchină.<br>
+<br>
+Noapte, sunt a ta regina.<br>
+<br>
+Noaptea<br>
+<br>
+Luna, tu eşti sclava albă, fulg ursit în veci să meargă.<br>
+<br>
+Eu, mai veche decât vremea, şi decât lumea mai largă,<br>
+<br>
+Neclintită-s, şi nici cuget că-n cuprinsul ţării mele<br>
+<br>
+Furnică popor de stele.<br>
+<br>
+Şi de n-aş fi eu să-mbrobod faţă ta-n ştergar cernit,<br>
+<br>
+Dacă n-aş fi-ntunecoasă, tu în veci n-ai fi lucit.<br>
+<br>
+În genunchi dar, a mea poală pleacă-te a-mi săruta,<br>
+<br>
+Lună, sunt regina ta!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Vlahuţă
+* **Temă:** luna_stele, noapte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
