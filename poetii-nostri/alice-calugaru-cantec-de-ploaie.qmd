@@ -1,0 +1,58 @@
+---
+title: "Cântec de ploaie"
+subtitle: "Alice Călugăru"
+author: "Doctor Shrink"
+date: "2026-07-10"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pgyj7QxfodQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Suspină cântul trist al surei ploi,<br>
+<br>
+Ș-același glas au miile-i de strune,<br>
+<br>
+Aștepți zadarnic ca să se-mpreune,<br>
+<br>
+La cântu-i, mlădieri de glasuri noi.<br>
+<br>
+În veci același cânt din coarde moi<br>
+<br>
+Care se frâng pe geamul cel subțire,<br>
+<br>
+Același tors, în veci, din mii de fire<br>
+<br>
+Pe fusurile arborilor grei…<br>
+<br>
+Și stropii mulți ai nesfârșitei ploi<br>
+<br>
+Spun tainic geamurilor sclipitoare :<br>
+<br>
+„O, voi ce străluciți ca apa ! Oare<br>
+<br>
+De ce nu picurați mărunt ca noi ?”<br>
+<br>
+Și-n veci fără răspuns e cântul frânt<br>
+<br>
+Ce parcă-o să suspine-ntotdeauna !<br>
+<br>
+Și iar aștepți când se mlădie struna<br>
+<br>
+Un cântec nou… Și-i tot același cânt.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alice Călugăru
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

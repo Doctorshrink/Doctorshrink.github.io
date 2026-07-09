@@ -1,0 +1,92 @@
+---
+title: "Cântecul Clopotului"
+subtitle: "Alexei Mateevici"
+author: "Doctor Shrink"
+date: "2026-07-10"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t1Px3qQonTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+CANTECUL CLOPOTULUI<br>
+<br>
+O, clopote! Frumos mai suni,<br>
+<br>
+Când credincioşii îi aduni<br>
+<br>
+La locul sfânt de rugăciune,<br>
+<br>
+În cer cântarea să le sune...<br>
+<br>
+În zile mari de sărbătoare,<br>
+<br>
+La răsărit ş-apus de soare,<br>
+<br>
+Tu chemi stăpâni şi muncitori<br>
+<br>
+Ai lui Hristos închinători.<br>
+<br>
+Chemarea-ţi porţi prin munţi şi văi:<br>
+<br>
+Şi vin închinătorii tăi.<br>
+<br>
+În cer ajunge-a ta sunare,<br>
+<br>
+Cu dânsa şi a lor cântare,<br>
+<br>
+Un cântec sfânt, frumos nespus,<br>
+<br>
+Se suie, ca tămâia, -n sus,<br>
+<br>
+Ducându-se în cer... Ce dor nu duce,<br>
+<br>
+Ce poate inima s-apuce?<br>
+<br>
+Şi jalea inimii zdrobite,<br>
+<br>
+De toţi pe lume părăsite,<br>
+<br>
+Şi bucuria mulţumirii,<br>
+<br>
+Şi arzătoarele dorinţe<br>
+<br>
+De mântuire, pocăinţă...<br>
+<br>
+Un cântec sfânt, frumos nespus,<br>
+<br>
+Le suie toate-acestea-n sus,<br>
+<br>
+Şi când arama-n ceruri sună...<br>
+<br>
+A noastră inimă răsună...<br>
+<br>
+O, clopote! Frumos mai suni,<br>
+<br>
+Când credincioşii îi aduni<br>
+<br>
+La locul sfânt de rugăciune,<br>
+<br>
+În cer cântarea să le sune...<br>
+<br>
+O, sună dar prin munţi şi văi,<br>
+<br>
+Să vie-nchinătorii tăi.<br>
+<br>
+Adaugata de catre Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexei Mateevici
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

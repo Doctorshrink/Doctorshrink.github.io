@@ -1,0 +1,168 @@
+---
+title: "Tara"
+subtitle: "Alexei Mateevici"
+author: "Doctor Shrink"
+date: "2026-07-10"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4fyFCewED1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+TARA<br>
+<br>
+In versul cantecelor poporane<br>
+<br>
+Se inchina taranimii basarabene<br>
+<br>
+Frunza verde grau de vara,<br>
+<br>
+Ce-i frumoasa a mea tara!<br>
+<br>
+Tara mea nemarginita<br>
+<br>
+Cu verdeata-mpodobita.<br>
+<br>
+Cat cu ochii-n zari cuprinzi,<br>
+<br>
+Taruleano, te intinzi,<br>
+<br>
+Stralucind in ape-oglinzi;<br>
+<br>
+Cat cu ochii dai si vezi —<br>
+<br>
+Tot campii, paduri, livezi,<br>
+<br>
+Sesuri, vai frumoase, sate,<br>
+<br>
+Paini in brazde semanate,<br>
+<br>
+Munti si dealuri-nalte, vii,<br>
+<br>
+Departari largi, albastrii.<br>
+<br>
+Primavara — numai floare<br>
+<br>
+In campii mirositoare.<br>
+<br>
+Vara — aur tot turnat<br>
+<br>
+Pana-n zare revarsat,<br>
+<br>
+Aur viu de paine coapta —<br>
+<br>
+Munca taranimii dreapta.<br>
+<br>
+Trece vantul prin ogoare,<br>
+<br>
+Da pamantului racoare<br>
+<br>
+Si se duce pan’in zari<br>
+<br>
+Si razbate-n departari.<br>
+<br>
+Pasari canta-n ceruri sus,<br>
+<br>
+Tot zburand inspre apus.<br>
+<br>
+Pelin verde, iarb-amara,<br>
+<br>
+Maiculita, scumpa tara,<br>
+<br>
+Mandra esti tu si frumoasa;<br>
+<br>
+Mandra esti tu la vedere,<br>
+<br>
+Of ! Dar nu esti norocoasa,<br>
+<br>
+Zaci in vecinica durere;<br>
+<br>
+’N lacrimi tu te scalzi si jale,<br>
+<br>
+Pan’in varfurile tale, —<br>
+<br>
+Lacrimile fiilor,<br>
+<br>
+Necazul copiilor.<br>
+<br>
+Cat esti, maica, tu de mare,<br>
+<br>
+Gemi tot in nevoi amare,<br>
+<br>
+Cat esti de nemarginita,<br>
+<br>
+Tot atat si necajita.<br>
+<br>
+Veneticii, tara draga,<br>
+<br>
+Te mananca toti la claca,<br>
+<br>
+Iti iau bogatiile<br>
+<br>
+Si-si latesc mosiile.<br>
+<br>
+S-au facut ei boieri mari,<br>
+<br>
+Chinuiesc pe-ai tai plugari,<br>
+<br>
+Pe noi ne-au incalecat,<br>
+<br>
+Painea toata ne-au luat,<br>
+<br>
+Tara-n maini au apucat,<br>
+<br>
+Sangele ei ne-au baut<br>
+<br>
+Si neoameni ne-au facut.<br>
+<br>
+Fiii, pamantenii tai,<br>
+<br>
+Au luptat ca niste lei,<br>
+<br>
+Au varsat ei mari de sange,<br>
+<br>
+Ca sa poata jugul frange, —<br>
+<br>
+Jugul cel greu din vechime<br>
+<br>
+De pe-ntreaga romanime;<br>
+<br>
+Au dat jos jugul turcesc,<br>
+<br>
+Acum duc cel boieresc —<br>
+<br>
+Si mai greu si mai dracesc.<br>
+<br>
+Mult am mai luptat si noi,<br>
+<br>
+Te-am scos, taro, din nevoi,<br>
+<br>
+Am luptat si-om mai lupta,<br>
+<br>
+Nici la ganduri nu vom sta,<br>
+<br>
+Caci norodul oropsit<br>
+<br>
+Din ’ntuneric a iesit,<br>
+<br>
+Biruit nu s-a lasa<br>
+<br>
+Pentru scumpa tara sa.<br>
+<br>
+Adaugata de catre Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexei Mateevici
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

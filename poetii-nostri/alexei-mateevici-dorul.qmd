@@ -1,0 +1,92 @@
+---
+title: "Dorul"
+subtitle: "Alexei Mateevici"
+author: "Doctor Shrink"
+date: "2026-07-10"
+categories: [poezie, spoken-word, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaeZ8S7_z0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Spuneţi, spuneţi, blânde stele,<br>
+<br>
+Focul lacrimilor mele,<br>
+<br>
+Spuneţi voi, privighetori,<br>
+<br>
+Şi voi, frumuseţi de flori.<br>
+<br>
+Numai voi-n această lume<br>
+<br>
+Ştiţi al meu necaz şi nume,<br>
+<br>
+Numai voi aţi plâns şi eu<br>
+<br>
+Taina sufletului meu.<br>
+<br>
+Drăguliţa primăvară<br>
+<br>
+A sosit voioasă-n ţară,<br>
+<br>
+Mi-a adus ea mândrul soare<br>
+<br>
+Ş-un sân plin de lăcrimioare,<br>
+<br>
+Mi-a adus o luna plină,<br>
+<br>
+Ca s-o scald eu în lumină.<br>
+<br>
+Lunca râde şi-nverzeşte,<br>
+<br>
+Doru-n suflet se trezeşte.<br>
+<br>
+Izvorul curge în vale,<br>
+<br>
+Aducându-mi dor de cale.<br>
+<br>
+Daţi-mi, daţi-mi aripioare,<br>
+<br>
+Să mă duc în depărtare,<br>
+<br>
+Peste munţi şi peste mare.<br>
+<br>
+Daţi-mi aripi sprintenele,<br>
+<br>
+C-aud glas de turturele.<br>
+<br>
+Duce-m-aş şi tot m-aş duce,<br>
+<br>
+Dor să nu mă mai apuce.<br>
+<br>
+Duce-m-aş în cale lungă,<br>
+<br>
+Dor să nu mă mai ajungă.<br>
+<br>
+Bate luna printre nouri,<br>
+<br>
+Stelele în cer lucesc,<br>
+<br>
+Inima îmi plânge-n mine<br>
+<br>
+De necazul ţărănesc.<br>
+<br>
+Cules de Al. M.<br>
+<br>
+4 februarie 1907
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexei Mateevici
+* **Temă:** dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

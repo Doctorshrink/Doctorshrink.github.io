@@ -1,0 +1,160 @@
+---
+title: "Cantecul Zorilor"
+subtitle: "Alexei Mateevici"
+author: "Doctor Shrink"
+date: "2026-07-10"
+categories: [poezie, spoken-word, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/saCh0T14Co8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+CANTECUL ZORILOR<br>
+<br>
+Hai, măi frate, hai, măi frate,<br>
+<br>
+Zorile s-aprind,<br>
+<br>
+Hai să căutăm dreptate,<br>
+<br>
+Voie şi pământ.<br>
+<br>
+Plugărit-am viaţa toată<br>
+<br>
+Ş-am muncit noi rău,<br>
+<br>
+N-am văzut zi luminată,<br>
+<br>
+Numai greu, tot greu.<br>
+<br>
+Şi pe umeri numai juguri<br>
+<br>
+Pân-acum am dus,<br>
+<br>
+În robie şi lanţuguri<br>
+<br>
+Toate ni le-am pus;<br>
+<br>
+Ş-ale sufletului daruri<br>
+<br>
+Noi le-am înecat<br>
+<br>
+Tot în plânsete ş-amaruri,<br>
+<br>
+Ce ne-au apăsat;<br>
+<br>
+Şi odorurile minţii<br>
+<br>
+Noi le-am prăpădit,<br>
+<br>
+Căci în ceaţa neştiinţei<br>
+<br>
+Tot am vieţuit.<br>
+<br>
+Muncă, muncă şi iar muncă,<br>
+<br>
+Alta n-am văzut;<br>
+<br>
+Şi în munca noastră lungă<br>
+<br>
+Toate le-am pierdut.<br>
+<br>
+Am crescut în largi ogoare<br>
+<br>
+Roadă cu prisos,<br>
+<br>
+Dar din pâinea roditoare<br>
+<br>
+N-am avut folos,<br>
+<br>
+Căci ogoarele luate<br>
+<br>
+Fost-au de la noi;<br>
+<br>
+Nouă-n schimb ne-au fost lăsate<br>
+<br>
+Juguri şi nevoi.<br>
+<br>
+Goi, lipsiţi de toate-n lume,<br>
+<br>
+Vecinic înjosiţi,<br>
+<br>
+La boieri n-avem nici nume.<br>
+<br>
+Pe pământul ţării-mume<br>
+<br>
+Zăcem necăjiţi.<br>
+<br>
+Dar destul! Venit-a ceasul,<br>
+<br>
+Ceasul aşteptat,<br>
+<br>
+Ca să dăm noi jos necazul,<br>
+<br>
+Care l-am răbdat.<br>
+<br>
+Vezi?! În zarea depărtării<br>
+<br>
+Zorile s-aprind,<br>
+<br>
+Sfânta zi a învierii<br>
+<br>
+Vine strălucind.<br>
+<br>
+Hai, măi frate, hai, măi frate,<br>
+<br>
+Nu munci robind,<br>
+<br>
+Hai să căutăm dreptate,<br>
+<br>
+Voie şi pământ.<br>
+<br>
+Scoală, frate! Căci ne cheamă<br>
+<br>
+Zorile ce vin.<br>
+<br>
+Scoală, frate, şi ia-ţi seamă,<br>
+<br>
+Singur ţi-eşti stăpân.<br>
+<br>
+Pentru noi, feciorii gliei,<br>
+<br>
+Zorile răsar,<br>
+<br>
+Pentru-nfrângerea robiei<br>
+<br>
+Bietului plugar.<br>
+<br>
+Trece noaptea. Lupta vine.<br>
+<br>
+Frate, ieşi gătit!<br>
+<br>
+Cel nepregătit rămâne<br>
+<br>
+Vecinic biruit.<br>
+<br>
+Trece noaptea. Hai, măi frate!<br>
+<br>
+Zorile s-aprind,<br>
+<br>
+Hai să mergem spre dreptate,<br>
+<br>
+Voie şi pământ.<br>
+<br>
+Adaugata de catre Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexei Mateevici
+* **Temă:** soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
