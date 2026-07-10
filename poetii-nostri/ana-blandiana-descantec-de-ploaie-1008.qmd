@@ -1,0 +1,58 @@
+---
+title: "Descântec de ploaie"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-07-11"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WHTUX8qoNj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Iubesc ploile, iubesc cu patimă ploile,<br>
+Înnebunitele ploi şi ploile calme,<br>
+Ploile feciorelnice şi ploile-dezlănţuite femei,<br>
+Ploile proaspete şi plictisitoarele ploi fără sfârşit,<br>
+Iubesc ploile, iubesc cu patimă ploile,<br>
+Îmi place să mă tăvălesc prin iarba lor albă, înaltă,<br>
+Îmi place să le rup firele şi să umblu cu ele în dinţi,<br>
+Să ameţească, privindu-mă astfel, bărbaţii.<br>
+Ştiu că-i urât să spui &quot;Sunt cea mai frumoasă femeie&quot;,<br>
+E urât şi poate nici nu e adevărat,<br>
+Dar lasă-mă atunci când plouă,<br>
+Numai atunci când plouă,<br>
+Să rostesc magica formulă &quot;Sunt cea mai frumoasă femeie&quot;.<br>
+Sunt cea mai frumoasă femeie pentru că plouă<br>
+Şi-mi stă bine cu franjurii ploii în păr,<br>
+Sunt cea mai frumoasă femeie pentru că-i vânt<br>
+Şi rochia se zbate disperată să-mi ascundă genunchii,<br>
+Sunt cea mai frumoasă femeie pentru că tu<br>
+Eşti departe plecat şi eu te aştept,<br>
+Şi tu ştii că te-aştept,<br>
+Sunt cea mai frumoasă femeie şi ştiu să aştept<br>
+Şi totuşi aştept.<br>
+E-n aer miros de dragoste viu,<br>
+Şi toţi trecătorii adulmecă ploaia să-i simtă mirosul,<br>
+Pe-o asemenea ploaie poţi să te-ndrăgosteşti fulgerător,<br>
+Toţi trecătorii sunt îndrăgostiţi,<br>
+Şi eu te aştept.<br>
+Doar tu ştii -<br>
+Iubesc ploile,<br>
+Iubesc cu patimă ploile, înnebunitele ploi şi ploile calme,<br>
+Ploile feciorelnice şi ploile-dezlănţuite femei...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

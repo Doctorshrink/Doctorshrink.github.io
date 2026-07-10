@@ -1,0 +1,47 @@
+---
+title: "Corabia cu poeţi"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-07-11"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eNId4CSnLBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Poeţii cred că e o corabie<br>
+Şi se îmbarcă.<br>
+<br>
+Lăsaţi-mă să mă urc pe corabia cu poeţi<br>
+Înaintând pe valurile timpului<br>
+<br>
+Fără să-şi clatine catargul<br>
+Şi fără să aibă nevoie ca să mişte din loc<br>
+(Pentru că timpul se mişcă<br>
+În jurul ei tot mai repede).<br>
+<br>
+Poeţii aşteaptă, şi refuză să doarmă,<br>
+Refuză să moară,<br>
+Ca să nu piardă clipa din urmă<br>
+Când corabia se va desprinde de ţărm -<br>
+<br>
+Dar ce e nemurirea dacă nu<br>
+Chiar această corabie de piatră,<br>
+Aşteptând cu încăpăţânare ceva<br>
+Ce nu se va întâmpla niciodată?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

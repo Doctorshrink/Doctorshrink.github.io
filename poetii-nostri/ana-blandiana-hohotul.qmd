@@ -1,0 +1,50 @@
+---
+title: "Hohotul"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-07-11"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l1OAU2N6EPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În fiecare hohot<br>
+<br>
+Un zeu se dezvăluie<br>
+<br>
+Umflându-și faldurile<br>
+<br>
+Hainei lui largi în văzduh.<br>
+<br>
+Sunt atâtea feluri de zei<br>
+<br>
+Pe pământ<br>
+<br>
+Încât nu vom prididi niciodată<br>
+<br>
+Să plângem sau să râdem destul<br>
+<br>
+Pentru a-i scoate din ascunzători.<br>
+<br>
+De râs sau de plâns,<br>
+<br>
+Nici nu contează:<br>
+<br>
+Important e hohotul.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,154 @@
+---
+title: "Timpul trecut"
+subtitle: "Alphonse de Lamartine"
+author: "Doctor Shrink"
+date: "2026-07-11"
+categories: [poezie, spoken-word, timp]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FkU95diZRCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Împinși făr-încetare spre liniștit liman,<br>
+<br>
+În etern întuneric pierim delaolaltă,<br>
+<br>
+Și nu se poate oare pe-acest etern noian<br>
+<br>
+S-aruncăm ancora vreodată?<br>
+<br>
+O, lacule senine, un an nu s-au plinit,<br>
+<br>
+Și lâng-a tale țărmuri ce dorea ea să vază,<br>
+<br>
+Acum vezi că șed singur pe-acea piatră mâhnit,<br>
+<br>
+Pe care ea iubea să șază.<br>
+<br>
+Așa gemeai atuncea sub stânca de pe mal,<br>
+<br>
+Sfărmând a tale ape de țărmurile oable,<br>
+<br>
+Așa arunca vântul spuma de pe-al tău val<br>
+<br>
+Pe ale ei picioare albe.<br>
+<br>
+Tu știi că într-o sară pe-al tău luciu pluteam,<br>
+<br>
+Iar sub cer și pe ape era tăcere lină,<br>
+<br>
+Numai a vâslei plesnet când și când auzeam,<br>
+<br>
+Lovind a ta apă senină;<br>
+<br>
+Și iată un vers dulce, mie neașteptat,<br>
+<br>
+Răsunetul deșteaptă, iar țărmul ia aminte;<br>
+<br>
+Și valul parc-ascultă versul mie amat,<br>
+<br>
+Rostind așa cuvinte:<br>
+<br>
+“O, timpule, mai stă, nu trece, și voi, ore plăcute,<br>
+<br>
+Al vostru curs popriți,<br>
+<br>
+Lăsați-ne să gustăm încă aceste dulci menunte,<br>
+<br>
+Mai stați, nu le răpiți!<br>
+<br>
+Treceți în grab’ pentru acei ce soarta prigonește,<br>
+<br>
+Dorind ca să nu stați,<br>
+<br>
+Și curmați cu a lor viață chinul ce-i osândește,<br>
+<br>
+Iar pe noi ne uitați”.<br>
+<br>
+Dar geaba cei să steie oara, căci timpul îl pripește<br>
+<br>
+Și el nu poate sta,<br>
+<br>
+Geaba zic nopții să mai steie, căci zilei plăcut este<br>
+<br>
+Noapte a alunga.<br>
+<br>
+Deci plăcut fie-ne și nouă să nu uităm vreodată<br>
+<br>
+Ca să ne fericim...<br>
+<br>
+Căci bietul om liman nu are și timpul nu ne-așteaptă<br>
+<br>
+Trece, și noi pierim.<br>
+<br>
+Dar, timpule, se poate atât să pizmuiești,<br>
+<br>
+Menuntul când amorul doi tineri fericește,<br>
+<br>
+Pe care mai în grabă ți-au plăcut să-l răpești,<br>
+<br>
+Decât pe-acel ce ne mâhnește?<br>
+<br>
+De ce n-am putut oare cursul lui să poprim?<br>
+<br>
+De ce în grab’ să piară și-n secole să treacă<br>
+<br>
+Menuntul acel dulce ca fericiți să fim?<br>
+<br>
+Ș-apoi el ia făr’ să-l întoarcă.<br>
+<br>
+O, noian al vechimei! o, timpule trecut!<br>
+<br>
+Unde-s a noastre zile ce-nghițiți făr’ de milă?<br>
+<br>
+Spuneți: de ce nu-ntoarceți măcar acel menunt<br>
+<br>
+În care omul nu suspină?<br>
+<br>
+O, râule, stânci, munte și voi, grote adânci,<br>
+<br>
+Ce vremea vă păstrează secoli nenumărate,<br>
+<br>
+Amintiți fericirea nopții atât de dulci,<br>
+<br>
+De mine neuitate!<br>
+<br>
+Lacule răsfățate, etern s-o pomenești,<br>
+<br>
+În ale tale ape limpezi, sau tulburate,<br>
+<br>
+În ale tale țărmuri ce ne-ncetat stropești<br>
+<br>
+Cu-a tale valuri spumegate;<br>
+<br>
+În zefirul ce geme pe-al tău luciu zburând,<br>
+<br>
+În lunca de pe țărmuri ce noaptea lin foșnește,<br>
+<br>
+În aurita lună ce te privește blând<br>
+<br>
+Și a ta față poliește,<br>
+<br>
+În fine, în mirosul florilor de pe țărm,<br>
+<br>
+În vântul ce îndoaie vânjoasa trestioară,<br>
+<br>
+Și tot ce-aici se mișcă și tot ce auzim<br>
+<br>
+Spuie de noi odinioară.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alphonse de Lamartine
+* **Temă:** timp
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

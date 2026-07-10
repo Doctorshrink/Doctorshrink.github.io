@@ -1,0 +1,54 @@
+---
+title: "Fericire"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-07-11"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A9irdQp7L6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Mai greu de suportat<br>
+<br>
+decât fericirea nu e nimic<br>
+<br>
+Sau în orice caz<br>
+<br>
+posibilitatea de a avea tootul<br>
+<br>
+Pe care în această parte de lume<br>
+<br>
+O numim fericire.<br>
+<br>
+A fi totul este dimpotrivă<br>
+<br>
+O exultantă suferință.<br>
+<br>
+A fi totul înseamnă a fi îm stare<br>
+<br>
+Să suferi în locul tuturor,<br>
+<br>
+A încerca să vezi cum e să fii celălalt,<br>
+<br>
+să fii altul,<br>
+<br>
+Cum e să nu mai fii tu,<br>
+<br>
+Cum e să nu mai fii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

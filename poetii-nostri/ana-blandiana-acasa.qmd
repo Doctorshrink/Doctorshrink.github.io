@@ -1,0 +1,66 @@
+---
+title: "Acasă"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-07-11"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hEO5MwTmaQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Era un timp cînd mă simţeam<br>
+<br>
+în trupul meu, acasă.<br>
+<br>
+Ştiam locul fiecărui lucru -<br>
+<br>
+fereastra în care răsărea soarele<br>
+<br>
+şi peretele dinspre nord,<br>
+<br>
+nu mi-era niciodată urît<br>
+<br>
+îmi găseam de dimineaţa<br>
+<br>
+pînă seara de lucru,<br>
+<br>
+iar dacă plecam undeva<br>
+<br>
+abia aşteptam să mă întorc.<br>
+<br>
+Acum de-atîta ordine mi-e silă<br>
+<br>
+şi de ştiutulpederost mi-e somn,<br>
+<br>
+nu mai ţin minte cînd am fost adusă<br>
+<br>
+în încăperea prea frumoasă pentru mine.<br>
+<br>
+Căutam pe cineva şi i-am rămas în loc?<br>
+<br>
+Sau poate a fost o cursă<br>
+<br>
+în care-s prinsă încă?<br>
+<br>
+Aştept de mult şi nu mai ştiu pe cine...<br>
+<br>
+Oh, mi-e atît de frig în casa asta<br>
+<br>
+Dac-aş pleca acum ar fi de tot.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
