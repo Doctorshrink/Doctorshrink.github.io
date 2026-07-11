@@ -1,0 +1,50 @@
+---
+title: "Părinții"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-07-12"
+categories: [poezie, spoken-word, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9r2zgW_zrjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Părinții fac totul oricând pentru noi –<br>
+<br>
+Ne nasc și ne cresc mai mari decât ei,<br>
+<br>
+Rămân apoi cu discreție în urmă,<br>
+<br>
+Nu ne deranjează de obicei.<br>
+<br>
+Li-e rușine că sunt prea bătrâni, prea bolnavi,<br>
+<br>
+Pentru noi prea modești și prea simpli părinți,<br>
+<br>
+Vinovați pentru timpul pierdut<br>
+<br>
+Ne privesc în tăcere cuminți.<br>
+<br>
+Apoi, își mută privirea în stea,<br>
+<br>
+Când raza-nglodată de cer se subție<br>
+<br>
+Și, obosiți, nu pregetă-o clipă<br>
+<br>
+Să ni se așeze în pământ, temelie.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

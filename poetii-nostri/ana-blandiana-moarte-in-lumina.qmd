@@ -1,0 +1,157 @@
+---
+title: "Moarte in lumină"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-07-12"
+categories: [poezie, spoken-word, lumina, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EBklLStyb28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+1<br>
+<br>
+Tu ştii<br>
+Câte aluviuni<br>
+Lasă în mine apa curgătoare a zilei<br>
+Şi ce eroică beznă îmi trebuie<br>
+Să mă curăţ de ele<br>
+Şi cum,<br>
+Atunci când ochii mei abia au uitat<br>
+Forma străină a corpurilor<br>
+Şi nici o rază<br>
+Nu le mai tulbură adânca vedere,<br>
+Urechile înspăimântate<br>
+Încep să distingă<br>
+Scurgerea timpului<br>
+Din nou înspre zi.<br>
+Împins,<br>
+Întunericul primeşte contururi,<br>
+Se face impur şi se mişcă,<br>
+Înălţat din zăpadă<br>
+Câinele ascultă ceva,<br>
+Paznicul începe să-şi închidă<br>
+Mantaua.<br>
+Ajutor, strig<br>
+Sperând<br>
+Că ar mai putea cineva<br>
+Să-l oprească.<br>
+Dacă<br>
+Nu s-ar mai face dimineaţă? -<br>
+Întreb sperând<br>
+Că mă mai poate ajuta cineva.<br>
+Dacă nimic nu s-ar mai clinti?<br>
+Dacă nu s-ar mai pune în mişcare<br>
+Imensa roată<br>
+Care mă trage pe zi?<br>
+<br>
+2<br>
+<br>
+Numai de tine atârnă asta, tată,<br>
+Numai de tine depinde<br>
+Ca-n leagănul cald<br>
+În care singur m-ai născut<br>
+Să-mi vii alături.<br>
+Braţele mele tu mi le-ai făcut<br>
+Şi-n întuneric te găsesc pe tine,<br>
+Şi răsuflarea mea,<br>
+Din răsuflarea ta înmugurită,<br>
+Lângă clavicula-ţi subţire<br>
+Numai noaptea o simţi,<br>
+Şi doar din beznă ochii tăi mă văd,<br>
+Şi mi-e atât de bine,<br>
+Şi ţi-e atât de bine.<br>
+Iubitul meu, Doamne, tatăl şi fratele meu,<br>
+Nu prăvăli deasupra mea lumina<br>
+Ca să dispari în albul ei prăpăd.<br>
+Nu-ţi fie teamă de mine!<br>
+<br>
+3<br>
+<br>
+Dacă nu s-ar mai face dimineaţă,<br>
+Dacă alunecosul pisc al nopţii<br>
+Nu mi-ar fugi mereu de sub picioare,<br>
+Cine ar îndrăzni să înjosească<br>
+Noptoasele mele izbânzi,<br>
+Singurătatea fără ţărm în care<br>
+Te simt din când în când cum vii<br>
+Şi-apoi te zbaţi să te desprinzi?<br>
+E păcat, Doamne, că te-nchid în mine<br>
+Ca-ntr-o capcană, ca să te mângâi?<br>
+<br>
+4<br>
+<br>
+Împotriva ta<br>
+Cine-ar îndrăzni să-mi vină-n ajutor?<br>
+Soarele numai pe tine te-ascultă<br>
+Şi-odată cu soarele<br>
+Cresc în jurul meu<br>
+Pădurile de ochi<br>
+Mângâioşi, umili şi uzi.<br>
+Ajutor, ajutor,<br>
+Numai tu le poţi porunci să adoarmă,<br>
+Numai tu,<br>
+Fratele meu întru negăsire,<br>
+Tu,<br>
+Întru căutare mire,<br>
+Tu,<br>
+Cel ce-ţi astupi cu aripa urechile<br>
+Să nu mă auzi.<br>
+<br>
+5<br>
+<br>
+Nicicând n-am fost mai muritoare<br>
+O, spinii tăi îmi intră-n umăr dulci,<br>
+Eşti prea aproape<br>
+Ca să simt durerea<br>
+Când capul lin pe pieptul meu îl culci.<br>
+Se face noapte peste calendare,<br>
+Te leagăn, tată,<br>
+În leagănul meu<br>
+Şi-mi vine să surâd<br>
+Când îmi aduc aminte<br>
+Că fiul meu cuminte-i Dumnezeu.<br>
+Dar noaptea-l creşte şi mi-l face frate<br>
+Şi uită că mi-e frate în curând,<br>
+Lângă clavicula-i subţire<br>
+Gura mea sfântă respirând<br>
+O clipă numai indecisă.<br>
+Şi apoi<br>
+Devii din nou părinte.<br>
+Ce spaimă dinainte<br>
+De-a fi şi eu pe lume<br>
+Te face să chemi zorii peste noi?<br>
+Când m-ai născut<br>
+Te-ai bucurat.<br>
+Ce nostalgie a puterii tale<br>
+De dinainte de-a iubi<br>
+Te face<br>
+Să răsuceşti lumina-n amândoi?<br>
+<br>
+6<br>
+<br>
+În jurul meu pădurile de ochi,<br>
+Locul câinelui desenat pe zăpadă,<br>
+Paznicul dormind în soare undeva.<br>
+Din ce în ce mai muritoare,<br>
+Ce păcat - murmur şi nu înţeleg<br>
+Dacă păcatul îl plâng<br>
+Sau speram doar să vină.<br>
+Aştept curată noaptea următoare<br>
+Şi următoarea moarte în lumină.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** lumina, soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

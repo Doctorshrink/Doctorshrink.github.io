@@ -1,0 +1,38 @@
+---
+title: "La ce serveşte bucuria"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-07-12"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sf_A5RFaDEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Învaţă să nu te mai bucuri,<br>
+Învaţă să nu mai ucizi<br>
+Cu zâmbetul şi cu mângâierea.<br>
+Un singur râs al tău<br>
+Poate doborî păsările de pe crengi,<br>
+Păsările pe care numai o nefericire<br>
+Le-ar mai fi putut ţine în viaţă.<br>
+Fiecare bucurie răneşte pe cineva.<br>
+În lumea voastră la ce serveşte bucuria?<br>
+Noaptea visez armate întregi hohotind<br>
+În timp ce noi cădem ca spicele în jur.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

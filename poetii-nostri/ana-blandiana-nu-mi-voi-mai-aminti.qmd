@@ -1,0 +1,68 @@
+---
+title: "Nu-mi voi mai aminti"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-07-12"
+categories: [poezie, spoken-word, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aABMmv-cfHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nu-mi voi mai aminti,<br>
+<br>
+Va fi fost o pășune, o mare,<br>
+<br>
+Păsări pluteau sau poate pești<br>
+<br>
+Prin părul meu,<br>
+<br>
+Voi ști doar c-ai venit<br>
+<br>
+Și, cu ochii închiși<br>
+<br>
+Voi auzi cum freamătă<br>
+<br>
+Împăduritul Dumnezeu.<br>
+<br>
+Se face liniște în mine<br>
+<br>
+Până la glezne, pâna la genunchi,<br>
+<br>
+Este destul să-ți plimbi în somn<br>
+<br>
+Pe mine mâna<br>
+<br>
+Că frunze-mi cresc cântând<br>
+<br>
+Din trunchi<br>
+<br>
+Este destul sa îmi ridic privirea<br>
+<br>
+Ca să te văd.<br>
+<br>
+O, liniștită dragoste,<br>
+<br>
+Amiază suavă<br>
+<br>
+Ca o boabă de strugure<br>
+<br>
+Care-și găsește moartea<br>
+<br>
+În cerul visător al gurii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

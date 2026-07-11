@@ -1,0 +1,48 @@
+---
+title: "Ninge cu duşmănie"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-07-12"
+categories: [poezie, spoken-word, iarna]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vU8h64ygGCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ninge cu duşmănie,<br>
+Cu ură cade zăpada<br>
+Peste apele îngheţate cu ură,<br>
+Peste livezile înflorite din răutate,<br>
+Peste păsările înrăite care îndură.<br>
+Ninge ca şi cum prin zăpadă<br>
+Ar trebui să se sfârşească<br>
+Viaţa acestui acvatic popor,<br>
+Ninge cu o încrâncenare<br>
+Omenească,<br>
+Ninge otrăvitor.<br>
+Pe cine să mire?<br>
+Doar eu mai ştiu<br>
+Că ninsoarea<br>
+A fost la-nceputuri iubire.<br>
+E atât de târziu<br>
+Şi ninge hidos,<br>
+Şi nu-mi vine-n minte<br>
+Decât să aştept<br>
+Lupii flămânzi,<br>
+Să le fiu de folos.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** iarna
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

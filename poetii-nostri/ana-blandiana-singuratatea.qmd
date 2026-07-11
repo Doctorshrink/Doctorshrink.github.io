@@ -1,0 +1,74 @@
+---
+title: "Singuratatea"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-07-12"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ufs5tMCP1lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+singuratatea e un oras<br>
+<br>
+in care ceilalti au murit,<br>
+<br>
+strazile sunt curate,<br>
+<br>
+pietele goale,<br>
+<br>
+totul se vede deodata<br>
+<br>
+dilatat in pustiul<br>
+<br>
+atat de limpede sortit.<br>
+<br>
+singuratatea e un oras<br>
+<br>
+in care ninge enorm<br>
+<br>
+si nici un pas<br>
+<br>
+nu profaneaza lumina<br>
+<br>
+depusa in straturi,<br>
+<br>
+si numai tu, ochiul treaz<br>
+<br>
+deschis peste cei care dorm,<br>
+<br>
+privesti, si-ntelegi, si nu te mai saturi<br>
+<br>
+de-atata tacere si neprihana<br>
+<br>
+in care nimeni nu lupta<br>
+<br>
+si nu e mintit,<br>
+<br>
+unde-i prea clara<br>
+<br>
+ca sa mai doara<br>
+<br>
+pana si lacrima de animal parasit.<br>
+<br>
+in valea<br>
+<br>
+dintre suferinta si moarte<br>
+<br>
+singuratatea e un oras fericit
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
