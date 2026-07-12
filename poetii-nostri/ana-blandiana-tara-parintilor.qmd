@@ -1,0 +1,52 @@
+---
+title: "Ţara părinţilor"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-07-13"
+categories: [poezie, spoken-word, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1sbgDBi5gvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Părul îmi ajungea până la pământ<br>
+Şi treizeci de ani<br>
+Mi se părea o vârstă atât de îndepărtată<br>
+Încât nu credeam cu putinţă<br>
+Să o ating vreodată,<br>
+Plină de cruzime lunecam<br>
+Dinspre ţara părinţilor<br>
+Spre o lume încă neinventată.<br>
+<br>
+Lumea nu s-a inventat nici acum,<br>
+Părul nu mai mi-e atât de lung,<br>
+Treizeci de ani e numai merinde pe drum,<br>
+Dar în ţara părinţilor ce n-aş da să ajung!<br>
+<br>
+Dar în ţara părinţilor<br>
+Se ajunge întotdeauna târziu,<br>
+Numai când totu-i pustiu,<br>
+Şi doar în lumina de lună<br>
+Se mai strâng împreună,<br>
+Sub tăiaţii castani,<br>
+Umbre de taţi condamnaţi<br>
+Şi mame de treizeci de ani<br>
+Pieptănând<br>
+Fete cu plete<br>
+Până-n pământ.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

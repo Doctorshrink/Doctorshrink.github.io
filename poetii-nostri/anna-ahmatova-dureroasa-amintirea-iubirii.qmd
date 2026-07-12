@@ -1,0 +1,104 @@
+---
+title: "Dureroasă − amintirea iubirii!"
+subtitle: "Anna Ahmatova"
+author: "Doctor Shrink"
+date: "2026-07-13"
+categories: [poezie, spoken-word, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R2LfJMjtUNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dureroasă − amintirea iubirii!<br>
+<br>
+Mie-n fumu-ţi mi-i dat să ard şi să cînt,<br>
+<br>
+Pe cînd vouă vi-i flacără firii,<br>
+<br>
+Să-ncălziţi stinsul suflet pe rînd.<br>
+<br>
+Trupul să-şi încălzească, uscat,<br>
+<br>
+Au nevoie de lacrima mea ...<br>
+<br>
+Pentru-aceasta, eu, Doamne-am cîntat<br>
+<br>
+Şi-am jurat în iubire cîndva!<br>
+<br>
+Dă-mi să beau o-ndulcită otravă,<br>
+<br>
+Să orbesc, rătăcind prin tocmeli<br>
+<br>
+Şi-a mea slavă fără de slavă<br>
+<br>
+Cu-o batistă de toamnă s-o speli.<br>
+<br>
+* * *<br>
+<br>
+Totu-i pierdut: şi forţă, şi iubiri.<br>
+<br>
+Trupul uitat în burgul nemilos<br>
+<br>
+Tînguie-n soare. Sîngele, te miri,<br>
+<br>
+În mine simt că-ngheaţă, friguros.<br>
+<br>
+Vesela muză nu mi-o recunosc:<br>
+<br>
+Ea cată-n ochi şi lacrimă, bolnavă,<br>
+<br>
+Iar creştetu-n coroană drept zăbavă,<br>
+<br>
+Pe piept mi-l lasă, să mi-l amintesc.<br>
+<br>
+Numai obrazul zilnic mai apus<br>
+<br>
+Se clatină: vrea danie măreaţă.<br>
+<br>
+Cu chipu-nnegurat i-aş fi răspuns ...<br>
+<br>
+Dar nu mai am nici lacrimi şi nici viaţă.<br>
+<br>
+* * *<br>
+<br>
+Dar am să vin acolo şi-o să zboare<br>
+<br>
+Frînturi de gînd în friguri timpurii.<br>
+<br>
+Tainice aşezări de sat sub zare<br>
+<br>
+De muncă păstrătoare în vecii.<br>
+<br>
+Cu sigură şi lină-ndrăgostire<br>
+<br>
+Nu pot să fiu legată-n aste părţi:<br>
+<br>
+Un pic novgorodean de sînge-mbie<br>
+<br>
+În mine gheaţa-n vin pe jumătăţi.<br>
+<br>
+Şi-aceasta nicidecum nu poţi reface,<br>
+<br>
+Nu au topit-o-ncă nămoluri mari.<br>
+<br>
+Şi eu, să nu încep slăviri de pace,<br>
+<br>
+Tu, liniştită-n faţa-ne tresari.<br>
+<br>
+Versuri tălmăcite de Traianus
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Anna Ahmatova
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

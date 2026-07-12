@@ -1,0 +1,50 @@
+---
+title: "Ţărm"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-07-13"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ViMeOdHt1DE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Somnul pulsează ca un ocean<br>
+<br>
+Şi ritmic loveşte în ţărmul viu<br>
+<br>
+Ce încă mai sunt, şi mă surpă, şi scriu<br>
+<br>
+Cu spinii pleoapei plecate viclean;<br>
+<br>
+Mai smulg o silabă din ape, pământ<br>
+<br>
+Moale de somn, lângă una mai veche,<br>
+<br>
+Oceanu-mi scandează chemări în ureche<br>
+<br>
+Şi ritmic loveşte în ţărmul ce sunt;<br>
+<br>
+Mă surp cu o literă, cu o vobă, c-un an,<br>
+<br>
+Din dulci calendare mă nărui şi-adorm,<br>
+<br>
+Pe când, morfolindu-şi poemul diform,<br>
+<br>
+Somnul pulsează ca un ocean.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

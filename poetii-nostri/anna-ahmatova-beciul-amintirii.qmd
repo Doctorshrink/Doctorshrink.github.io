@@ -1,0 +1,72 @@
+---
+title: "Beciul amintirii"
+subtitle: "Anna Ahmatova"
+author: "Doctor Shrink"
+date: "2026-07-13"
+categories: [poezie, spoken-word, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f4xTEghUKus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+E-absurd să crezi că mi-e surâsu-amar,<br>
+<br>
+Și că mă rod aducerile-aminte.<br>
+<br>
+Sunt oaspetele amintirii rar,<br>
+<br>
+Dar și așa, într-una, ea mă minte.<br>
+<br>
+Când mă cobor cu felinaru-n beci,<br>
+<br>
+Îmi pare veșnic că pereții reci<br>
+<br>
+Acuși-acuși, se surpă peste mine…<br>
+<br>
+Feștila fumegând, nu mai știu bine<br>
+<br>
+Cărarea-n sus. Și merg către dușmani,<br>
+<br>
+Cer milă… Liniști îmi răspund și bezne.<br>
+<br>
+Petrecerea s-a înecat la glezne…<br>
+<br>
+În urmă cu vreo patruzeci de ani,<br>
+<br>
+Femeile erau conduse, dar<br>
+<br>
+Muri de bătrânețe-acel ștrengar…<br>
+<br>
+Eu am întârziat. Nenorocire!<br>
+<br>
+Cum pot să mai apar la întâlnire?!<br>
+<br>
+Picturile de pe pereți le-ating,<br>
+<br>
+Mă încălzesc la guri de sobă calde,<br>
+<br>
+Din mucegai și pânză de paing<br>
+<br>
+Au scăpărat două verzui smaralde,<br>
+<br>
+Și-o mâță-a mieunat.<br>
+<br>
+Acasă! Gata!<br>
+<br>
+Dar unde-i casa mea, și    judecata?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Anna Ahmatova
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
