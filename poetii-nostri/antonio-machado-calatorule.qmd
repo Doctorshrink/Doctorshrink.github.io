@@ -1,0 +1,43 @@
+---
+title: "Călătorule"
+subtitle: "Antonio Machado"
+author: "Doctor Shrink"
+date: "2026-07-14"
+categories: [poezie, spoken-word, drum]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XdTVbPygNhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Călătorule, drum nu există<br>
+drumul sunt urmele pe care le laşi<br>
+Călătorule, drum nu există,<br>
+drumul se face mergînd<br>
+<br>
+Şi cînd priveşti înapoi<br>
+vezi cărarea<br>
+pe care nu trebuie<br>
+s-o mai baţi niciodată<br>
+Călătorule, drum nu există<br>
+numai brazde pe mare<br>
+<br>
+Totul trece şi totul rămîne<br>
+dar rostul nostru e să trecem<br>
+să trecem făcînd drumuri<br>
+drumuri pe mare.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Antonio Machado
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

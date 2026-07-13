@@ -1,0 +1,42 @@
+---
+title: "În scrinu-amintirii"
+subtitle: "Anna Ahmatova"
+author: "Doctor Shrink"
+date: "2026-07-14"
+categories: [poezie, spoken-word, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qAF22ZZvuBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În scrinu-amintirii umblând, voi găsi<br>
+<br>
+Mănuși rotunjite pe coate,<br>
+<br>
+O noapte la Piter, mirosuri sălcii<br>
+<br>
+Din loji în penumbre-ngropate;<br>
+<br>
+O briză de golf. Printre rânduri, la loc<br>
+<br>
+De cinste, fugind de suspine,<br>
+<br>
+Tenorul cel tragic al epocii, Blok,<br>
+<br>
+Trufaș va surâde spre tine.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Anna Ahmatova
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

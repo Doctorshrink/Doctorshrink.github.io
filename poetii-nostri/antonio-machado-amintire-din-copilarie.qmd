@@ -1,0 +1,68 @@
+---
+title: "Amintire din copilărie"
+subtitle: "Antonio Machado"
+author: "Doctor Shrink"
+date: "2026-07-14"
+categories: [poezie, spoken-word, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x8AbL9FdBpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Amintire din copilărie<br>
+<br>
+O după-amiază mohorâtă și rece<br>
+<br>
+de iarnă. Școlarii<br>
+<br>
+învață. Monotonia<br>
+<br>
+îndărătul ferestrelor.<br>
+<br>
+În clasă, un tablou<br>
+<br>
+îl arată pe Cain<br>
+<br>
+fugind, pe Abel mort<br>
+<br>
+lângă o pată de carmin.<br>
+<br>
+Cu timbru găunos și sonor<br>
+<br>
+tună maestrul, un bătrân<br>
+<br>
+în haine umile, e slab și uscat,<br>
+<br>
+ține în mână o carte.<br>
+<br>
+Și întregul cor de copii<br>
+<br>
+cântă lecția;<br>
+<br>
+o mie ori o sută – o sută de mii,<br>
+<br>
+o mie ori o mie – un milion.<br>
+<br>
+O după-amiază mohorâtă și rece<br>
+<br>
+de iarnă. Școlarii<br>
+<br>
+învață. Monotonia<br>
+<br>
+îndărătul ferestrelor.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Antonio Machado
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,118 @@
+---
+title: "Sir Patrick Spens (baladă anonimă)"
+subtitle: "Anonim"
+author: "Doctor Shrink"
+date: "2026-07-14"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gmnGrzE7V68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Sir Patrick Spens<br>
+<br>
+(baladă anonimă)<br>
+<br>
+Regele şade în oraşul Dunfermline<br>
+<br>
+Bând vin roş-sângeriu:<br>
+<br>
+„O unde voi găsi un timonier,<br>
+<br>
+Să cârmească acest barcaz al meu?”<br>
+<br>
+Drepţi vorbi un cavaler bătrân,<br>
+<br>
+Şezu la al regelui genunchi drept:<br>
+<br>
+„Sir Patrick Spens e cel mai bun matroz<br>
+<br>
+Ce merge-n vânt pe mare.”<br>
+<br>
+Regele scrise o epistolă-nflorită,<br>
+<br>
+Şi o semnă cu mâna lui,<br>
+<br>
+Şi i-o trimise lui Sir Patrick Spens,<br>
+<br>
+El umbla pe nisip.<br>
+<br>
+Primul rând ce Sir Patrick citi,<br>
+<br>
+Puternic hohot râse;<br>
+<br>
+Următorul rând ce Sir Patrick citi,<br>
+<br>
+Lacrima îi orbi ochiul.<br>
+<br>
+“O cine făcu această faptă,<br>
+<br>
+Această rea faptă mie,<br>
+<br>
+Să mă trimită-acum în an,<br>
+<br>
+Să merg în vânt pe mare!<br>
+<br>
+“Grăbiţi, grăbiţi, toţi voioşii mei,<br>
+<br>
+Pilotul pleacă dimineaţă”:<br>
+<br>
+“O spune nu domn, stăpânu drag,<br>
+<br>
+Că mă tem de-ucigătoare furtuni.<br>
+<br>
+“Răsalaltăieri văzui luna nouă,<br>
+<br>
+Cu luna veche în braţe,<br>
+<br>
+Şi mă tem, mă tem, stăpânu drag,<br>
+<br>
+Că vom ajunge-n talazuri.”<br>
+<br>
+O nobili noştri Scoţi nu voiau<br>
+<br>
+Să-şi cunoască vasul botezat cu dopuri;<br>
+<br>
+Dar când joaca a fost jucată,<br>
+<br>
+Pălăriile le înotau în jur.<br>
+<br>
+O mult, mult doamnele le pot şedea,<br>
+<br>
+Cu evantaiele în mână,<br>
+<br>
+Poate văd pe Sir Patrick Spens<br>
+<br>
+Cum vine spre pământ.<br>
+<br>
+O mult, mult doamnele le pot sta<br>
+<br>
+Cu nestemate de aur în păr,<br>
+<br>
+Aşteptând măcar pe unul din lorzi,<br>
+<br>
+Ar vedea că nu au murit.<br>
+<br>
+Jumătate sfârşit, jumătate sfârşit spre Aberdour,<br>
+<br>
+Este la cincizeci de noduri adâncime,<br>
+<br>
+Şi acolo zace timonierul Sir Patric Spens,<br>
+<br>
+Cu lorzii Scoţi la picioare.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Anonim
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,82 @@
+---
+title: "Călătorule, nu-i cale..."
+subtitle: "Antonio Machado"
+author: "Doctor Shrink"
+date: "2026-07-14"
+categories: [poezie, spoken-word, drum]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KVMMTY2bCuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Toate trec şi rămân toate<br>
+dară noi ni-s trecători<br>
+trecem făcându-ne-o cale<br>
+o cale pe val de mări<br>
+<br>
+Eu nicicând n-am vânat gloria<br>
+nici cântarea în memoria<br>
+oamenilor vrui să-mi pun<br>
+Mie-mi plac lumile fine<br>
+diafane, plutind line<br>
+ca baloane de săpun<br>
+<br>
+Îmi place cum se ornează<br>
+cu soare şi cu carmin<br>
+zboară-n ceru-azur, vibrează<br>
+şi se sparg ca din senin<br>
+<br>
+Eu nicicând n-am vânat gloria...<br>
+<br>
+Călător, urmele tale<br>
+sunt poteca, doar atât<br>
+călătorule, nu-i cale<br>
+se face calea umblând<br>
+<br>
+Doar umblând croieşti cărare<br>
+şi-ndărăt dacă priveşti<br>
+vezi poteca ta pe care<br>
+nicicând n-o să mai păşeşti<br>
+<br>
+Călătorule, nu-i cale<br>
+numai spuma de pe val...<br>
+<br>
+În locu-acesta, în timpul când<br>
+creşteau stejarii, nu spinii-n vale<br>
+rosti poetul, spre lume-oftând<br>
+&quot;Călătorule, nu-i cale<br>
+se face calea umblând...&quot;<br>
+<br>
+Pas cu pas, vers cu vers...<br>
+<br>
+Muri poetu-n străin pământ<br>
+Acolo doarme, în depărtare<br>
+La despărţire plecă plângând<br>
+&quot;Călătorule, nu-i cale<br>
+se face calea umblând...&quot;<br>
+<br>
+Pas cu pas, vers cu vers...<br>
+<br>
+Când nu se-aude mierla cântând<br>
+când poezia-i peregrinare<br>
+când vană-i ruga şi-i plânsu-n vânt<br>
+&quot;Călătorule, nu-i cale<br>
+se face calea umblând...&quot;<br>
+<br>
+Pas cu pas, vers cu vers...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Antonio Machado
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

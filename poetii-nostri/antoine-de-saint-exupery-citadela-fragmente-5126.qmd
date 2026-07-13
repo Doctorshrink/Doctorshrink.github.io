@@ -1,0 +1,114 @@
+---
+title: "Citadela - fragmente"
+subtitle: "Antoine de Saint-Exupery"
+author: "Doctor Shrink"
+date: "2026-07-14"
+categories: [poezie, spoken-word, iubire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r0JQ-9qf2o0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+FEMEIA<br>
+<br>
+280 Femeia este iubita asa cum este iubita muzica, e iubit luxul. Este spirituala sau este sentimentala si este dorita. Dar ceea ce crede, ceea ce simte, ceea ce poarta in gand  nu intereseaza pe nimeni. Duiosia pentru copilul ei, grijile cele mai firesti  toata aceasta parte adumbrita este neglijata [] Dar femeia nu se gandeste mereu la dragoste : nu are timp !<br>
+<br>
+Curier Sud - Antoine de Saint-Exupery<br>
+<br>
+258 Daca renegi o casa renegi toate casele. Daca renegi o femeie, renegi dragostea. Vei parasi aceasta femeie, dar nu vei gasi dragostea .<br>
+<br>
+Citadela, CLXXV - Antoine de Saint-Exupery<br>
+<br>
+288 Sotia iti va reprosa totdeauna ceea ce dai altcuiva, afara de ea.<br>
+<br>
+Citadela, CLXXV - Antoine de Saint-Exupery<br>
+<br>
+289 femeia , daca este frumoasa, cheama la ea darurile si jertfele si te imbata cu ceea ce ii dai. Nu ce ceea ce iti da.<br>
+<br>
+Citadela, XXXVII- Antoine de Saint-Exupery<br>
+<br>
+MELANCOLIE<br>
+<br>
+303 Amintire aultimei vizite , facuta de un tanar locotenent unui batran sergent, comandantul unui fort pierdut in nisipurile Saharei, este aproape o amintire de dragoste,<br>
+<br>
+Curier Sud, III, 6 - Antoine de Saint-Exupery<br>
+<br>
+IUBIRE<br>
+<br>
+314 Adevarata iubire incepe de acolo de unde tu nu mai astepti nimic in schimb.<br>
+<br>
+Citadela, LV - Antoine de Saint-Exupery<br>
+<br>
+317 Inainte de orice, dragostea este ascultare in tacere. A iubi inseamna a contempla [  ]<br>
+<br>
+Va veni ora cand nu vei mai cere nimic .Nici buzele, nici zambetul, nici bratul dragastos, nici rasuflarea prezentei sale. Iti va fi de ajuns ca ea doar sa existe.<br>
+<br>
+Citadela, CCIII - Antoine de Saint-Exupery<br>
+<br>
+322 Daca femeia iti cere sa te ocupi numai si numai de ea si sa te fereci in dragostea ei, iti cere atunci sa nu mai fii decat egoism in doi, despre care gresit se spune ca ar fi lumina dragostei, cand de fapt nu este decat focsteril, jaf al hambarelor. Eu nu mi-am strans proviziile pentru a le fereca intr-o femeie , si pe deasupra sa mai fiu si multumit.<br>
+<br>
+Citadela, LIV - Antoine de Saint-Exupery<br>
+<br>
+323 Dorul de dragoste este dragoste. Pentu ca nu ai putea dori ceva ce nu stii ce este.<br>
+<br>
+Citadela, CXCIV - Antoine de Saint-Exupery<br>
+<br>
+337 Poti fi nelinistit de setea de dragoste , fara dragoste : dar nu uita ca dragostea nu este in esenta ei, decat sete de dragoste, lucru stiut din apropieri, cand ar putea sa se uneasca de la inceput.<br>
+<br>
+Citadela, L - Antoine de Saint-Exupery<br>
+<br>
+332 Daca voi intalni in calea mea pe femeia care se imbujoreaza la fata si se balbaie de emotie, nici nu ma voi umili si nici nu o voi umili in dragoste [ ] daca ea are nevoie de mine ca samburele de glie pentru ase face copac, nu o voi inabusi cu ingimfarea mea. Dar nici nu o voi proslavi de dragul ei<br>
+<br>
+Citadela, LV - Antoine de Saint-Exupery<br>
+<br>
+339 Melancolia de a nu simti dragostea este chiar dragoste.<br>
+<br>
+Citadela, CXCIV - Antoine de Saint-Exupery<br>
+<br>
+341 Te ingrozeste mai mult suferinta care tace decat suferinta care tipa. Cea care tace umple camera. Umple orasul. Si nu exista distanta de la care sa n-o auzi. Daca cea care o iubesti sufera departe de tine, suferinta ei te va ajunge, oriunde ai fi.<br>
+<br>
+Citadela, CLIII - Antoine de Saint-Exupery<br>
+<br>
+343 Adevarata dragoste nu scade prin cheltuirea ei. Cu cat dai , cu atat iti ramane mai mult. Daca iti stingi setea la fantana cea adevarata , cu cat iei mai mult din ea, cu atat mai generoasa devine.<br>
+<br>
+Citadela, CXXIII - Antoine de Saint-Exupery<br>
+<br>
+344 Dragostea nu-ti este daruita de un anume chip (de care te-ai indragostit - n.n.), dupa cum nici multumirea nu este pricinuita de privelistea (din varful muntelui - n.n.)ci de ascensiunea reusita , de muntele dominat, de ajungerea ta pana la ceruri.<br>
+<br>
+Citadela, XXXV - Antoine de Saint-Exupery<br>
+<br>
+346 Oamenii care au trait multa vreme hranindu-se dintr-o mare dragoste, de care au fost apoi lipsiti, se satura uneori de nobletea lor singuratica. Ei se apropie cu umilinta de dragoste si isi cladesc fericirea dintr-o dragoste mediocra.<br>
+<br>
+Terre de hommes , VI, 6 - Antoine de Saint-Exupery<br>
+<br>
+347 Durerea unui singur ins face cat durerea lumii intregi. Si dragostea pentru o singura femeie, oricat ar fi ea de netoata, trage in balanta mai mult decat Calea Lactee, cu toate stelele ei.<br>
+<br>
+Citadela, XXIX - Antoine de Saint-Exupery<br>
+<br>
+348 Stiu ca a iubi inseamna a recunoaste. A recunoaste chipul citit dincolo de lucruri. Dragostea nu este altceva decat cunoasterea zeilor.<br>
+<br>
+Citadela, CXX - Antoine de Saint-Exupery<br>
+<br>
+359 Pentru a te face iubit este de ajuns sa plingi. Eu nu pling niciodata sau pling pe ascuns.<br>
+<br>
+Zbor de noapte - Antoine de Saint-Exupery<br>
+<br>
+360 Nimic din ce am iubit in tine nu are sens material. Buzele tale , da , dar numai cand alcatuiau acel zambet care face parte din lumea formelor. Nu esenta carnii tale , ci felul in care este potrivita . Nimic din ce s-ar putea identifica drept fizica sau chimie, ci numai prin matematica pura(ritmul ) si geometrie pura (forma). Nimic care sa aiba un alt sens decat unul spiritual.<br>
+<br>
+Carnete, III, 8 - Antoine de Saint-Exupery
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Antoine de Saint-Exupery
+* **Temă:** iubire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
