@@ -1,0 +1,226 @@
+---
+title: "Corabia beată"
+subtitle: "Arthur Rimbaud"
+author: "Doctor Shrink"
+date: "2026-07-15"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qgnK8K_b9Tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cum lunecam la vale pe-a apelor oglinda<br>
+<br>
+N-am mai simtit odgonul întins de edecari:<br>
+<br>
+Cu chiote, Piei Rosii-i luasera drept tinta<br>
+<br>
+Legându-i, goi, pe maluri, de coloratii pari.<br>
+<br>
+De echipaje nu-mi mai pasa cum – ca poarta<br>
+<br>
+Bumbac din Englitera ori grâu din Flandra. – Când,<br>
+<br>
+Cu edecarii-odata, se stinse orice cearta,<br>
+<br>
+Am fost lasat de Fluvii oriunde sa ma-avânt.<br>
+<br>
+Eu, ce fusesem, iarna, mai surd decât un creier<br>
+<br>
+De tânc, am dat navala prin al mareei val!<br>
+<br>
+Si nici un promontoriu atins de-al meu cutreier<br>
+<br>
+N-a mai vazut vreun iures atât de triumfal.<br>
+<br>
+Furtunile-mi sfintira treziile marine.<br>
+<br>
+Mai slobod decât dopul pe ape-am dantuit<br>
+<br>
+- Si zice-se ca ele doar lesuri duc, haine -<br>
+<br>
+Vreo zece nopti, iar farul neghiob nu mi-a lipsit!<br>
+<br>
+Curata, verde unda, mai dulce decât pare<br>
+<br>
+Copiilor chiar marul cel acru, m-a spalat<br>
+<br>
+De varsaturi si pete de vin; zvârlind în mare<br>
+<br>
+Si ancora si cârma, în voie m-a lasat.<br>
+<br>
+De-atunci ma scald întruna în Marea lactescenta,<br>
+<br>
+Ca-ntr-un Poem de astri patruns si devorând<br>
+<br>
+Azurul verde-n care vreun înecat – absenta<br>
+<br>
+Si palida stafie – coboara când si când;<br>
+<br>
+Si-n care, dând culoare salciilor seninuri -<br>
+<br>
+Deliruri si cadente ascunse-n straluciri, -<br>
+<br>
+Mai largi decât ni-e lira, mai tari ca orice vinuri,<br>
+<br>
+Fac sa dospeasca fierea rosieticei iubiri!<br>
+<br>
+Stiu boltile ce crapa sub fulgerele dese,<br>
+<br>
+Stiu trombele, si Seara, si Zorii plini de-avânt -<br>
+<br>
+Popor de porumbite, – si am vazut, adese,<br>
+<br>
+Tot ce crezuse Omul ca vede pe pamânt!<br>
+<br>
+Vazut-am cum un soare patat de-un mistic sânge<br>
+<br>
+Ilumineaza cheaguri prelungi si viorii, -<br>
+<br>
+Cum draperia marii, fosnind, sub zari îsi strânge<br>
+<br>
+Talazurile – parca eroi de tragedii!<br>
+<br>
+Visat-am noaptea verde cu-omaturi uluite -<br>
+<br>
+Saruturi care urca în ochii marii, lent, -<br>
+<br>
+Miscarea unor seve în veci neauzite,<br>
+<br>
+Fosforuri cântatoare arzând incandescent!<br>
+<br>
+Urmat-am, luni de-a rândul, a valurilor turma -<br>
+<br>
+Ca niste vaci zalude izbind în stânci, avan -<br>
+<br>
+Fara-a visa ca talpa Madonelor, din urma<br>
+<br>
+E-n stare a împinge puhavul Ocean!<br>
+<br>
+Am dat peste Floride fantastice, în care<br>
+<br>
+Erau ochi de pantere si piei de om si flori!<br>
+<br>
+Treceam prin curcubeie întinse pe sub mare<br>
+<br>
+Ca niste haturi pentru verzuiele vâltori!<br>
+<br>
+Vazut-am bolti dospinde, cu stufarisuri, unde<br>
+<br>
+Cu-ncetul putrezeste câte-un Leviatan!<br>
+<br>
+De-asemeni, cataracte care se pot ascunde<br>
+<br>
+Sub calmul plat, când fierbe al apelor noian!<br>
+<br>
+Ghetari, bolti de jaratec, sori de argint si aur<br>
+<br>
+Si sidefii talazuri, – epave-n vreun golf brun,<br>
+<br>
+Unde, cazând din arbori scalâmbi, câte-un balaur<br>
+<br>
+Mâncat de pureci, lasa un negricios parfum!<br>
+<br>
+As fi dorit sa vada copiii-aceasta lume<br>
+<br>
+A apei, – pestii-aceia de aur, cântatori.<br>
+<br>
+- Ieseam în larg pe-un leagan de înflorite spume,<br>
+<br>
+Ma-nnaripa o boare de taina, uneori.<br>
+<br>
+Martir satul de Zone si Poli, purtam pe buze<br>
+<br>
+Suspinul marii – balsam pentru-ostenitu-mi trunchi;<br>
+<br>
+Ea îmi zvârlea flori negre cu galbene ventuze -<br>
+<br>
+Si-ncremeneam precum o femeie, în genunchi…<br>
+<br>
+Eram aproape-un ostrov podit cu gainaturi<br>
+<br>
+De paseri cârcotase, cu ochi balai, – plutind<br>
+<br>
+Pâna simteam ca-n plasa de-odgoane si de laturi<br>
+<br>
+Coboara înecati, d-a-ndoaselea, dormind!<br>
+<br>
+Velier pierdut sub parul atâtor mari pletoase,<br>
+<br>
+Zvârlit de uragane-n eterul pustiit, -<br>
+<br>
+Eu, caruia nici Hansa cu navele-i faloase<br>
+<br>
+Nu mi-ar fi scos din apa scheletul cherchelit;<br>
+<br>
+Eu, sloboda odrasla a fumului si-a cetii,<br>
+<br>
+Ce sfredeleam chiar cerul, roscat precum un zid<br>
+<br>
+Ce poarta – hrana dulce, visata de poetii<br>
+<br>
+Blajini – licheni de soare si muci de-azur limpid;<br>
+<br>
+Eu, scândura nauca, smaltata cu planete<br>
+<br>
+Electrice, si trasa de hipocampi, pe când<br>
+<br>
+Se pravaleau, izbite de Iulie cu sete,<br>
+<br>
+Ultramarine ceruri cu pâlniile-arzând;<br>
+<br>
+Eu, ce simteam la cincizeci de leghe departare<br>
+<br>
+Maelstroamele si chitii gemând în rut, perechi -<br>
+<br>
+Eu, torcatorul vesnic de-albastra nemiscare,<br>
+<br>
+Duc dorul Europei cu parapete vechi!<br>
+<br>
+Vazut-am siderale arhipelaguri, plauri<br>
+<br>
+Al caror cer bezmetic spre nave sta deschis:<br>
+<br>
+- O, Vlaga viitoare, milion de pasari de-aur.<br>
+<br>
+T;i-s noptile acestea, loc de surghiun si vis?<br>
+<br>
+Dar prea am plâns! Ajunge! Sfâsietori sunt zorii.<br>
+<br>
+Cumplita-i orice luna, iar soarele-i amar:<br>
+<br>
+M-a toropit iubirea, caci lâncezi i-s fiorii.<br>
+<br>
+O, sparge-mi-s-ar trunchiul! în mare sa dispar!<br>
+<br>
+De mai doresc vreo apa din Europa, iata<br>
+<br>
+E balta neagra, rece, pe care-n asfintit<br>
+<br>
+Un trist copil împinge, stând în genunchi, o biata<br>
+<br>
+Barcuta, ca un flutur de Mai, abia itit.<br>
+<br>
+O, nu mai pot sa lunec prin vraja voastra, valuri<br>
+<br>
+Menite carabusii bumbacului sa fiti!<br>
+<br>
+Nici sa înfrunt trufia drapelelor, pe maluri,<br>
+<br>
+Nici sa plutesc sub ochii pontoanelor, cumpliti!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Arthur Rimbaud
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

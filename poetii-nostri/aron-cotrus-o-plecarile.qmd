@@ -1,0 +1,62 @@
+---
+title: "O, plecările"
+subtitle: "Aron Cotruș"
+author: "Doctor Shrink"
+date: "2026-07-15"
+categories: [poezie, spoken-word, drum]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vIXZvd206x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O, plecările, plecările, plecările,<br>
+<br>
+Din toate porturile și din toate gările,<br>
+<br>
+Pe toate mările, spre toate depărtările,<br>
+<br>
+Spre toate țintele și așteptările<br>
+<br>
+Spre marginile sufletului meu - flămândului<br>
+<br>
+M-or înghiți, în murmure-necate, valurile?<br>
+<br>
+M-or aștepta în depărtări, sărbătorește, malurile?<br>
+<br>
+M-or înălța, pe creste încă nevisate, visurile?<br>
+<br>
+M-or ameți și m-or atrage, în adânc, abisurile?<br>
+<br>
+Ce-mi pasă mie unde mă vor duce trenurile, navele<br>
+<br>
+Și dorințele-mi de foc - bolnavele!<br>
+<br>
+Ieie-și, încotro le place, zborurile,<br>
+<br>
+Ca un stol neobosit de paseri albe - dorurile!<br>
+<br>
+Cruțe-și ceasurile cine-o vrea și de primejdii scape-le,<br>
+<br>
+Ale mele-s drumurile lumii toate, munții și-apele<br>
+<br>
+Moartea umbrele-i, în preajmă-mi, înfiripe-le,<br>
+<br>
+-Gândule, deschide-ți, pentru-nalturi, pentru depărtări și<br>
+<br>
+veșnicii, aripile!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aron Cotruș
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

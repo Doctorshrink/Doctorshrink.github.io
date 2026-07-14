@@ -1,0 +1,178 @@
+---
+title: "Clipe din urmă"
+subtitle: "Artur Enăşescu"
+author: "Doctor Shrink"
+date: "2026-07-15"
+categories: [poezie, spoken-word, timp]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zgYEb41hpa8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Peste cetăţ de slavă, prin văi patriarhale,<br>
+<br>
+Pe unde-au fost ogoare şi vesele sălaşe,<br>
+<br>
+Vor creşte-n zări gheţarii, fantasme uriaşe,<br>
+<br>
+Dezvăluind la lună scheletele lor pale.<br>
+<br>
+Bătuţi de valul vremii ce sfarmă tot şi roade,<br>
+<br>
+Bâtrân cu faţa suptă şi cu stufoase gene,<br>
+<br>
+Dormi-vor înţelepţii sub cumpeni şi troiene,<br>
+<br>
+Rupând de-a pururi firul străvechilor izvoade.<br>
+<br>
+Cuaripi de aur, duhuri, pleca-vor în şirag<br>
+<br>
+Pe albe povârnişuri, cu fruntea spre genună,<br>
+<br>
+Din braţele lor strânse, făcând sub cer cunună,<br>
+<br>
+Surâzător pieri-vor alături, drag cu drag.<br>
+<br>
+O clipă, dogorită de ultimul sărut,<br>
+<br>
+Ce va cuprinde zareac-o mreajă de văpăi,<br>
+<br>
+Natura va renaşte, rostogolind prin văi,<br>
+<br>
+Cascadele-i spumoase pe brazde noi de lut.<br>
+<br>
+O clipă iar văzduhul va sângera pe ape,<br>
+<br>
+Străfulgerat puternic de-a dorului lumini.<br>
+<br>
+Apoi, frângând tiparul celor din urmă crini,<br>
+<br>
+Tot cerul îşi va strânge azurul sub pleoape.<br>
+<br>
+Şi demonul pierzării va sta mereu la pândă;<br>
+<br>
+Prin larguri stăpânite de-a morţii dezolare,<br>
+<br>
+Vor luneca doar norii, cu-ncolăciri fugare,<br>
+<br>
+Iar soarele-şi va stinge, lin, torţa-i fumegândă.<br>
+<br>
+Îmbrăţişând cenuşa rămasă pe altare,<br>
+<br>
+Pe-oglinzi de gheaţă visul pierdutei lumi va trece;<br>
+<br>
+Va tresări-n adâncuri sub el pământul rece<br>
+<br>
+Şi-asupră-i se vor cerne cununile stelare.<br>
+<br>
+Un singur om pe lume, din adormita ceată,<br>
+<br>
+Vărsându-şi umbra neagră pe-ntunecatul sloi,<br>
+<br>
+Va măsura deşertul cu gândul înapoi<br>
+<br>
+Şi ochiu-i fulgera-va tăios ca o săgeată.<br>
+<br>
+Zăresc prin colb de secoli făptura lui semeaţă;<br>
+<br>
+Înalta-i frunte pare de boltă răstignită,<br>
+<br>
+Iar viforosu-i suflet ce-n aspre zări palpită,<br>
+<br>
+Roteşte ca un vultur pe crestele de gheaţă.<br>
+<br>
+Cad blocuri sfărâmate sub pieptu-i de titan;<br>
+<br>
+Sorb ochii tot adâncul şi clarul din tării;<br>
+<br>
+Iar miile-i de gânduri în zbor de herghelii,<br>
+<br>
+Zburdalnice s-alungă pe recele morman.<br>
+<br>
+Pe-ncremenite valuri stă discul de jăratic –<br>
+<br>
+E-un templu gol natura, cu albe propilee,<br>
+<br>
+Pe care raza lunii, sfielnică scânteie,<br>
+<br>
+Visând un ram în floare, sub cer primăvăratic.<br>
+<br>
+Nici-un suspin nu curmă oceanul de tăcere,<br>
+<br>
+Pe-nvineţite buze dorm sacrele cuvinte;<br>
+<br>
+Jos, groaznică se-ntinde tăcerea din morminte,<br>
+<br>
+Iar sus, imensitatea tăcerilor din sfere.<br>
+<br>
+Prin cugetu-i din haos, atâtea lumi se-ncheagă;<br>
+<br>
+Stă ţintă călătorul cu faţa spre destin<br>
+<br>
+Şi-aşteaptă veşnicia, haotic şi divin,<br>
+<br>
+Pe umerii atletici purtând zidirea-ntreagă.<br>
+<br>
+De piscuri se agaţă, suind fără răgaz,<br>
+<br>
+Tăcuta lui durere şi-o poartă către slavă;<br>
+<br>
+Nădejdea-i mai pluteşte fluturătoare navă,<br>
+<br>
+Ce luptă-n vijelie cu aprigul talaz.<br>
+<br>
+E ultima verigă din lanţul ce se frânge;<br>
+<br>
+Roiesc în jur luceferi; iar trupu-i cadaveric,<br>
+<br>
+O clipă mai desparte lumina de-ntuneric,<br>
+<br>
+Pe tâmple-i în şiroaie cad stropi aprinşi de sânge.<br>
+<br>
+Simţirea-i sugrumată se zbate ca-ntr-un cleşte;<br>
+<br>
+Ar vrea să frângă sloiul cu braţe de văpaie,<br>
+<br>
+I-alunecă piciorul, suflarea i se taie,<br>
+<br>
+Iar fruntea-i uriaşă cu neguri se-nveleşte.<br>
+<br>
+Şi, totuşi, înc-odată, el se ridică drept;<br>
+<br>
+Şi-nfige-n toate gândul – dumnezeiască daltă –<br>
+<br>
+Visând o lume nouă şi-o zare mai înaltă,<br>
+<br>
+Când inima-i se frânge de bărbătescu-i piept.<br>
+<br>
+Îmbălsămând pământul cu-n vis fără de margini,<br>
+<br>
+Suflarea-i îngheţată se pierde spre-nălţimi;<br>
+<br>
+De sus zbucneşte jalnic un cor de heruvimi,<br>
+<br>
+Şi-n zvârcoliri de şarpe, trec nori peste paragini.<br>
+<br>
+Fulgerătoare săbii de creste viu se sparg;<br>
+<br>
+Pe axa lor toţi sorii se poticnesc o clipă,<br>
+<br>
+Iar moartea-şi desfăşoară năpraznica-i aripă,<br>
+<br>
+Pe cea din urmă frunte, rostogolită-n larg.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Artur Enăşescu
+* **Temă:** timp
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,288 @@
+---
+title: "Coana Ágnes - (Ágnes asszony)"
+subtitle: "Arany János"
+author: "Doctor Shrink"
+date: "2026-07-15"
+categories: [poezie, spoken-word, dumnezeu]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IDJoHqeSTrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Baladă<br>
+<br>
+Coana Ágnes în pârâu<br>
+<br>
+Cearșaful alb îi spală;<br>
+<br>
+Pe vălul alb, însângerat<br>
+<br>
+Spuma apei îl înhață.<br>
+<br>
+Oh! sfânta milă, nu mă lăsa.<br>
+<br>
+Se adună copii din stradă:<br>
+<br>
+Coana Ágnes, ce speli mata?<br>
+<br>
+„Taci, tu, taci! e sânge de pui,<br>
+<br>
+Mascându-și vălul cu pata.”<br>
+<br>
+Oh! sfânta milă, nu mă lăsa.<br>
+<br>
+Vecinele se adună:<br>
+<br>
+Coana Ágnes, unde-i soțul?<br>
+<br>
+„Draga mea, în casă doarme!<br>
+<br>
+Nu intrăm, se va trezi săracul.”<br>
+<br>
+Oh! sfânta milă, nu mă lăsa.<br>
+<br>
+Vine și arnăutul: coana Ágnes,<br>
+<br>
+În temniță să vii mata.<br>
+<br>
+„Vai, dragă, nu pot merge,<br>
+<br>
+Până nu spăl pata asta!”<br>
+<br>
+Oh! sfânta milă, nu mă lăsa.<br>
+<br>
+Adânc e beciul: pic de rază<br>
+<br>
+Acolo abia ajunge;<br>
+<br>
+O rază e în beci soare,<br>
+<br>
+Noaptea spaime umple.<br>
+<br>
+Oh! sfânta milă, nu mă lăsa.<br>
+<br>
+Săraca Ágnes, ziua toată<br>
+<br>
+Doar raza asta o are,<br>
+<br>
+Fix se uită – firicelul<br>
+<br>
+Într-un singur ochi încape.<br>
+<br>
+Oh! sfânta milă, nu mă lăsa.<br>
+<br>
+Că, abia se uite-n lături<br>
+<br>
+Fantome dansează-n jur;<br>
+<br>
+Fără raza asta mică,<br>
+<br>
+Ar înnebuni: desigur.<br>
+<br>
+Oh! sfânta milă, nu mă lăsa.<br>
+<br>
+Iată totuși, după un timp,<br>
+<br>
+Ușa la beci se deschide:<br>
+<br>
+Ágnes în fața legii<br>
+<br>
+Vine, așa cum se cuvine.<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+Își aranjează ținuta,<br>
+<br>
+Basmaua cu mare grijă,<br>
+<br>
+Își piaptănă și părul,<br>
+<br>
+Să nu apară cumva: țicnită.<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+Cum intră, la masa verde<br>
+<br>
+Stau onorabili cărunți;<br>
+<br>
+Cu milă se uită la ea,<br>
+<br>
+Nu-s nervoși sau ursuzi.<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+„Ágnes, dragă, ce ai făcut?<br>
+<br>
+Crimă cruntă, fapt deosebit;<br>
+<br>
+Cel ce fapta a săvârșit<br>
+<br>
+Amantul chiar a mărturisit.”<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+„Va fi spânzurat mâine,<br>
+<br>
+El, care ți-a ucis soțul;<br>
+<br>
+Cu apă, pâine vei trăi<br>
+<br>
+Și vei înfunda beciul.”<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+Se uită-n jur coana Ágnes,<br>
+<br>
+Observând că e normală;<br>
+<br>
+Aude glasul, pricepe vorba,<br>
+<br>
+Și cât pricepe: „nu-i nebună.”<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+Dar, ce au zis de soțul,<br>
+<br>
+E vorbă total aberantă;<br>
+<br>
+Clar e doar, că pe ea<br>
+<br>
+Acasă deloc nu o lasă.<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+Începe plânsul în hohote,<br>
+<br>
+Lacrimi curgând în averse:<br>
+<br>
+De pe crin rouă cerne,<br>
+<br>
+Pe lebădă stropi de perle.<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+„Dragi domni onorabili!<br>
+<br>
+S-aveți voi Dumnezeu:<br>
+<br>
+Am de lucru urgent acasă,<br>
+<br>
+Nu pot sta aci mereu.”<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+„S-a murdărit vălul meu,<br>
+<br>
+Trebuie s-o scot pata!<br>
+<br>
+Vai, dac-ar rămâne acolo,<br>
+<br>
+N-aș putea trăi viața!”<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+Înțelepții se privesc,<br>
+<br>
+Auzind astfel de jalbă.<br>
+<br>
+E liniște. Gura tace,<br>
+<br>
+Doar ochii votează.<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+„Du-te acasă sărmană!<br>
+<br>
+Fă-l alb vălul prin spălare;<br>
+<br>
+Du-te, să-ți dea Domnul<br>
+<br>
+Putere și îndurare.”<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+Coana Ágnes în pârâu<br>
+<br>
+Îi spală cearșaful iară;<br>
+<br>
+Pe vălul alb, vălul curat<br>
+<br>
+Spuma apei îl înhață.<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+În zadar e curat vălul,<br>
+<br>
+Nicio urmă de sânge:<br>
+<br>
+Ágnes pata tot o vede<br>
+<br>
+La fel ca la omorâre.<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+Din zori până-n seară<br>
+<br>
+Stă în apă, lângă scaun:<br>
+<br>
+Umbra-i leagănă-n spumă,<br>
+<br>
+Părul fluturat de vânt nebun.<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+În serile cu lună plină,<br>
+<br>
+Valul apei când lucește,<br>
+<br>
+Cu plesnituri sacadate,<br>
+<br>
+Maiul alb departe sclipește.<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+Și așa merge an de an;<br>
+<br>
+Iarnă-vară, necontenit;<br>
+<br>
+Rouă-fața ars de soare,<br>
+<br>
+În ger genunchiul învinețit.<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+Încărunțit părul zbârlit,<br>
+<br>
+Deja nu-i corb, nici abanos;<br>
+<br>
+Apari riduri pocite,<br>
+<br>
+Risipite pe un chip mătăsos.<br>
+<br>
+Oh! sfânta milă nu mă lăsa.<br>
+<br>
+Coana Ágnes în pârâu<br>
+<br>
+Cârpa veche o spală, spală -<br>
+<br>
+Pe scama vălului alb<br>
+<br>
+Spuma sălbatică o înhață.<br>
+<br>
+Oh! sfânta milă nu mă lăsa.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Arany János
+* **Temă:** dumnezeu
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

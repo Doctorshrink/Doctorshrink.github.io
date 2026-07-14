@@ -1,0 +1,244 @@
+---
+title: "Cântecul libertății"
+subtitle: "Aron Cotruș"
+author: "Doctor Shrink"
+date: "2026-07-15"
+categories: [poezie, spoken-word, libertate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nuHroju3isc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Gata, ostași de ne-nfrânt<br>
+<br>
+cu cei deopotrivă cu noi:<br>
+<br>
+Pe-ai Rusiei căpcani și strigoi<br>
+<br>
+să-i ștergem de pe pământ.<br>
+<br>
+Gata, voinici de oțel!<br>
+<br>
+În stepe și-n tundre de ger<br>
+<br>
+ne-așteaptă mulțimi, care pier<br>
+<br>
+cantr-un amarnic măcel.<br>
+<br>
+Ne-așteaptă popoare întregi,<br>
+<br>
+ce-n țările baștinei lor<br>
+<br>
+de sdroabă și foamete mor<br>
+<br>
+de groază și fărădelegi…<br>
+<br>
+Ne-așteaptă în zarea de foc<br>
+<br>
+Carpații, ca niște părinți<br>
+<br>
+cu piepturi și cu brațe fierbinți<br>
+<br>
+de atât de cumplit nenoroc…<br>
+<br>
+Și muți, cu cuțitul la os,<br>
+<br>
+robi pe pământul străbun<br>
+<br>
+ne-așteaptă bieți semeni, ce-și pun<br>
+<br>
+încrederea toată-n Cristos!…<br>
+<br>
+Dar zornetul lor de cătuși<br>
+<br>
+sună-a furtună-n galop,<br>
+<br>
+a crâncen galop prin potop<br>
+<br>
+prin țara strămoșilor duși…<br>
+<br>
+Din Danzig la Vladivostoc,<br>
+<br>
+din Zagreb la Cluj și Shanghai,<br>
+<br>
+pe-oriunde de vaere dai,<br>
+<br>
+de lanțuri și de cnuturi de foc…<br>
+<br>
+Gâzi aspri, cu rânjete reci,<br>
+<br>
+duc oameni netrebnici și goi,<br>
+<br>
+ce-așteaptă, cu văzuri de sloi,<br>
+<br>
+glonțul, care culcă pe veci.<br>
+<br>
+Iadul lui Ivan cel Cumplit<br>
+<br>
+plumbi are și avea-va destui,<br>
+<br>
+pentru fruntea și ceafa oricui<br>
+<br>
+în țarcul cu foc îngrădit…<br>
+<br>
+În mers, voi, voinici de ne-nfrânt,<br>
+<br>
+spre-al stepelor puhoi de noroi!…<br>
+<br>
+Dârji calcă alături de noi<br>
+<br>
+ostași de pe-ntregul pământ!…<br>
+<br>
+În mers spre Rusalii de foc<br>
+<br>
+c-o turmă și-un singur stăpân;<br>
+<br>
+spre cei ce-n picioare rămân;<br>
+<br>
+să schimbe nenorocu-n noroc.<br>
+<br>
+Veni-vom pe rând înapoi<br>
+<br>
+cu gândul și cu frunțile sus,<br>
+<br>
+nu ca atunci când ne-am dus<br>
+<br>
+cu Mările Negre din noi.<br>
+<br>
+În cântece iuți haiducești,<br>
+<br>
+cu pieptul și cu creștetul gol,<br>
+<br>
+intra-vom ca duși de pârjol,<br>
+<br>
+în Praga și-n București…<br>
+<br>
+O, Baltică! O, Pont Euxin!<br>
+<br>
+Pe aripi de pajuri, curând,<br>
+<br>
+vom trece sub ceruri, cântând:<br>
+<br>
+cruci să-mplântăm pe Kremlin!<br>
+<br>
+Lungi stele și fulgere noi,<br>
+<br>
+cum altele n-au fost și nu-s,<br>
+<br>
+prin gol arunca-vom de sus<br>
+<br>
+în Rusia de glod de sub noi!…<br>
+<br>
+Din Dunăre și până-n Urali,<br>
+<br>
+vedea-vom, prin nouri zburând,<br>
+<br>
+izbite de-un crâncen orând<br>
+<br>
+în fugă, oștiri de muscali.<br>
+<br>
+Vom sparge ale iadului porți<br>
+<br>
+și roșiile zăvoare și uși,<br>
+<br>
+și Uralii de grele cătuși,<br>
+<br>
+ce-n trup, Europa, tu-i porți!<br>
+<br>
+Ca mâine, duși parcă de vânt,<br>
+<br>
+vom pune-un năprasnic picior<br>
+<br>
+în inima Moscovei lor,<br>
+<br>
+cu-ostași de pe-ntregul pământ!…<br>
+<br>
+Și-n strâmba lor lume pe dos,<br>
+<br>
+vedea-vom cum lanțuri se rup<br>
+<br>
+scurt de pe-al Rusiei trup,<br>
+<br>
+de beznă și de racile roș…<br>
+<br>
+Și-n groaznicul lor povârniș,<br>
+<br>
+cu cuget fățarnic ori drept,<br>
+<br>
+cruci albe și-or pune pe piept<br>
+<br>
+muscalii cu văzul cruciș.<br>
+<br>
+Ca după porunci de nou rost<br>
+<br>
+vedea-vom cum țări se desfac<br>
+<br>
+ca după boli fără leac,<br>
+<br>
+din putreda Rusie ce-a fost.<br>
+<br>
+Și ca de pe-un alt Ararat,<br>
+<br>
+după potopul de plumbi,<br>
+<br>
+zări-vom în stoluri ai Romei porumbi<br>
+<br>
+peste pământul descătușat…<br>
+<br>
+Peste roșul și sterpul noroi<br>
+<br>
+boit de călăii trufași,<br>
+<br>
+Isus cu albii, nevăzuții lui pași,<br>
+<br>
+păși-va noptatic alături de noi!…<br>
+<br>
+În inimi, în gânduri și-n suflet cu El<br>
+<br>
+vom arunca în văzduh<br>
+<br>
+cu armele Craiului-Duh<br>
+<br>
+ziduri și temniți de beznă și-oțel!…<br>
+<br>
+Și-n frunte cu Arhanghelul Lui,<br>
+<br>
+cu bocanci ferecați ca pe pod<br>
+<br>
+vom duce prin marea de glod,<br>
+<br>
+pâine și pace oricui…<br>
+<br>
+Scurt vom opri cel prădalnic puhoi<br>
+<br>
+de la un pol pân-la celalt:<br>
+<br>
+l-om arunca înapoi dintr-un salt<br>
+<br>
+cu Romele albe și aspre din noi!<br>
+<br>
+În marș uriaș, de ne-nfrânt<br>
+<br>
+spre-ale soarelui porți de acuși:<br>
+<br>
+Ai Rusiei Urali de cătuși<br>
+<br>
+în praf să-i prefacem și-n vânt!…<br>
+<br>
+Madrid, 1952
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aron Cotruș
+* **Temă:** libertate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

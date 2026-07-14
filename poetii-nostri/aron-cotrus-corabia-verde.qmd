@@ -1,0 +1,96 @@
+---
+title: "Corabia verde"
+subtitle: "Aron Cotruș"
+author: "Doctor Shrink"
+date: "2026-07-15"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cyqCzg75zoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Corabia se frãmântã și se rãsucește<br>
+<br>
+în lupta cu valurile ce-o izbesc tâlhãrește<br>
+<br>
+și apele cresc ca din hãu nãzdrãvane,<br>
+<br>
+cãpitane! cãpitane! cãpitane!1)<br>
+<br>
+Învinsã pe-o clipã, sub valuri se pierde<br>
+<br>
+parcã de-a pururi, corabia verde<br>
+<br>
+nãprasnic mușcatã de uragane,<br>
+<br>
+cãpitane! cãpitane! cãpitane!<br>
+<br>
+Prin potopul ce zãlud o rãstoarnã,<br>
+<br>
+se-aud prin vãzduh ca o goarnã,<br>
+<br>
+peste-ale mãrii nesfârșite noiane,<br>
+<br>
+poruncile tale de proroc, cãpitane!<br>
+<br>
+Și iatã, deodatã se-nalțã semeațã…<br>
+<br>
+iarãși, Crãiasã peste timp, peste ceatã,<br>
+<br>
+peste-ale apelor titanice toane,<br>
+<br>
+corabia ta verde, o, cãpitane!<br>
+<br>
+Zãnatec aleargã prãpãdul pe ape,<br>
+<br>
+tot mai aproape și mai aproape,<br>
+<br>
+dar duhul mai tare-i ca-ale mãrii prigoane,<br>
+<br>
+cãpitane! cãpitane! cãpitane!<br>
+<br>
+Gata cu toții sã murim în picioare,<br>
+<br>
+pe marea această ce crâncen ne doare,<br>
+<br>
+spargem talazuri, înfrângem bulboane,<br>
+<br>
+cu gândul la tine, o, cãpitane!<br>
+<br>
+Lupta e cântecul și biblia noastrã,<br>
+<br>
+holde vor crește de samulastrã<br>
+<br>
+din cremenea oarbã, din pietroase mormane<br>
+<br>
+și din sângele nostru, o, cãpitane!<br>
+<br>
+Moartea însãși de-ar sãlta pe punte,<br>
+<br>
+sãrire-ar fulgeria cine s-o-nfrunte,<br>
+<br>
+printre mii și mii de uragane,<br>
+<br>
+cãpitane! cãpitane! cãpitane!<br>
+<br>
+București, Mai 1939<br>
+<br>
+___________<br>
+<br>
+1) -Corneliu Zelea Codreanu, Cãpitanul Mișcãrii Legionare
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aron Cotruș
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
