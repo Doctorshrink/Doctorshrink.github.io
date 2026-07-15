@@ -1,0 +1,42 @@
+---
+title: "Vers simplu - (Egyszerű vers)"
+subtitle: "Attila József"
+author: "Doctor Shrink"
+date: "2026-07-16"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RQFL0ficnZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Când totul e întunecat și-n jurul nostru<br>
+<br>
+se va însenina cerul în violet, atunci aș dori<br>
+<br>
+să-ți văd ochii.<br>
+<br>
+Când te văd, mă uit doar la ochii tăi<br>
+<br>
+și aș vrea să-ți sărut mâna cu îndrăzneală.<br>
+<br>
+Aș dori s-o sărut, dar când sunt<br>
+<br>
+Lângă tine, știu, că nu-ți voi săruta<br>
+<br>
+mâna.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Attila József
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

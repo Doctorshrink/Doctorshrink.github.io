@@ -1,0 +1,58 @@
+---
+title: "Mama - (Mama)"
+subtitle: "Attila József"
+author: "Doctor Shrink"
+date: "2026-07-16"
+categories: [poezie, spoken-word, mama]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N09i3_ozNBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+De o săptămână la mama<br>
+<br>
+mă gândesc veșnic, degeaba.<br>
+<br>
+Cu coș scârțâind în poală,<br>
+<br>
+urcând în pod, urcând în grabă.<br>
+<br>
+Eu înc-am fost om nestricat,<br>
+<br>
+am urlat și m-am înfuriat.<br>
+<br>
+Să lase rufele în alt loc.<br>
+<br>
+Pe mine să mă ducă la pod.<br>
+<br>
+Urca și le-ntindea calmă,<br>
+<br>
+Nemustrând, nici să mă vadă<br>
+<br>
+și rufele curate, foșnind,<br>
+<br>
+fluturau în sus, învârtind.<br>
+<br>
+Nu m-aș sclifosi, e tardivă,<br>
+<br>
+acum o văd, ce titanică -<br>
+<br>
+părul ei alb flutură-n cer,<br>
+<br>
+azur dizolvă-n apa din cer.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Attila József
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

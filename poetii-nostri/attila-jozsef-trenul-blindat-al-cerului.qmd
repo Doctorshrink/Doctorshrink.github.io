@@ -1,0 +1,60 @@
+---
+title: "Trenul blindat al cerului"
+subtitle: "Attila József"
+author: "Doctor Shrink"
+date: "2026-07-16"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k4rSG-U5Cus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+(A mennyei páncélvonat)<br>
+<br>
+Noaptea,<br>
+<br>
+Când războinicii obosiţi stau de strajă în faţa porţii în construcţie,<br>
+<br>
+Cel mai chinuit dintre ei se prăbuşeşte înfundat la pământ,<br>
+<br>
+Inima lui goneşte pe şine<br>
+<br>
+Şi din gara ameţitoare a luminilor<br>
+<br>
+Pleacă în viteză trenul blindat al cerului.<br>
+<br>
+Cu mânie detună trenul blindat,<br>
+<br>
+Dar nu-l aud decât păunii şi-şi desfac deasupra-i coada<br>
+<br>
+Şi din bateriile sale curge şiroaie<br>
+<br>
+În sângele tinerilor iubirea.<br>
+<br>
+Pentru că trebuie să lupţi şi-n moarte:<br>
+<br>
+Viaţa obosită nu poate duce toate luptele –<br>
+<br>
+Când încă eram proaspăt viu,<br>
+<br>
+De ce n-ai năvălit atunci în inimă,<br>
+<br>
+Mai bătăios, tren blindat al cerului!<br>
+<br>
+mai 1926
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Attila József
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,68 @@
+---
+title: "Suspin - (Sóhaj)"
+subtitle: "Attila József"
+author: "Doctor Shrink"
+date: "2026-07-16"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bxJFve4nGXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dacă lacrimă curge,<br>
+<br>
+Dacă suflet plânge,<br>
+<br>
+Dacă suspin s-aude,<br>
+<br>
+Dacă cerul tună,<br>
+<br>
+Pe întreg globul<br>
+<br>
+Oriunde, e:<br>
+<br>
+Lacrima mea,<br>
+<br>
+Sufletul meu,<br>
+<br>
+Suspinul meu,<br>
+<br>
+Pedeapsa mea:<br>
+<br>
+Pe întreg glob<br>
+<br>
+Oriunde<br>
+<br>
+Mă duc, mereu<br>
+<br>
+Îmi curge lacrima,<br>
+<br>
+Îmi plânge sufletul,<br>
+<br>
+S-aude suspinul,<br>
+<br>
+Tună cerul<br>
+<br>
+- Cap blestemat<br>
+<br>
+E capul meu -<br>
+<br>
+Cap blestemat<br>
+<br>
+Deasupra ta.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Attila József
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

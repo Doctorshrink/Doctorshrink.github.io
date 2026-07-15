@@ -1,0 +1,40 @@
+---
+title: "[De chin mă țin funiile aspre…] - [A kínhoz kötnek kemény kötelek…]"
+subtitle: "Attila József"
+author: "Doctor Shrink"
+date: "2026-07-16"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OluC5dbylyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+De chin mă țin funiile aspre,<br>
+<br>
+sunt cuprins din toate părțile<br>
+<br>
+și nu nimeresc nodul, pe care<br>
+<br>
+pot desface la prima smucire.<br>
+<br>
+Mă chinui, dar n-am îndurare,<br>
+<br>
+dacă mă scapă, apropiate, -<br>
+<br>
+ele vor purta și chinurile.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Attila József
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
