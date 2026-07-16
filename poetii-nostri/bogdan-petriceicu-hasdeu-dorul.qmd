@@ -1,0 +1,83 @@
+---
+title: "Dorul"
+subtitle: "Bogdan Petriceicu Haşdeu"
+author: "Doctor Shrink"
+date: "2026-07-17"
+categories: [poezie, spoken-word, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iwWtOJ1BM1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+I<br>
+Privind tăcuta undă,<br>
+Pe gânduri am rămas:<br>
+Cât este de profundă<br>
+La fiecare pas;<br>
+Şi totuşi izvorăşte<br>
+Din depărtate văi,<br>
+Apoi se risipeşte<br>
+Prin mii şi mii de căi!<br>
+<br>
+Asemenea-i şi dorul<br>
+În pieptul meu sădit:<br>
+E depărtat izvorul<br>
+Din care mi-a venit,<br>
+Şi-n multe lumi străine<br>
+Cărările-i s-ascund,<br>
+Dar revărsat în mine<br>
+Cât este de profund!<br>
+<br>
+II<br>
+Când razele din soare,<br>
+Cătând iubirea jos,<br>
+Pe-mbălsămata floare<br>
+Aruncă voluptos<br>
+Lumină şi căldură,<br>
+Eu mă gândesc uimit<br>
+Că ele străbătură<br>
+Un spaţiu nefinit!<br>
+<br>
+Şi dorul meu îşi are<br>
+Un soare născător;<br>
+Un cer fără hotare<br>
+Străbate ş-al meu dor;<br>
+Dar prin întunecime,<br>
+Pe drumu-i răcoros,<br>
+El vine din nălţime<br>
+Şi cald şi luminos!<br>
+<br>
+III<br>
+O rază diafană<br>
+Şi undele d-azur<br>
+De nor şi buruiană<br>
+Lovindu-se-mprejur,<br>
+O sferă-nveninată<br>
+Înfruntă ne-ncetat,<br>
+Dar flacăra-i curată<br>
+Şi valul e curat!<br>
+<br>
+Aşa-i şi doru-n lume!<br>
+În negură şi spin,<br>
+Menite să-l sugrume,<br>
+Rămâne tot senin;<br>
+Nu simte şi n-aude<br>
+Sarcasmul trivial:<br>
+Ispitele-i sunt crude<br>
+Şi-i pur ca un cristal!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Bogdan Petriceicu Haşdeu
+* **Temă:** dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

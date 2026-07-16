@@ -1,0 +1,58 @@
+---
+title: "Februar. Fă rost de cerneală şi plângi!"
+subtitle: "Boris Pasternak"
+author: "Doctor Shrink"
+date: "2026-07-17"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3veI0Ms78es" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Februar. Fă rost de cerneală şi plângi!<br>
+<br>
+De februar scriind în bocet hohotitor,<br>
+<br>
+Cât huruitoarea moină de care-ncerci să fugi<br>
+<br>
+Arde-a primăvară neagră, învăluitor.<br>
+<br>
+Fă rost de trăsură, pe grivne, vreo şase,<br>
+<br>
+Prin zvon de clopot şi roţi bătând din talere<br>
+<br>
+Să te transferi în loc, unde ploi tumultoase<br>
+<br>
+Ca cerneluri şi lacrimi sunt mai sunătoare.<br>
+<br>
+Unde, precum pere, fructe carbonizate,<br>
+<br>
+Din copaci puzderia de grauri, risipitor,<br>
+<br>
+Va cădea-n băltoace, spre-a prăbuşi uscate<br>
+<br>
+Tristeţi neogoite-n adâncul ochilor.<br>
+<br>
+Sub ea, prin nea, peticele de pământ negresc,<br>
+<br>
+De ţipete vântu-i răscolit ca de brăzdar,<br>
+<br>
+Şi, cu cât mai sporadic, cu atât mai firesc<br>
+<br>
+În hohotul de plâns se leagă versuri, răsar.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Boris Pasternak
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

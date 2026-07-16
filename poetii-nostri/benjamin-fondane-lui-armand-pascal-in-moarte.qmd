@@ -1,0 +1,144 @@
+---
+title: "Lui Armand Pascal, în moarte."
+subtitle: "Benjamin Fondane"
+author: "Doctor Shrink"
+date: "2026-07-17"
+categories: [poezie, spoken-word, moarte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y2wgSym7Keg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Eram un grandios poet născut să cânte bucuria,<br>
+<br>
+dar în chilia mea suspin.<br>
+<br>
+Buchetele cu apa mării se ofilesc și mor în cupe,<br>
+<br>
+cărarea inimii se-ndreaptă către Père-Lachaise;<br>
+<br>
+e porumbaru-acolo, dară fără porumbei;<br>
+<br>
+acolo moartea e atât de pură -<br>
+<br>
+Armand, ai fost incinerat aici.<br>
+<br>
+Iată viața ta imensă care topește siguranța -<br>
+<br>
+știi să vâslești, știu bine, dar cât de lung e fluviul,<br>
+<br>
+eram striviți de-această lumină inumană -<br>
+<br>
+de ce să cânți în gura mare? Cu beregata plină<br>
+<br>
+de nerăbdarea melodiei?<br>
+<br>
+Și dacă-i mâniem pe zei?<br>
+<br>
+Cu tine până la sfârșit aș fi putut iubi minunea,<br>
+<br>
+dar te-a luat viața drept o țintă vie<br>
+<br>
+și chiar în moarte tu ești pururi viu!<br>
+<br>
+N-am alergat spre tine ca un prunc?<br>
+<br>
+Din inimă, o jumătatea, cea pură, ți-o dădusem ție.<br>
+<br>
+Spitalul, spaimă albă, galben<br>
+<br>
+în parcul cu bolnavi, glasul tău, treaz;<br>
+<br>
+lasă-mă lângă vocea ta;<br>
+<br>
+splendid, te hârjoneai cu cerul ce-ți sta-n față;<br>
+<br>
+aș vrea să dorm lângă mâinile tale.<br>
+<br>
+Perdeaua se lăsa, sfârșitul se-apropia grăbit, și totuși,<br>
+<br>
+aplauda într-una viața, aplauda necontenit,<br>
+<br>
+în larma de autobuze, sfărâmături și întâmplări,<br>
+<br>
+aplauda, fără oprire;<br>
+<br>
+de ce să nu te-arăți la rampă<br>
+<br>
+de câte ori te cheamă spectatorii?<br>
+<br>
+Eram singur, peste corpul meu măturau sala,<br>
+<br>
+mă simțeam atât de murdar, că te lăsasem să pleci!<br>
+<br>
+Prietene, prietene, venisem din mare depărtare împreună,<br>
+<br>
+ca brațele crucișe de foarfecă-mbinați,<br>
+<br>
+ca sâmburii-ntr-un fruct;<br>
+<br>
+frângând în jumătate pâinea, visul,<br>
+<br>
+noi ne-am iubit mereu, ne-am înfruntat,<br>
+<br>
+sângele fiarei ar fi fost supus de tinerețea noastră,<br>
+<br>
+și leului noi i-am fi smuls mănușa,<br>
+<br>
+aveam cu ce să cucerim ceva mai mult decât o lume,<br>
+<br>
+să bicium oceanul îndărătnic.<br>
+<br>
+Făptura ta de apă dulce și bolovani sălbăticiți<br>
+<br>
+alăturea de mine-n mizerie a fost,<br>
+<br>
+alăturea de mine-n imposibil,<br>
+<br>
+mizeria era nendurătoare,<br>
+<br>
+dar noi trăiam atât de bine strânși laolaltă-ntr-o păstaie!<br>
+<br>
+Aveai ochi blânzi, copile,<br>
+<br>
+auzi tu, de acolo de unde ești, oceanul?<br>
+<br>
+Ești cel puțin la fel de viu ca mine,<br>
+<br>
+ești râsul meu, ești amintirea mea,<br>
+<br>
+sunt plin de moartea ta,<br>
+<br>
+te port mai sus de umeri,<br>
+<br>
+urăsc moartea, urăsc viața,<br>
+<br>
+nemăsurată milă mi-e de oameni,<br>
+<br>
+mă urăsc și mă iubesc,<br>
+<br>
+tu iartă-mă că-s viu și scriu poeme,<br>
+<br>
+m-am rupt bucăți, dar n-am murit,<br>
+<br>
+mi-e gura mucezită și amară,<br>
+<br>
+zac scufundat în glod până la brâu,<br>
+<br>
+în murdărie.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Benjamin Fondane
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

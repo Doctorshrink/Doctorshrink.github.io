@@ -1,0 +1,50 @@
+---
+title: "Despre fericirea de a dărui"
+subtitle: "Bertolt Brecht"
+author: "Doctor Shrink"
+date: "2026-07-17"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSNm9CwMwVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cea mai mare fericire<br>
+<br>
+e să dai la cel ce n-are,<br>
+<br>
+generos şi cu iubire<br>
+<br>
+să împarţi cadouri rare.<br>
+<br>
+Roza nu e mai frumoasă<br>
+<br>
+decât chipul celui care<br>
+<br>
+dăruit, în jos îşi lasă<br>
+<br>
+mâna, plin de încântare.<br>
+<br>
+Să te bucuri nici nu poţi,<br>
+<br>
+de nu dai oricui ce-ţi cere!<br>
+<br>
+De n-aş da ce am la toţi,<br>
+<br>
+n-aş avea nici eu plăcere...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Bertolt Brecht
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,86 @@
+---
+title: "Jocul de-a stelele"
+subtitle: "Aurel Rău"
+author: "Doctor Shrink"
+date: "2026-07-17"
+categories: [poezie, spoken-word, luna_stele]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rilT-MTKH-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Tot ce-am săvîrșit noi și tot ce-am crezut,<br>
+<br>
+Să însemne tîlcul faptelor noastre: Jocul de-a stelele!<br>
+<br>
+E jocul de-a stelele să urci pe-o corabie nouă<br>
+<br>
+La numai douăzeci de ani și să pornești pe mări,<br>
+<br>
+În loc să crești clădiri sau să înlături paloarea frunților,<br>
+<br>
+E jocul de-a stelele ca în loc să fugărești cai,<br>
+<br>
+Ori să arunci cu pietri din zori pînă-n seară pe marginea unui râu,<br>
+<br>
+Să modulezi cuvintele țării ca olarii lutul.<br>
+<br>
+I-auzi pe unii: „Tânărul acesta va izbuti,<br>
+<br>
+Căci toate le ia cu chibzuință, fără osteneală”.<br>
+<br>
+Sau dimpotrivă: „Sângele-i totul, sângele aprins”.<br>
+<br>
+„După cum spune steaua sa”.„Cel năvalnic învinge”.<br>
+<br>
+„Temerarul”. „Spiritul practic”.„Cel care premergând<br>
+<br>
+A adormit cu fruntea încinsă pe pietrele drumurilor”.<br>
+<br>
+Și jocul e-n toi. Văluresc neamuri după neamuri,<br>
+<br>
+Lasă corăbii țărmurile. Revarsă stepele<br>
+<br>
+Mulțimi în orașe. Sunt puse stavili sfielii<br>
+<br>
+Și antene-n soare. Căci fiecare în felul său<br>
+<br>
+Își aprinde steaua înainte de căderea nopții.<br>
+<br>
+Iar de-asupra-n slavă ard miliardele de astre.<br>
+<br>
+Albe și galbene, foarte albastre, roșii ...<br>
+<br>
+Unele au nume de profeți, altele de martiri,<br>
+<br>
+Timpul cu umbra lui grea nu le mai atinge.<br>
+<br>
+Sunt multe astrele-n slavă. Și mult văzduh<br>
+<br>
+Pentru astre ce vin. Lucrează în sufletele noastre toate<br>
+<br>
+Ca luna în fluxuri. Sunt astre, de om aprinse<br>
+<br>
+Și astre mai vechi, de când lumea. Spre care pornești?<br>
+<br>
+Iată întrebarea!<br>
+<br>
+Și candid pe sus privesc<br>
+<br>
+Stelele veșnice.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aurel Rău
+* **Temă:** luna_stele
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

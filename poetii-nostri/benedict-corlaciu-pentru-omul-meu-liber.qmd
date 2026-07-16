@@ -1,0 +1,50 @@
+---
+title: "Pentru omul meu liber"
+subtitle: "Benedict Corlaciu"
+author: "Doctor Shrink"
+date: "2026-07-17"
+categories: [poezie, spoken-word, libertate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dbdM8xq68Fo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Totdeauna, omule liber, mă vei iubi,<br>
+<br>
+așa cum iubește săracul pâinea și soarele,<br>
+<br>
+fiindcă suntem amândoi din același grăunte<br>
+<br>
+și fiindcă singura religie-adevărată e munca.<br>
+<br>
+Noi ne cunoaștem, fără să ne fi văzut vreodată; când ne-ntâlnim, ne-mpărțim unul altuia viața și, cu un sărut cât o confluență de larg, zările-n colțul buzelor noastre se sparg.<br>
+<br>
+Mă vei iubi, omule liber, aprig și cald, așa cum iubesc eu călătoriile prin inima ta, cum așteaptă fecioara sămânța copilului nou, pe care să-l poarte la sânul său roditor ca pământul.<br>
+<br>
+Brațele noastre cuprind longitudini, meridiane, și toate anotimpurile vin spre noi ca un fluviu, inteligența și munca sunt singurele noastre arme, prietenia, singura noastră avere.<br>
+<br>
+Pentru tine, omul meu liber ca timpul,<br>
+<br>
+voi azvârli cu praștia cuvintele cele mai pline,<br>
+<br>
+voi răsuci universul ca un compas -<br>
+<br>
+și punctele, care pe hartă înseamnă hotar,<br>
+<br>
+am să le șterg dintre noi, ca pe un simplu popas.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Benedict Corlaciu
+* **Temă:** libertate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
