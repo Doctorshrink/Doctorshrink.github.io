@@ -1,0 +1,82 @@
+---
+title: "Vara în oraş"
+subtitle: "Boris Pasternak"
+author: "Doctor Shrink"
+date: "2026-07-18"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xklDBgR0usM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Se vorbeşte pe şoptite,<br>
+<br>
+Glasul parcă ţi se taie,<br>
+<br>
+Iar femeia, de pe ceafă,<br>
+<br>
+Şi-a strâns coama-n creştet, claie.<br>
+<br>
+Stă sub pieptenele greu<br>
+<br>
+Ca sub coif, într-adevăr,<br>
+<br>
+Când pe spate-şi dă ea capul<br>
+<br>
+Cu podoaba grea de păr.<br>
+<br>
+Strada caldă, noaptea caldă,<br>
+<br>
+Vremea rea se cam abate,<br>
+<br>
+Târşâitul de picioare<br>
+<br>
+Este o realitate.<br>
+<br>
+Chiar că tună! Sus pe bolţi,<br>
+<br>
+Bubuitul - ce năpastă!<br>
+<br>
+Vântul saltă, la un colţ,<br>
+<br>
+Perdeluţa din fereastră.<br>
+<br>
+S-a înstăpânit tăcerea.<br>
+<br>
+Aerul parcă-i de fier<br>
+<br>
+Scăpărările de fulger<br>
+<br>
+Scotocesc nervos prin cer.<br>
+<br>
+Când s-arată dimineaţa<br>
+<br>
+Şi-ncep străzile de ard,<br>
+<br>
+Sugativa prin băltoace<br>
+<br>
+Soarele pe bulevard.<br>
+<br>
+Teii-n floare, secularii,<br>
+<br>
+Teii-nmiresmaţi - mahmur<br>
+<br>
+Cată: li-i necaz pe vreme<br>
+<br>
+Fiindcă n-au dormit destul.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Boris Pasternak
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,70 @@
+---
+title: "Copilaria"
+subtitle: "Carlos Drummond de Andrade"
+author: "Doctor Shrink"
+date: "2026-07-18"
+categories: [poezie, spoken-word, copilarie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0vcHl8Smn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Tata încăleca şi pornea la câmp.<br>
+<br>
+Mama rămânea acasă cu acul în mână.<br>
+<br>
+Frăţiorul dormea.<br>
+<br>
+Copil singuratec, citeam sub arborele mango<br>
+<br>
+povestea lui Robinson Crusoe,<br>
+<br>
+o lungă poveste ce nu se termina niciodată.<br>
+<br>
+În lumina albă a amiezii chema o voce<br>
+<br>
+care dincolo, în casa sclavilor, învăţa cântece de leagăn<br>
+<br>
+fără să le uite vreodată<br>
+<br>
+chema la cafea.<br>
+<br>
+Cafea mai neagră decât bătrâna guvernantă.<br>
+<br>
+Cafea gustoasă,<br>
+<br>
+cafea bună.<br>
+<br>
+Mama stătea cu acul în mână<br>
+<br>
+şi mă privea:<br>
+<br>
+Pst...nu-l trezi pe micuţ.<br>
+<br>
+Privea spre leagănul pe care se aşezase o muscă.<br>
+<br>
+Şi suspină... cât de adânc!<br>
+<br>
+Departe, tată îşi caută vita<br>
+<br>
+cutreierând nesfârşita câmpie.<br>
+<br>
+Iar eu n-am ştiut niciodată că povestea mea<br>
+<br>
+era mai frumoasă decât a lui Robinson Crusoe.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Carlos Drummond de Andrade
+* **Temă:** copilarie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

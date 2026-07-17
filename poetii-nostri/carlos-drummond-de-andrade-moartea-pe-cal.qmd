@@ -1,0 +1,76 @@
+---
+title: "Moartea pe cal"
+subtitle: "Carlos Drummond de Andrade"
+author: "Doctor Shrink"
+date: "2026-07-18"
+categories: [poezie, spoken-word, moarte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qnRwZeCXA-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Galopând pe cal călare<br>
+<br>
+galopând pe cal călare<br>
+<br>
+galopând pe cal călare<br>
+<br>
+galopând pe cal călare<br>
+<br>
+Galopând pe cal călare<br>
+<br>
+galopând pe cal călare<br>
+<br>
+moartea își aruncă lațul<br>
+<br>
+vine să-mi ia prietenii.<br>
+<br>
+Galopând pe cal călare<br>
+<br>
+după ce mi-a luat părinții<br>
+<br>
+tare iute la-ntâmplare<br>
+<br>
+vine-acum să-mi ia și frații.<br>
+<br>
+Fără să ne dea de știre<br>
+<br>
+galopând pe cal călare<br>
+<br>
+și n-am vreme să le-ascund<br>
+<br>
+vine mândrele să-mi ia.<br>
+<br>
+Moartea care lasă morții<br>
+<br>
+sub potcoavele-i de fier<br>
+<br>
+galopând pe cal călare<br>
+<br>
+vine să ia viața mea.<br>
+<br>
+Moartea care-n marea-i grabă<br>
+<br>
+nici nu vede tot ce face.<br>
+<br>
+Galopând pe cal călare<br>
+<br>
+galopând pe cal călare<br>
+<br>
+Gol mă lasă, de prisos.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Carlos Drummond de Andrade
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

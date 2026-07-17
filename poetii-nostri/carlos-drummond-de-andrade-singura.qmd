@@ -1,0 +1,42 @@
+---
+title: "Singură"
+subtitle: "Carlos Drummond de Andrade"
+author: "Doctor Shrink"
+date: "2026-07-18"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bBekpN-jG0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Singura afacere e Dumnezeu<br>
+<br>
+singura problemă  e Dumnezeu<br>
+<br>
+singura enigmă e Dumnezeu<br>
+<br>
+singurul posibil  e Dumnezeu<br>
+<br>
+singurul imposibil e Dumnezeu<br>
+<br>
+singurul absurd e Dumnezeu<br>
+<br>
+singurul vinovat e Dumnezeu<br>
+<br>
+iar tot restul e halucinație.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Carlos Drummond de Andrade
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

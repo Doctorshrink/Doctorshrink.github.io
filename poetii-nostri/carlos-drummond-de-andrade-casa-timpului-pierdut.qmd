@@ -1,0 +1,52 @@
+---
+title: "Casa timpului pierdut"
+subtitle: "Carlos Drummond de Andrade"
+author: "Doctor Shrink"
+date: "2026-07-18"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rZNRgoZyO8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Am bătut la poarta timpului pierdut, nimeni n-a auzit.<br>
+<br>
+Am mai bătut o dată și încă și încă o dată.<br>
+<br>
+Nici un răspuns.<br>
+<br>
+Casa timpului pierdut era acoperită cu iederă<br>
+<br>
+pe jumătate, și de cenușă pe cealaltă.<br>
+<br>
+Casa unde nu locuiește nimeni, iar eu băteam și chemam<br>
+<br>
+de-atâta durere de a chema fără să fiu auzit.<br>
+<br>
+Băteam pur și simplu. Iar ecoul amplifica<br>
+<br>
+neliniștea mea de a întredeschide acest palat înghețat.<br>
+<br>
+Ziua și noaptea se confundă atunci când speri,<br>
+<br>
+când bați și bați.<br>
+<br>
+E sigur că timpul pierdut nu există.<br>
+<br>
+E doar o căsoaie goală și condamnată.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Carlos Drummond de Andrade
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

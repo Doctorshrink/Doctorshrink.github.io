@@ -1,0 +1,46 @@
+---
+title: "În mijlocul drumului"
+subtitle: "Carlos Drummond de Andrade"
+author: "Doctor Shrink"
+date: "2026-07-18"
+categories: [poezie, spoken-word, drum]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/weyS8NI_jOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În mijlocul drumului era o piatră<br>
+<br>
+era o piatră în mijlocul drumului<br>
+<br>
+era o piatră<br>
+<br>
+în mijlocul drumului era o piatră.<br>
+<br>
+Niciodată nu voi uita acest eveniment<br>
+<br>
+din viaţa retinelor mele atât de obosite.<br>
+<br>
+Niciodată nu voi uita că în mijlocul drumului<br>
+<br>
+era o piatră<br>
+<br>
+era o piatră în mijlocul drumului<br>
+<br>
+în mijlocul drumului era o piatră.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Carlos Drummond de Andrade
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
