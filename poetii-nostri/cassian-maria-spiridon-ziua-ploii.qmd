@@ -1,0 +1,58 @@
+---
+title: "Ziua ploii"
+subtitle: "Cassian Maria Spiridon"
+author: "Doctor Shrink"
+date: "2026-07-19"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tu_cvd_Bydg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+azi e ziua ploii<br>
+<br>
+ne mişcăm<br>
+<br>
+umăr lîngă umăr<br>
+<br>
+ne strecurăm<br>
+<br>
+printre picături<br>
+<br>
+a rămas mărul<br>
+<br>
+din care muşcăm<br>
+<br>
+cînd tu/ cînd eu<br>
+<br>
+sîntem între ziduri înalte<br>
+<br>
+din cărămidă roşie<br>
+<br>
+în cetatea mult încercată<br>
+<br>
+unde porumbelul-cioară<br>
+<br>
+calcă pe caldarîmul istoriei<br>
+<br>
+cu pas de columbă<br>
+<br>
+ziua ploii rămîne<br>
+<br>
+cu un gust de măr
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cassian Maria Spiridon
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

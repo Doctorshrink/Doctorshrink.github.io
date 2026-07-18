@@ -1,0 +1,80 @@
+---
+title: "* * * (o ploaie fără oprire)"
+subtitle: "Cassian Maria Spiridon"
+author: "Doctor Shrink"
+date: "2026-07-19"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z2PzzSmHOT8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+o ploaie fără oprire<br>
+<br>
+se revarsă<br>
+<br>
+peste cîmpie şi pomii<br>
+<br>
+plecaţi în căutarea<br>
+<br>
+primăverii<br>
+<br>
+în care liliacul deja se scuturase<br>
+<br>
+de florile albe sau roşii<br>
+<br>
+liliachii ca în apusurile tropicale<br>
+<br>
+inima pulsează<br>
+<br>
+în ritmul egal al zilei şi nopţii<br>
+<br>
+lîngă inima ta<br>
+<br>
+primăvara e încă devreme<br>
+<br>
+şi ploaia continuă în averse<br>
+<br>
+peste ierburi şi case<br>
+<br>
+oglindă a iubirii<br>
+<br>
+o ploaie ce satură planeta<br>
+<br>
+şi sufletele toate<br>
+<br>
+cu o îngăduinţă cosmică<br>
+<br>
+în care iarbă<br>
+<br>
+culcăm ale noastre trupuri<br>
+<br>
+cînd mînă peste mînă aşezăm<br>
+<br>
+şi pieptul întîlneşte sînul<br>
+<br>
+ploaia ne cade peste creştet<br>
+<br>
+ca-ntr-un repetat diluviu<br>
+<br>
+în care Noe cată<br>
+<br>
+pe noii vechi<br>
+<br>
+Adam şi Eva
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cassian Maria Spiridon
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

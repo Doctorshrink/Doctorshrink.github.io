@@ -1,0 +1,84 @@
+---
+title: "Stuful dureros al amintirii"
+subtitle: "Cassian Maria Spiridon"
+author: "Doctor Shrink"
+date: "2026-07-19"
+categories: [poezie, spoken-word, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uCjVGaWCTh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+stuful prezent pe maluri<br>
+<br>
+şi pe margini de drumuri şi cîmpie<br>
+<br>
+e tăios ca săbiile<br>
+<br>
+mînuite în lupte fratricide<br>
+<br>
+fără milă<br>
+<br>
+e verde în seceta ce ne curpinde<br>
+<br>
+în tot locul<br>
+<br>
+o! nu sînt vapoare mateloţi şi amirali<br>
+<br>
+cît Dunărea ar merita şi Marea<br>
+<br>
+la cîte bătălii pierdute ne aşteaptă<br>
+<br>
+e sîngele o pînză străvezie<br>
+<br>
+un scut/ o pavăză de peşteri<br>
+<br>
+unde nici soarele nu calcă<br>
+<br>
+prin munţii de nisip<br>
+<br>
+în gropile de piatră<br>
+<br>
+acolo lacrimile curg şi nopţile s-aşază<br>
+<br>
+lungi sînt pieţele amiezii<br>
+<br>
+precum iubirile tîrzii<br>
+<br>
+la umbra lor doar clopote răsună<br>
+<br>
+voi tinere simţuri<br>
+<br>
+printre atîtea dune<br>
+<br>
+nu îndrăzniţi şi nu speraţi<br>
+<br>
+la gloria străbună<br>
+<br>
+sînt multe lovituri<br>
+<br>
+şi piepturi prea puţine<br>
+<br>
+la cîte vatra este-ndreptăţită<br>
+<br>
+să ne tîrîm piciorul printre pietre<br>
+<br>
+pînă la malul plin de<br>
+<br>
+stuful dureros al amintirii
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cassian Maria Spiridon
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,86 @@
+---
+title: "Cântec de clopot"
+subtitle: "Carmen Sylva"
+author: "Doctor Shrink"
+date: "2026-07-19"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/40synGNjJOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În clopot a limbii bătaie<br>
+<br>
+Vestea că-i la mijloc de zi,<br>
+<br>
+Un pom de Crăciun în odaie,<br>
+<br>
+Așa-mi începui eu cărarea,<br>
+<br>
+În pieptul meu tânăr suflarea,<br>
+<br>
+Așa se urzi.<br>
+<br>
+Și-i ger pe câmpiile ninse -<br>
+<br>
+Un înger, deasupra-mi plecat<br>
+<br>
+Privindu-mă, mâna mi-o prinse<br>
+<br>
+Strângându-mi-o în mâinile sale<br>
+<br>
+Și rar și cu zâmbet de jale<br>
+<br>
+Vorbi întunecat:<br>
+<br>
+„Prin noapte și crivâț pierdută<br>
+<br>
+Pe lungi și spinoase poteci<br>
+<br>
+De-amarul vieții bătută<br>
+<br>
+Urmează-ți cărările vieții;<br>
+<br>
+Prin spaime și pânde-ale morții<br>
+<br>
+Senină să treci!<br>
+<br>
+Să iei veselia cu tine!<br>
+<br>
+Și-n cântec de clopote-acum<br>
+<br>
+Pornește, și luptă-te bine!<br>
+<br>
+Să nu te-nspăimânte cărarea<br>
+<br>
+Și-a pururi să-ți fie cântarea<br>
+<br>
+Tovarăș de drum!<br>
+<br>
+Și-n ziua din urmă, cântarea<br>
+<br>
+Din clopote tainic venind<br>
+<br>
+Din cer, să-ți aducă-mpăcarea,<br>
+<br>
+Ca viața ta, inimă toată<br>
+<br>
+Topită de jale să poată<br>
+<br>
+S-adoarmă zâmbind!”
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Carmen Sylva
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

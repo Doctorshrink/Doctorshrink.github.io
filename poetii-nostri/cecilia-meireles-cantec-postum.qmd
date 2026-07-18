@@ -1,0 +1,58 @@
+---
+title: "Cântec postum"
+subtitle: "Cecilia Meireles"
+author: "Doctor Shrink"
+date: "2026-07-19"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8NqrYIXTRuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Un cântec făcui pentru tine,<br>
+dar vai! tu grăbeai spre mormânt.<br>
+Ca Moartea nu poate vreun vânt<br>
+s-aducă în Artă suspine.<br>
+<br>
+Căci Arta-i suspin de o clipă,<br>
+sau scâncet de slab porumbel,<br>
+iar Moartea cu gheare de-oţel<br>
+i-un vultur ce nu ştim cum ţipă.<br>
+<br>
+Pe cea mai armonică undă<br>
+un cântec de-al meu ţi-am cântat.<br>
+Dar tu nu-l auzi, cufundat<br>
+cum eşti în cântarea profundă.<br>
+<br>
+Mă simt ca acel ce învaţă<br>
+în mijlocul mării ajuns<br>
+să vadă noianul de plâns<br>
+prin lacrima sa de pe faţă.<br>
+<br>
+Închid deci o poartă înaltă<br>
+în pragul grăbitei uitări.<br>
+Păcat că nu ştiu ce cântări<br>
+se cântă în lumea cealaltă.<br>
+<br>
+Eternă stăpână e frica<br>
+pe-al lumii infim cântecel.<br>
+Probabil durează şi el.<br>
+Dar Morţii nu-i zice nimica.<br>
+<br>
+(1949),
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cecilia Meireles
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

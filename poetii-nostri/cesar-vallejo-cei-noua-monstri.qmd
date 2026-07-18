@@ -1,0 +1,102 @@
+---
+title: "Cei nouă monştri"
+subtitle: "Cesar Vallejo"
+author: "Doctor Shrink"
+date: "2026-07-19"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3xv10Bs3x_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+şi, spre nefericire,<br>
+durerea creşte-n lume cu fiecare clipă,<br>
+creşte cu treizeci de minute pe secundă, pas cu pas,<br>
+şi natura durerii este durere de două ori,<br>
+şi condiţia martirajului, carnivoră, vorace,<br>
+este durere de două de două ori,<br>
+şi rostul ierbii,neprihănite, durere<br>
+de două ori<br>
+şi binele de-a fi ne doare îndoit.<br>
+<br>
+niciodată, oameni umani,<br>
+n-a existat atîta durere în piept, în guler, în<br>
+portmoneu,<br>
+în pahar, în măcelărie, în aritmetică.<br>
+niciodată atîta mîngîiere dureroasă,<br>
+niciodată n-a lovit atît de aproape departele,<br>
+niciodată focul niciodată<br>
+nu şi-a jucat mai bine rolul de mort rece!<br>
+niciodată, domnule ministru al sănătăţii, niciodată<br>
+sănătatea n-a fost mai mortală, niciodată<br>
+migrenă n-a scos atîta frunte din frunte!<br>
+pînă şi dulapul a simţit în rafturile lui durerea,<br>
+şi inima, în cutia ei, durerea,<br>
+şi şopîrla, în cutia ei, durerea.<br>
+<br>
+creşte nefericirea, fraţilor oameni,<br>
+mai repede decît maşina, decît zece maşini,<br>
+creşte,<br>
+cu viţa lui Rousseau, cu bărbile noastre,<br>
+creşte răul din motive necunoscute nouă,<br>
+ne scufundăm în propriile noastre lichide,<br>
+în noroiul propriu şi-n propriul nor solid!<br>
+suferinţa îşi schimbă unghiurile, face<br>
+în aşa fel ca fierea să cadă vertical<br>
+cu pavajul,<br>
+ochiul să fie văzut şi urechea auzită,<br>
+şi urechea aceasta bate de nouă ori<br>
+la ora fulgerului şi scoate nouă hohote<br>
+la ora grîului, nouă sunete de femeie<br>
+la ora plînsului, nouă cîntece<br>
+la ora foamei şi nouă trăznete,<br>
+nouă lovituri, mai puţin un ţipat.<br>
+<br>
+durerea ne sfîşie, fraţilor oameni,<br>
+din spate, din faţă, din profil,<br>
+ne înnebuneşte în cinematografe,<br>
+ne răstigneşte în gramofoane,<br>
+ne dezarticulează în pat, cade perpendicular<br>
+cu biletele noastre de călătorie, cu scrisorile;<br>
+şi e foarte grav să suferi, măcar de te-ai putea ruga...<br>
+căci, că urmare a<br>
+durerii, există unii<br>
+care se nasc, alţii care cresc, alţii care mor,<br>
+şi alţii ce se nasc şi nu mor, alţii<br>
+care mor fără să se fi născut, şi alţii<br>
+ce nici nu se nasc şi nici nu mor(sînt cei mai mulţi).<br>
+de asemeni, ca urmare a<br>
+suferinţei, sînt trist<br>
+pînă peste cap, şi mai trist pînă la călcîie,<br>
+de a vedea pîinea răstignită, plutind<br>
+însîngerată,<br>
+plîngînd, de a vedea ceapa,<br>
+cerealele, în general, făina,<br>
+sarea, pulverizată, apa fugind,<br>
+vinul, un ecce-homo,<br>
+atît de palidă zăpadă şi soarele atît de roşu!<br>
+cum, fraţilor, oameni,<br>
+să nu vă spun, că nu mai pot,<br>
+nu mai pot cu atîtea sertare,<br>
+cu atîtea minute, cu atîtea<br>
+şopîrle, cu atîtea<br>
+răsturnări, atît de departe şi atîta sete de sete!<br>
+domnule ministru al sănătăţii, ce-i de făcut?<br>
+oh, spre nefericire, oameni umani,<br>
+oh, fraţilor, sînt atîtea de făcut.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cesar Vallejo
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
