@@ -1,0 +1,78 @@
+---
+title: "Jeu d’Amour (Corabie)"
+subtitle: "Cezar Ivănescu"
+author: "Doctor Shrink"
+date: "2026-07-20"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DVzS3ThViIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+!corabie, corabie, cînd plouă-mi pare casa o corabie,<br>
+<br>
+corabie, corabie, trupul tău gol pe care-l poartă sîngele!<br>
+<br>
+!de lacrimi trupul tău e ud<br>
+<br>
+ești fericită că-ti ascult<br>
+<br>
+plîngînd îndrăgostit de tine sîngele,<br>
+<br>
+plouă în după-amiază mult<br>
+<br>
+plouă ca-n vremuri de demult<br>
+<br>
+cînd te duceam spre casă-ntr-o corabie!<br>
+<br>
+!nici timp nu e, nici loc nu e – plouă pe mare, Vremea-și pierde sîngele,<br>
+<br>
+albastră e, albastră e, făptură ta, albastra mea corabie!<br>
+<br>
+!cînd plînsul ploii s-o opri<br>
+<br>
+de care țărm ne vom lovi<br>
+<br>
+albastră, voluptuoasa mea corabie,<br>
+<br>
+cu untdelemn preasfînt te-am uns<br>
+<br>
+cu ploi de aur te-am pătruns<br>
+<br>
+la verde țărm care în urmă noastră e!<br>
+<br>
+!corabie, corabie, ca suferința albă-a unei lebede,<br>
+<br>
+prea repede, prea repede în casa morții mă coborî prea repede!<br>
+<br>
+!fără cuvînt, fără cuvînt<br>
+<br>
+primit în trupul tău cel blînd,<br>
+<br>
+cu moartea mea singur mă lași prea repede,<br>
+<br>
+fără cuvînt, fără cuvînt<br>
+<br>
+în moartea mea mă pierd mai blînd<br>
+<br>
+ca tine, sfîntă, pură și tăcută e,<br>
+<br>
+corabie, corabie ca tine-mi pare Moartea o corabie,<br>
+<br>
+corabie, corabie, trupul tău gol pe care-l poartă sîngele!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cezar Ivănescu
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

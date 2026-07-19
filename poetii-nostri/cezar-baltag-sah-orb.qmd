@@ -1,0 +1,126 @@
+---
+title: "Șah orb"
+subtitle: "Cezar Baltag"
+author: "Doctor Shrink"
+date: "2026-07-20"
+categories: [poezie, spoken-word, noapte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HVIyE3C6lJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Noapte de noapte, nelogodnica mea,<br>
+<br>
+fărădragostea mea,<br>
+<br>
+noaptea albăși neagră<br>
+<br>
+a șahului tău în carouri.<br>
+<br>
+O noapte și eu nu te mai văd.<br>
+<br>
+Și încă o noapte.<br>
+<br>
+Și eu nu te mai pot auzi.<br>
+<br>
+Vrăjitoareo, na-ți zilele. Începem jocul temut.<br>
+<br>
+Îți dau, de la rău început, trei nopți înainte.<br>
+<br>
+Noaptea de la noapte, nelogodnica mea,<br>
+<br>
+fărădragostea mea,<br>
+<br>
+noapte de la noapte va sosi<br>
+<br>
+un leu obosit<br>
+<br>
+și îmi va bea lacrimile,<br>
+<br>
+mai am o noapte,<br>
+<br>
+mi-a mai rămas o tăcere,<br>
+<br>
+trebuie să trec o apă<br>
+<br>
+pe care tu nu o știi.<br>
+<br>
+Noaptea de la noapte, nelogodnica mea,<br>
+<br>
+fărădragostea mea,<br>
+<br>
+noaptea de la noapte, căruntă,<br>
+<br>
+cu o cupă în mâini.<br>
+<br>
+Cine mă strigă? Eu nu sunt în lume.<br>
+<br>
+Numele meu nu mai este în lume.<br>
+<br>
+Dacă poți, abate de la mine cupa aceasta.<br>
+<br>
+Noaptea de la noapte,<br>
+<br>
+nelogodnica mea, fărădragostea mea,<br>
+<br>
+noaptea de la noapte, înaltă<br>
+<br>
+ca o rocadă a sângelui.<br>
+<br>
+Aici a fost umbra mea, aici au<br>
+<br>
+fost negrele seri.<br>
+<br>
+Mai am la tine o zi. Și o zi.<br>
+<br>
+Și încă o zi.<br>
+<br>
+Restul e noapte.<br>
+<br>
+Șah, doamnă.<br>
+<br>
+Și hohotul tău<br>
+<br>
+mă preschimbă în cenușă<br>
+<br>
+ca fulgerul<br>
+<br>
+când tunetul întârzie.<br>
+<br>
+Noaptea de la noapte, nelogodnica mea, fără-<br>
+<br>
+dragostea mea,<br>
+<br>
+noaptea de la noapte a șahului tău<br>
+<br>
+în carouri,<br>
+<br>
+mosorul țesătorului a tăcut,<br>
+<br>
+vrăjitoareo,<br>
+<br>
+soarele e spart;<br>
+<br>
+îmi iau craniul în palmă<br>
+<br>
+și închin cu el întreit<br>
+<br>
+pentru noaptea și noaptea și<br>
+<br>
+noaptea de la capătul nopților...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cezar Baltag
+* **Temă:** noapte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

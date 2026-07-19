@@ -1,0 +1,44 @@
+---
+title: "Două surori"
+subtitle: "Charles Baudelaire"
+author: "Doctor Shrink"
+date: "2026-07-20"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a0DdW2wDSDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Curvia și cu Moartea sunt fete iubitoare,<br>
+Bogate-n sănătate, culante-n sărutat ,<br>
+Al căror păntec vergur, sub hanțele-i murdare,<br>
+Nicicând nu leagă roade, oricât e de arat.<br>
+<br>
+Poetului sinistru, ibovnic fără stare,<br>
+Cu ură pe familii, cu trecere în iad,<br>
+Mormîntul și bordelu-i arată, fiecare,<br>
+Străin de remușcare,un căpătâi de pat.<br>
+<br>
+Sicriul și alcovul, în blasfemii fecunde,<br>
+Ne dăruiesc cu rîndul, ca bunele surori,<br>
+Plăceri îngrozitoare și blestemați fiori.<br>
+<br>
+Când mă îngropi, Curvie, în brațele-ți imunde?<br>
+Spre a-ți sfida rivala, o Moarte, ce aștepți<br>
+Să-ți pui cipreșii negri pe mirții ei infecți?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Charles Baudelaire
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

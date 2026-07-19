@@ -1,0 +1,66 @@
+---
+title: "Fratelui meu Miguel"
+subtitle: "Cesar Vallejo"
+author: "Doctor Shrink"
+date: "2026-07-20"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CWxKRN_w5Dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+In Memoriam<br>
+<br>
+Frate, stau azi pe banca de acasă,<br>
+<br>
+de unde adînc ne doare lipsa ta!<br>
+<br>
+Mi-amintesc, ne jucam în acest ceas, iar mama<br>
+<br>
+ne mîngîia: „Însă, copii…”<br>
+<br>
+Acum eu mă ascund,<br>
+<br>
+ca altă dată, toate aceste rugi<br>
+<br>
+de seară, si sper că tu nu mă găsesti.<br>
+<br>
+Prin sală, prin vestibul, coridoare,<br>
+<br>
+apoi, te ascunzi tu, iar eu nu te găsesc.<br>
+<br>
+Mi-amintesc, începeam să plîngem,<br>
+<br>
+frate, în acel joc.<br>
+<br>
+Miguel, tu te-ai ascuns<br>
+<br>
+într-o noapte de august, înspre zori,<br>
+<br>
+însă, în loc de-a te ascunde rîzînd, erai trist.<br>
+<br>
+Si inima ta geamănă din aceste seri<br>
+<br>
+stinse s-a întristat că nu te mai găseste. Si-acum<br>
+<br>
+cade umbra în suflet.<br>
+<br>
+Ascultă, frate, nu întîrzia<br>
+<br>
+iesind. Bine? Se poate îngrijora mama.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cesar Vallejo
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

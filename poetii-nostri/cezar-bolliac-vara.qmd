@@ -1,0 +1,292 @@
+---
+title: "Vara"
+subtitle: "Cezar Bolliac"
+author: "Doctor Shrink"
+date: "2026-07-20"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CkgDoyQEMmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+I<br>
+<br>
+Frumoasă este vara!<br>
+<br>
+E cerul cu lumină<br>
+<br>
+Şi pomii cu verdeaţă;<br>
+<br>
+Natura este plină;<br>
+<br>
+Roşatică e seara,<br>
+<br>
+Gălbuie dimineaţa.<br>
+<br>
+Cîmpii prea colorate<br>
+<br>
+Exal miros din flori,<br>
+<br>
+Şi viersuri variate<br>
+<br>
+În cerul fără nori,<br>
+<br>
+Ca dintr-o harpă mare<br>
+<br>
+S-aud în depărtare<br>
+<br>
+Şi-n inimi dau fiori.<br>
+<br>
+Îmi place astă dată,<br>
+<br>
+April cînd înfloreşte<br>
+<br>
+Şi pomii şi cîmpia,<br>
+<br>
+Pădurea cea uscată<br>
+<br>
+Să văz cum înverzeşte,<br>
+<br>
+Cum naşte bucuria.<br>
+<br>
+Să văz cum se destinde<br>
+<br>
+Azurul cel ceresc;<br>
+<br>
+Să văz cum se aprinde<br>
+<br>
+Cu focul pămîntesc,<br>
+<br>
+Cu munca şi cu sporul,<br>
+<br>
+Speranţa şi amorul<br>
+<br>
+În toţi cîţi vieţuiesc.<br>
+<br>
+Îmi plac şi gîndăceii<br>
+<br>
+Cu-aripe mititele,<br>
+<br>
+Cu felurimi de feţe,<br>
+<br>
+Îmi plac şi flutureii<br>
+<br>
+De smalţ pe floricele,<br>
+<br>
+Cînd zbor cu aripi creţe.<br>
+<br>
+Îmi place rîndurica<br>
+<br>
+La cuib s-o văz zidind,<br>
+<br>
+Îmi place păsărică<br>
+<br>
+S-o văz pe pui hrănind,<br>
+<br>
+Îmi plac şi brotăceii –<br>
+<br>
+Se-mbuc şi porumbeii<br>
+<br>
+Iubind şi gungunind.<br>
+<br>
+Îmi place-atunci grădina<br>
+<br>
+Şi florile-ngrijite;<br>
+<br>
+Să văz crescînd zambila;<br>
+<br>
+Să văz roind stupina<br>
+<br>
+Pe coaste însmăltite;<br>
+<br>
+Să văz rîzînd copila;<br>
+<br>
+Să văz şezînd la soare<br>
+<br>
+Copilul mic şi blînd;<br>
+<br>
+Să văz că nu mai moare<br>
+<br>
+Un orfelin flămînd.<br>
+<br>
+Să văz îndestularea,<br>
+<br>
+Să văz îmbielşugarea<br>
+<br>
+Pe cer şi pe pămînt.<br>
+<br>
+Atunci cel ce iubeşte,<br>
+<br>
+Sau a iubit vreodată,<br>
+<br>
+S-absoarbe în tăcere,<br>
+<br>
+De vise se răpeşte,<br>
+<br>
+De vise ce-i arată<br>
+<br>
+Trecuta lui plăcere<br>
+<br>
+În unda care fuge,<br>
+<br>
+În crîngul cel întins,<br>
+<br>
+În mielul care suge,<br>
+<br>
+În focul cel aprins,<br>
+<br>
+În umbra ce se-mparte,<br>
+<br>
+În dealul cel departe,<br>
+<br>
+În danţul ce s-a prins.<br>
+<br>
+Atunci, el parcă vede<br>
+<br>
+Ieşind din crini, lalele,<br>
+<br>
+O nimfă ce visează;<br>
+<br>
+Atunci, pare c-ar crede<br>
+<br>
+Că vede-n viorele<br>
+<br>
+Cătări ce-l aţintează.<br>
+<br>
+Zefirii cînd prin frunze<br>
+<br>
+Adie-n brebenei,<br>
+<br>
+El simte p-a lui buze<br>
+<br>
+Trecînd suflarea ei.<br>
+<br>
+O simte-ntr-o cîntare<br>
+<br>
+De cuc, privighetoare,<br>
+<br>
+O simte-n fluturei.<br>
+<br>
+Se-nsoar-atuncea firea;<br>
+<br>
+Sărbează universul<br>
+<br>
+Ateii şi păgînii!<br>
+<br>
+Fetiţe-nvăţ iubirea,<br>
+<br>
+Poetul află viersul,<br>
+<br>
+Întineresc bătrînii.<br>
+<br>
+În om e fantazia,<br>
+<br>
+Amoru-n trandafir;<br>
+<br>
+În ochi e bucuria,<br>
+<br>
+Plăcerea în zefir;<br>
+<br>
+Plăcerea în gîndire,<br>
+<br>
+Plăcerea în unire;<br>
+<br>
+Natura e-n delir.<br>
+<br>
+II<br>
+<br>
+O! mult îmi place vara<br>
+<br>
+Cu verzi păduri stufoase,<br>
+<br>
+Cu pomii plini de roade,<br>
+<br>
+Cu grînele, secara<br>
+<br>
+În holde mari, frumoase,<br>
+<br>
+Cu spicul care cade!<br>
+<br>
+Cu noaptea înstelată,<br>
+<br>
+Cu cerul cel senin,<br>
+<br>
+Cu luna cea curată,<br>
+<br>
+Cu aerul cel lin,<br>
+<br>
+Cu pasări cîntătoare,<br>
+<br>
+Cu fluturi peste floare,<br>
+<br>
+Cu stupi cu fagul plin.<br>
+<br>
+O! vara, călătorul,<br>
+<br>
+Să umble-i este lesne<br>
+<br>
+Şi-n munte şi-n cîmpie;<br>
+<br>
+Căci rece e izvorul,<br>
+<br>
+Căci rar se află-n bezne,<br>
+<br>
+Căci tot e veselie;<br>
+<br>
+Căci roua scînteiază<br>
+<br>
+Cînd ziua s-a ivi;<br>
+<br>
+Căci raza-l luminează,<br>
+<br>
+Şi cînd o osteni,<br>
+<br>
+O umbră se destinde,<br>
+<br>
+În braţe-i îl coprinde,<br>
+<br>
+În somn a-l odini!<br>
+<br>
+Atunci, mulţimi de glasuri,<br>
+<br>
+De pasări certătoare<br>
+<br>
+Îl fur încet pe vise;<br>
+<br>
+Atunci el simte păsuri<br>
+<br>
+De nimfe jucătoare<br>
+<br>
+Cu sînuri tot deschise.<br>
+<br>
+O! Vara, orfelinul<br>
+<br>
+Părinţii şi-a aflat!<br>
+<br>
+O! Vara piere chinul;<br>
+<br>
+Săracul e bogat;<br>
+<br>
+Viaţa e frumoasă;<br>
+<br>
+Natura e pompoasă;<br>
+<br>
+Coliba e palat!<br>
+<br>
+Bucureşti, 1843.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cezar Bolliac
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,52 @@
+---
+title: "Vara"
+subtitle: "Cesar Vallejo"
+author: "Doctor Shrink"
+date: "2026-07-20"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q2VMXo_aN2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+E Vară, plec de-acum. Dar mă-ntâlnesc mereu<br>
+al serilor mânuţe ascultătoare<br>
+soseşti evlavioasă ; îmbătrânită tare;<br>
+nu vei găsi pe nimeni în sufletul meu.<br>
+<br>
+Vară! Prin balcoanele mele vei trece<br>
+cu mari mătănii de-ametist şi aur,<br>
+ca un episcop trist cear fi venit<br>
+din depărtări, să caute, să binecuvânteze<br>
+inele rupte mirilor defuncţi<br>
+<br>
+Eu,Vară, plec de-acum. Departe, prin septembrie<br>
+o roză e a mea; ţi-o încredinţez anume;<br>
+agheazmă să împrăştii pe toate ale sale<br>
+Zile de păcat şi de îngropăciune<br>
+<br>
+Dacă, de-atâta plâns, mausoleul<br>
+Va-naripa şi piatra cu raza de credinţă<br>
+tu glasul ţi-l înalţă în predică, şi-i cere<br>
+lui Dumnezeu s-o ţină veşnic moartă<br>
+<br>
+Se va petrece totul mai târziu<br>
+nu vei găsi pe nimeni în sufletul meu.<br>
+Şi nu mai plânge, Vară. În brazda ce se cască<br>
+se ofileşte-o roză, dar ea o să renască.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cesar Vallejo
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
