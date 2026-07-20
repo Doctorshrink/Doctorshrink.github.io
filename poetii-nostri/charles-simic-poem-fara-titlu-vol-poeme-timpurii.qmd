@@ -1,0 +1,50 @@
+---
+title: "Poem fără titlu (vol. Poeme timpurii)"
+subtitle: "Charles Simic"
+author: "Doctor Shrink"
+date: "2026-07-21"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PbPiYmIfPZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+POEM FĂRĂ TITLU<br>
+<br>
+Îi spun plumbului<br>
+<br>
+de ce ai permis să<br>
+<br>
+fii topit în formă de glonț?<br>
+<br>
+I-ai uitat pe alchimiști ?<br>
+<br>
+Ai pierdut speranța<br>
+<br>
+de a te transforma în aur?<br>
+<br>
+Nimeni nu răspunde.<br>
+<br>
+Plumb. Glonț.<br>
+<br>
+Cu nume ca acestea<br>
+<br>
+somnul este lung și adînc.<br>
+<br>
+GeorgeP
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Charles Simic
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

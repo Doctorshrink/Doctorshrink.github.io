@@ -1,0 +1,118 @@
+---
+title: "Dimineață de vară"
+subtitle: "Charles Simic"
+author: "Doctor Shrink"
+date: "2026-07-21"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8bENxTQdcEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dimineață de vară<br>
+<br>
+de Charles Simic<br>
+<br>
+Îmi place să stau în pat<br>
+<br>
+toată dimineața<br>
+<br>
+cu lenjeriile într-o parte, dezbrăcat,<br>
+<br>
+și cu ochii închiși, ascultând.<br>
+<br>
+Afară deschid<br>
+<br>
+manualele lor<br>
+<br>
+în mica școală<br>
+<br>
+din lanul de porumb.<br>
+<br>
+Este un miros de fân umed,<br>
+<br>
+de cai, de languros,<br>
+<br>
+cer de vară și viață eternă.<br>
+<br>
+Cunosc toate locurile întunecate<br>
+<br>
+în care soarele nu a pătruns deocamdată<br>
+<br>
+cele în care ultimul greier<br>
+<br>
+tocmai a terminat de cântat;<br>
+<br>
+furnicare<br>
+<br>
+ce se aud ca și cum ar ploua;<br>
+<br>
+păianjeni adormiți țesând haine pentru iubită.<br>
+<br>
+Trec pe la ferme<br>
+<br>
+în care gurile mici se deschid pentru a suge,<br>
+<br>
+stâni unde un om, dezbrăcat până la brâu,<br>
+<br>
+își spală fața și umerii cu un furtun,<br>
+<br>
+în timp ce farfuriile încep să se audă în bucătărie.<br>
+<br>
+Arborele cel bun cu vocea sa<br>
+<br>
+de pârâu de munte<br>
+<br>
+cunoaște pașii mei.<br>
+<br>
+El tace de asemenea.<br>
+<br>
+Mă opresc și ascult :<br>
+<br>
+într-un oarecare loc pe aproape<br>
+<br>
+o piatră rupe încheietura unui  deget,<br>
+<br>
+alta se întoarce pe cealaltă parte pentru a dormi.<br>
+<br>
+Aud cum se întoarce un fluture<br>
+<br>
+înăuntrul unei omizi,<br>
+<br>
+aud vorbind praful<br>
+<br>
+furtunii din ultima noapte.<br>
+<br>
+Mai în față, cineva<br>
+<br>
+încă și mai silențios<br>
+<br>
+trece peste iarbă<br>
+<br>
+fără a o îndoi.<br>
+<br>
+Și deodată!<br>
+<br>
+în mijlocul acestei liniști,<br>
+<br>
+pare posibil<br>
+<br>
+sa trăiești pur și simplu pe acest pământ.<br>
+<br>
+GeorgeP
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Charles Simic
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

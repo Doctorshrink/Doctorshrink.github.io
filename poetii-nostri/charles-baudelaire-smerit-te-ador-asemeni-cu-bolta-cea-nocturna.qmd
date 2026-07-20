@@ -1,0 +1,46 @@
+---
+title: "Smerit te-ador asemeni cu bolta cea nocturnă"
+subtitle: "Charles Baudelaire"
+author: "Doctor Shrink"
+date: "2026-07-21"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I7dGU0XHDPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Smerit te-ador asemeni cu bolta cea nocturnă<br>
+<br>
+O, amforă-a tristeţii, o, mare taciturnă,<br>
+<br>
+Mai scumpă mi-eşti, frumoaso, cu cât mi te strecori<br>
+<br>
+Tu, nopţile podoabă, de-mi pare uneori<br>
+<br>
+Că dinadins, ironic, distanţe-aduni în jur,<br>
+<br>
+Ce braţele-mi separă de-un nesfârşit azur.<br>
+<br>
+M-arunc sa dau atacul şi-asaltul meu e-n toi –<br>
+<br>
+Ca pe un leş când viermii se-nverşunează roi –<br>
+<br>
+Şi scumpă mi-e, o fiară, cumplită, nemiloasă,<br>
+<br>
+Chiar şi răceala care te face mai frumoasă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Charles Baudelaire
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

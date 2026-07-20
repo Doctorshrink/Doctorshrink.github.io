@@ -1,0 +1,74 @@
+---
+title: "Când valurile..."
+subtitle: "Christian W. Schenk"
+author: "Doctor Shrink"
+date: "2026-07-21"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kMNTdHboz58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Când valurile trec pe valuri,<br>
+<br>
+Nisipu-un mare se re-ntoarce;<br>
+<br>
+Precum un gând răzleț în voaluri<br>
+<br>
+Iubirea pleacă și se-ntoarce.<br>
+<br>
+Nu te lăsa pe Nereida<br>
+<br>
+Cum se lăsară între maluri<br>
+<br>
+Argonauții din Colhida,<br>
+<br>
+Când valurile trec pe valuri...<br>
+<br>
+Să nu îți uiți de loc și nume,<br>
+<br>
+De fusul ce destinu-ți toarce -<br>
+<br>
+Așa cum viața peste lume<br>
+<br>
+Nisipu-n mare se re-ntoarce...<br>
+<br>
+Pe drumul tău vezi ziditorul<br>
+<br>
+Ce umblă singur prin coclauri;<br>
+<br>
+Trecutul tău ți-e viitorul<br>
+<br>
+Precum un gând răzleț în voaluri...<br>
+<br>
+Rămâi mereu pe drumul care<br>
+<br>
+Visarea-ntreagă ți-o răstoarce,<br>
+<br>
+Căci totul e ca valu-n mare:<br>
+<br>
+Iubirea pleacă și se-ntoarce...<br>
+<br>
+Iubirea pleacă și se-ntoarce<br>
+<br>
+Precum un gând răzleț în voaluri,<br>
+<br>
+Nisipu-n mare se re-ntoarce<br>
+<br>
+Când valurile trec pe valuri...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Christian W. Schenk
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

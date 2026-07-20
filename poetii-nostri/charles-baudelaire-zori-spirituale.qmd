@@ -1,0 +1,54 @@
+---
+title: "Zori spirituale"
+subtitle: "Charles Baudelaire"
+author: "Doctor Shrink"
+date: "2026-07-21"
+categories: [poezie, spoken-word, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8G19PMmtWM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cînd la stricaţi, prin geamuri, dau zori de aur veste<br>
+<br>
+Şi au pătruns alături de Idealul dur,<br>
+<br>
+Prin jocul răzbunării şi-al tainei dimprejur,<br>
+<br>
+În bestia-aţipită un Înger se iveşte.<br>
+<br>
+Stau Slăvi Spirituale-necucerit azur-<br>
+<br>
+Deasupra celui care în lanţ de vis tînjeşte,<br>
+<br>
+Adînc deschid prăpăstii, sorbindu-l îngereşte.<br>
+<br>
+La fel, Zeiţă dragă, Fiinţă de dor pur,<br>
+<br>
+Prin fumul ce-l lăsară păcatele-n moloz,<br>
+<br>
+Obrazul tău răsare şi limpede şi roz<br>
+<br>
+Jucîndu-se sub ochii-mi în chip de amintire.<br>
+<br>
+Şi-au înnegrit la soare feştila, lumînări;<br>
+<br>
+Năluca ta e soare izbăvitor de zări,<br>
+<br>
+Tu, suflet clar şi rază ci veşnică lucire.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Charles Baudelaire
+* **Temă:** soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
