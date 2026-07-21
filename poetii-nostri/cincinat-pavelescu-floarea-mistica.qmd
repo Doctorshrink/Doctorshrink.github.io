@@ -1,0 +1,58 @@
+---
+title: "Floarea mistică"
+subtitle: "Cincinat Pavelescu"
+author: "Doctor Shrink"
+date: "2026-07-22"
+categories: [poezie, spoken-word, flori]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/skWz7xYdptI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vă întoarceți de la câmp și de la munte<br>
+<br>
+Cu flori albastre-n ochi și flori pe frunte,<br>
+<br>
+Și râdeți fericite și cântați,<br>
+<br>
+Cântați, cântați întruna și jucați.<br>
+<br>
+Iar eu ca și un cerșetor încremenit,<br>
+<br>
+De-a lungul drumului cel lung și prăfuit,<br>
+<br>
+Cu glas mâhnit, un cântec rugător<br>
+<br>
+Îngân mereu, și-o floare vă implor.<br>
+<br>
+O floare e prinosul ce vă cer!<br>
+<br>
+Vă cer numai o floare, vă-ndurați,<br>
+<br>
+Și din mănunchiul vostru aruncați<br>
+<br>
+O floare cântărețului stingher!<br>
+<br>
+Pe sâni la voi, o floare nu trăiește<br>
+<br>
+Decât o zi, un ceas și veștejește.<br>
+<br>
+Pe când la mine floarea voastră rară<br>
+<br>
+Din iarna mea va face primăvară!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cincinat Pavelescu
+* **Temă:** flori
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

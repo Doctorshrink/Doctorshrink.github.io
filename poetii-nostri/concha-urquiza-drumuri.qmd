@@ -1,0 +1,172 @@
+---
+title: "Drumuri"
+subtitle: "Concha Urquiza"
+author: "Doctor Shrink"
+date: "2026-07-22"
+categories: [poezie, spoken-word, drum]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eH7hC3tHhYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O, dulci cântece de ducă,<br>
+<br>
+curgeți pe extazul meu,<br>
+<br>
+precum vântul printre pânze<br>
+<br>
+și al mării val, mereu.<br>
+<br>
+Peste negrele drumeaguri<br>
+<br>
+încărcații nori zvâcnind,<br>
+<br>
+Peste înroșite drumuri<br>
+<br>
+maiestoasele furtuni,<br>
+<br>
+pe întinsele câmpii,<br>
+<br>
+zboruri de lăstuni...,<br>
+<br>
+cântecul călătoriei<br>
+<br>
+gându-mi umple cu sclipiri.<br>
+<br>
+Cât de lung mi-e drumul lung<br>
+<br>
+dinspre noapte către zori!<br>
+<br>
+- e mai mult decât un tril<br>
+<br>
+de-nsetate buze moi:<br>
+<br>
+&quot;Și ce patimi, ce amor<br>
+<br>
+am la granița din zări!<br>
+<br>
+Care-i drumul de parcurs<br>
+<br>
+pân&#x27; la nunțile de flori?&quot;<br>
+<br>
+Calcă Luna ce veghează<br>
+<br>
+printre norii furtunoși;<br>
+<br>
+vântul aspru galopează<br>
+<br>
+cu făclia-i scânteindă;<br>
+<br>
+iar în liniștea vibrantă<br>
+<br>
+vuietul se subțiază<br>
+<br>
+și-și continuă vâltoarea<br>
+<br>
+spre poteca zburătoare,<br>
+<br>
+ca o panglică de onix<br>
+<br>
+noaptea lung se desfășoară.<br>
+<br>
+Negrul drum nerăbdător,<br>
+<br>
+temniță ce zboară-n mare;<br>
+<br>
+fir de aur își îmbracă<br>
+<br>
+peste cântec de chitare:<br>
+<br>
+„Ce cărare va fi tristă,<br>
+<br>
+după ce buzele-ți pleacă?”<br>
+<br>
+Caminos<br>
+<br>
+Oh dulce canto de viaje,<br>
+<br>
+mi alegría y mi caudal,<br>
+<br>
+más que en las velas el viento<br>
+<br>
+más que el surco en el mar!<br>
+<br>
+Por los senderillos negros<br>
+<br>
+nubes cargadas de afán,<br>
+<br>
+por los senderillos rojos<br>
+<br>
+alardes de tempestad,<br>
+<br>
+por las llanuras inmensas,<br>
+<br>
+soledad...,<br>
+<br>
+pero una canción de viaje<br>
+<br>
+me llena de oro el morral.<br>
+<br>
+Cuán largo camino largo<br>
+<br>
+desde esta noche a la aurora!<br>
+<br>
+mas un cantarcillo alegre<br>
+<br>
+los labios sedientos moja:<br>
+<br>
+&quot;¡Qué amor y qué amores tengo<br>
+<br>
+allá en fronteras remotas!<br>
+<br>
+¿qué camino será largo<br>
+<br>
+siendo camino de bodas?&quot;<br>
+<br>
+La luna viaja de incógnito<br>
+<br>
+tras las nubes borrascosas;<br>
+<br>
+y galopa el duro viento<br>
+<br>
+con el girón de su antorcha;<br>
+<br>
+en la soledad vibrante<br>
+<br>
+se adelgaza cada nota,<br>
+<br>
+y siguiendo la carrera<br>
+<br>
+de la senda voladora,<br>
+<br>
+como una cinta de onix<br>
+<br>
+la noche se desenrolla.<br>
+<br>
+Negro camino impaciente<br>
+<br>
+cárcel que vuela hacia el mar;<br>
+<br>
+hilillo de oro lo enfrena<br>
+<br>
+la música de un cantar:<br>
+<br>
+&quot;¿qué camino será triste<br>
+<br>
+que a tus labios dulces va?&quot;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Concha Urquiza
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

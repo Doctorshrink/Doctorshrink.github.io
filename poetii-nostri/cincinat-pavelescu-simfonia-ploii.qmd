@@ -1,0 +1,84 @@
+---
+title: "Simfonia ploii"
+subtitle: "Cincinat Pavelescu"
+author: "Doctor Shrink"
+date: "2026-07-22"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RZ1e4a6XV0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dlui Take Ionescu , Paris. 1902<br>
+<br>
+E noapte de toamnă și plouă!<br>
+<br>
+Ce trist e când plouă în noapte,<br>
+<br>
+În plânsetul ploii nu-s șoapte<br>
+<br>
+De flori sărutate de rouă,<br>
+<br>
+Sunt lacrimi ascunse și mute<br>
+<br>
+Ce nasc și ce mor neștiute.<br>
+<br>
+În fiecare picătură<br>
+<br>
+Ce picură din ramuri,<br>
+<br>
+În fiecare picătură<br>
+<br>
+Ce-alunecă pe geamuri,<br>
+<br>
+Sunt voci de jale și de ură,<br>
+<br>
+Sunt rugi, crâmpeie de blesteme,<br>
+<br>
+E o largă, surdă simfonie,<br>
+<br>
+E toată sumbra tragedie<br>
+<br>
+A sărăciei care geme<br>
+<br>
+Pe bănci, sub poduri, prin grădini<br>
+<br>
+Întunecând cu ochi haini<br>
+<br>
+Și glasuri amărâte<br>
+<br>
+Tăcerea plină de fiori<br>
+<br>
+A nopților posomorâte!<br>
+<br>
+Sub lustrul apei strada pare<br>
+<br>
+Un râu statornic, fără val,<br>
+<br>
+Și flacăra de felinare<br>
+<br>
+E ca o lamă de pumnal.<br>
+<br>
+Pe când visezi la pianu-ți, doamnă,<br>
+<br>
+Și-asculți al sobei dulce cânt,<br>
+<br>
+N-o să-nțelegi ce triste sânt,<br>
+<br>
+Când plouă, nopțile de toamnă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cincinat Pavelescu
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

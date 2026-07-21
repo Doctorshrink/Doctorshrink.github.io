@@ -1,0 +1,74 @@
+---
+title: "Vazele de flori"
+subtitle: "Claudia Millian Minulescu"
+author: "Doctor Shrink"
+date: "2026-07-22"
+categories: [poezie, spoken-word, flori]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zecf4r-Eia8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ce mâini înfrigurate-au modelat<br>
+<br>
+Argila neagră-a vazelor bizare,<br>
+<br>
+În care mor plăpânzii trandafiri,<br>
+<br>
+Cum mor în noi nervoasele iubiri? -<br>
+<br>
+Argila neagră-a vazelor bizare,<br>
+<br>
+Evocatoarea unei funerare!<br>
+<br>
+Ce mâini înfrigurate le-au turnat,<br>
+<br>
+Dând formei lor senzaţii de femeie:<br>
+<br>
+Cu linii rotunzite ca de pântec,<br>
+<br>
+Cu ondulări de şolduri şi de cântec? -<br>
+<br>
+Dând formei lor senzaţii de femeie<br>
+<br>
+Şi braţelor mişcări de orhideie!<br>
+<br>
+Ce mâini înfrigurate de amant,<br>
+<br>
+În lutul cald al vazelor de flori,<br>
+<br>
+Au îngropat fragmentul vinovat,<br>
+<br>
+Ca un motiv de sete şi păcat? -<br>
+<br>
+În lutul cald al vazelor de flori,<br>
+<br>
+Ce mâini au pus beţie şi flori?<br>
+<br>
+O! Vazele în care mor atâtea flori:<br>
+<br>
+Atâţia crini, şi-atâţia trandafiri,<br>
+<br>
+Atâtea crizanteme despletite,<br>
+<br>
+Şi violete, şi garoafe înnegrite -<br>
+<br>
+O! Vazele sunt urne funerare,<br>
+<br>
+Ca sunetul femeilor bizare.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Claudia Millian Minulescu
+* **Temă:** flori
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

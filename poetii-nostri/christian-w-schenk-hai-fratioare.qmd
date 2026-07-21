@@ -1,0 +1,50 @@
+---
+title: "Hai frățioare..."
+subtitle: "Christian W. Schenk"
+author: "Doctor Shrink"
+date: "2026-07-22"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EMMKq552OGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Hai frățioare la cules de clipe;<br>
+<br>
+Bătrânul ornic este plin de roade<br>
+<br>
+Când înserarea-și picură spre noapte<br>
+<br>
+Ultimii stropi de raze peste noi.<br>
+<br>
+Hai frățioare, răsfoiește-n carte<br>
+<br>
+Ultima pagină deja îngălbenită<br>
+<br>
+Și pune-o lângă cele răsfoite<br>
+<br>
+În nopți și zile sparte-n amintiri.<br>
+<br>
+Hai frățioare, lasă-mă să-ți țin<br>
+<br>
+În palme ultima dorință care<br>
+<br>
+Mă-ndeamnă să te-ajung, să vin...<br>
+<br>
+Hai frățioare, mergem la culcare!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Christian W. Schenk
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

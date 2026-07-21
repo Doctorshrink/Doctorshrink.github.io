@@ -1,0 +1,68 @@
+---
+title: "Omului din lună din lună"
+subtitle: "Christian W. Schenk"
+author: "Doctor Shrink"
+date: "2026-07-22"
+categories: [poezie, spoken-word, luna_stele, noapte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T4zY3OVNQGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Înserează veghea ochilor mei.<br>
+<br>
+Îmbrăţişarea sporeşte dureroasă lumina-nsoţită<br>
+<br>
+de cuvânt unde  prima propoziţie<br>
+<br>
+temător încolţeşte sunetul ei<br>
+<br>
+încrescut în tulbureala<br>
+<br>
+pleoapelor mele.<br>
+<br>
+Norii ne refuză tunetul şi binecuvântarea<br>
+<br>
+de stropi a vânturilor veghetoare<br>
+<br>
+iar soarele acesta se-ascunde pleşuv<br>
+<br>
+după fruntea înnourată a stelelor -<br>
+<br>
+se-ntunecă înaltă deja luna iar omul din ea<br>
+<br>
+e singuratic; din fire de păianjen îşi împleteşte<br>
+<br>
+scară întru seară căci această noapte<br>
+<br>
+va fi noaptea lui şi noaptea lunii din om.<br>
+<br>
+nu tună<br>
+<br>
+nu plouă<br>
+<br>
+doar noaptea curge pe străzi<br>
+<br>
+înteţind tăcerea umbrelor statice.<br>
+<br>
+Ferestrele veghează asupra uşilor<br>
+<br>
+însă acestea se cufundă în fluviul<br>
+<br>
+omului din lună.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Christian W. Schenk
+* **Temă:** luna_stele, noapte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
