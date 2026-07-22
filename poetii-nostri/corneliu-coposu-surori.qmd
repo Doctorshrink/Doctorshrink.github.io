@@ -1,0 +1,60 @@
+---
+title: "Surori"
+subtitle: "Corneliu Coposu"
+author: "Doctor Shrink"
+date: "2026-07-23"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9fDaOPt0EUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+SURORI<br>
+<br>
+Surori cu surasuri senine, trecute prin mari vitregii<br>
+<br>
+Cu suflete albe, veline, cu farmec de dulci nostalgii<br>
+<br>
+Va cauta clipa pustie, increderea plina de dor,<br>
+<br>
+Si ancora gandului, vie, in neostenitul ei zbor.<br>
+<br>
+Lumina privirilor voastre strabate duios departari,<br>
+<br>
+Cu sprijinul dragostei noastre, in noaptea de mari incercari<br>
+<br>
+Imi caut in freamat bodina si grabnic ma-ntorc inapoi,<br>
+<br>
+Pe drum de-amintiri, in gradina trecutului, plina de voi.<br>
+<br>
+Cat dealul de-ar fi suferinta, nadejdea cat bobul de mei,<br>
+<br>
+Fratia sustine credinta si da asteptarii temei.<br>
+<br>
+Cand filmul din cuget revine, pe fir de raboj vietuit,<br>
+<br>
+Adun, impacat langa mine, imagini de nepretuit,<br>
+<br>
+Tandretea mea blanda si calda, in daruri rodite de gand.<br>
+<br>
+Statornice inimi curate, ce bateti la fel cu a mea,<br>
+<br>
+Va cheama iubirea de frate, din temnita aspra si grea!<br>
+<br>
+Adaugata de catre Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Corneliu Coposu
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

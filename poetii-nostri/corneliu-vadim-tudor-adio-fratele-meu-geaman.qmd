@@ -1,0 +1,76 @@
+---
+title: "Adio, fratele meu geamăn"
+subtitle: "Corneliu Vadim Tudor"
+author: "Doctor Shrink"
+date: "2026-07-23"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QXOpK2m3pQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Adio, fratele meu geamăn<br>
+Tristă duminică trăim.<br>
+Om bun, şi drag, şi fără seamăn<br>
+Abia acum te preţuim.<br>
+<br>
+Adio, forţă a naturii<br>
+Te-au pus pigmeii la pămînt.<br>
+&quot;Complotul bubei&quot; şi al urii<br>
+Te-a hărţuit pîn&#x27; la mormînt.<br>
+<br>
+Curînd vor răsuna colinde<br>
+Curînd Crăciunul va veni<br>
+Şi candele se vor aprinde<br>
+Pe-ntinsul scumpei Românii.<br>
+<br>
+Un scaun gol va fi la masă<br>
+Precum e tronul princiar.<br>
+Şi-un strop de vin de tămîioasă<br>
+Noi vom vărsa, plîngînd amar.<br>
+<br>
+E-o zi de toamnă aurie<br>
+Ce pace dulce e-mprejur!<br>
+Doar eu sînt ca o rană vie<br>
+Ce îmi dai, Doamne, să îndur?<br>
+<br>
+De ce ni-l iei aşa devreme<br>
+Pe cel mai nobil dintre noi?<br>
+Crucificat peste poeme<br>
+Pentru cei mulţi, flămînzi şi goi...<br>
+<br>
+De ce rămîn toţi ticăloşii<br>
+Cei mincinoşi şi paraziţi?<br>
+Şi-n vremea asta generoşii<br>
+În patru zări sînt răstigniţi?<br>
+<br>
+Fă o minune şi ridică<br>
+Acest nenorocit blestem.<br>
+Şi vindecă-ne Tu de frică<br>
+E tot mai greu, nu mai putem.<br>
+<br>
+Ai milă, Doamne, şi-ndurare<br>
+De-acest colos cu miere-n grai<br>
+Şi pentru inima lui mare<br>
+Dă-i viaţă veşnică în Rai.<br>
+<br>
+Întreaga ţară te jeleşte<br>
+Românii doliu pun la steag.<br>
+Azi steaua ta pe cer porneşte.<br>
+Adio, fratele meu drag!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Corneliu Vadim Tudor
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

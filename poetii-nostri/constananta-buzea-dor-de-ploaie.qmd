@@ -1,0 +1,74 @@
+---
+title: "Dor de ploaie"
+subtitle: "Constanţa Buzea"
+author: "Doctor Shrink"
+date: "2026-07-23"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mARC2MHLkTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+plângi cu fruntea-n perna albă<br>
+<br>
+unde părul meu demult<br>
+<br>
+a crescut încet și singur<br>
+<br>
+din nesomn și din oftat<br>
+<br>
+plângi în vise<br>
+<br>
+plângi în crucea păsărilor călătoare<br>
+<br>
+plângi în zborul lor de toamnă<br>
+<br>
+scuturat în mare<br>
+<br>
+bate vântul roșu-a ploaie<br>
+<br>
+vine vara nu te-mpacă<br>
+<br>
+doarme fluierul pe masă-nlăcrimat<br>
+<br>
+de dor de stea<br>
+<br>
+plângi în vise și se mută<br>
+<br>
+sufletul în lemnul dulce<br>
+<br>
+mâna aspră îl usucă<br>
+<br>
+buza arsă-l bea<br>
+<br>
+plângi încet cu fruntea-n pernă<br>
+<br>
+zborul păsărilor scade<br>
+<br>
+spre pământ spre somn te-aduce<br>
+<br>
+stinsă ultima bătaie<br>
+<br>
+numai părul plin de zborul<br>
+<br>
+păsărilor disperate<br>
+<br>
+a ieșit cu mine-afară<br>
+<br>
+lung de dor de ploaie
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Constanţa Buzea
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

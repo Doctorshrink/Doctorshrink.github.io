@@ -1,0 +1,64 @@
+---
+title: "Vântul are păr tăiat"
+subtitle: "Constanţa Buzea"
+author: "Doctor Shrink"
+date: "2026-07-23"
+categories: [poezie, spoken-word, vant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PJQUjCs-U-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vântul ăsta e băiat?<br>
+<br>
+N-are şapcă, n-are barbă?<br>
+<br>
+Vrei să-l tragi puţin de păr,<br>
+<br>
+Şi, când colo, rupi o iarbă.<br>
+<br>
+Vântul are păr tăiat?<br>
+<br>
+E băiat, într-adevăr?<br>
+<br>
+Sigur, vântul e băiat!<br>
+<br>
+Mi-ar plăcea să fie fată,<br>
+<br>
+Mi-ar plăcea şi să se vadă.<br>
+<br>
+Vreau să ne jucăm un pic,<br>
+<br>
+Dar din vânt nu văd nimic.<br>
+<br>
+Cum se urcă în copac?<br>
+<br>
+Cum zbârleşte apa-n lac?<br>
+<br>
+Cum împinge nori pe cer?<br>
+<br>
+Vreau să-l văd. Atâta-i cer!<br>
+<br>
+Uite, zic, îmi trage fusta<br>
+<br>
+Cu o mână de nimic<br>
+<br>
+Şi mă-mpinge de la spate,<br>
+<br>
+Merg de parcă-aş avea roate.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Constanţa Buzea
+* **Temă:** vant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

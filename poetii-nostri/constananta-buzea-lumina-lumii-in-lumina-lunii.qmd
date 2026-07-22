@@ -1,0 +1,58 @@
+---
+title: "Lumina lumii în lumina lunii"
+subtitle: "Constanţa Buzea"
+author: "Doctor Shrink"
+date: "2026-07-23"
+categories: [poezie, spoken-word, lumina, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nyDvVW3KNSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nu râd pentru că nu știu să mă joc.<br>
+<br>
+Deruta noastră o îngână unii.<br>
+<br>
+De propriul glas sunt umiliți păunii.<br>
+<br>
+Mai bine tac decât să-i mai provoc.<br>
+<br>
+Să fim absenți cum se prefac nebunii,<br>
+<br>
+S-avem în viață și acest noroc.<br>
+<br>
+Aș vrea să nu ne chinuie deloc<br>
+<br>
+Lumina lumii în lumina lunii.<br>
+<br>
+Aș vrea să-i fac iubirii noastre loc<br>
+<br>
+Pe-o stea sub care au vorbit străbunii.<br>
+<br>
+Cer păstrător al vocilor, adu-ni-i,<br>
+<br>
+Să ne înghețe și să ne dea foc!<br>
+<br>
+Aș vrea să nu ne temem de mijloc,<br>
+<br>
+Iluzia să țină loc minunii,<br>
+<br>
+Să fii uimit că nu vreau să mă rog,<br>
+<br>
+Lumina lumii în lumina lunii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Constanţa Buzea
+* **Temă:** lumina, soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

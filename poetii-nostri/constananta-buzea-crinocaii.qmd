@@ -1,0 +1,74 @@
+---
+title: "Crinocaii"
+subtitle: "Constanţa Buzea"
+author: "Doctor Shrink"
+date: "2026-07-23"
+categories: [poezie, spoken-word, flori]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ybZNJ-gmjW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ştiţi că băieţelul nostru<br>
+<br>
+Duce crinii de căpăstru?<br>
+<br>
+Crinii sunt căluţi subţiri<br>
+<br>
+La trăsuri cu trandafiri.<br>
+<br>
+Crinii-cai au frunze-n piele<br>
+<br>
+Şi căpestre de zorele:<br>
+<br>
+Crini-cai verzi într-un picior,<br>
+<br>
+Au cap alb cu şase flori.<br>
+<br>
+Două flori sunt ochii lor,<br>
+<br>
+Alte două sunt urechi,<br>
+<br>
+Încă două, flori-perechi.<br>
+<br>
+Ce să fie? Ochi mai vechi.<br>
+<br>
+Hai să mergem la plimbare,<br>
+<br>
+O plimbare cu alai,<br>
+<br>
+Patru crini, patru picioare,<br>
+<br>
+Din opt crini se fac doi cai.<br>
+<br>
+Să le dăm la cai mălai,<br>
+<br>
+Crinii cu lumini se-adapă,<br>
+<br>
+Să mânăm cu bici de apă<br>
+<br>
+Herghelii de crino-cai.<br>
+<br>
+Crinii-cai au frunze-n piele<br>
+<br>
+Şi căpestre de zorele:<br>
+<br>
+Crini-cai verzi într-un picior<br>
+<br>
+Au cap alb cu şase flori.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Constanţa Buzea
+* **Temă:** flori
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
