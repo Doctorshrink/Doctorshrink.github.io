@@ -1,0 +1,58 @@
+---
+title: "Mă sfârșesc, amar mă doare"
+subtitle: "Costache Conachi"
+author: "Doctor Shrink"
+date: "2026-07-24"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_-auORTVLhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Mă sfârșesc, amar mă doare!<br>
+<br>
+Milă n&#x27;am la cine cere,<br>
+<br>
+Toate sânt nesimțitoare,<br>
+<br>
+Toate-mi zic: mori în durere!<br>
+<br>
+Nici vaete, nici suspinuri,<br>
+<br>
+Nici a inimei junghere,<br>
+<br>
+N&#x27;aduc milă, ci tot chinuri...<br>
+<br>
+Toate-mi zic: mori în durere!<br>
+<br>
+Rog oameni, rog cele sfinte,<br>
+<br>
+Cer la milă mângâiere.<br>
+<br>
+Mila nu-i la rugăminte...<br>
+<br>
+Toate-mi zic: mori în durere!<br>
+<br>
+Moarte strig, moartea nu vine,<br>
+<br>
+Nu vine la cine-o cere.<br>
+<br>
+Toate-s crude cătră mine...<br>
+<br>
+Toate-mi zic: mori în durere!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Costache Conachi
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

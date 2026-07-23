@@ -1,0 +1,116 @@
+---
+title: "Ce noapte grea!"
+subtitle: "Costache Ioanid"
+author: "Doctor Shrink"
+date: "2026-07-24"
+categories: [poezie, spoken-word, noapte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NHDYgdQLZO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ce noapte grea, ce noapte grea!...<br>
+<br>
+O zare de lumina nu era.<br>
+<br>
+Maria suspina privind in zari,<br>
+<br>
+sub cerul greu.<br>
+<br>
+Si tremura la pieptul ei<br>
+<br>
+Copilul- Dumnezeu...<br>
+<br>
+Ce noapte grea, ce noapte grea!...<br>
+<br>
+In Betleem un tipat izbucnea.<br>
+<br>
+Din gene lacrimi grele picurau<br>
+<br>
+ca flori de-april.<br>
+<br>
+Si licarea pe orice prag<br>
+<br>
+un sange de copil.<br>
+<br>
+Ce noapte grea, ce noapte grea!...<br>
+<br>
+Un tropot lung din vale se-nalta.<br>
+<br>
+Urcau pe Ghetsimani otele reci<br>
+<br>
+mereu mai sus.<br>
+<br>
+si iata Iuda s-a oprit<br>
+<br>
+la pieptul Lui Isus.<br>
+<br>
+Ce noapte grea, ce noapte grea1...<br>
+<br>
+Un negru val in miez de zi cadea.<br>
+<br>
+C-un dor neinteles, murea Isus<br>
+<br>
+nevinovat.<br>
+<br>
+Si, peste nori, un cer intreg<br>
+<br>
+plangea infiorat.<br>
+<br>
+Ce noapte grea, ce noapte grea!...<br>
+<br>
+O raza de lumina nu era.<br>
+<br>
+Maria suspina, privind in zari,<br>
+<br>
+cu glasul frant.<br>
+<br>
+Si-o piatra rece a cazut<br>
+<br>
+pe cel mai trist mormant.<br>
+<br>
+O noapte grea, o noapte grea...<br>
+<br>
+apasa uneori si-n viata ta.<br>
+<br>
+O noapte de fiori,<br>
+<br>
+sub nori de plumb,<br>
+<br>
+sub reci poveri.<br>
+<br>
+Si parca nu mai poate fi<br>
+<br>
+O raza nicaieri...<br>
+<br>
+Dar intr-o zi, dar intr-o zi,<br>
+<br>
+lumina cea de sus va rasari!<br>
+<br>
+Un tunet va chema<br>
+<br>
+pe cel umil,<br>
+<br>
+pe cel rapus.<br>
+<br>
+Si-n fata noastra, printre nori,<br>
+<br>
+va straluci Isus!<br>
+<br>
+AMIN
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Costache Ioanid
+* **Temă:** noapte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

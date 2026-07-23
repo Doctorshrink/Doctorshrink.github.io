@@ -1,0 +1,58 @@
+---
+title: "Calea, Adevărul, Viaţa"
+subtitle: "Costache Ioanid"
+author: "Doctor Shrink"
+date: "2026-07-24"
+categories: [poezie, spoken-word, drum, viata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmT6420ADps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nu noi suntem Calea sfântă,<br>
+<br>
+Calea care duce sus.<br>
+<br>
+Noi suntem doar călătorii,<br>
+<br>
+însă calea e Isus!<br>
+<br>
+Nu-i o formă Adevărul.<br>
+<br>
+Nici în litere nu-i pus.<br>
+<br>
+Adevărul e-o fiinţă.<br>
+<br>
+Adevărul e Isus!<br>
+<br>
+Nu din lut se naşte Viaţa,<br>
+<br>
+Viaţa e fără de apus.<br>
+<br>
+Ce e lut în lut se-ntoarce,<br>
+<br>
+însă Viaţa e Isus.<br>
+<br>
+Astfel Calea-i pasul nostru.<br>
+<br>
+Adevăru-n noi e pus.<br>
+<br>
+Viaţa sfântă-i viaţa noastră,<br>
+<br>
+dacă e în noi ISUS!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Costache Ioanid
+* **Temă:** drum, viata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

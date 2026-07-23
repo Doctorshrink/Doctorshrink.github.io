@@ -1,0 +1,76 @@
+---
+title: "Am găsit o floare ruptă"
+subtitle: "Costache Ioanid"
+author: "Doctor Shrink"
+date: "2026-07-24"
+categories: [poezie, spoken-word, flori]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7OQ5UZQNfS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Am găsit o floare ruptă,<br>
+<br>
+fir de  alb mărgăritar<br>
+<br>
+şi l-am dus la mine-acasă<br>
+<br>
+că să-l pun într-un pahar...<br>
+<br>
+Mi-am lipit de el obrazul<br>
+<br>
+în suspinul de parfum...<br>
+<br>
+Firicel de floare ruptă,<br>
+<br>
+cine te-a zvârlit în drum?<br>
+<br>
+Am găsit o floare ruptă,<br>
+<br>
+fir strivit şi singurel<br>
+<br>
+Şi am înţeles deodată<br>
+<br>
+că şi eu am fost că el.<br>
+<br>
+Că şi eu zăceam în ţină,<br>
+<br>
+fir de mărgărit răpus,<br>
+<br>
+dar atunci  din calea lumii<br>
+<br>
+M-a luat cu EL,  ISUS!<br>
+<br>
+Am găsit o floare ruptă<br>
+<br>
+şi-s atât de fericit,<br>
+<br>
+că nu-i nici un fir de floare<br>
+<br>
+neştiut şi negăsit.<br>
+<br>
+Nici o floare, nici un suflet,<br>
+<br>
+nu se pierde pe vreun plai.<br>
+<br>
+Căci ISUS la toţi aleargă<br>
+<br>
+şi ne ia cu EL în Răi!<br>
+<br>
+AMIN
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Costache Ioanid
+* **Temă:** flori
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
