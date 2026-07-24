@@ -1,0 +1,206 @@
+---
+title: "Douăzeci de ani"
+subtitle: "Costache Ioanid"
+author: "Doctor Shrink"
+date: "2026-07-25"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QblieYLHCTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+DOUĂZECI DE ANI<br>
+<br>
+cuvânt de dragoste şi de aducere aminte cu prilejul<br>
+<br>
+împlinirii a 20 de ani de la ridicarea locaşului<br>
+<br>
+Bisericii Creştine Evanghelice din stradă Badea Cârţan<br>
+<br>
+Se-mplinira douăzeci de ani!<br>
+<br>
+Numai bătrânii îşi aduc aminte...<br>
+<br>
+Ce-a fost în locu-acesta înainte?<br>
+<br>
+O mâna de discipoli luterani.<br>
+<br>
+Un snop de fraţi. Un neştiutor popor<br>
+<br>
+ce se-adună într-o capela mică;<br>
+<br>
+dar râvnă lor,<br>
+<br>
+torent ce stânci despică,<br>
+<br>
+era mai mare decât templul lor!...<br>
+<br>
+Şi-atunci acest mănunchi creştin maghiar<br>
+<br>
+şi-a adunat puterile robace<br>
+<br>
+să-nalte-un templu vrednic pentru HAR.<br>
+<br>
+Şi-astfel bănuţii văduvei sărace<br>
+<br>
+s-au strâns lang-al Mariei din Magdal-<br>
+<br>
+şi lucrul începu, monumental,<br>
+<br>
+iar zidurile au crescut în pace.<br>
+<br>
+Cândva al doilea templu din Sion<br>
+<br>
+se înalta la fel sub mâini tenace.<br>
+<br>
+Numai că cei întorşi din Babilon<br>
+<br>
+nu mai zideau slavita casă sfânta<br>
+<br>
+aşa cum o-nălţase Solomon.<br>
+<br>
+Pe când aici, peste capela strâmtă,<br>
+<br>
+fraţii maghiari, simţind la unison,<br>
+<br>
+luptau să crească bolţi de panteon,<br>
+<br>
+o fortăreaţa pururi neînfrântă!<br>
+<br>
+Ce bucurii au fost! Ce imnuri sfinte!<br>
+<br>
+Când templul nou şi-nalt a înghiţit<br>
+<br>
+bisericuţa cea de mai-nainte!<br>
+<br>
+Bătrânii doar îşi mai aduc aminte...<br>
+<br>
+Iar azi avem o zi de sărbătoare,<br>
+<br>
+azi ctitorii cu părul de namet<br>
+<br>
+dau mărturie pentru tineret,<br>
+<br>
+pentru pionii vremii viitoare!<br>
+<br>
+să ştie toţi că templu-acesta mare,<br>
+<br>
+pornit cu bani puţini, dar zel bogat,<br>
+<br>
+prin Harul ce l-a binecuvântat,<br>
+<br>
+s-a-ntins măreţ că un stejar în soare,<br>
+<br>
+sub care dup-al cerurilor rost<br>
+<br>
+găsiră fraţi români un adăpost,<br>
+<br>
+un loc înalt de sfânta adunare.<br>
+<br>
+Şi iată că noi, tineri şi bătrâni,<br>
+<br>
+strânşi la un loc prin voia cea de sus,<br>
+<br>
+ne înfrăţim sub crucea Lui ISUS.<br>
+<br>
+Acum din apă-aceleiaşi fântâni<br>
+<br>
+sorbim şi fraţi maghiari şi fraţi români.<br>
+<br>
+ISUS, venind să biruie furtună,<br>
+<br>
+venind să-Şi strângă turmă Lui de oi,<br>
+<br>
+nu ne-a unit pentru un an sau doi,<br>
+<br>
+ci ne-a-nfratit în EL pe totdeauna.<br>
+<br>
+Nu mai suntem străini lângă străini,<br>
+<br>
+nu mai suntem opriţi de bariere.<br>
+<br>
+Ci suntem fraţi pe veci, da, fraţi creştini!<br>
+<br>
+Fiind pe-aceeaşi Cale peregrini,<br>
+<br>
+spre-acelaşi plai, spre-aceeaşi mângâiere,<br>
+<br>
+spre-acelaşi POM al VIEŢII ce nu piere,<br>
+<br>
+spre acelaşi DOMN, spre-aceeaşi bucurie!<br>
+<br>
+Noi suntem fraţi, da, fraţi pe veşnicie!<br>
+<br>
+Căci sus în cer, sub veşnicul altar,<br>
+<br>
+nu este-un RĂI român şi-un Răi-maghiar,<br>
+<br>
+nu este un RĂI de fiecare neam!<br>
+<br>
+Acolo sus în gloriosul RĂI,<br>
+<br>
+e-un singur dor, e-un singur vis, un singur grai,<br>
+<br>
+un singur sfânt de mângâietor balsam.<br>
+<br>
+Aici suntem popor lângă popor,<br>
+<br>
+dar sus vom fi o turmă şi-un PASTOR!<br>
+<br>
+Şi totuşi noi, aceşti români chemaţi<br>
+<br>
+de adevărul Evangheliei sfinte,<br>
+<br>
+ne vom aduce-acolo sus aminte<br>
+<br>
+c-am fost cândva primiţi de fraţi, că fraţi.<br>
+<br>
+Iar voi, creştini maghiari, acolo sus,<br>
+<br>
+veţi fi voioşi în slăvile măreţe<br>
+<br>
+că aţi primit nu nişte oi răzleţe,<br>
+<br>
+ci, după cum cuvântul LUI ne-a spus,<br>
+<br>
+voi L-aţi adăpostit chia pe ISUS!<br>
+<br>
+O, Tată sfânt, o, Pronie divină,<br>
+<br>
+prin servii Tăi ne-ai spus dumnezeieşte<br>
+<br>
+că cine-n lumea asta nu iubeşte<br>
+<br>
+pe fraţii săi cu-o dragoste deplină,<br>
+<br>
+acela nu trăieşte în lumina.<br>
+<br>
+De-aceea Te rugăm cu dor, Părinte,<br>
+<br>
+noi, fiii Tăi, poporul Tău creştin,<br>
+<br>
+Mireasă cea în strai curat de în,<br>
+<br>
+să fim, de dragul Tău, de azi-nainte,<br>
+<br>
+uniţi că fraţi, c-un duh tot mai fierbinte,<br>
+<br>
+îmbrăţişaţi tot mai cu drag1 Amin.<br>
+<br>
+AMIN
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Costache Ioanid
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

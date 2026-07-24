@@ -1,0 +1,76 @@
+---
+title: "Icoanele mele..."
+subtitle: "Costache Ioanid"
+author: "Doctor Shrink"
+date: "2026-07-25"
+categories: [poezie, spoken-word, dumnezeu]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RiGzLJWuaSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Icoanele mele cu salbe de crini,<br>
+<br>
+icoanele dragostei noi,<br>
+<br>
+icoanele mele scaldate-n rubini,<br>
+<br>
+voi, frati si surori, sunteti voi!<br>
+<br>
+Faclii care ard, daruind tuturor<br>
+<br>
+Lumina din veacul de-apoi,<br>
+<br>
+lumini din Lumina, izvor din Izvor,<br>
+<br>
+voi, frati si surori, sunteti voi!<br>
+<br>
+Cadelnita sfanta, cu foc din altar,<br>
+<br>
+cu care smerit ma-nconvoi,<br>
+<br>
+cadelnita mea de mireasma si har,<br>
+<br>
+voi, frati si surori, sunteti voi!<br>
+<br>
+Aghiazma sfintita din muntii de sus,<br>
+<br>
+tasnind intr-un vesnic suvoi,<br>
+<br>
+aghiazma din Stanca eterna, Isus,<br>
+<br>
+voi, frati si surori, sunteti voi!<br>
+<br>
+Matanii de ruga, din aur de-Ofir,<br>
+<br>
+sapate c-un tainic priboi,<br>
+<br>
+matanii legate pe-al dragostei fir,<br>
+<br>
+voi, frati si surori, sunteti voi!<br>
+<br>
+Icoane de aur in Templul divin,<br>
+<br>
+din voi, fratii mei, mi-am facut;<br>
+<br>
+icoane la care eu nu ma inchin,<br>
+<br>
+dar, ca pe Cristos, le sarut...<br>
+<br>
+AMIN
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Costache Ioanid
+* **Temă:** dumnezeu
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

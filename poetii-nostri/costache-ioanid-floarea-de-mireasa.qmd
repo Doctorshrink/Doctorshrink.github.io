@@ -1,0 +1,68 @@
+---
+title: "Floarea de mireasă"
+subtitle: "Costache Ioanid"
+author: "Doctor Shrink"
+date: "2026-07-25"
+categories: [poezie, spoken-word, flori]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tBPvf9iXGuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pe un fir de floare pală,<br>
+<br>
+că pe-un coif de îngeraş,<br>
+<br>
+pe un fir de floare pală,<br>
+<br>
+dintr-o singură petală<br>
+<br>
+s-a oprit un fluturaş.<br>
+<br>
+- Vai, şopti el, câte zale<br>
+<br>
+are dalia pe strai!<br>
+<br>
+Vai, şopti el, câte zale,<br>
+<br>
+câte sute de petale!<br>
+<br>
+Şi tu numai una ai...<br>
+<br>
+Ascunzând în ea mirarea<br>
+<br>
+de-un astfel de gând străin,<br>
+<br>
+ascunzând în ea mirarea,<br>
+<br>
+i-a răspuns c-un zâmbet floarea<br>
+<br>
+şi cu-o lacrimă-n declin!<br>
+<br>
+- Eu sunt simplă, dar aleasă.<br>
+<br>
+Şi n-aş vrea un alt veşmânt.<br>
+<br>
+Eu sunt simplă, dar aleasă,<br>
+<br>
+căci sunt floare de mireasă<br>
+<br>
+care spune: &quot;Una  sunt!&quot;<br>
+<br>
+AMIN
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Costache Ioanid
+* **Temă:** flori
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
