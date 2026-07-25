@@ -1,0 +1,51 @@
+---
+title: "Vreau să iubesc pe fratii mei"
+subtitle: "Costache Ioanid"
+author: "Doctor Shrink"
+date: "2026-07-26"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QG8vM98HQWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vreau sa iubesc pe fratii mei,<br>
+cu tot ca am in piept mai sfant.<br>
+Vreau sa doresc tot ceru-n ei,<br>
+dar sa-i iubesc asa cum sant.<br>
+<br>
+Vreau sa iubesc pe dratii mei,<br>
+cu care vesnic voi fi sus.<br>
+Vazandu-L pe Isus in ei,<br>
+sa-L simt in mine pe Isus.<br>
+<br>
+Vreau de-opotriva sa adun,<br>
+si rodu-ntreg si spicul frant.<br>
+Caci si Isus ma vrea mai bun,<br>
+dar ma iubeste-asa cum sunt.<br>
+<br>
+Cand fratii mei au rani ce dor,<br>
+sa-mi fie bratul mai sfios,<br>
+sa nu apas in rana lor,<br>
+caci nu eu vindec, ci Hristos.<br>
+<br>
+Noi prin Isus am fost iertati,<br>
+ca sa iertam si noi oricui.<br>
+Dar daca nu iubim pe frati,<br>
+n-avem in noi iertarea Lui.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Costache Ioanid
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

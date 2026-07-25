@@ -1,0 +1,58 @@
+---
+title: "O, Tată bun şi sfânt"
+subtitle: "Costache Ioanid"
+author: "Doctor Shrink"
+date: "2026-07-26"
+categories: [poezie, spoken-word, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PJlKmVoc3kY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+poeme inedite<br>
+<br>
+prelucrare după Cesar Frank<br>
+<br>
+O, Tată bun şi sfânt,<br>
+<br>
+o, Tată milostiv,<br>
+<br>
+spre tronul Tău a noastră ruga înălţăm!...<br>
+<br>
+Tot mai curaţi să fim, mai sfinţi să Te slujim!<br>
+<br>
+Tată, Tată, Faţă Ta umili căutăm.<br>
+<br>
+Tată, Tată, da-ne din harul Tău!<br>
+<br>
+Gând, dor şi inima,<br>
+<br>
+Tu să le-ndrumi mereu!...<br>
+<br>
+Când suntem ispitiţi ne da puterea Ta!<br>
+<br>
+În ceas de mari dureri trimite sfânt balsam,<br>
+<br>
+revarsă astăzi din îndurarea Ta<br>
+<br>
+iar laudă noastră nu va înceta<br>
+<br>
+cât vom trăi, Amin!<br>
+<br>
+AMIN
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Costache Ioanid
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

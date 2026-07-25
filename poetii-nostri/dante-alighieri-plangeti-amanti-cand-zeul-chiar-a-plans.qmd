@@ -1,0 +1,44 @@
+---
+title: "Plângeti amanti, când Zeul chiar a plâns"
+subtitle: "Dante Alighieri"
+author: "Doctor Shrink"
+date: "2026-07-26"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8SIyeZ__oj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Plângeti, amanti, când Zeul chiar a plâns,<br>
+vãzând ce tânguiri îl întâmplarã.<br>
+Amor, aude doamne chemând strâns<br>
+milã, din ochi dând plângerea afarã.<br>
+<br>
+Josnica moarte, într-o sfântã stare<br>
+a aruncat cruda ei stãruintã<br>
+si-a prãpãdit chiar lauda-n fiintã,<br>
+în nobilã femeie cinstitoare.<br>
+<br>
+Laudã-i da Amor în al sãu cânt:<br>
+si l-am vãzut asa-n carne si oase,<br>
+deasupra moartei forme gratioase,<br>
+<br>
+în lacrimi, si la cer priviri ducând<br>
+spre sufletul trãind acolo blând,<br>
+ce doamnã-a fost si chip voios purtase.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Dante Alighieri
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

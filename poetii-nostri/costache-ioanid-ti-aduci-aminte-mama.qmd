@@ -1,0 +1,126 @@
+---
+title: "Ți-aduci aminte, mamă"
+subtitle: "Costache Ioanid"
+author: "Doctor Shrink"
+date: "2026-07-26"
+categories: [poezie, spoken-word, mama]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZbuRN_esA9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ți-aduci aminte, mamă,<br>
+<br>
+de vremea fericită,<br>
+<br>
+când mă țineai pe brațe<br>
+<br>
+că păru-mi sărutai ?<br>
+<br>
+Când nu aveam în lume<br>
+<br>
+ființă mai iubită,<br>
+<br>
+nici ochi mai plini de farmec,<br>
+<br>
+și nici mai dulce grai ...<br>
+<br>
+Ți-aduci aminte mamă,<br>
+<br>
+când păru-mi sărutai ?<br>
+<br>
+Ți-aduci aminte, mamă,<br>
+<br>
+cum te țineam cuprinsă,<br>
+<br>
+să spui cu mine seara<br>
+<br>
+duioase rugăciuni ?<br>
+<br>
+Și cum în nopți de veghe,<br>
+<br>
+sub candela aprinsă,<br>
+<br>
+lăsai să-ți cadă lacrimi<br>
+<br>
+pe-o carte din străbuni ?<br>
+<br>
+Ți-aduci aminte mamă,<br>
+<br>
+ce sfinte rugăciuni ?<br>
+<br>
+De-atunci trecură anii<br>
+<br>
+ca frunza scuturată<br>
+<br>
+și-au troienit să-mi stingă<br>
+<br>
+credința de copil.<br>
+<br>
+Dar într-o zi de taină<br>
+<br>
+scânteia de-altădată<br>
+<br>
+s-a prefăcut în soare<br>
+<br>
+și-n albe flori de-april ...<br>
+<br>
+urcând pe-o nouă treaptă<br>
+<br>
+credința de copil.<br>
+<br>
+Dar ochii tăi par astăzi<br>
+<br>
+acoperiți de ceață<br>
+<br>
+și mă privesc cu teamă<br>
+<br>
+ca niște ochi străini.<br>
+<br>
+Și caut ochii mamei<br>
+<br>
+să-i văd din nou în față,<br>
+<br>
+cum mă priveau odată<br>
+<br>
+de duioșie plini.<br>
+<br>
+Dar ochii tăi par astăzi,<br>
+<br>
+ca niște ochi străini.<br>
+<br>
+O, vino iarăși, mamă,<br>
+<br>
+de brațul meu cuprinsă,<br>
+<br>
+să-ngenunchem alături<br>
+<br>
+ca-n vremea ce s-a dus !<br>
+<br>
+Și vom simți în suflet<br>
+<br>
+o candelă aprinsă<br>
+<br>
+ce ne va duce-odată<br>
+<br>
+în țara lui Isus !<br>
+<br>
+O, vino, astăzi, mamă,<br>
+<br>
+cu mine la Isus !
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Costache Ioanid
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
