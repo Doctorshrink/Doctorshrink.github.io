@@ -1,0 +1,166 @@
+---
+title: "Timpul"
+subtitle: "Dimitrie Bolintineanu"
+author: "Doctor Shrink"
+date: "2026-07-27"
+categories: [poezie, spoken-word, timp]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NCS1J3J0ebg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pe malul cel verde ce râul stropeşte,<br>
+<br>
+Un om după cale puţin s-odihneşte,<br>
+<br>
+Visând fericit!<br>
+<br>
+Iar razele zilei cu umbrele serii<br>
+<br>
+Sub ochii-i se luptă în sânul tăcerii<br>
+<br>
+Pe val adormit.<br>
+<br>
+Pe măgură luna se-nalţă-atunci plină<br>
+<br>
+Şi varsă pe fluviu un val de lumină,<br>
+<br>
+Un brâu lucitor;<br>
+<br>
+Eterul albastru cu stele aurite<br>
+<br>
+Se scaldă prin valuri uşor încreţite<br>
+<br>
+De vântul uşor.<br>
+<br>
+Pe fluviul luciu o barcă s-arată<br>
+<br>
+Cu pup-aurită, cu flori cununată,<br>
+<br>
+Cu văl de satin,<br>
+<br>
+Cu june fecioare ca visuri frumoase<br>
+<br>
+Ce-n viaţa fugindă se-nclin amoroase<br>
+<br>
+P-al nostru trist sân;<br>
+<br>
+Un om cu cosiţe şi gene albite,<br>
+<br>
+Cu braţe secate, cu feţe pălite,<br>
+<br>
+Cu coasa de fier,<br>
+<br>
+Apare în barca cu dalbe fecioare<br>
+<br>
+E timpul; iar ele sunt blândele oare<br>
+<br>
+Ce vin şi iar pier.<br>
+<br>
+Şi barca se duce prin valuri purtată;<br>
+<br>
+Iar grupa de fete de visuri se-mbată,<br>
+<br>
+De viaţă se-ncânt;<br>
+<br>
+Cosiţa lor saltă sub aurea dulce<br>
+<br>
+Şi flacăra lunii pe brâul lor luce,<br>
+<br>
+Şi iată cum cânt:<br>
+<br>
+„Vin&#x27; cu noi, străine june,<br>
+<br>
+Să te-mbeţi de răsfăţări,<br>
+<br>
+Vin&#x27; pe tinere cunune<br>
+<br>
+De adună desfătări!<br>
+<br>
+Vin&#x27; cu roze de-mpleteşte<br>
+<br>
+Anii tăi ce fugători,<br>
+<br>
+Pân&#x27; ce timpul nu coseşte<br>
+<br>
+Ale vieţii tale flori!<br>
+<br>
+Să n-amâi plăcerea dulce!<br>
+<br>
+Timpul este-amăgitor<br>
+<br>
+Ce răpeşte nu mai duce<br>
+<br>
+Fragedului muritor.<br>
+<br>
+Astăzi toate pentru tine<br>
+<br>
+Jos în lume strălucesc,<br>
+<br>
+Şi plăcerile divine<br>
+<br>
+Cu-a ta viaţă se-mpletesc.<br>
+<br>
+Mâine se vor stinge toate<br>
+<br>
+Ca parfumul serii-n vânt,<br>
+<br>
+Al tău suflet mâine poate<br>
+<br>
+S-o preface în mormânt.<br>
+<br>
+Timpul trece, vin&#x27; mai tare!<br>
+<br>
+Toate câte-n viaţă plac<br>
+<br>
+Trec cum trece-o sărutare;<br>
+<br>
+Toate lacrime se fac.<br>
+<br>
+Vin-acum la fericire!<br>
+<br>
+Mâine fi-va prea târziu,<br>
+<br>
+Vino până ai simţire,<br>
+<br>
+Până sufletul ţi-e viu!&quot;<br>
+<br>
+Spre barca ce fuge pe fluviu la vale<br>
+<br>
+Străinul îndreaptă cătările sale,<br>
+<br>
+Ce râură dor;<br>
+<br>
+Întinde-a sa mână şi sufletu-i bate,<br>
+<br>
+Răpit de dorinţe ce viu îl străbate<br>
+<br>
+De vise d-amor;<br>
+<br>
+Dar vasul se duce şi-n umbră dispare.<br>
+<br>
+Se stinge cu-ncetul cereasca cântare<br>
+<br>
+Pe râul tăcut.<br>
+<br>
+În darn călătorul s-o urme se-ncearcă<br>
+<br>
+Şi râuri de lacrimi ai săi ochi îneacă,<br>
+<br>
+Căci timpu-a trecut.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Dimitrie Bolintineanu
+* **Temă:** timp
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

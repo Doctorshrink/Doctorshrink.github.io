@@ -1,0 +1,58 @@
+---
+title: "Plângerile poetului român"
+subtitle: "Dimitrie Bolintineanu"
+author: "Doctor Shrink"
+date: "2026-07-27"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TgLnlXcJng4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+— „O, pentru ce, poete, în cânturile tale<br>
+<br>
+Tu plângi această ţară în care te-ai format?<br>
+<br>
+Şi florilor ce creşte în astă verde vale<br>
+<br>
+Le spui cu ochii-n lacrimi că iarna-a-naintat?<br>
+<br>
+Dar ce lipseşte oare acestor ţări frumoase?<br>
+<br>
+Nu vezi locuitorii cât sunt de mulţumiţi?<br>
+<br>
+Că nimeni nu se plânge de zile dureroase<br>
+<br>
+Ş-aceasta dovedeşte că ei sunt fericiţi.<br>
+<br>
+Când plângi această ţară tu eşti în amăgire;<br>
+<br>
+Legi, arte, instituţii în sânu-i înfloresc;<br>
+<br>
+Tot ce chezăşuieşte o dulce fericire,<br>
+<br>
+O dulce-ndestulare, nimica nu lipsesc.<br>
+<br>
+— Nimica nu lipseşte din câte zici tu mie,<br>
+<br>
+Aici pământul nostru e binecuvântat,<br>
+<br>
+El varsă râuri d-aur; dar îţi voi spune ţie:<br>
+<br>
+Lipseşte libertatea, şi tot e întristat.&quot;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Dimitrie Bolintineanu
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

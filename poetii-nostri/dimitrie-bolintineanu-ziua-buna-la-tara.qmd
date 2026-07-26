@@ -1,0 +1,101 @@
+---
+title: "Ziua bună la ţară"
+subtitle: "Dimitrie Bolintineanu"
+author: "Doctor Shrink"
+date: "2026-07-27"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PFCF0HpodBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ţară dulce şi frumoasă,<br>
+Tu, ce-ai fost gloria mea,<br>
+Eu mă duc, fii sănătoasă!<br>
+Nu ştiu de te-oi revedea.<br>
+<br>
+Dar ce-mi pasă oare mie<br>
+Dacă pe pământ străin,<br>
+Dacă în călătorie<br>
+Moartea îmi va zice: vin’!<br>
+<br>
+Vai! în sânu-ţi dulce, oare<br>
+Sunt eu mai puţin străin<br>
+Când pe toată ziua moare<br>
+Visul sufletului lin?<br>
+<br>
+Iară se ridică norul.<br>
+Vasul tău nu este-n port,<br>
+Vânturi rele ca şi dorul<br>
+Către negre stânci te port.<br>
+<br>
+Mâine va veni străinul<br>
+Să te prade, ţara mea!<br>
+Mâine îţi vor smulge sânul,<br>
+Mâine te-or îngenuchea.<br>
+<br>
+Şi tu n-ai nici mângâierea<br>
+Apărându-te, să mori.<br>
+Ei ţi-au degradat durerea!<br>
+Şi mormântu-ţi n-are flori!<br>
+<br>
+Ţi-au făcut cununi de spine<br>
+Ca iudeii lui Isus,<br>
+Şi râzând amar de tine,<br>
+&quot;Ai unirea!&quot; ei ţi-au spus!<br>
+<br>
+Dar ei ţi-au luat din mână<br>
+Armele ce ai avut.<br>
+Dragă patrie română,<br>
+Ce rău oare le-ai făcut?<br>
+<br>
+La străini te-or da-n prădare,<br>
+Vai! şi pe cămaşa ta<br>
+Fiii vitregi cu turbare<br>
+Sorţii lor vor arunca.<br>
+<br>
+Te-au lăsat în slăbiciune,<br>
+Fără legi, să putrezeşti<br>
+Şi prin dulce moliciune<br>
+Te-au lăsat să te slăbeşti!<br>
+<br>
+Când chiar fiii-ţi te ucide,<br>
+Ce blestemi pe cel străin?<br>
+Ţara mea se sinucide!<br>
+Moartea este-n al ei sân!<br>
+<br>
+Fiii tăi nu vor dreptatea,<br>
+S-a văzut atâţia ani!<br>
+Ei invoacă libertatea<br>
+Ca să fie ei tirani!<br>
+<br>
+Către-acestea, dragă ţară,<br>
+Tu poţi încă a trăi,<br>
+Numai cei ce te-ncărcară,<br>
+Numai ei vor veştezi.<br>
+<br>
+Astfel toamna când soseşte<br>
+Frunzele în pomi pălesc,<br>
+Vântul aspru le răpeşte,<br>
+Putrede se risipesc.<br>
+<br>
+Dar când primăvara vine<br>
+Pomul a reînverzit,<br>
+Paseri cu cântări sublime<br>
+Nouă viaţă i-a vestit.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Dimitrie Bolintineanu
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

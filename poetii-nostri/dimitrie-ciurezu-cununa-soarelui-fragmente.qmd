@@ -1,0 +1,230 @@
+---
+title: "Cununa soarelui (fragmente)"
+subtitle: "Dimitrie Ciurezu"
+author: "Doctor Shrink"
+date: "2026-07-27"
+categories: [poezie, spoken-word, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ErmEsCTczf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+VI<br>
+<br>
+S-a deschis în cer o poartă peste lume<br>
+<br>
+Și-un cocor de foc și aur a zburat;<br>
+<br>
+Avea aripi mari de flăcări cât pădurea<br>
+<br>
+Și-un cioc negru, cât o turlă pe-nserat.<br>
+<br>
+Și-a-nceut atunci cu ciocul să sfâșie<br>
+<br>
+Toată zarea năclăită și greoaie<br>
+<br>
+Că-au țâșnit puhoaie limpezi de lumină<br>
+<br>
+Și tot cerul s-a făcut o vâlvătaie.<br>
+<br>
+S-a lăsat apoi pe-o dungă-n roate mari,<br>
+<br>
+Tot mai lin și tot mai larg, către pământ;<br>
+<br>
+Gâlgâia de aur câmpul și pădurea,<br>
+<br>
+Și fugeau vâlvoi, pe drumuri, clăi de vânt.<br>
+<br>
+Apoi, iar s-a-ntins cu ciocul către cer<br>
+<br>
+Și-a zvâcnit ca o săgeată drept în sus;<br>
+<br>
+Când a fost să piară iarăși prin spărtură,<br>
+<br>
+A căzut trăsnit de-un fulger, în apus...<br>
+<br>
+XXII<br>
+<br>
+Și-a-nceput să cânte iarba și pământul;<br>
+<br>
+Crengile din luncă, grele, se-ndoiau;<br>
+<br>
+Turturelele prin cuiburi gemânate<br>
+<br>
+Gușe albe de mărgele-și alintau.<br>
+<br>
+Goangele urzeau pe liniști borangic<br>
+<br>
+Și-ntindeau peste miresme căi de bură;<br>
+<br>
+Doi porumbi căzuți din soare în bunget.<br>
+<br>
+Gurluiau topiți de visuri, gură-n gură.<br>
+<br>
+Și-au venit de prin desișuri la izvoare<br>
+<br>
+Ciute tinere cu trupuri de afine;<br>
+<br>
+Au ieșit din scorburi negre nevăstuici<br>
+<br>
+Și-a venit cu mierea-n gușă roi de-albine.<br>
+<br>
+Toate parcă vreau să vadă și să știe<br>
+<br>
+Ce se-ntâmplă acolo-n poală de pădure,<br>
+<br>
+Unde-a prins să cânte-n ramuri tot pământul<br>
+<br>
+Și să-ntindă peste liniști rugi de mure.<br>
+<br>
+XXIV<br>
+<br>
+Ajungând cu turma-n goană la pârâu,<br>
+<br>
+Smulse straiele de flăcări de pe ea<br>
+<br>
+Și zbucnită ca o știmă de lumină<br>
+<br>
+Se-aruncă în apa-adâncă ce rotea.<br>
+<br>
+A pornit așa înot în susul apei,<br>
+<br>
+Ca o mreană de argint ce se răsfață;<br>
+<br>
+Înota să-și ostenească trupu-ncins<br>
+<br>
+Și s-o bată valul rece drept în față.<br>
+<br>
+Se-ndoia sub unda creață și sticloasă,<br>
+<br>
+Printre sorburi de lumină și răcoare;<br>
+<br>
+Când pierea ca o zvârlugă în adâncuri,<br>
+<br>
+Când țâșnea pe sforul apei drept în soare.<br>
+<br>
+Și-a-notat așa într-una-n apa-adâncă<br>
+<br>
+Până i-a trecut prin coapse frig de sară<br>
+<br>
+Și-a simțit cum de pe maluri, ca o vidră,<br>
+<br>
+Umbra luncii se târăște și coboară.<br>
+<br>
+XXV<br>
+<br>
+Și pornind cu turma-n grabă către sat,<br>
+<br>
+Prin amurgul strâns în ochiuri și hârtoape,<br>
+<br>
+Mai simțea în trupu-i proaspăt cum se zbat<br>
+<br>
+Vâltori mari și repezișuri reci de ape.<br>
+<br>
+Mirosea a iarbă udă și-a pământ,<br>
+<br>
+Curpeni tineri, rupți de pietre și șuvoaie;<br>
+<br>
+Mai simțea cum chinga apei o cuprinde<br>
+<br>
+Și grumazul lin pe armuri și-l îndoaie.<br>
+<br>
+Între umeri simțea valul cum se sparge,<br>
+<br>
+Jocul lui cum se desface pe șerteață,<br>
+<br>
+Cum o gâdilă pe coaste și pe șolduri,<br>
+<br>
+Și cum șerpuie pe pulpe-n glumă creață.<br>
+<br>
+Parcă-ar fi zdrobit cu trupul foi de brustur<br>
+<br>
+Și vârfări de ismă verde și lăstar<br>
+<br>
+Că simțea în mersu-i sprinten cum se-nalță<br>
+<br>
+Când miros de undă dulce, când amar.<br>
+<br>
+XXVII<br>
+<br>
+Și-a găsit-o dimineața-n câmp la măguri,<br>
+<br>
+Numai pulbere de stele, numai rouă;<br>
+<br>
+Avea ochii grei de gânduri și-ntuneric,<br>
+<br>
+Și pe pleoape boabe mari de lună nouă...<br>
+<br>
+A suit din vaduri limpezi răsăritul,<br>
+<br>
+Mai aprins ca niciodată peste zări;<br>
+<br>
+Spulbera năslap lumina peste dealuri<br>
+<br>
+Și gonea potop de fluturi pe cărări.<br>
+<br>
+Ciocârliile trezite se-nălțau<br>
+<br>
+Legând cerul cu pământu-n lugeri vii,<br>
+<br>
+Iar pădurile de neguri scuturate<br>
+<br>
+Întindeau polăți de zale peste Jii.<br>
+<br>
+Și-a simțit Măria-n suflet izvor nou,<br>
+<br>
+Ca o vână gâlgâindă de sub munte;<br>
+<br>
+A simțit că-i râde viața până-n creștet,<br>
+<br>
+Și prin glezne presuri albe-ncep să cânte.<br>
+<br>
+LVI<br>
+<br>
+Singură pădurea-n dealuri stă de pază,<br>
+<br>
+Cu podoaba de lumină la picioare;<br>
+<br>
+Când se zbate vântu-n ramuri, parcă simte<br>
+<br>
+Rădăcini de ploaie caldă și de soare.<br>
+<br>
+În obraji o bate spicul și-o pătrunde,<br>
+<br>
+Și vâltori de frunze moarte o colindă;<br>
+<br>
+Dar ce-i pasă, când puterea ei de viață,<br>
+<br>
+Ca și flacăra din cremeni, stă-ntr-o ghindă!<br>
+<br>
+Ce-i o vară de avere pentru ea?<br>
+<br>
+Sau podoaba de lumină și iubire?<br>
+<br>
+Toate sunt un joc de volburi și năluci<br>
+<br>
+Din a vieții nencetată prăvălire.<br>
+<br>
+Tot ce piere este-n viața care vine...<br>
+<br>
+Tot ce râde este-n moartea care crește...<br>
+<br>
+Și cum stă pădurea-n vânturi și visează,<br>
+<br>
+Prinde-un fulg de nea-ntre gene... și zâmbește...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Dimitrie Ciurezu
+* **Temă:** soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

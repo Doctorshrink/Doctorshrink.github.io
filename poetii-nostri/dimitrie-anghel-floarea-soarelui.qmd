@@ -1,0 +1,58 @@
+---
+title: "Floarea – Soarelui"
+subtitle: "Dimitrie Anghel"
+author: "Doctor Shrink"
+date: "2026-07-27"
+categories: [poezie, spoken-word, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XM2mnspVkaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dă-n sânge lăurusca pală și cârtița-și face mormântul,<br>
+<br>
+S-adoarmă, cu venirea iernii, sub țărâna din moșunoaie,<br>
+<br>
+O floarea-soarelui uitată se scutură și își despoaie<br>
+<br>
+Podoaba razelor apuse, încetinel, când bate vântul.<br>
+<br>
+Și s-a făcut parcă-ntuneric cu cea mai de pe urmă rază,<br>
+<br>
+Ce s-a desprins lucind în aer, din nimbul palid de lumină!<br>
+<br>
+De-ajuns i-o candelă-ntr-un templu și-i de ajuns într-o grădină<br>
+<br>
+O floare ca să-nveselească un suflet singur ce visează.<br>
+<br>
+Căci vezi, în ea lucea lumina întâi când păsările cântă,<br>
+<br>
+Și iarăși, ca un frate dulce, când da-n apus, mâhnitul soare<br>
+<br>
+Tot ei îi trimetea pe gânduri cea mai din urmă sărutare,<br>
+<br>
+De tremura în umbră preajma ca-n jurul unui cap de sfântă.<br>
+<br>
+De-acum, ca peste-un câmp de moarte, o să răsară jalnici zorii,<br>
+<br>
+Frumos era cuibul de aur și dulce galbena-i văpaie ...<br>
+<br>
+- Ce greu trebui să fie somnul sub țărâna din moșunoaie!<br>
+<br>
+Cuceritoare umbra crește ca-n amurgitul unei glorii ...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Dimitrie Anghel
+* **Temă:** soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

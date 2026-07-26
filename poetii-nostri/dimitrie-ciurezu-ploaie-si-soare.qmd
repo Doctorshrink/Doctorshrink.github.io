@@ -1,0 +1,110 @@
+---
+title: "Ploaie si soare"
+subtitle: "Dimitrie Ciurezu"
+author: "Doctor Shrink"
+date: "2026-07-27"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YCZNzCGLbsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Trei fetite langa sat au jelit si-au ingropat,<br>
+<br>
+pustiul vantului, viermii pamantului;<br>
+<br>
+rugul izvoarelor, arsura ogoarelor<br>
+<br>
+A venit un nour negru peste zari<br>
+<br>
+Si ne-a prins strangand mourul din porumb,<br>
+<br>
+Fierbea cerul in adancuri nori de plumb<br>
+<br>
+Si venea un huiet surd din departari.<br>
+<br>
+Se intalnisera in vartejuri doua<br>
+<br>
+Hale, —<br>
+<br>
+Doi serpi mari porniti de vanturi sa se bata,<br>
+<br>
+Una vrea spre<br>
+<br>
+Cornul<br>
+<br>
+Caprii sa strabata,<br>
+<br>
+Alta in vai adanci de munti sa se pravale<br>
+<br>
+Si s-au rupt deasupra noastra nouri grei<br>
+<br>
+Si valtori de apa mare ne-au cuprins;<br>
+<br>
+Peste camp un strat de neguri s-a intins<br>
+<br>
+Si-a traznit la<br>
+<br>
+Trinca in vale, langa tei.<br>
+<br>
+Am infipt atunci securea in pamant,<br>
+<br>
+Punand norilor de grindina hotar<br>
+<br>
+Si ne-am strans, ca niste pasari langa car,<br>
+<br>
+Asteptand facuti capita pe pamant<br>
+<br>
+II<br>
+<br>
+Trei fetite langa sat au jelit si-au ingropat umbrele norilor, tipatul prigorilor; mugetul boilor, clocotul ploilor<br>
+<br>
+S-a ivit o geana alba, ca un gand<br>
+<br>
+Si-un lastar culcat de ploaie s-a-ndreptat,<br>
+<br>
+Privea cerul peste magura curat<br>
+<br>
+Si crestea in noi viata tremurand.<br>
+<br>
+A pornit din cuib un cantec fara nume<br>
+<br>
+Si din noi acelasi cantec a pornit,<br>
+<br>
+Peste ierburi cantu-n ciucuri a-nflorit,<br>
+<br>
+Iar din larg radea seninul peste lume:<br>
+<br>
+Roi in soare<br>
+<br>
+de margele sunatoare;<br>
+<br>
+Ruga-n vant<br>
+<br>
+din catuie de pamant;<br>
+<br>
+Joc curat<br>
+<br>
+peste lanul leganat<br>
+<br>
+Si-mbatandu-ne de soare, si de vant<br>
+<br>
+Purtand cantul - palc de pasari vestitoare &#x27;L-inaltam, plesnind din aripi catre soare,<br>
+<br>
+Ca o ruga izbucnita din pamant.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Dimitrie Ciurezu
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
