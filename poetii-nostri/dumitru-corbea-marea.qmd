@@ -1,0 +1,62 @@
+---
+title: "Marea"
+subtitle: "Dumitru Corbea"
+author: "Doctor Shrink"
+date: "2026-07-28"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aJTHVwYjpWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Imi place marea cand e-nfuriata,<br>
+<br>
+Cand chiuie si striga desperata,<br>
+<br>
+Cand, obosita, tace  ca o fiara,<br>
+<br>
+Pandind din nou, cum ar putea sa sara,<br>
+<br>
+Privind prin transparentele meduze<br>
+<br>
+La tarmurile in colorate bluze.<br>
+<br>
+Ce inseamna glasul marii pe furtuni,<br>
+<br>
+O stiu pescarusii si micii lastuni,<br>
+<br>
+Care se-nspaimanta si racnesc pe maluri,<br>
+<br>
+Privind cum se-nalta muntele de valuri.<br>
+<br>
+Barcile, pescarii par o jucarie<br>
+<br>
+Pe intinse ape prinse de urgie.<br>
+<br>
+Imi place marea cand e-nfuriata,<br>
+<br>
+Dansand, din tarm in tarm, turbata,<br>
+<br>
+Apoi tacand si ramanand domoala<br>
+<br>
+Cu dare de lumina si de smoala.<br>
+<br>
+Luceferii rasar pe cer puzderii.<br>
+<br>
+Victoriosi se-ntorc corabierii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Dumitru Corbea
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

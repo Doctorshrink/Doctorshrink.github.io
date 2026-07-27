@@ -1,0 +1,100 @@
+---
+title: "Flori de paşte"
+subtitle: "Duiliu Zamfirescu"
+author: "Doctor Shrink"
+date: "2026-07-28"
+categories: [poezie, spoken-word, flori]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p7VsVFs-JxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+La Palermo,<br>
+<br>
+La Palermo, primăvara,<br>
+<br>
+Trandafirii urcă scara.<br>
+<br>
+Liliacul alb roşeşte<br>
+<br>
+Când sărută<br>
+<br>
+Dintr-o cută<br>
+<br>
+Sânul ce-l adăposteşte.<br>
+<br>
+Prin grădini a pus o fee<br>
+<br>
+Gardurile-n azalee,<br>
+<br>
+Casele învolburate<br>
+<br>
+În ciorchine<br>
+<br>
+De glicine<br>
+<br>
+Pe balcoane aninate.<br>
+<br>
+Dimineaţa ideală<br>
+<br>
+Râde-n floarea de migdală,<br>
+<br>
+Tinereţea stă în cale,<br>
+<br>
+Întrupată<br>
+<br>
+Într-o fată<br>
+<br>
+Cu un coş de portocale.<br>
+<br>
+Vin, Bălcescule, din somnul<br>
+<br>
+Adormiţilor în Domnul,<br>
+<br>
+Să vezi firea cum renaşte:<br>
+<br>
+Totul cere<br>
+<br>
+Mângâiere<br>
+<br>
+Pentru florile de Paşte.<br>
+<br>
+Unde eşti, în care floare<br>
+<br>
+Clipa ta nemuritoare<br>
+<br>
+Şi-a luat fiinţă nouă?<br>
+<br>
+Care plantă<br>
+<br>
+Elegantă<br>
+<br>
+Poartă sufletu-ţi în rouă?<br>
+<br>
+Căutând urmele tale,<br>
+<br>
+M-am oprit la Monreale.<br>
+<br>
+De sub vechile morminte<br>
+<br>
+Se ridică<br>
+<br>
+Plin de frică<br>
+<br>
+Crinul, floarea cea cuminte.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Duiliu Zamfirescu
+* **Temă:** flori
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,66 @@
+---
+title: "Vara"
+subtitle: "Duiliu Zamfirescu"
+author: "Doctor Shrink"
+date: "2026-07-28"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ig8f6ievy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cu firea ei cea arzătoare<br>
+<br>
+Sosit-a vara înapoi.<br>
+<br>
+Toţi pomii sunt în sărbătoare,<br>
+<br>
+În tei stă floare lângă floare...<br>
+<br>
+E dulce vara pe la noi!<br>
+<br>
+Când dimineaţa se iveşte<br>
+<br>
+Din al văzduhurilor fund,<br>
+<br>
+Tot câmpul parcă-ntinereşte<br>
+<br>
+Iar, deşteptată de pe prund,<br>
+<br>
+Cireada satului porneşte...<br>
+<br>
+În urma ei un roi de grauri,<br>
+<br>
+Ca niste valuri cenuşii,<br>
+<br>
+S-amestecă prin bălării,<br>
+<br>
+S-aşază-n coarne pe la tauri,<br>
+<br>
+Fac fel de fel de nebunii.<br>
+<br>
+Până ce-n zarea departată<br>
+<br>
+Spre lacul trist se pun pe drum.<br>
+<br>
+Şi cum se duc, - acum ş-acum<br>
+<br>
+Se mai zăresc încă o dată,<br>
+<br>
+Ca rămăşiţa unui fum.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Duiliu Zamfirescu
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

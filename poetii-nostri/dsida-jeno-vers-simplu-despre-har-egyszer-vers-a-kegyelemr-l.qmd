@@ -1,0 +1,88 @@
+---
+title: "Vers simplu despre har - (Egyszerű vers a kegyelemről)"
+subtitle: "Dsida Jenő"
+author: "Doctor Shrink"
+date: "2026-07-28"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hrDG3guEIw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Încercam minuni:<br>
+<br>
+cu aur, cu argint<br>
+<br>
+am invitat un grup,<br>
+<br>
+să vină la mine!<br>
+<br>
+Inutil, inutil,<br>
+<br>
+aurul n-au vrut,<br>
+<br>
+argintul n-au vrut,<br>
+<br>
+n-au fost la mine.<br>
+<br>
+Zilnic am spus zece<br>
+<br>
+predici de munte,<br>
+<br>
+minunate vorbe,<br>
+<br>
+feerice vorbe,<br>
+<br>
+inutil, inutil:<br>
+<br>
+n-a auzit unul,<br>
+<br>
+nu a simțit unul<br>
+<br>
+predica de munte.<br>
+<br>
+Așa am vrut focul<br>
+<br>
+să-l fac în pădure:<br>
+<br>
+frig să nu le fie,<br>
+<br>
+la vătui, ied, -<br>
+<br>
+inutil, inutil!<br>
+<br>
+Și amorsa s-a stins,<br>
+<br>
+nu s-a aprins focul<br>
+<br>
+măcar, în pădure.<br>
+<br>
+…Și brusc de la sine<br>
+<br>
+se strâng oameni,<br>
+<br>
+de cuvinte simple<br>
+<br>
+începând să plângă,<br>
+<br>
+fără să mă uit<br>
+<br>
+se aprinde focul, -<br>
+<br>
+în spate cu Domnul.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Dsida Jenő
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

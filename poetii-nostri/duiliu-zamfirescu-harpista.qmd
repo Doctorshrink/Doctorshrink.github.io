@@ -1,0 +1,242 @@
+---
+title: "Harpista"
+subtitle: "Duiliu Zamfirescu"
+author: "Doctor Shrink"
+date: "2026-07-28"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2BN6SURZMXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Orgia se sfârşise... ieşeau grupe glumeţe<br>
+<br>
+De capete aprinse, de ostenite feţe,<br>
+<br>
+Mergând să se întinză sub cerul cel senin,<br>
+<br>
+Beţi unii de câştiguri, iar alţii beţi de vin.<br>
+<br>
+În umeda tavernă abia mai rămăsese<br>
+<br>
+Câţiva beţivi de fructe ce dormitau pe mese,<br>
+<br>
+Trei lampe fumegânde, trei calfe de cizmari<br>
+<br>
+Şi Paola harpista cu ochii săi cei mari.<br>
+<br>
+Cum, Paola, sărmano, vii tu din Miramare<br>
+<br>
+Unde-ai cântat în duo cu întristata mare<br>
+<br>
+Suspinul unui val,<br>
+<br>
+Vii astăzi să-ţi duci harpa prin orişice tavernă,<br>
+<br>
+Îţi pleci frumoasa-ţi frunte pe orişicare pernă,<br>
+<br>
+La orişicare bal?...<br>
+<br>
+Din lampa fumegândă scăpând o lungă rază<br>
+<br>
+Pe bucle catalane uşor se-mprăştiază...;<br>
+<br>
+Din harpa încântată zburând accente vii<br>
+<br>
+Spun razei tot misterul cerestei armonii...;<br>
+<br>
+Din ochii ei, mari lacrămi, din suflet, trist suspin<br>
+<br>
+Spun notelor murinde omorantoru-i chin.<br>
+<br>
+Ş-atuncea... tot mai tare la sân harpa şi-o strânge<br>
+<br>
+Şi plâng coardele mute şi însuşi glasu-i plânge:<br>
+<br>
+“Spre tine, ah! Spre tine, ţărm vecinic înverzit,<br>
+<br>
+E dusă-a mea gândire de-un dor nemărginit...<br>
+<br>
+La tine, golf poetic, cu apele senine,<br>
+<br>
+Speranţa mea visează... la tine, tot la tine!<br>
+<br>
+Adio, cer albastru, ca sufletul senin,<br>
+<br>
+Adio, vânt de mare, ca cugetul de lin,<br>
+<br>
+Alerg mereu prin lume, dar gându’ mi-e ‘napoi...<br>
+<br>
+Cu voi e fericirea, cu voi..., numai cu voi...”<br>
+<br>
+Şi glasul ei se stinge încet... încetinel.<br>
+<br>
+Rembrandt, dacă vreodată celebrul tău penel<br>
+<br>
+Ar fi voit să puie, în umbra delicată,<br>
+<br>
+Doi ochi plutind albaştri în lacrima-nfocată;<br>
+<br>
+Orpheu, dacă pe tine, zmintitul tău amor,<br>
+<br>
+Te-ar fi făcut să cauţi un lung cântec de dor...;<br>
+<br>
+Orpheu, îţi găseai dorul cântat într-o tavernă<br>
+<br>
+Şi tu, Rembrandt, modelul plângând pe-o neagră pernă.<br>
+<br>
+Cântă... De la masă o calfă de cizmar<br>
+<br>
+Sculându-se, la dânsa veni cu un pahar:<br>
+<br>
+- Destul, de două ceasuri ne duci într-un suspin.<br>
+<br>
+Mai bine bea... Îneacă-ţi suspinul tău în vin.<br>
+<br>
+În vin! Ce fericire!... Bea Paola şi cântă!<br>
+<br>
+Ce stai cu ochii-n lacrimi, spăşită ca o sfântă?<br>
+<br>
+Sărută-mă mai bine, îţi dau doi gologani...<br>
+<br>
+- Doi bani pe-o sărutare!... Doi bani! Pentru doi bani?<br>
+<br>
+Şi-n faţa mamei sale va mai veni ea mâine?<br>
+<br>
+Doi bani!... O şoaptă-i spune: doi bani azi sunt o pâine.<br>
+<br>
+Primeşte!<br>
+<br>
+Trist atuncea ea capul şi-l întinde<br>
+<br>
+Iar el, cizmarul vesel, în braţe-o şi coprinde.<br>
+<br>
+Cum, Paola, sărmano, vii tu din Miramare<br>
+<br>
+Unde-ai cântat în duo cu întristata mare<br>
+<br>
+Suspinul unui val,<br>
+<br>
+Vii astăzi să-ţi duci harpa prin orişice tavernă,<br>
+<br>
+Îţi pleci frumoasa frunte pe orişicare pernă<br>
+<br>
+La orişicare bal?<br>
+<br>
+O... da, căci sunt pe lume mizerii omeneşti<br>
+<br>
+Ascunse, fără milă, în piepturi femeieşti.<br>
+<br>
+Sunt suflete pe care mizeria le pierde<br>
+<br>
+Cum pierde vântul toamnei un dafin încă verde.<br>
+<br>
+O lacrimă e-o lume de tainice dureri<br>
+<br>
+Ce sunt şi-n corp şi-n suflet şi nu sunt nicăieri;<br>
+<br>
+Un zâmbet printre lacrămi e raza cea din soare<br>
+<br>
+Ce vesel se răsfrânge pe-un lung câmp de ninsoare.<br>
+<br>
+Şi când gândesc că-n lume sunt suflete menite<br>
+<br>
+În veci de blânda rază a nu fi încălzite,<br>
+<br>
+Când văd că sunt fiinţe ce port pe frunte scris<br>
+<br>
+Eternă suferinţă şi-n trai, şi-n somn, şi-n vis,<br>
+<br>
+Mă-ntreb de nu-i mai bine a-şi duce fiecare<br>
+<br>
+Adânca sa durere pe şesuri sau pe mare<br>
+<br>
+Spre groapă sau spre bal?<br>
+<br>
+De nu e drept să moară talente prin taverne<br>
+<br>
+Şi ochii mari să plângă, pierduţi pe negre perne,<br>
+<br>
+În nopţi de carnaval...?<br>
+<br>
+Cu ochii stinşi de viţiu, cu sufletul de rele,<br>
+<br>
+Cu gându-n cercetare cătând cum să se-nşele,<br>
+<br>
+Îşi dau sudoarea frunţii pe cărţile murdare<br>
+<br>
+Ş-apoi câştigătorul o dă pe-o sărutare.<br>
+<br>
+Călin, iubit de soartă şi iubitor de vin,<br>
+<br>
+Venise lângă dânsa să vadă-un alt Călin<br>
+<br>
+Ce-n ochii ei cu lacrămi, uşor se oglindea...;<br>
+<br>
+Ş-atuncea îi vrea ochii; el ochii ei îi vrea!<br>
+<br>
+- Ascultă-mă, fetiţo, stai, cântă-ncetinel:<br>
+<br>
+Ai ochi limpezi ca vinul şi-mbătător ca el.<br>
+<br>
+Vin vechi, asta se ştie... - Dă-mi ochii să-i sărut;<br>
+<br>
+Îţi dau trei bani... Sau cere cât vrei. – Cât ai cerut?<br>
+<br>
+Ea tace. Gându-o duce, în repedele-i zbor,<br>
+<br>
+Spre casa mamei sale în care vede-un nor.<br>
+<br>
+Din norul de lumină o mână stă întinsă<br>
+<br>
+Poruncitoare, crudă, spre candela cea stinsă.<br>
+<br>
+- Primesc – ea zice iute – primesc trei gologani...<br>
+<br>
+De ce nu pot a-ţi vinde şi zilele-mi pe bani?<br>
+<br>
+...........................................................<br>
+<br>
+Şi când se duce-acasă, cu ziua dimpreună,<br>
+<br>
+De candela madonei atârnă o cunună,<br>
+<br>
+Apoi uşor se pleacă pe-a mamei faţă mută<br>
+<br>
+Şi buclele ei albe cu drag i le sărută.<br>
+<br>
+Bătrâna, cum o simte, de sânul ei o strânge<br>
+<br>
+Şi plânge şi-o sărută şi-o-ntreabă şi iar plânge:<br>
+<br>
+- Cum, Paola, sărmano, vii tu din Miramare<br>
+<br>
+Unde-ai cântat în duo cu întristata mare<br>
+<br>
+Suspinul unui val,<br>
+<br>
+Vii astăzi să-ţi duci harpa prin orişice tavernă,<br>
+<br>
+Îţi pleci frumoasa-ţi frunte pe orişicare pernă,<br>
+<br>
+La orişicare bal?<br>
+<br>
+Iar ea, abia-i răspunde, cu vocea ei cea stinsă:<br>
+<br>
+- Dormi, mamă, dormi în pace, ai candela aprinsă!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Duiliu Zamfirescu
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,42 @@
+---
+title: "Noapte cu lună"
+subtitle: "Du Fu"
+author: "Doctor Shrink"
+date: "2026-07-28"
+categories: [poezie, spoken-word, noapte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GLdUAZXsBsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În noaptea asta la Fu-chou, luna priveşte<br>
+<br>
+Singurătatea din camera noastră. Iar copii mei, prea mici,<br>
+<br>
+Prea cruzi, nu înţeleg ce mă ţine departe,<br>
+<br>
+Nici nu-şi mai amintesc de Chang&#x27;an. Pe vremea asta,<br>
+<br>
+Părul ei va fi deja stropit cu parfum, braţele albe de jad<br>
+<br>
+Vor fi tremurând în lumina clară. Când ne va găsi oare iarăşi<br>
+<br>
+Împreună, cu draperiile larg deschise, pentru ca razele ei<br>
+<br>
+Să pătrundă înăuntru şi să ne usuce lacrimile?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Du Fu
+* **Temă:** noapte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
