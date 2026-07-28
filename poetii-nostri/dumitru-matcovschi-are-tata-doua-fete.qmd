@@ -1,0 +1,82 @@
+---
+title: "Are tata două fete"
+subtitle: "Dumitru Matcovschi"
+author: "Doctor Shrink"
+date: "2026-07-29"
+categories: [poezie, spoken-word, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xVTrvIzfGrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Are tata două fete,<br>
+<br>
+Are tata două zgâtii.<br>
+<br>
+Una face numai șotii,<br>
+<br>
+Alta face și năzbâtii.<br>
+<br>
+Ah, fetele mele, copilele mele!<br>
+<br>
+Sunt două, ah, două, sunt două zorele.<br>
+<br>
+Ah, fetele mele, Ilenele mele!<br>
+<br>
+Sunt două, ah, două lumânărele.<br>
+<br>
+Ah, fetele mele, miresele mele!<br>
+<br>
+Sunt două, ah, două, sunt două bezele.<br>
+<br>
+Ah, fetele mele, fecioarele mele!<br>
+<br>
+Sunt două crăițe cu drăgănele<br>
+<br>
+Și una mi-i dragă,<br>
+<br>
+Și alta mi-i dragă!<br>
+<br>
+Ci numai cu ele<br>
+<br>
+Mi-e viața întreagă.<br>
+<br>
+Cu ochii ca focul,<br>
+<br>
+Cu părul ca inul,<br>
+<br>
+Ci numai cu ele<br>
+<br>
+întreg mi-e destinul.<br>
+<br>
+Râd cu ele, plâng cu ele,<br>
+<br>
+Spun brașoave, spun povești;<br>
+<br>
+Au inele, au cercele,<br>
+<br>
+Au și taine femeiești,<br>
+<br>
+Două iele mititele<br>
+<br>
+Are tata, mărgelușe.<br>
+<br>
+Sunt atât de jucărele,<br>
+<br>
+Sunt atât de jucăușe.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Dumitru Matcovschi
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,74 @@
+---
+title: "Astă vară la Soroca"
+subtitle: "Dumitru Matcovschi"
+author: "Doctor Shrink"
+date: "2026-07-29"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6jRywsrtqf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Astă vară la Soroca,<br>
+<br>
+unde cântecul te-mbată,<br>
+<br>
+o copilă cu ghiocul<br>
+<br>
+m-a vrăjit, ah, prima dată.<br>
+<br>
+Și-am aflat atunci o veste,<br>
+<br>
+una nemaipomenită:<br>
+<br>
+Făt-Frumos cel din poveste<br>
+<br>
+în poveste mă invită.<br>
+<br>
+Astă vară la Soroca,<br>
+<br>
+unde nici un tren nu vine,<br>
+<br>
+un băiat cu ochi ca focul<br>
+<br>
+s-a îndrăgostit de mine.<br>
+<br>
+M-a purtat pe străzi de mână<br>
+<br>
+ca un bade cumsecade,<br>
+<br>
+mi-a cântat o săptămână,<br>
+<br>
+aoleu, ce serenade.<br>
+<br>
+Astă vară la Soroca,<br>
+<br>
+unde plouă stele albe,<br>
+<br>
+eu mi-am încercat norocul<br>
+<br>
+și-am făcut din ele salbe.<br>
+<br>
+Cu mărgele-mpodobită<br>
+<br>
+și cu dor la inimioară,<br>
+<br>
+am fost cea mai fericită<br>
+<br>
+la Soroca astă vară.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Dumitru Matcovschi
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

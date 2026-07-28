@@ -1,0 +1,76 @@
+---
+title: "Cerul tău, Moldovă"
+subtitle: "Dumitru Matcovschi"
+author: "Doctor Shrink"
+date: "2026-07-29"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vR2m3g1SKIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+(fragment)<br>
+<br>
+Cerul tău, Moldovă, e de-albastru,<br>
+<br>
+e de verde frunza ta oricând.<br>
+<br>
+Un pământ mai scump pe lume nu e,<br>
+<br>
+nici mai dulce nu e un pământ.<br>
+<br>
+Casa mea la margine de Țară<br>
+<br>
+crește fir de busuioc în prag.<br>
+<br>
+Nu e nicăieri un plai mai tânăr,<br>
+<br>
+nu e nicăieri un plai mai drag.<br>
+<br>
+Arde-n soare roua dimineții<br>
+<br>
+ca o ploaie grea de mărgărint.<br>
+<br>
+La Moldova orice primăvară<br>
+<br>
+e de rândunică și argint.<br>
+<br>
+Se împlină spicul ca voinicul:<br>
+<br>
+de lumină blândă șoapta lui.<br>
+<br>
+Nu-i o altă glie mai frumoasă,<br>
+<br>
+altă glie mai aleasă nu-i.<br>
+<br>
+Tu eșți partea noastră de iubire,<br>
+<br>
+tu ești dorul nostru cel mai dor;<br>
+<br>
+pleacă cineva de lângă tine,<br>
+<br>
+niciodată nu ți-a fost fecior!<br>
+<br>
+Doina ta, Moldovă, e de leagăn,<br>
+<br>
+hora ta de codru e, de grui.<br>
+<br>
+Nu-i pe lume alt meleag mai pașnic,<br>
+<br>
+alt meleag mai sfânt pe lume nu-i!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Dumitru Matcovschi
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

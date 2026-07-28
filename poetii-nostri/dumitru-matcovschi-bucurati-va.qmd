@@ -1,0 +1,78 @@
+---
+title: "Bucurați-vă"
+subtitle: "Dumitru Matcovschi"
+author: "Doctor Shrink"
+date: "2026-07-29"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2H7S3Oz2PGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Eu mă grăbesc, tu te grăbești, el se grăbește.<br>
+<br>
+Îmbătrânesc, îmbătrânești, îmbătrânește.<br>
+<br>
+Ce am iubit? Ce n-am iubit? Ca în poveste,<br>
+<br>
+simplă de tot,<br>
+<br>
+scurtă de tot,<br>
+<br>
+viața ne este.<br>
+<br>
+Uite-o din nou trece pe drum fata zglobie.<br>
+<br>
+Uite-un băiat, floare și-a pus la pălărie.<br>
+<br>
+Uite un prunc, râde în prag, ai, năzdrăvanul!<br>
+<br>
+Uite-un moșneag, tace-n toiag, alb ca troianul.<br>
+<br>
+Muntele ieri ne-ademenea, astăzi ne doare.<br>
+<br>
+S-a împlinit, nu s-a-mplinit visul cel mare?<br>
+<br>
+Cine sunt eu, cine ești tu, cine e dânsul?<br>
+<br>
+Noi am știut zborul înalt, dorul și plânsul.<br>
+<br>
+Zilele trec, zilele vin. Ce va rămâne?<br>
+<br>
+Suflet de lut, necunoscut, suflet de pâine?<br>
+<br>
+Toamnele cresc, grijile cresc, viața descrește.<br>
+<br>
+Eu mă grăbesc,<br>
+<br>
+tu te grăbești,<br>
+<br>
+el se grăbește.<br>
+<br>
+Bucurați-vă, prieteni, de perieteni și de frați,<br>
+<br>
+Bucurați-vă de-un nume ce vi-i dat ca să-l purtați.<br>
+<br>
+Bucurați-vă de-un cântec,<br>
+<br>
+de-un amurg cu flori de tei,<br>
+<br>
+bucurați-vă o viață<br>
+<br>
+de lumina dragostei
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Dumitru Matcovschi
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

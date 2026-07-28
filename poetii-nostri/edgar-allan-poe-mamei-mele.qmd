@@ -1,0 +1,56 @@
+---
+title: "Mamei mele"
+subtitle: "Edgar Allan Poe"
+author: "Doctor Shrink"
+date: "2026-07-29"
+categories: [poezie, spoken-word, mama]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ar6U4NxbaAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cum simt că prin a stelelor lucire,<br>
+<br>
+Când îngerii cu şoapta lor se cheamă,<br>
+<br>
+Nu pot găsi un termen de iubire<br>
+<br>
+Un altul mai sublim decât de &quot;mamă&quot;,<br>
+<br>
+Al mamei nume numele să-ţi poarte,<br>
+<br>
+Căci mi-ai fost mamă cu mai mult temei,<br>
+<br>
+Şi-n inima-mi te-ai aşezat prin moarte:<br>
+<br>
+Prin libertatea sufletului ei.<br>
+<br>
+Cum mama ce-o pierdui din vremi uitate<br>
+<br>
+Doar mie-mi fuse mamă, biet stingher,<br>
+<br>
+Tu mamă eşti iubitei adorate.<br>
+<br>
+Mai scumpă-mi eşti ca maica mea din cer,<br>
+<br>
+Prin infinita-n care - odată soaţa<br>
+<br>
+Mi-a fost mai dragă-n suflet decât viaţa.<br>
+<br>
+* Bucată dedicată de poet soacrei sale, D-na Clemm, mama Virginiei, soţia lui Poe, moartă foarte tânără, şi în amintirea căreia compune el, sub varii întruchipări, şi poeme pentru iubita moartă. (Nota trad.)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Edgar Allan Poe
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

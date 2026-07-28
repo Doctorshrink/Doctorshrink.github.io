@@ -1,0 +1,82 @@
+---
+title: "Dăruiește, Doamne Sfinte"
+subtitle: "Dumitru Matcovschi"
+author: "Doctor Shrink"
+date: "2026-07-29"
+categories: [poezie, spoken-word, dumnezeu]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R-Aqng9-iAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dăruiește, Doamne Sfinte,<br>
+<br>
+strop de dor Moldovei noastre,<br>
+<br>
+drum de secoli înainte,<br>
+<br>
+cer înalt și zări albastre.<br>
+<br>
+Fă să aibă bună parte<br>
+<br>
+de pâinică și de sare,<br>
+<br>
+și de viață cu nemoarte<br>
+<br>
+dar ca viața trecătoare.<br>
+<br>
+Apără cum știi mai bine<br>
+<br>
+de străinul care-l pierde<br>
+<br>
+graiul ei, din moși ce vine<br>
+<br>
+piatră rară, frunză verde.<br>
+<br>
+Leagănului unde pruncii<br>
+<br>
+gângură cuvântul mamă<br>
+<br>
+fă-i un loc în iarba luncii<br>
+<br>
+sau în codru de aramă.<br>
+<br>
+Coltelui primăvăratic<br>
+<br>
+dă-i tărie și răbdare,<br>
+<br>
+să răsară, singuratic,<br>
+<br>
+de sub piatra mult ce-l doare.<br>
+<br>
+Înfrățește om și ciută,<br>
+<br>
+grier, fluture, furnică:<br>
+<br>
+la nevoie te ajută<br>
+<br>
+cu-o povață, cât de mică.<br>
+<br>
+Dă-ne, Doamne, ai de unde,<br>
+<br>
+clipa e de înviere,<br>
+<br>
+dă-ne-o mare și un munte,<br>
+<br>
+și mai mult nimic nu cerem.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Dumitru Matcovschi
+* **Temă:** dumnezeu
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
