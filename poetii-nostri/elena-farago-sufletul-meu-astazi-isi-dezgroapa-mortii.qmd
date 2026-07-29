@@ -1,0 +1,136 @@
+---
+title: "Sufletul meu astăzi îşi dezgroapă morţii"
+subtitle: "Elena Farago"
+author: "Doctor Shrink"
+date: "2026-07-30"
+categories: [poezie, spoken-word, moarte, suflet]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dMHunSqVknE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Flori de-o zi, de-o clipă<br>
+<br>
+Mi le-adun acuma,<br>
+<br>
+Să le culc cenuşa înfrăţită-n huma<br>
+<br>
+Unei mice şi albe şi tăcute gropi.<br>
+<br>
+Şi nici brazi, nici sălcii, nici salcâmi,<br>
+<br>
+Nici plopi<br>
+<br>
+Nu vor plânge asupră-i...<br>
+<br>
+Făr&#x27; să le mai număr clipele sau anii,<br>
+<br>
+Roşii, albe, albastre flori de lunci sau stranii<br>
+<br>
+Flori crescute-n seră, ori în fund de-abis,<br>
+<br>
+Mi le strâng din racle,<br>
+<br>
+Mi le strâng din cripte,<br>
+<br>
+Mi le scot din veghea crucilor înfipte,<br>
+<br>
+S-amintească vieţii un păcat, un vis...<br>
+<br>
+Sufletul meu astăzi îşi dezgroapă morţii,<br>
+<br>
+Tu, iubire nouă, să nu intri-aici<br>
+<br>
+În grădina morţii<br>
+<br>
+Să nu intri, nici<br>
+<br>
+Să nu simt cum peste ziduri şi zăbrele<br>
+<br>
+Mă pândesc cu pizmă gândurile-ţi negre<br>
+<br>
+De povara unor vane îndoieli...<br>
+<br>
+Sufletul meu astăzi morţilor se-mparte...<br>
+<br>
+Tu, iubire nouă, ţine-te deoparte<br>
+<br>
+Şi fereşte-ţi floarea vie de păcatul<br>
+<br>
+De-a-ntreba ce doruri mi-a ştiut uscatul<br>
+<br>
+Vraf de flori pe care azi le-am dezgropat.<br>
+<br>
+Lasă-mă în tihnă<br>
+<br>
+Să le-aştern un pat<br>
+<br>
+Somnului din care<br>
+<br>
+Nu pot să-ţi umbrească<br>
+<br>
+Cu nimic<br>
+<br>
+Norocul c-am păstrat-o vie<br>
+<br>
+Printre ele floarea ce ţi-am dat-o ţie.<br>
+<br>
+Mândră-n ramu-i verde<br>
+<br>
+Las-o să-ţi zâmbească<br>
+<br>
+Făr&#x27; să-ntrebi de poate cele ce-au murit<br>
+<br>
+Au fost mai voioase<br>
+<br>
+Când le-am dăruit,<br>
+<br>
+Făr&#x27; să-ntrebi nici câte,<br>
+<br>
+Nici ce flori din viaţă<br>
+<br>
+Mi-au murit în albul strai de dimineaţă,<br>
+<br>
+Ori în purpuriul caldelor nămiezi.<br>
+<br>
+Nu, iubire nouă, nu căta să vezi<br>
+<br>
+Dincolo de floarea ce-ţi surâde-n faţă<br>
+<br>
+Mândră şi unică-n ramurile-i verzi.<br>
+<br>
+Dincolo de dânsa nu pătrunde-n ceaţa<br>
+<br>
+Ce-mi ascunde morţii de nu vrei s-o pierzi...<br>
+<br>
+Sufletul meu astăzi îşi dezgroapă morţii, -<br>
+<br>
+Tu, iubire nouă, să nu intri-aici,<br>
+<br>
+În grădina morţii... să nu intri, nici<br>
+<br>
+Să nu-ntrebi de-n strâmta groapă ce le strânge<br>
+<br>
+Vor muţi de-a pururi vechile-mi iubiri...<br>
+<br>
+Şi de-ntors la tine sufletu-mi va plânge,<br>
+<br>
+Mângâie-l sau plânge-l,<br>
+<br>
+Dar să nu te miri...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Elena Farago
+* **Temă:** moarte, suflet
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

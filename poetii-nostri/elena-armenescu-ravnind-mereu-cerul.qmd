@@ -1,0 +1,49 @@
+---
+title: "Râvnind mereu cerul"
+subtitle: "Elena Armenescu"
+author: "Doctor Shrink"
+date: "2026-07-30"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AreAQp3_HHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cobor panta sacră a cerboaicei,<br>
+Spre rostogolirea râului<br>
+Părăsind piscul însingurat<br>
+Lăsându-l pradă trăznetului<br>
+Fulgerului<br>
+Cobor cu gândul întoarcerii<br>
+Jinduind, venind mereu după cer<br>
+Şi crucea păsării vii<br>
+Ce-mi puse pecetea zborului<br>
+La mari înălţimi.<br>
+<br>
+Pe cărarea cerboaicei, în străluciea spectrală a văzduhului<br>
+Vreau să mă întorc<br>
+Depărtându-mi braţele<br>
+Cruce devenind, îmbrăţişare,<br>
+Pregătită de înălţare, de zbor...<br>
+<br>
+Braţele, mâinile, aripile<br>
+Râvnind mereucerul.<br>
+Urc<br>
+În o<br>
+culta chemare
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Elena Armenescu
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

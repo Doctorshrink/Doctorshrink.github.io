@@ -1,0 +1,58 @@
+---
+title: "Cerul în creștere"
+subtitle: "Edward Hirsch"
+author: "Doctor Shrink"
+date: "2026-07-30"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R2SFpRdpTeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Sunt atât de mic atunci când merg pe plajă<br>
+<br>
+noaptea, sub cerul în creștere.<br>
+<br>
+Nisipul umed îmi fuge de sub picioare<br>
+<br>
+iar valurile tună spărgându-se de țărm.<br>
+<br>
+Mă îndepărtez de promenada de scânduri<br>
+<br>
+cu-ale ei șiroaie colorate de oameni<br>
+<br>
+și hoteluri cu lumini pâlpâind.<br>
+<br>
+Vântul suspină pe sute de mile.<br>
+<br>
+Dispar atât de departe-n întuneric<br>
+<br>
+încât am dispărut din peisaj.<br>
+<br>
+Sunt o scoică micuță<br>
+<br>
+adusă tainic la țărm<br>
+<br>
+și purtând sunetul oceanului<br>
+<br>
+ce-i clocotește-n trup.<br>
+<br>
+Sunt atât de mic acum încât nimeni nu mă poate vedea.<br>
+<br>
+Oare cum pot fi plin cu o asemenea iubire imensă?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Edward Hirsch
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

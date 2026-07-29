@@ -1,0 +1,86 @@
+---
+title: "Lumini de amurg"
+subtitle: "Elena Farago"
+author: "Doctor Shrink"
+date: "2026-07-30"
+categories: [poezie, spoken-word, lumina]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b8wPG67Sv0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Lumini de-amurg, maiestre beteli<br>
+<br>
+Ce se ivesc, furis, prin stor,<br>
+<br>
+Si cresc si curg, unite-n pilc luminator,<br>
+<br>
+Sau se-ntretaie,<br>
+<br>
+Si luneca, razlete, prin umbra din odaie,<br>
+<br>
+Pin&#x27; se izbesc in cale de-un lucru lucitor,<br>
+<br>
+Si iar se string si se resf ring,<br>
+<br>
+De pare ca atunci rasar<br>
+<br>
+in pletele-minuni, ce par o scama de curcubeu.<br>
+<br>
+Cum se resfirasi jurul meu<br>
+<br>
+Pe carti, pe zid,<br>
+<br>
+Pe-un vas de flori, pe-o rama<br>
+<br>
+De vechiul argint din care,<br>
+<br>
+Ca retrezit la viata de razele fugare,<br>
+<br>
+Ce l-au impodobit,<br>
+<br>
+Zimbeste-un mort iubit<br>
+<br>
+Si-n ginduri imi recheama<br>
+<br>
+Un drag amurg din vremi.<br>
+<br>
+Fiti binecuvintate<br>
+<br>
+Lumini din tristul astazi<br>
+<br>
+Ori din nemaiuitate<br>
+<br>
+Amurguri dragi din vremi<br>
+<br>
+Fiti binecuvintate,<br>
+<br>
+Lumini de-amurg, ce-n picla durerii<br>
+<br>
+Mi-ati razbit farimi de curcubeie,<br>
+<br>
+Si mi-ati impodobit<br>
+<br>
+De-atitea ori sfioasa, mocnita-nfatisare<br>
+<br>
+A lucrurilor scumpe, pe care o piaza-rea<br>
+<br>
+Si-a apasat cu-ncetul haina imbratisare<br>
+<br>
+Ce-a-ntiparit si-n ele ceva din tinga mea.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Elena Farago
+* **Temă:** lumina
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

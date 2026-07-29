@@ -1,0 +1,76 @@
+---
+title: "Ţara care nu e"
+subtitle: "Edith Sodergran"
+author: "Doctor Shrink"
+date: "2026-07-30"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UAvRm5aTah8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Mi-e dor de ţara care nu e,<br>
+<br>
+tot ce este am ostenit să doresc.<br>
+<br>
+Luna-mi vorbeşte în rune de-argint<br>
+<br>
+despre ţara ce nu-i.<br>
+<br>
+Ţara unde orice dorinţă se-mplineşte ca prin minune,<br>
+<br>
+ţara unde cad orice piedici,<br>
+<br>
+ţara unde ne răcorim sprâncenele noastre rănite<br>
+<br>
+cu rouă lunară.<br>
+<br>
+Viaţa mi-a fost o fierbinte-amăgire.<br>
+<br>
+Dar un lucru tot am găsit, un singur lucru am câştigat:<br>
+<br>
+drumul spre ţara ce nu e.<br>
+<br>
+În ţara ce nu e.<br>
+<br>
+Iubitul îmi umblă cu-o scânteietoare cunună pe frunte.<br>
+<br>
+Cine-i iubitul meu? Noaptea e neagră,<br>
+<br>
+şi stelele tremură să-mi dea un răspuns.<br>
+<br>
+Cine-i iubitul meu? Care-i e numele?<br>
+<br>
+Cerurile-şi urcă bolta lor tot mai sus, tot mai sus,<br>
+<br>
+şi fiul omului e înecat în neguri nesfârşite<br>
+<br>
+şi nu primeşte nici un răspuns.<br>
+<br>
+Doar copilul e o certitudine.<br>
+<br>
+Şi îşi ridică mâinile sale mai sus decât toate cerurile.<br>
+<br>
+De la el îmi vine răspunsul:<br>
+<br>
+sunt singurul pe care-l iubeşti<br>
+<br>
+şi-l vei iubi totdeauna.<br>
+<br>
+Tradurece: Veronica Porumbacu
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Edith Sodergran
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

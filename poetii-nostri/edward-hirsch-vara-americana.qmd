@@ -1,0 +1,74 @@
+---
+title: "Vară americană"
+subtitle: "Edward Hirsch"
+author: "Doctor Shrink"
+date: "2026-07-30"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4UAHqKs6o_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+„Fiecare zi era un ceasornic ce abia se mișca,<br>
+<br>
+un pumn care ne lovea lent înainte și-napoi,<br>
+<br>
+căldura electrică mocnea în aerul purpuriu,<br>
+<br>
+însă fiecare noapte era o falnică minge albă<br>
+<br>
+zburând la mijlocul terenului – «conservă de porumb» și coborând<br>
+<br>
+printre stelele ce străluceau deasupra diamantului.<br>
+<br>
+Fiecare zi erau pereche grea de mănuși din pânză<br>
+<br>
+împingând tomberoane de gunoi într-o gură omnivoră<br>
+<br>
+ce se strecura printre magistrale și alei,<br>
+<br>
+dar fiecare noapte era ca o bâtă<br>
+<br>
+ce prindea viață în mâinile tale, era<br>
+<br>
+prima aruncare bună de un punct.”<br>
+<br>
+În acea vară am învățat să trișez la baza a doua<br>
+<br>
+sărind pe rândul aruncătorilor dreptaci<br>
+<br>
+și apoi țâșnind cu capul înainte spre sacul cu nisip.<br>
+<br>
+Am învățat să folosesc schimbătorul de viteze al mașinii tatălui meu<br>
+<br>
+și să parchez cu prietena mea pe plajă,<br>
+<br>
+cu farurile aruncând lumină, apoi stingându-se încet.<br>
+<br>
+Eram un puști de șaisprezece ani din suburbii,<br>
+<br>
+iar fiecare zi era încă o lecție de muncă,<br>
+<br>
+un curs despre cum să devin invizibil pentru ceilalți,<br>
+<br>
+însă fiecare noapte era un Walt Whitman al vacanțelor,<br>
+<br>
+sunetul limpede al unui fluier la ora 5 după-amiaza,<br>
+<br>
+libertatea de a păși afară, în aer liber.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Edward Hirsch
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
