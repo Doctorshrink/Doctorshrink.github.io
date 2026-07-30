@@ -1,0 +1,146 @@
+---
+title: "Cântecul pentru sezonul ploios"
+subtitle: "Elizabeth Bishop"
+author: "Doctor Shrink"
+date: "2026-07-31"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KiReIJgFqjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ascunsă, oh ascunsă<br>
+<br>
+în ceață mare<br>
+<br>
+casa în care trăim,<br>
+<br>
+sub roca magnetică,<br>
+<br>
+ploaie, curcubeu,<br>
+<br>
+unde sângele-negru<br>
+<br>
+bromeli, licheni,<br>
+<br>
+bufnițele și scamele<br>
+<br>
+din cascade se agață,<br>
+<br>
+familiară, neînzestrată.<br>
+<br>
+Într-o epocă diminuată<br>
+<br>
+de apă<br>
+<br>
+pârâul cântă cu voce tare<br>
+<br>
+de la o cușcă laterală<br>
+<br>
+de ferigă uriașă; vapori<br>
+<br>
+urcă creșterea groasă<br>
+<br>
+fără efort, se întoarce,<br>
+<br>
+ținându-le pe amândouă,<br>
+<br>
+casa și piatra,<br>
+<br>
+într-un nor privat.<br>
+<br>
+Pe timp de noapte, pe acoperiș,<br>
+<br>
+orbește picăturile cu șenile<br>
+<br>
+și maronii obișnuiți<br>
+<br>
+bufnița ne dă dovadă<br>
+<br>
+el poate conta:<br>
+<br>
+de cinci ori - întotdeauna cinci -<br>
+<br>
+el ștampilează și pleacă<br>
+<br>
+după broaștele de grăsime care,<br>
+<br>
+strălucind pentru dragoste,<br>
+<br>
+se montează<br>
+<br>
+Casa, casa deschisă<br>
+<br>
+la roua albă<br>
+<br>
+și răsăritul soarelui alb-lapte<br>
+<br>
+drăguț pentru ochi,<br>
+<br>
+la aderare<br>
+<br>
+de pește de argint, mouse,<br>
+<br>
+șoareci de bibliotecă<br>
+<br>
+mari molii; cu un zid<br>
+<br>
+pentru mucegai<br>
+<br>
+harta necunoscută;<br>
+<br>
+întunecată și pătată<br>
+<br>
+prin atingerea calda<br>
+<br>
+a respirației calde,<br>
+<br>
+maculate, prețuite;<br>
+<br>
+bucura! Pentru mai târziu<br>
+<br>
+era vor diferi.<br>
+<br>
+(O diferență care omoară<br>
+<br>
+sau intimidează, mult<br>
+<br>
+din toate micile noastre umbre<br>
+<br>
+de viață!) Fără apă<br>
+<br>
+marea piatră se va uita<br>
+<br>
+nemagnetizată, goală,<br>
+<br>
+nu mai purtați<br>
+<br>
+curcubeu sau ploaie,<br>
+<br>
+aerul iertător<br>
+<br>
+și ceața cea mare au plecat;<br>
+<br>
+bufnițele vor merge mai departe<br>
+<br>
+și mai multe<br>
+<br>
+cascadele scârțâie<br>
+<br>
+în soare constant.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Elizabeth Bishop
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

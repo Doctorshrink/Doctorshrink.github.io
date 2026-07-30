@@ -1,0 +1,68 @@
+---
+title: "Trecea un om pe drum..."
+subtitle: "Elena Farago"
+author: "Doctor Shrink"
+date: "2026-07-31"
+categories: [poezie, spoken-word, drum]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KCAy0vhb3WY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Trecea un om pe drum aseară,<br>
+<br>
+Trecea cântând încet pe drum,<br>
+<br>
+Ştiu eu? Poate cânta să-i pară<br>
+<br>
+Drumul mai scurt, – ori poate cum<br>
+<br>
+Era aşa frumos aseară,<br>
+<br>
+Poate cânta ca să nu-l doară<br>
+<br>
+Că-i singur numai el pe drum?<br>
+<br>
+Trecea, şi eu eram la poartă<br>
+<br>
+Şi şi-a văzut de drumul lui,<br>
+<br>
+Dar ce mi-o fi venit deodată<br>
+<br>
+De am oftat, n-oi şti să spui.<br>
+<br>
+Şi nu-mi venea să plec din poartă,<br>
+<br>
+Şi parc-un dor de viaţa toată<br>
+<br>
+M-a prins privind pe urma lui...<br>
+<br>
+Aşa ne-o fi la fiecare,<br>
+<br>
+Că stăm în poartă, şi nu ştim<br>
+<br>
+Pe călător măcar de-l doare<br>
+<br>
+Ceva şi de ne pomenim<br>
+<br>
+Oftând, pesemne fiecare<br>
+<br>
+Ne-om fi simţind departe tare<br>
+<br>
+De-un drum pe care-am vrea să fim.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Elena Farago
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

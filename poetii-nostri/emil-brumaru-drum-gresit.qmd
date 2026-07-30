@@ -1,0 +1,46 @@
+---
+title: "Drum greşit"
+subtitle: "Emil Brumaru"
+author: "Doctor Shrink"
+date: "2026-07-31"
+categories: [poezie, spoken-word, drum]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/srNj4ERPMgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Drum greşit, drum greşit,<br>
+<br>
+Pentru ce te-am mai păşit?<br>
+<br>
+Cu talpa te-am pipăit,<br>
+<br>
+Drum ferit, drum peticit.<br>
+<br>
+Sufletul mi-am dus, pripit,<br>
+<br>
+Pe muchea ta de cuţit,<br>
+<br>
+De-aici pân` la infinit,<br>
+<br>
+Drum topit în colb clocit.<br>
+<br>
+Drum greşit, drum greşit,<br>
+<br>
+Pentru ce te-am mai găsit?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Emil Brumaru
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

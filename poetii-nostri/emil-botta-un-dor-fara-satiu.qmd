@@ -1,0 +1,54 @@
+---
+title: "Un dor fără saţiu"
+subtitle: "Emil Botta"
+author: "Doctor Shrink"
+date: "2026-07-31"
+categories: [poezie, spoken-word, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VNyr3jDCgjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+De un dor fără saţiu-s învins<br>
+<br>
+şi nu ştiu ce sete mă arde.<br>
+<br>
+Parcă mereu din adînc,<br>
+<br>
+un ochi răpitor de Himeră<br>
+<br>
+ar vrea să mă prade.<br>
+<br>
+Şi pururi n-am pace,<br>
+<br>
+nici al stelei vrăjit du-te-vino în spaţii,<br>
+<br>
+izvoare sub lună, ori dornică ciută,<br>
+<br>
+nimic nu mă stinge, nimic nu mă alină<br>
+<br>
+şi parcă-aş visa o planetă pierdută.<br>
+<br>
+E atîta nepace în sufletul meu,<br>
+<br>
+bătut de alean şi de umbre cuprins…<br>
+<br>
+Un dor fără saţiu m-a-nvins,<br>
+<br>
+Şi nu ştiu ce sete mă arde mereu.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Emil Botta
+* **Temă:** dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

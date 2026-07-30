@@ -1,0 +1,254 @@
+---
+title: "Cântece pentru un cântăreț colorat"
+subtitle: "Elizabeth Bishop"
+author: "Doctor Shrink"
+date: "2026-07-31"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B164QNTphBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O mașină de curățat se blochează pe linie,<br>
+<br>
+dar nu este a mea.<br>
+<br>
+Nici unul dintre lucrurile pe care le pot vedea<br>
+<br>
+nu-mi aparțin.<br>
+<br>
+Vecinii au primit un radio cu o antenă;<br>
+<br>
+noi avem un portabil mic.<br>
+<br>
+Au mult spațiu pentru dulapuri;<br>
+<br>
+avem o valiză.<br>
+<br>
+Spun, &quot;Le Roy, cât de mult ne datorăm?<br>
+<br>
+Ceva ce nu pot înțelege,<br>
+<br>
+cu atât mai mult avem mai mult ... &quot;<br>
+<br>
+El răspunde doar: &quot;Hai să mergem.&quot;<br>
+<br>
+Le Roy, acum câștigi prea mulți bani.<br>
+<br>
+Stau și mă uit la curtea noastră<br>
+<br>
+și găsesc foarte greu.<br>
+<br>
+Ce avem pentru toți dolarii și cenți?<br>
+<br>
+- O grămadă de sticle de gard.<br>
+<br>
+Este credincios și e bun<br>
+<br>
+dar el are o minte scormonitoare.<br>
+<br>
+A văzut foarte mult; el este obligat să vadă restul,<br>
+<br>
+și dacă protestez<br>
+<br>
+Le Roy răspunde cu o încruntare,<br>
+<br>
+&quot;Dragă, când câștig, cheltuiesc.<br>
+<br>
+Lumea este largă; încă se extinde ....<br>
+<br>
+O să-mi găsesc un loc de muncă în următorul oraș.<br>
+<br>
+Le Roy, acum câștigi prea mulți bani.<br>
+<br>
+II<br>
+<br>
+A sosit timpul să oprim;<br>
+<br>
+și astfel se termină.<br>
+<br>
+A plecat cu ceilalți prieteni.<br>
+<br>
+El nu trebuie să încerce să facă modificări,<br>
+<br>
+această ocazie e vina lui.<br>
+<br>
+Prin ploaie și întuneric îi văd fața<br>
+<br>
+de-a lungul străzii, la Flossie.<br>
+<br>
+Bea în lumina roz caldă<br>
+<br>
+la acompaniamentul picolo-ului.<br>
+<br>
+A sosit timpul să oprim.<br>
+<br>
+L-am întâlnit cu Varella<br>
+<br>
+și l-am lovit de două ori cu umbrela mea.<br>
+<br>
+Poate că această ocazie a fost vina mea,<br>
+<br>
+dar a sosit momentul să oprim.<br>
+<br>
+Du-te să bei vinul și să te micșorești.<br>
+<br>
+Lăsați picolo să se joace.<br>
+<br>
+M-am săturat de tot ce ți-a spus.<br>
+<br>
+Acum îmi urmăresc propria cale.<br>
+<br>
+Plec în autobuz în seara asta.<br>
+<br>
+Departe de autostradă, umed și negru<br>
+<br>
+Mă plimb și plec și nu mă mai întorc.<br>
+<br>
+Mă duc să iau autobuzul<br>
+<br>
+și găsiți pe cineva monogam.<br>
+<br>
+A sosit timpul să oprim.<br>
+<br>
+Am împrumutat 15 de dolari<br>
+<br>
+și mă va duce oriunde.<br>
+<br>
+Pentru această ocazie e vina lui.<br>
+<br>
+A sosit timpul să oprim.<br>
+<br>
+III<br>
+<br>
+Cântec de leagăn.<br>
+<br>
+Adulți și copii<br>
+<br>
+se scufundă la odihnă.<br>
+<br>
+Pe mare, nava mare se scufunda și moare,<br>
+<br>
+plumb în sân.<br>
+<br>
+Cântec de leagăn.<br>
+<br>
+Fie ca națiunile să se rătăcească,<br>
+<br>
+să cadă națiunile.<br>
+<br>
+Umbra patului face o cușcă enormă<br>
+<br>
+pe perete.<br>
+<br>
+Cântec de leagăn.<br>
+<br>
+Dormiți și continuați,<br>
+<br>
+războiul s-a terminat în curând.<br>
+<br>
+Aruncați jucăria prostie, inofensivă,<br>
+<br>
+ridica luna.<br>
+<br>
+Cântec de leagăn.<br>
+<br>
+Dacă ar trebui să spună<br>
+<br>
+nu ai nici un sens,<br>
+<br>
+nu-i minte; nu va face<br>
+<br>
+multă diferență.<br>
+<br>
+Cântec de leagăn.<br>
+<br>
+Adulți și copii<br>
+<br>
+se scufundă la odihnă.<br>
+<br>
+Pe mare, nava mare se scufunda și moare,<br>
+<br>
+plumb în sân.<br>
+<br>
+IV<br>
+<br>
+Ce strălucește în frunze,<br>
+<br>
+frunzele umbrite,<br>
+<br>
+ca lacrimile când cineva se întristă,<br>
+<br>
+strălucind, strălucind în frunze?<br>
+<br>
+Este roua sau este lacrimi,<br>
+<br>
+roua sau lacrimi,<br>
+<br>
+atârnând acolo ani și ani<br>
+<br>
+ca o rouă de lacrimi?<br>
+<br>
+Apoi roua începe să cadă,<br>
+<br>
+coborâți și cădeți,<br>
+<br>
+Poate că nu sunt lacrimi deloc.<br>
+<br>
+Vedeți-o, vedeți că se rostogolește și cade.<br>
+<br>
+Ascultați că se încadrează pe pământ,<br>
+<br>
+auziți, în jur.<br>
+<br>
+Acesta nu este un sunet lacrimal,<br>
+<br>
+bate, bate pe teren.<br>
+<br>
+Vedeți-o acolo, ca și semințele,<br>
+<br>
+cum ar fi semințele negre.<br>
+<br>
+a se vedea ca a lua rădăcină ca buruieni,<br>
+<br>
+mai rapid, mai rapid decât buruienile,<br>
+<br>
+toate semințele strălucitoare se prăbușesc,<br>
+<br>
+conspirația rădăcină,<br>
+<br>
+și ce floare ciudată sau fructe<br>
+<br>
+va crește de la această rădăcină conspirativă?<br>
+<br>
+fructe sau flori? Este o față.<br>
+<br>
+Da, o față.<br>
+<br>
+În acel loc întunecat și încurcat<br>
+<br>
+fiecare sămânță crește într-o față.<br>
+<br>
+Ca o armată într-un vis<br>
+<br>
+chipurile par,<br>
+<br>
+mai întunecate, mai întunecate, ca un vis.<br>
+<br>
+Sunt prea reali pentru a fi un vis.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Elizabeth Bishop
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

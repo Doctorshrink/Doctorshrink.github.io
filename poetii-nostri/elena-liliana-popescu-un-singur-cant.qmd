@@ -1,0 +1,61 @@
+---
+title: "Un singur cânt"
+subtitle: "Elena Liliana Popescu"
+author: "Doctor Shrink"
+date: "2026-07-31"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/okuAFmtyk1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O singură petală<br>
+Îmbracă Universul<br>
+O singură vestală<br>
+Înaripează versul<br>
+<br>
+O singură chemare<br>
+Încearcă pelerinul<br>
+O singură-ntâmplare<br>
+Întâmpină destinul<br>
+<br>
+O singură privire<br>
+Scrutează necuprinsul<br>
+O singură-amintire<br>
+Păstrează neînvinsul<br>
+<br>
+O singură-nviere<br>
+Salvează omenirea<br>
+O singură avere<br>
+Nu-mpovărează firea<br>
+<br>
+O singură esenţă<br>
+În toate vieţuieşte<br>
+O singură absenţă<br>
+Făptura întregeşte<br>
+<br>
+O singură cărare<br>
+Te duce înspre tine<br>
+O singură-ntrebare<br>
+Răspunsul viu conţine<br>
+<br>
+Un singur gând<br>
+E poarta descătuşării tale<br>
+Un singur cânt<br>
+Înalţă tot ce-ntâlneşti în cale.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Elena Liliana Popescu
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
