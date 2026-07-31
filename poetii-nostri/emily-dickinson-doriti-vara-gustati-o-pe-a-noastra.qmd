@@ -1,0 +1,62 @@
+---
+title: "Doriţi Vară? Gustaţi-o pe a noastră"
+subtitle: "Emily Dickinson"
+author: "Doctor Shrink"
+date: "2026-08-01"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rd4F7r4CgxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Doriţi Vară? Gustaţi-o pe a noastră.<br>
+<br>
+Mirodenii? De aici cumpăraţi!<br>
+<br>
+Suferiţi? De fierbinţeli avem boabe!<br>
+<br>
+De oboseală! Permisii de puf să luaţi!<br>
+<br>
+Ameţeli! Cîmpii de violete şi răul v-a lăsat!<br>
+<br>
+Captiv! Graţieri de la flori, aduc eu!<br>
+<br>
+Anemie! Carafe cu aer!<br>
+<br>
+Chiar şi pentru Moarte, un leac minunat.<br>
+<br>
+O care este leacul, domnul meu?<br>
+<br>
+Would you like summer? Taste of ours.<br>
+<br>
+Spices? Buy here!<br>
+<br>
+Ill! We have berries, for the parching!<br>
+<br>
+Weary! Furlongs of down!<br>
+<br>
+Peplexed! Estates of violet trouble ne&#x27;er looked on!<br>
+<br>
+Captive! We bring reprieve of roses!<br>
+<br>
+Fainting! Flasks of air!<br>
+<br>
+Even for Death, a fairy medicine.<br>
+<br>
+But, wich is it, sir?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Emily Dickinson
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

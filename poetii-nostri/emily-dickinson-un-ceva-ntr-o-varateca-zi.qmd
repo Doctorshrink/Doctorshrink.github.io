@@ -1,0 +1,70 @@
+---
+title: "Un ceva-ntr-o văratecă Zi"
+subtitle: "Emily Dickinson"
+author: "Doctor Shrink"
+date: "2026-08-01"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nfl1Kow2wqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Un ceva-ntr-o văratecă Zi<br>
+<br>
+Cât de-ncet făcliile ei ar muri<br>
+<br>
+Mă solemnizează.<br>
+<br>
+Un ceva-ntr-o văratică-Amiazi<br>
+<br>
+Un adânc – un Azur – un parfum ce-a rămas<br>
+<br>
+De dincolo de extaze.<br>
+<br>
+Și totuși în miezul văraticei nopți<br>
+<br>
+Un ceva mai senin ce ne-ncântă pe toți<br>
+<br>
+Aplaud – vezi bine –<br>
+<br>
+Să-mi cobor privirea prea scrutătoare<br>
+<br>
+Ca această Grație scânteietoare<br>
+<br>
+Să nu plece prea departe de mine –<br>
+<br>
+Vrăjitele degete lucrează mereu –<br>
+<br>
+Pârâul de purpur al pieptului meu<br>
+<br>
+Roade albia-i strâmtă – ca pe o rană –<br>
+<br>
+Steag de ambră Estu-și înalță încă<br>
+<br>
+Și Soare-și mâna din stâncă în stâncă<br>
+<br>
+Roșia sa Caravană –<br>
+<br>
+Și tot stând și privind cum noapte și zori<br>
+<br>
+Încheie ziua miracolelor –<br>
+<br>
+Eu mă întâlnesc, printre rouri, pe-afară,<br>
+<br>
+Cu-o zi nouă, de vară!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Emily Dickinson
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

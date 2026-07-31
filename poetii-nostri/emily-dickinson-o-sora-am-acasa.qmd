@@ -1,0 +1,80 @@
+---
+title: "O Soră am acasă"
+subtitle: "Emily Dickinson"
+author: "Doctor Shrink"
+date: "2026-08-01"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IYNcfIr2Dxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O Soră am acasă<br>
+<br>
+Și alta, peste gard.<br>
+<br>
+Am pomenit de una,<br>
+<br>
+Dar ambele mi-s dragi.<br>
+<br>
+O Soră-mi poartă rochii<br>
+<br>
+Din care am ieșit,<br>
+<br>
+Și inimile-a două<br>
+<br>
+Ca-n cuib ni le-a zidit.<br>
+<br>
+Cânta cu altă voce<br>
+<br>
+Decât noi toți acas’ –<br>
+<br>
+Un mic Bondar de Iunie<br>
+<br>
+Ziceai că are-n glas.<br>
+<br>
+S-a dus Copilăria –<br>
+<br>
+Pe Dâmburi ne plimbăm –<br>
+<br>
+Strâns o țineam de mână –<br>
+<br>
+Și calea o scurtăm –<br>
+<br>
+Dezamăgit<br>
+<br>
+De zumzăit<br>
+<br>
+E Flutur – așa-i:<br>
+<br>
+E-o Viorea-n<br>
+<br>
+Privirea sa<br>
+<br>
+Ce-i spulberată-n Mai.<br>
+<br>
+Luai nu Rouă –<br>
+<br>
+Ziua nouă<br>
+<br>
+Și-o Stea – a mea să fie –<br>
+<br>
+Îmi alesei – pe Sora mea –<br>
+<br>
+Pe Sue – în veșnicie!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Emily Dickinson
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

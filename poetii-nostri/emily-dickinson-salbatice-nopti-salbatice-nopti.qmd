@@ -1,0 +1,50 @@
+---
+title: "Sălbatice nopţi - Sălbatice nopţi!"
+subtitle: "Emily Dickinson"
+author: "Doctor Shrink"
+date: "2026-08-01"
+categories: [poezie, spoken-word, noapte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AaooITbewBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Sălbatice nopţi - Sălbatice nopţi!<br>
+<br>
+Cu tine de-aş fi<br>
+<br>
+Sălbaticele Nopţi<br>
+<br>
+Luxuria noastră ar fi!<br>
+<br>
+Zadarnice - Vînturile -<br>
+<br>
+Unei inimi în port ancorată<br>
+<br>
+Nu-i pasă de Busolă -<br>
+<br>
+Nu-i pasă de Hartă!<br>
+<br>
+Vîslind în Eden -<br>
+<br>
+Ah, Mare! - de-aş putea<br>
+<br>
+La Noapte - să ancorez<br>
+<br>
+În unda Ta
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Emily Dickinson
+* **Temă:** noapte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,94 @@
+---
+title: "Vântul"
+subtitle: "Emile Verhaeren"
+author: "Doctor Shrink"
+date: "2026-08-01"
+categories: [poezie, spoken-word, vant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C1xa1IUWi_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pe-ntinse bălării, la nesfârşit<br>
+Vuieşte vântul de noiembre!<br>
+Pe bălării, la nesfârşit,<br>
+Vântu-a venit.<br>
+Se frânge-n ramuri, se sfâşie<br>
+Din burg în burg, în vijelie,<br>
+Vântul vui,<br>
+Vântul sălbatic de noiembre!<br>
+<br>
+Fântâni de ferme,<br>
+Cu scripeţi şi găleţi de fier<br>
+Scrâşnesc,<br>
+Pe la fântâni de ferme,<br>
+Găleţi şi scripete<br>
+Scrâşnesc, scot ţipete,<br>
+Cu moartea-n jalea lor gemând spre cer.<br>
+Vântul repede peste râu<br>
+Foi de mesteceni fără frâu,<br>
+Vântul sălbatic de noiembre;<br>
+Vântul muşcă din ramuri<br>
+Cuiburi de păsări;<br>
+Vântul răzuie fier<br>
+Şi piaptănă în zări troiene,<br>
+Turbat, bătrânei ierni cu ger,<br>
+Ros de turbare, vântul,<br>
+Vântul sălbatic de noiembre!<br>
+În staulele povârnite<br>
+Pătratele de geam cârpite<br>
+Bălăbăne zdrenţe-atârnânde,<br>
+Geamuri cârpite cu hârtii...<br>
+Vântul sălbatic de noiembre!<br>
+Pe cel colnic cu iarbă bistră,<br>
+De jos în sus, prin gol de zar<br>
+De sus în jos, cu fulgerări,<br>
+Seceră moara vânt, sinistră,<br>
+Seceră moara neagră vântul, vântul,<br>
+Vântul sălbatic de noiembre.<br>
+<br>
+Bordeiele în patru labe<br>
+Rotind la turle de biserici<br>
+Se clatină-n proptele slabe;<br>
+Cu streşinile la pământ<br>
+Plesnesc în vânt,<br>
+În vânt sălbatic de noiembre.<br>
+<br>
+Crucile-n strâmbul cimitir,<br>
+Braţe de morţi, crucile-n şir,<br>
+Cad cu un zbor adus de vânt,<br>
+Abătut negru pe pământ.<br>
+<br>
+Vântul sălbatic de noiembre,<br>
+Vântul,<br>
+Aţi întâlnit în cale vântul,<br>
+În sute de răspântii, poate,<br>
+Strigând de frig, suflând de trudă,<br>
+Aţi întâlnit în cale vântul,<br>
+Spăimosul vânt cu fruntea udă,<br>
+În noaptea grea l-aţi întâlnit<br>
+Când luna jos a prăbuşit<br>
+Şi când, nemaiputând,<br>
+Şubrede, satele pe rând,<br>
+Urlau ca fiarele la lună<br>
+Către furtună?<br>
+<br>
+Pe bălării, la nesfârşit,<br>
+Auzi vântul urlând,<br>
+Vântul sălbatic de noiembre.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Emile Verhaeren
+* **Temă:** vant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
