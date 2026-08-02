@@ -1,0 +1,172 @@
+---
+title: "Astfel încât să treacă cinci ani: Legenda timpului - teatru (fragment liric)"
+subtitle: "Federico Garcia Lorca"
+author: "Doctor Shrink"
+date: "2026-08-03"
+categories: [poezie, spoken-word, timp]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ABK-SJZv1hQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Actul al treilea<br>
+<br>
+Primul cadru<br>
+<br>
+Pădure. Trunchiuri mari. În centru, un teatru înconjurat de draperii baroce cu fundalul pierdut. O scăriță unește platforma cu scena. Când se ridică cortina, două personaje îmbrăcate în negru trec printre trunchiuri, cu fețele albe ca de var și mâinile, de asemenea, albe. Se-aude o muzică îndepărtată. Apare Arlechinul. Îmbrăcat în negru și verde. Poartă două măști, una în fiecare mână și ascunse la spate. Se mișcă cadențat, aidoma unui dansator.<br>
+<br>
+Arlechinul<br>
+<br>
+Visul pătrunde sub Timpul<br>
+<br>
+plutind ca o pânză-n derive.<br>
+<br>
+Nimeni, în miezul de vise,<br>
+<br>
+semințe nu poate deschide.<br>
+<br>
+(Își pune o mască surâzătoare)<br>
+<br>
+O, zorii cum cântă, cum cântă!<br>
+<br>
+Ce ghețuri albastre se-nfruntă!<br>
+<br>
+(Își scoate masca)<br>
+<br>
+Timpul plutește pe Visul<br>
+<br>
+pătruns prin căruntele fire.<br>
+<br>
+Vechiul și noul mănâncă<br>
+<br>
+obscurele flori de murire.<br>
+<br>
+(Își pune o mască somnolentă)<br>
+<br>
+O, noaptea cum cântă, cum cântă!<br>
+<br>
+Ce dese-anemone se-avântă!<br>
+<br>
+(Și-o scoate.)<br>
+<br>
+Pe-aceeași lungă coloană,<br>
+<br>
+Visarea și Timpul, deodată,<br>
+<br>
+petrec al pruncului scâncet<br>
+<br>
+- o limbă de moș, sfărâmată.<br>
+<br>
+(Cu o mască.)<br>
+<br>
+O, zorii cum cântă, cum cântă!<br>
+<br>
+( Cu altă mască.)<br>
+<br>
+De Visul zidirea preface<br>
+<br>
+în câmpuri de timp imanent,<br>
+<br>
+te face să crezi cum că Timpul<br>
+<br>
+se naște acum, pe moment.<br>
+<br>
+O, noaptea cum cântă, cum cântă!<br>
+<br>
+Ce-albastre aisberguri se-avântă!<br>
+<br>
+(Din acest moment, se va auzi din fundal, pe tot parcursul actului și cu intervale măsurate,  sunetele îndepărtate ale unui corn de vânătoare. Apare o fată îmbrăcată în negru, cu o tunică grecească, care vine săltând c-o ghirlandă.)<br>
+<br>
+Scurt comentariu<br>
+<br>
+,,Astfel încât să treacă cinci ani: Legenda timpului&#x27;&#x27;- este o piesă de teatru în trei acte, care prezintă o poveste despre dragoste și moarte, încheiată de Federico García Lorca pe de 19 august 1931 , cu circumstanța tragică, în care exact cinci ani mai târziu autorul ei a fost asasinat. Alături de piesele ,,El Público&#x27;&#x27; și ,,La Comedia sin título&#x27;&#x27;, piesa face parte din așa-numitul „teatru imposibil” al lui Lorca, în care predomină un limbaj puternic influențat de suprarealism.<br>
+<br>
+Así que pasen cinco años: La leyenda del tiempo - teatro (fragmento)<br>
+<br>
+de Federico Garcia Lorca<br>
+<br>
+Acto tercero<br>
+<br>
+Cuadro primero<br>
+<br>
+Bosque. Grandes troncos. En el centro, un teatro rodeado de cortinas barrocas con el telón echado. Una escalerita une el tabladillo con el escenario. Al levantarse el telón cruzan entre los troncos dos Figuras vestidas de negro, con las caras blancas de yeso y las manos también blancas. Suena una música lejana. Sale el Arlequín. Viste de negro y verde. Lleva dos caretas, una en cada mano y ocultas en la espalda. Acciona de modo rítmico, como un bailarín.<br>
+<br>
+ARLEQUÍN.<br>
+<br>
+El Sueño va sobre el Tiempo<br>
+<br>
+flotando como un velero.<br>
+<br>
+Nadie puede abrir semillas<br>
+<br>
+en el corazón del Sueño.<br>
+<br>
+(Se pone una careta de alegrísima expresión.)<br>
+<br>
+¡Ay, cómo canta el alba! ¡Cómo canta!<br>
+<br>
+¡Qué témpanos de hielo azul levanta!<br>
+<br>
+(Se quita la careta.)<br>
+<br>
+El Tiempo va sobre el Sueño<br>
+<br>
+hundido hasta los cabellos.<br>
+<br>
+Ayer y mañana comen<br>
+<br>
+oscuras flores de duelo.<br>
+<br>
+(Se pone una careta de expresión dormida.)<br>
+<br>
+¡Ay, cómo canta la noche! ¡Cómo canta!<br>
+<br>
+¡Qué espesura de anémonas levanta!<br>
+<br>
+(Se la quita.)<br>
+<br>
+Sobre la misma columna,<br>
+<br>
+abrazados Sueño y Tiempo,<br>
+<br>
+cruza el gemido del niño,<br>
+<br>
+la lengua rota del viejo.<br>
+<br>
+(Con una careta.)<br>
+<br>
+¡Ay cómo canta el alba! ¡Cómo canta!<br>
+<br>
+(Con la otra careta.)<br>
+<br>
+¡Qué espesura de anémonas levanta!<br>
+<br>
+Y si el Sueño finge muros<br>
+<br>
+en la llanura del Tiempo,<br>
+<br>
+el Tiempo le hace creer<br>
+<br>
+que nace en aquel momento.<br>
+<br>
+¡Ay, cómo canta la noche! ¡Cómo canta!<br>
+<br>
+¡Qué témpanos de hielo azul levanta!<br>
+<br>
+(Desde este momento se oirá en el fondo durante todo el acto, y con medidos intervalos, unas lejanas trompas graves de caza. Aparece una Muchacha vestida de negro, con túnica griega. Viene saltando con una guirnalda.)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Federico Garcia Lorca
+* **Temă:** timp
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

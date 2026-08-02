@@ -1,0 +1,268 @@
+---
+title: "Visul negustorului"
+subtitle: "Eugen Jebeleanu"
+author: "Doctor Shrink"
+date: "2026-08-03"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N-j5T1xGgSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Toamnă şi frunze de aur ...<br>
+<br>
+frunze picând<br>
+<br>
+pe două case de fier,<br>
+<br>
+pe două case de bani<br>
+<br>
+ce cresc ne-ncetat.<br>
+<br>
+(„Creşteţi, oh, creşteţi<br>
+<br>
+până la cer<br>
+<br>
+fermecătoarelor!”<br>
+<br>
+„Stelele-au zimţi ...<br>
+<br>
+ce scăpărătoare monede fără stăpân!”)<br>
+<br>
+Sună văzduhul întreg tulburat:<br>
+<br>
+- Le va-ngropa şi pe ele-n tezaur!<br>
+<br>
+( Taci! Nu te priveşte!<br>
+<br>
+Unde-s contabilii? Uite, începe să plouă ... )<br>
+<br>
+Şi cade o ploaie<br>
+<br>
+pe una din case,<br>
+<br>
+duruie-o ploaie de oase,<br>
+<br>
+de cranii, de tibii<br>
+<br>
+(„Se-ntorc de pe câmpul de luptă.<br>
+<br>
+Cine spunea că n-or să revină?” )<br>
+<br>
+şi e un ropot de tobe, de tobe,<br>
+<br>
+de cranii, şi tobe,<br>
+<br>
+şi osemintele galbene-au luciu de aur ...<br>
+<br>
+şi tobele bat, şi ropotul<br>
+<br>
+ploii tot bate, tot bate,<br>
+<br>
+şi osemintele toate<br>
+<br>
+în ropot de tobe căzând,<br>
+<br>
+pe-acoperişul casei de fier,<br>
+<br>
+cum îl ating<br>
+<br>
+se preschimbă-ntr-o ploaie de aur,<br>
+<br>
+într-o fecioară ploaie de aur<br>
+<br>
+cu plisc de erete,<br>
+<br>
+cu plete învăluind, şerpuitoare,<br>
+<br>
+casa de fier,<br>
+<br>
+păzind-o cu gheare de aur.<br>
+<br>
+Pe pieptul pătrat, cu sâni monstruoși de aramă,<br>
+<br>
+al casei de fier,<br>
+<br>
+luceşte-o emblemă de aur<br>
+<br>
+pe care stă scris:<br>
+<br>
+„DE NEDOBORÂT!”<br>
+<br>
+Şi lin,<br>
+<br>
+cum ai purta<br>
+<br>
+din creştetul cerului<br>
+<br>
+pân’ la pământ<br>
+<br>
+un piepten de ape,<br>
+<br>
+ploaia se mută lucind pe cealaltă casă<br>
+<br>
+şi – melodioasă acum – începe să cânte<br>
+<br>
+cu altfel de glasuri,<br>
+<br>
+şi cade pe cealaltă casă de fier ce creşte întruna<br>
+<br>
+o ploaie de-orez şi de perle,<br>
+<br>
+o ploaie cu stropi de orez şi de perle,<br>
+<br>
+de-orez şi de lacrimi,<br>
+<br>
+de lacrimi şi perle,<br>
+<br>
+de lacrimi, de lacrimi, de lacrimi,<br>
+<br>
+şi casa de fier le bea<br>
+<br>
+şi tot creşte spre stele,<br>
+<br>
+tot creşte ca sora ei bună ...<br>
+<br>
+Şi-orezul, şi lacrimi, şi perlele,<br>
+<br>
+căzând pe acoperişul<br>
+<br>
+casei de fier, se preschimbă<br>
+<br>
+într-o fecioară ploaie de aur,<br>
+<br>
+fără ochi şi fără urechi,<br>
+<br>
+păzind cu ghearele-i<br>
+<br>
+casa de fier ...<br>
+<br>
+Şi-adânc îngropată<br>
+<br>
+în pieptul de fier<br>
+<br>
+al casei de bani,<br>
+<br>
+o emblemă<br>
+<br>
+de aur<br>
+<br>
+arată cuvintele:<br>
+<br>
+„DE NEDOBORÂT!”<br>
+<br>
+Surde brâie de piatră<br>
+<br>
+păzesc colosale<br>
+<br>
+ca nişte mamuţi<br>
+<br>
+grelele case,<br>
+<br>
+în vreme ce-o muzică<br>
+<br>
+de milioane<br>
+<br>
+de neobosite maşini foşnitoare<br>
+<br>
+de calculat<br>
+<br>
+ţese-o maramă de cifre şi semne<br>
+<br>
+cetăţii ce, bând ploi de aur,<br>
+<br>
+se-avântă mereu, să soarbă şi stelele ---<br>
+<br>
+şi muzica, iată, şopteşte şi ea<br>
+<br>
+stăpânului caselor negre<br>
+<br>
+aceleaşi tainice vorbe:<br>
+<br>
+„DE NEDOBORÂT!”<br>
+<br>
+Un crâncen atlet<br>
+<br>
+cu cap de granit,<br>
+<br>
+nepăsător,<br>
+<br>
+cu muşchi ondulând de monede,<br>
+<br>
+stă-ntins de-a curmezişul cetăţii<br>
+<br>
+ca un al doilea zid<br>
+<br>
+şi-n ochii lui se răsfrâng<br>
+<br>
+cuvintele:<br>
+<br>
+„DE NEDOBORÂT!”<br>
+<br>
+Un vuiet, însă, ca din mii de trombe<br>
+<br>
+de vijelii se-abate pe oraş<br>
+<br>
+şi-acum – priveşte! casele de lemn<br>
+<br>
+ale săracilor<br>
+<br>
+sînt smulse ca nişte aripi de fluturi<br>
+<br>
+şi azvârlite<br>
+<br>
+în oceanu-n spume.<br>
+<br>
+„Războiul” – se gândeşte negustorul,<br>
+<br>
+în timp ce grindini, ploi arzând, de-obuze,<br>
+<br>
+încep să curgă şi peste cetatea<br>
+<br>
+în care se-află casele de fier.<br>
+<br>
+Cad pe cetate ploile de-obuze<br>
+<br>
+şi nu o pot pătrunde,<br>
+<br>
+dar, atingând-o,<br>
+<br>
+se preschimbă, iată,<br>
+<br>
+în grele pungi, rotunde,<br>
+<br>
+ce zuruie şi se rostogolesc<br>
+<br>
+ca nişte capete,<br>
+<br>
+ca nişte capete de oameni,<br>
+<br>
+umplând de-o linişte fără de margini<br>
+<br>
+stăpânul,<br>
+<br>
+care se-afundă adânc, tot mai adânc,<br>
+<br>
+ca-ntr-un hamac legănător,<br>
+<br>
+în plasa<br>
+<br>
+de muzici ademenitoare,<br>
+<br>
+în plasa foşnitoarelor maşini de calculat ...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Eugen Jebeleanu
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

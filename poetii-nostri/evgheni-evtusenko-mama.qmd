@@ -1,0 +1,88 @@
+---
+title: "Mama"
+subtitle: "Evgheni Evtuşenko"
+author: "Doctor Shrink"
+date: "2026-08-03"
+categories: [poezie, spoken-word, mama]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SoUHA9_hMyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Între mamă şi fiu, nepotrivirea-i totală, ingrată,<br>
+<br>
+mai ales dacă-i unic feciorul şi-adult,<br>
+<br>
+el e ultimul bărbat pe care ea ar vrea să-l dea gata,<br>
+<br>
+cu eleganţa, cu farmecul ei de demult.<br>
+<br>
+Când mama, uşor, pe marginea patului meu se lasă,<br>
+<br>
+după ce şi-a scos din picioare şoşonii ei uzi,<br>
+<br>
+din tristele-i buze, aud intrebarea cumplit de duioasa:<br>
+<br>
+&quot;Ce-i cu tine, băiatul meu? De ce nu m-auzi?&quot;<br>
+<br>
+Dar nici duioşia asta nu stoarce răspunsu-aşteptat,<br>
+<br>
+până când, ca dintr-o prăpastie mă extrag, încă viu,<br>
+<br>
+bolborosind: &quot;Toate-s în regulă...şi-apropo, arăţi minunat!&quot;<br>
+<br>
+Ah, mincinoasele legi ale jocului dintre mamă şi fiu.<br>
+<br>
+Oare chiar nimic n-am de spus mamei, cu toate că ea,<br>
+<br>
+pentru mine, ca sclavii, spinarea prin vreme şi-a frânt?...<br>
+<br>
+Mă ascund în clişee: &quot;Hai calmează-te!<br>
+<br>
+Ce va fi, vom vedea!&quot;<br>
+<br>
+Ar fi multe de spus, dar mi-e milă de ea.<br>
+<br>
+Nu mai scot un cuvânt.<br>
+<br>
+Între noi, e un hotar invizibil de lacrimi, hotar<br>
+<br>
+al înstrăinării de sine, de ceilalţi - nu-l putem traversa.<br>
+<br>
+Mi-e imposibil să trec pe umerii mamei<br>
+<br>
+prea lungu-mi calvar,<br>
+<br>
+când chiar şi pe umerii mei abia dacă-l mai pot îndura.<br>
+<br>
+Incerţi pot fi doar taţii, dar mama - totdeauna adevărată,<br>
+<br>
+nimeni în lume n-ar putea-nlocui chipul ei grijuliu.<br>
+<br>
+Mama, venind doar în vizita strict măsurată,<br>
+<br>
+iată crima nevinovată a nemilosului fiu!<br>
+<br>
+Peste ani, cu căinţă târzie venim<br>
+<br>
+la moviliţele lor de pământ invadat de verdeaţă,<br>
+<br>
+şi-atunci le povestim mamelor noastre, le povestim<br>
+<br>
+toate câte n-am putut să le spunem în viaţă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Evgheni Evtuşenko
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

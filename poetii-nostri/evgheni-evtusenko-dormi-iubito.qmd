@@ -1,0 +1,126 @@
+---
+title: "Dormi, iubito!"
+subtitle: "Evgheni Evtuşenko"
+author: "Doctor Shrink"
+date: "2026-08-03"
+categories: [poezie, spoken-word, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sv8UfMh8Uwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Sus, pe garduri, sclipesc stropi săraţi, albă-i sarea,<br>
+<br>
+Iar portiţa-i de-acum încuiată. Şi marea<br>
+<br>
+Fumegând şi săltând către diguri, de-a rândul,<br>
+<br>
+Dintr-un soare sărat s-a-nfruptat, devorându-l.<br>
+<br>
+Dormi, iubito! Oh, dormi! Sufletul meu vrea pace.<br>
+<br>
+Stepa, munţii... şi ei dorm acum, n-au ce face.<br>
+<br>
+Ciobănescul cam şchiop şi cu claia prea mare<br>
+<br>
+Chiar prin somn îşi mai linge lanţul lui plin de sare.<br>
+<br>
+Marea-n tropot şi crengile scormonind ca vătraiul<br>
+<br>
+Şi zăvodul din lanţ ce-şi trăi-n tihnă traiul,<br>
+<br>
+Împreună cu mine, toţi, mereu împreună,<br>
+<br>
+&quot;Dormi, iubito!&quot; îţi spunem acum. &quot;Noapte bună!&quot;<br>
+<br>
+Dormi, iubito! Şi uită că ne-am certat vreodată.<br>
+<br>
+Ne-om trezi, împăcaţi, în lumina curată.<br>
+<br>
+Stând în fân, somnoroşi, vom simţi cum ne vine,<br>
+<br>
+Dinspre beci, un parfum de iaurturi gruzine.<br>
+<br>
+Cum aş face, o, cum, să-nţelegi astea toate?<br>
+<br>
+Dormi, iubito! Hai, dormi! Şi-ai să vezi că se poate.<br>
+<br>
+Fără lacrimi, prin somn, să zâmbeşti şi să-ţi pară<br>
+<br>
+Că flori multe aduni şi că-ţi iei, bunăoară,<br>
+<br>
+O mulţime de rochii frumoase, de vară.<br>
+<br>
+Vrei să murmuri ceva? Tu îmi eşti tot avutul.<br>
+<br>
+Cât ai oare de gând să frămânţi aşternutul?<br>
+<br>
+Înveleşte-te-n somn, înfăşoară-te-n vise,<br>
+<br>
+Toate căile, vezi, îţi sunt astfel deschise,<br>
+<br>
+Câte, trează fiind, ţi-au părut interzise.<br>
+<br>
+E absurd să nu dormi, când ai cum şi ai unde,<br>
+<br>
+Tot ce-ţi urlă prin cap, în străfunduri se-ascunde.<br>
+<br>
+Ochii tăi, care-adună şi raiuri şi-abisuri,<br>
+<br>
+Sub pleoape-or simţi abur moale de visuri.<br>
+<br>
+Dormi, iubito! Mă-ntreb ce te ţine-acum trează?<br>
+<br>
+Al copacilor zvon? Marea ce delirează?<br>
+<br>
+Sumbre, vagi presimţiri? Sau jigniri anonime?<br>
+<br>
+Ori, chiar eu, măgării ţi-am tot spus, o mulţime?<br>
+<br>
+Dormi, te rog! Nu-i nimic de făcut, ştii prea bine,<br>
+<br>
+Dar sunt gata să jur: vina nu-mi aparţine.<br>
+<br>
+Iartă-mă, dacă poţi! Şi iubeşte-mă-oleacă!<br>
+<br>
+Poate-n somn, supărarea cea grea o să-ţi treacă.<br>
+<br>
+Dormi! Pământul şi noi - suntem toţi o fiinţă!<br>
+<br>
+Cu explozia lui, veşnic ne ameninţă.<br>
+<br>
+Vreau la piept să te ţin, într-o lume nebună,<br>
+<br>
+Iar de ne-om prăbuşi, să cădem împreună.<br>
+<br>
+Dormi, iubito! Nu vreau să te ştiu supărată.<br>
+<br>
+Dormi şi lasă-te-ncet doar de visuri purtată.<br>
+<br>
+Cât de greu se adoarme pe globul enorm!<br>
+<br>
+Dormi, iubito! E timpul! Toţi în jurul tău dorm.<br>
+<br>
+Marea-n tropot şi crengile scormonind ca vătraiul<br>
+<br>
+Şi zăvodul din lanţ ce-şi trăi-n tihnă traiul,<br>
+<br>
+Împreună cu mine, toţi, mereu împreună,<br>
+<br>
+&quot;Dormi, iubito!&quot; îţi spunem acum. &quot;Noapte bună!&quot;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Evgheni Evtuşenko
+* **Temă:** dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

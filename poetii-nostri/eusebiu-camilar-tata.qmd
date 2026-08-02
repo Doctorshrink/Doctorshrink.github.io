@@ -1,0 +1,66 @@
+---
+title: "Tata"
+subtitle: "Eusebiu Camilar"
+author: "Doctor Shrink"
+date: "2026-08-03"
+categories: [poezie, spoken-word, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tFyPx3tMpdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Când bătea în poartă Negustorul<br>
+<br>
+plânsul mă strângea de beregată:<br>
+<br>
+&quot;Tată, Tată, vinde-mă pe mine<br>
+<br>
+dar nu vinde mieluseii, Tată,<br>
+<br>
+să nu-i dai să-i spânzure Călăul,<br>
+<br>
+să le taie gîtul cu custura:<br>
+<br>
+sângele în clocot, sângele<br>
+<br>
+să stropească toată bătătura...<br>
+<br>
+Lasă-mi mieluseii, lasă-mi-i,<br>
+<br>
+să mă duc cu ei pe lunci hoinar...<br>
+<br>
+să nu-i dai Călăului să-i vândă<br>
+<br>
+ciopârtiti cu barda, la cântar...&quot;<br>
+<br>
+Câte primăveri ti-au văzut ochii<br>
+<br>
+nourati de gândurile grele...<br>
+<br>
+Câti ciocoi s-au ospătat cu carnea<br>
+<br>
+mieilor copilăriei mele....<br>
+<br>
+Câte primăveri am plâns pe luncă<br>
+<br>
+apelor spunându-le-n zadar:<br>
+<br>
+&quot;Mi-au ucis călăii camarazii<br>
+<br>
+si le-au vândut carnea la cântar...&quot;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Eusebiu Camilar
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

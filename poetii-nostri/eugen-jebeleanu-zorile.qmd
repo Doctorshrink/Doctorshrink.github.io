@@ -1,0 +1,230 @@
+---
+title: "Zorile"
+subtitle: "Eugen Jebeleanu"
+author: "Doctor Shrink"
+date: "2026-08-03"
+categories: [poezie, spoken-word, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C6yB435KwpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+6 august 1945<br>
+<br>
+Senină dimineaţa ... Acum pornesc la drum<br>
+<br>
+cu spiţele de soare speranţele. Acum<br>
+<br>
+foşnind îşi spală marea mătăsurile-albastre,<br>
+<br>
+din care ţărmul smulge lungi broderii de astre ...<br>
+<br>
+Acuma se deşteaptă oraşul şuierând:<br>
+<br>
+--- Te pomeneşti că-s oameni ce-n pat or mai fi stând!<br>
+<br>
+Hamalii unde-s? Ziua nu se năştea din noapte<br>
+<br>
+când ei porniră-n cârcă ducându-şi câte şapte<br>
+<br>
+poveri cu şapte turnuri de fier zăcând pe fier ...<br>
+<br>
+Şi unul înainte cânta, zâmbind la cer ...<br>
+<br>
+Acum din scoica roză a beznelor ies zorii ...<br>
+<br>
+În vuiet de metale, acuma muncitorii<br>
+<br>
+nasc fulgere, cascade, şi strâng tăcuţi din dinţi<br>
+<br>
+sub ploile de stele ce-i cărunţesc, fierbinţi.<br>
+<br>
+Ca de-un galop, sonore, pavajele răsună.<br>
+<br>
+Trec mamele cu pruncii-n spinare, împreună.<br>
+<br>
+şi boncăne galenţii de lemn, ducând spre munci<br>
+<br>
+femeile grăbite, cu somnoroşii prunci.<br>
+<br>
+E dulce greutatea, şi mică eşti, distanţă,<br>
+<br>
+când ştiu că în spinare povara e speranţă ...<br>
+<br>
+Speranţe se-ntretaie cu zorii prin oraş:<br>
+<br>
+speranţe fără margini, cu pasul uriaş,<br>
+<br>
+speranţe mici ce-ajută să te mai ţii în viaţă,<br>
+<br>
+speranţe-iederi care în jurul tău se-agaţă,<br>
+<br>
+în zori, iar către seară te părăsesc din nou.<br>
+<br>
+Speranţele tăcute, speranţele-ecou,<br>
+<br>
+speranţele crescute cu pruncii-o viaţă-ntreagă,<br>
+<br>
+tari rădăcini, speranţe care de viaţă leagă ...<br>
+<br>
+speranţe zămislite de ochi de muribunzi,<br>
+<br>
+nespusele speranţe pe care le ascunzi,<br>
+<br>
+Speranţe ... Mutilatul, ieşind din vis, tresare<br>
+<br>
+şi-i tot pe-o rogojină, şi tot fără picioare.<br>
+<br>
+Şi-ar vrea în vis să-noate din nou, şi să viseze<br>
+<br>
+ce nici în zorii-aceştia nu i-au trimis : proteze.<br>
+<br>
+Şi plânsu-n gât îi suie, dar îl sugrumă : nu !<br>
+<br>
+Şi-l doare amintirea picioarelor acu …<br>
+<br>
+Se vede-ntreg în lupte ... război ... în Filipine ...<br>
+<br>
+E el acel ce-aleargă? şi-aleargă pentru cine?<br>
+<br>
+Şi-n urmă prăbuşirea ... spitalul ... şi apoi ...<br>
+<br>
+Oh, unde-i cel ce teafăr plecase la război?<br>
+<br>
+De-atunci, în el se zbate un zumzet ca de muşte,<br>
+<br>
+întunecate gânduri ce-aşteaptă doar să muşte<br>
+<br>
+şi care şi acuma greoi îi dau ocol ...<br>
+<br>
+Priveşte mutilatul, tăcut priveşte-n gol ...<br>
+<br>
+... Dar pe tavanul negru --- minune! --- creşte-o pată<br>
+<br>
+de soare, cât o frunză de toamnă legănată,<br>
+<br>
+o pată de lumină, uşoară ca un duh ...<br>
+<br>
+--- E soare bun afară şi-albastru în văzduh ...<br>
+<br>
+Şi mutilatu-acuma privirile-şi aţine<br>
+<br>
+spre frunza-i de lumină, şi parcă-i e mai bine ...<br>
+<br>
+I-anină-un strop de soare, pe frunte, în sălaş ...<br>
+<br>
+Speranţe se-ntretaie cu zorii în oraş …<br>
+<br>
+Acuma, ambulantul, bătrân din cale-afară,<br>
+<br>
+ce n-a mâncat nici dânsul şi nici nepoţii-aseară,<br>
+<br>
+şi-orezul în bomboane-aurii l-a prefăcut ---<br>
+<br>
+şi-mpinge căruciorul şi iese la vândut.<br>
+<br>
+Pe biciclete-n goană, în gură cu o goarnă,<br>
+<br>
+trec slugile la treburi, revin şi iar se-ntoarnă,<br>
+<br>
+ca nişte îngeri negri căzuţi, dar căutând<br>
+<br>
+în pulberea din zare Speranţa tremurând ...<br>
+<br>
+Departe, unde munţii împăduriţi şi-arată<br>
+<br>
+spinarea sub lumina de toamnă argintată,<br>
+<br>
+în inima pădurii, acolo unde nu-i<br>
+<br>
+nici zi şi nu-i nici noapte, şi n-ai putea să spui<br>
+<br>
+dacă-i afară soare sau se întinde bezna,<br>
+<br>
+lumini fac tăietorii însângerându-şi glezna.<br>
+<br>
+Le sângerează talpa, un cer de bătături,<br>
+<br>
+le sângerează pumnii pe iuţile securi.<br>
+<br>
+Sub piele, omoplaţii lucesc ascuns ca nişte<br>
+<br>
+securi, ce pot toţi codrii pământului să-i mişte ...<br>
+<br>
+Şi dârele de sânge-n pădure fac cărări,<br>
+<br>
+Şi iată-acum şi zorii vin după ei călări ...<br>
+<br>
+Cum ar putea în beznă tăind să-nainteze<br>
+<br>
+de nu ar fi aceste lumini de-a pururi treze<br>
+<br>
+ce scapără din sânge, din pumn, din ochii strânşi,<br>
+<br>
+din cremenea izbită de pumn, din ochii plânşi,<br>
+<br>
+şi care, istovindu-şi puterea, fac să-nvie<br>
+<br>
+din arborele negru cosit de fier, făclie,<br>
+<br>
+din noaptea izgonită --- un răsărit trufaş? ...<br>
+<br>
+Speranţe se-ntretaie cu-nsângeraţii paşi ...<br>
+<br>
+În mare despicându-şi cărare, bărci se-avântă<br>
+<br>
+şi fiecare barcă-i lăută care cântă.<br>
+<br>
+Şi muţi, sau împletindu-şi cântarea cu a lor,<br>
+<br>
+pescarii-şi desfăşoară năvodul lucitor<br>
+<br>
+ce-n gândul lor se-ncarcă de-o pradă grea cum nu e<br>
+<br>
+şi nu va fi vreodată sub soarele ce suie.<br>
+<br>
+Că-s pânzele zdenţoase pe putredul catarg?<br>
+<br>
+Le peticeşte cerul cu-albastrul lui în larg ...<br>
+<br>
+şi poate că din marea ce sălbile îşi sună,<br>
+<br>
+în asfinţit sui-va un templu ud de lună<br>
+<br>
+din care-o să se-audă mângâietor un glas:<br>
+<br>
+--- Ţi-e greu năvodul astăzi ... poţi face un popas ...<br>
+<br>
+Vezi, sînt şi zile-n viaţă ce trec fără de jale ...<br>
+<br>
+Te du la tine-acasă, bătrân şi frânt de şale,<br>
+<br>
+şi-umflatele picioare întinde-le cât vrei,<br>
+<br>
+şi dacă simţi că truda te ţine în bordei,<br>
+<br>
+că tremuri din tot trupul când mâna pui pe plasă,<br>
+<br>
+şi că ţi-ar face bine de-ai sta o zi în casă<br>
+<br>
+şi ai rămâne-alături de-ai tăi o zi, --- rămâi<br>
+<br>
+cu toţi copiii-n preajmă veghind la căpătâi ...<br>
+<br>
+“Copiii ...”
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Eugen Jebeleanu
+* **Temă:** soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
