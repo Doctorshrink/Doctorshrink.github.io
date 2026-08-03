@@ -1,0 +1,54 @@
+---
+title: "Copil mut"
+subtitle: "Federico Garcia Lorca"
+author: "Doctor Shrink"
+date: "2026-08-04"
+categories: [poezie, spoken-word, copilarie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxVAUqj_mxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Copilul își caută glasul .<br>
+<br>
+(Era la regele greierilor)<br>
+<br>
+Într-un strop de apă<br>
+<br>
+își căuta copilul glasul.<br>
+<br>
+Nu-l vreau ca să pot vorbi;<br>
+<br>
+am să-mi fac din el un inel<br>
+<br>
+pe care tăcerea-mi să-l poarte<br>
+<br>
+în degetul ei subțirel.<br>
+<br>
+Într-un strop de apă<br>
+<br>
+copilul glasu-și căuta<br>
+<br>
+.<br>
+<br>
+(Glasu-i prizonier,<br>
+<br>
+prindea chip de greier,<br>
+<br>
+în depărtare.)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Federico Garcia Lorca
+* **Temă:** copilarie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

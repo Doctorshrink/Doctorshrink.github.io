@@ -1,0 +1,58 @@
+---
+title: "Don șopârlă plânge"
+subtitle: "Federico Garcia Lorca"
+author: "Doctor Shrink"
+date: "2026-08-04"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJWZZxHZ8s8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Don Șopârlă plânge.<br>
+<br>
+Șopârlița plânge<br>
+<br>
+Don șopârlă și șopârla<br>
+<br>
+Cu albe șoțurlețe.<br>
+<br>
+Au pierdut fără să vrea<br>
+<br>
+inelul de logodnă.<br>
+<br>
+Ay, inelușul lor de plumb,<br>
+<br>
+ay, inelușul plumbuit!<br>
+<br>
+Păsările urcă-n globul<br>
+<br>
+cerului pustiu și-nalt.<br>
+<br>
+Soarele, căpitan rotund,<br>
+<br>
+poartă-o vestă de mătase<br>
+<br>
+Priviți-i ce bătrâni sunt!<br>
+<br>
+Șopârlele, bătrâne!<br>
+<br>
+Ay, cum plâng și plâng,<br>
+<br>
+ay, ay, cum plâng!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Federico Garcia Lorca
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

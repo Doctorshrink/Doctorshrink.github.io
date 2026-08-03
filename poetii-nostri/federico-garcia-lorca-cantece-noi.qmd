@@ -1,0 +1,74 @@
+---
+title: "Cântece noi"
+subtitle: "Federico Garcia Lorca"
+author: "Doctor Shrink"
+date: "2026-08-04"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ykzVgNhMaa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Spune-nserarea: „Mi-e sete de umbră!”<br>
+<br>
+Spune luna: „De luceferi mi-e sete!”<br>
+<br>
+Fântâna limpede cerșește buze<br>
+<br>
+și vântul suspină.<br>
+<br>
+Mi-e sete de-arome și râsete,<br>
+<br>
+sete de cântece noi<br>
+<br>
+fără lună și crini<br>
+<br>
+și fără moarte iubiri.<br>
+<br>
+Un cântec de mâine care să miște<br>
+<br>
+liniștitele iazuri<br>
+<br>
+ale viitorului. Și de speranță să umple<br>
+<br>
+mâlul și undele lor.<br>
+<br>
+Un cântec luminos și-odihnitor<br>
+<br>
+plin de gând,<br>
+<br>
+neatins de tristeți și mâhniri,<br>
+<br>
+neatins de iluzii.<br>
+<br>
+Cântec fără carne lirică ce umple<br>
+<br>
+de râsete liniștea<br>
+<br>
+(un stol de porumbițe oarbe<br>
+<br>
+aruncate misterului).<br>
+<br>
+Cântec care să meargă în inima lucrurilor<br>
+<br>
+și în sufletul vântului,<br>
+<br>
+și care să afle odihnă în bucuria<br>
+<br>
+inimii nemuritoare.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Federico Garcia Lorca
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

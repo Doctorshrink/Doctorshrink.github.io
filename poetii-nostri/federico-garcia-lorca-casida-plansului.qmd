@@ -1,0 +1,50 @@
+---
+title: "Casida plânsului"
+subtitle: "Federico Garcia Lorca"
+author: "Doctor Shrink"
+date: "2026-08-04"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JXX76Yg3a8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Balconul mi l-am închis<br>
+<br>
+fiindcă nu vreau s-aud plânsul<br>
+<br>
+dar înapoia cenușiilor ziduri<br>
+<br>
+nu se-aude-altceva decât plânsul.<br>
+<br>
+Sunt mult prea puțini îngeri ce cântă,<br>
+<br>
+sunt mult prea puțini câini care latră,<br>
+<br>
+în palma mâinii mele-ncap mii de viori.<br>
+<br>
+Dar plânsu-i un câine imens,<br>
+<br>
+plânsu-i un înger imens,<br>
+<br>
+plânsu-i o vioară imensă,<br>
+<br>
+lacrimile pun căluș vântului<br>
+<br>
+și nu se-aude-altceva decât plânsul.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Federico Garcia Lorca
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

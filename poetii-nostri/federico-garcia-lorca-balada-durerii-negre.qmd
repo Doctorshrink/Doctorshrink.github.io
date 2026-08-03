@@ -1,0 +1,120 @@
+---
+title: "Balada durerii negre"
+subtitle: "Federico Garcia Lorca"
+author: "Doctor Shrink"
+date: "2026-08-04"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qHu60TjoPIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ciocurile de cocoşi<br>
+<br>
+scurmă cătând aurora<br>
+<br>
+când din muntele-nnoptat<br>
+<br>
+coboară Soledad Montoya.<br>
+<br>
+Galbenă aramă, carnea-i<br>
+<br>
+miroase a cal şi umbre.<br>
+<br>
+Nicovale fumegânde<br>
+<br>
+sânii, -i gem cântări rotunde.<br>
+<br>
+Soledad, pe cine cauţi<br>
+<br>
+singură, spre zori, anume?<br>
+<br>
+Caut eu pe cine caut,<br>
+<br>
+dar ce-ţi pasă tie, spune ?<br>
+<br>
+Merg să-mi caut bucuria<br>
+<br>
+şi pe mine să mă caut.<br>
+<br>
+Soledad a remuşcării<br>
+<br>
+mele, cal ce umblă razna, care<br>
+<br>
+în sfârşit când dă de mare<br>
+<br>
+valurile îl înghit.<br>
+<br>
+Nu-mi mai aminti de mare ;<br>
+<br>
+ea durerea neagră-mi creşte<br>
+<br>
+în câmpiile măslinei<br>
+<br>
+pe sub foşnet de frunzare.<br>
+<br>
+Soledad, ce jale-ascunzi ?<br>
+<br>
+Ce dureri atât de-adânci ?<br>
+<br>
+Acre de-aşteptări şi gură<br>
+<br>
+lacrimi de lămâie plângi.<br>
+<br>
+Grea durere mă răpune !<br>
+<br>
+Din bucătărie-n casă<br>
+<br>
+fug, şi cozile mi-atârnă<br>
+<br>
+pe pământ, ca la nebune.<br>
+<br>
+mi-s veşmintele şi trupul,<br>
+<br>
+ce durere ! de cărbune.<br>
+<br>
+Ay, cămăşile-mi de fir !<br>
+<br>
+Ay, de mac coapsele mele !<br>
+<br>
+Spală-ţi trupul tău cu apa<br>
+<br>
+ciocârliilor  şi lasă,<br>
+<br>
+Soledad Montoya-n pace<br>
+<br>
+inima ce te apasă.<br>
+<br>
+*<br>
+<br>
+Mişcător de cer şi frunze<br>
+<br>
+râul jos în vale sună.<br>
+<br>
+Cu flori de dovleac, lumina<br>
+<br>
+proaspătă se încunună :<br>
+<br>
+o, durere ţigănească,<br>
+<br>
+veşnic singură, curată.<br>
+<br>
+Jale cu ascunsă matcă<br>
+<br>
+şi-auroră depărtată
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Federico Garcia Lorca
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
