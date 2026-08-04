@@ -1,0 +1,372 @@
+---
+title: "Romanță lunatică"
+subtitle: "Federico Garcia Lorca"
+author: "Doctor Shrink"
+date: "2026-08-05"
+categories: [poezie, spoken-word, luna_stele]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XxQEicmKbeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Verde, cât te iubesc, verde.<br>
+<br>
+Verde vânt. Ramuri de verde.<br>
+<br>
+Luntrea lunecând pe mare,<br>
+<br>
+calul așteptând în munte.<br>
+<br>
+Cu penumbra cursă-n brâie<br>
+<br>
+ea visează pe verandă,<br>
+<br>
+verde carnea, părul verde,<br>
+<br>
+cu ochii de-argint-zăpadă.<br>
+<br>
+Verde, cât te iubesc, verde.<br>
+<br>
+Pe sub luna ei gitană<br>
+<br>
+stă natura s-o privească,<br>
+<br>
+dar ea nu poate s-o vadă.<br>
+<br>
+Verde, cât te iubesc, verde.<br>
+<br>
+Stele mari de promoroacă<br>
+<br>
+vin cu zbaterile umbrei<br>
+<br>
+ce deschid drum aurorei.<br>
+<br>
+Un smochin julește vântul<br>
+<br>
+cu-ale lui frunze de șmirghel,<br>
+<br>
+muntele, motan ce-nhață,<br>
+<br>
+își zbârlește-agave acre.<br>
+<br>
+Cine va veni? De unde...?<br>
+<br>
+Țintuită pe verandă,<br>
+<br>
+verde carnea, părul verde,<br>
+<br>
+ea visând pe mare-amară.<br>
+<br>
+Eu doresc să schimb, cumetre,<br>
+<br>
+calul meu pe casa-ți bună,<br>
+<br>
+hamurile pe oglindă<br>
+<br>
+și cuțitu-mi pe o lână.<br>
+<br>
+Sângerând la tine vin<br>
+<br>
+de pe piscurile Caprei.<br>
+<br>
+Și aș încheia, băiete,<br>
+<br>
+târgul ăsta de-aș putea.<br>
+<br>
+Dar eu nu mai sunt același,<br>
+<br>
+casa-mi nu mai e a mea.<br>
+<br>
+Să mor omenește-aș vrea<br>
+<br>
+eu, prietene, în patu-mi.<br>
+<br>
+De oțel, dacă ar fi,<br>
+<br>
+cu-așternuturi de olandă.<br>
+<br>
+Nu vezi profunzimea rănii<br>
+<br>
+ce o am în pieptul meu?<br>
+<br>
+Trei sute de roze-aprinse<br>
+<br>
+poartă albul tău jabou.<br>
+<br>
+Curge sângele, se simte<br>
+<br>
+șerpuind sub brâul tău.<br>
+<br>
+Dar eu nu mai sunt același,<br>
+<br>
+casa-mi nu mai este casă.<br>
+<br>
+Lasă-mă să urc măcar<br>
+<br>
+spre balcoanele înalte,<br>
+<br>
+lasă-mă să urc - mă lasă! -<br>
+<br>
+pân&#x27; la verzile verande.<br>
+<br>
+Balustrade-n clar de lună,<br>
+<br>
+unde apele răsună.<br>
+<br>
+Și cei doi prieteni suie<br>
+<br>
+către naltele pridvoare.<br>
+<br>
+Lăsând dâre lungi de sânge,<br>
+<br>
+vărsând lacrimi pe cărare.<br>
+<br>
+Lampadarele de staniu<br>
+<br>
+peste țigle tremurau.<br>
+<br>
+Miile de tamburine<br>
+<br>
+de cristal zorii răneau.<br>
+<br>
+Verde, cât te iubesc, verde.<br>
+<br>
+Verde vânt. Ramuri de verde.<br>
+<br>
+Cei doi camarazi suiră.<br>
+<br>
+Lungul vânt lăsa în gură<br>
+<br>
+un gust rar de busuioc,<br>
+<br>
+de pelin și izmă-creață.<br>
+<br>
+Unde e, spune-mi? Cumetre!<br>
+<br>
+Copilița-ți tristă unde-i?<br>
+<br>
+Câte dăți te-a așteptat?<br>
+<br>
+Câte va mai aștepta,<br>
+<br>
+chipul crud, păru-nnoptat,<br>
+<br>
+în balconu-i ce-nverzea!<br>
+<br>
+Peste luciul de fântână<br>
+<br>
+se tot legăna gitana.<br>
+<br>
+Verde carnea, părul verde,<br>
+<br>
+cu ochii de-argint-zăpadă.<br>
+<br>
+De un țurțure de lună<br>
+<br>
+e-agățată peste apă.<br>
+<br>
+Noaptea intimă devine<br>
+<br>
+ca o piață mititică.<br>
+<br>
+Gărzile civile bete<br>
+<br>
+la o poartă pumni ridică.<br>
+<br>
+Verde, cât te iubesc, verde.<br>
+<br>
+Verde vânt. Ramuri de verde.<br>
+<br>
+Luntrea lunecând pe mare,<br>
+<br>
+calul așteptând în munte.<br>
+<br>
+Romance sonámbulo<br>
+<br>
+Verde que te quiero verde.<br>
+<br>
+Verde viento. Verdes ramas.<br>
+<br>
+El barco sobre la mar<br>
+<br>
+y el caballo en la montaña.<br>
+<br>
+Con la sombra en la cintura<br>
+<br>
+ella sueña en su baranda,<br>
+<br>
+verde carne, pelo verde,<br>
+<br>
+con ojos de fría plata.<br>
+<br>
+Verde que te quiero verde.<br>
+<br>
+Bajo la luna gitana,<br>
+<br>
+las cosas le están mirando<br>
+<br>
+y ella no puede mirarlas.<br>
+<br>
+Verde que te quiero verde.<br>
+<br>
+Grandes estrellas de escarcha,<br>
+<br>
+vienen con el pez de sombra<br>
+<br>
+que abre el camino del alba.<br>
+<br>
+La higuera frota su viento<br>
+<br>
+con la lija de sus ramas,<br>
+<br>
+y el monte, gato garduño,<br>
+<br>
+eriza sus pitas agrias.<br>
+<br>
+¿Pero quién vendrá? ¿Y por dónde...?<br>
+<br>
+Ella sigue en su baranda,<br>
+<br>
+verde carne, pelo verde,<br>
+<br>
+soñando en la mar amarga.<br>
+<br>
+Compadre, quiero cambiar<br>
+<br>
+mi caballo por su casa,<br>
+<br>
+mi montura por su espejo,<br>
+<br>
+mi cuchillo por su manta.<br>
+<br>
+Compadre, vengo sangrando,<br>
+<br>
+desde los montes de Cabra.<br>
+<br>
+Si yo pudiera, mocito,<br>
+<br>
+ese trato se cerraba.<br>
+<br>
+Pero yo ya no soy yo,<br>
+<br>
+ni mi casa es ya mi casa.<br>
+<br>
+Compadre, quiero morir<br>
+<br>
+decentemente en mi cama.<br>
+<br>
+De acero, si puede ser,<br>
+<br>
+con las sábanas de holanda.<br>
+<br>
+¿No ves la herida que tengo<br>
+<br>
+desde el pecho a la garganta?<br>
+<br>
+Trescientas rosas morenas<br>
+<br>
+lleva tu pechera blanca.<br>
+<br>
+Tu sangre rezuma y huele<br>
+<br>
+alrededor de tu faja.<br>
+<br>
+Pero yo ya no soy yo,<br>
+<br>
+ni mi casa es ya mi casa.<br>
+<br>
+Dejadme subir al menos<br>
+<br>
+hasta las altas barandas,<br>
+<br>
+dejadme subir, dejadme,<br>
+<br>
+hasta las verdes barandas.<br>
+<br>
+Barandales de la luna<br>
+<br>
+por donde retumba el agua.<br>
+<br>
+Ya suben los dos compadres<br>
+<br>
+hacia las altas barandas.<br>
+<br>
+Dejando un rastro de sangre.<br>
+<br>
+Dejando un rastro de lágrimas.<br>
+<br>
+Temblaban en los tejados<br>
+<br>
+farolillos de hojalata.<br>
+<br>
+Mil panderos de cristal,<br>
+<br>
+herían la madrugada.<br>
+<br>
+Verde que te quiero verde,<br>
+<br>
+verde viento, verdes ramas.<br>
+<br>
+Los dos compadres subieron.<br>
+<br>
+El largo viento, dejaba<br>
+<br>
+en la boca un raro gusto<br>
+<br>
+de hiel, de menta y de albahaca.<br>
+<br>
+¡Compadre! ¿Dónde está, dime?<br>
+<br>
+¿Dónde está mi niña amarga?<br>
+<br>
+¡Cuántas veces te esperó!<br>
+<br>
+¡Cuántas veces te esperara,<br>
+<br>
+cara fresca, negro pelo,<br>
+<br>
+en esta verde baranda!<br>
+<br>
+Sobre el rostro del aljibe<br>
+<br>
+se mecía la gitana.<br>
+<br>
+Verde carne, pelo verde,<br>
+<br>
+con ojos de fría plata.<br>
+<br>
+Un carámbano de luna<br>
+<br>
+la sostiene sobre el agua.<br>
+<br>
+La noche su puso íntima<br>
+<br>
+como una pequeña plaza.<br>
+<br>
+Guardias civiles borrachos,<br>
+<br>
+en la puerta golpeaban.<br>
+<br>
+Verde que te quiero verde.<br>
+<br>
+Verde viento. Verdes ramas.<br>
+<br>
+El barco sobre la mar.<br>
+<br>
+Y el caballo en la montaña.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Federico Garcia Lorca
+* **Temă:** luna_stele
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

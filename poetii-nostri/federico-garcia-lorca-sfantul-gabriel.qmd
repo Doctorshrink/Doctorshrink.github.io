@@ -1,0 +1,328 @@
+---
+title: "Sfântul Gabriel"
+subtitle: "Federico Garcia Lorca"
+author: "Doctor Shrink"
+date: "2026-08-05"
+categories: [poezie, spoken-word, dumnezeu]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h3w8PL5x5dQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+I<br>
+<br>
+Un fecior frumos, de trestii,<br>
+<br>
+umeri largi, mijloc subțire,<br>
+<br>
+pielea măr sclipind în noapte,<br>
+<br>
+ochii mari și gura tristă<br>
+<br>
+nerv de-argint ce se topește,<br>
+<br>
+bântuie pustia cale.<br>
+<br>
+Încălțările-i lucinde<br>
+<br>
+rupe dalii prinse-n aer,<br>
+<br>
+două ritmuri care cântă<br>
+<br>
+scurtul și celestul vaier.<br>
+<br>
+Peste țărmul mării-ntinse<br>
+<br>
+nu e palmă să-l întreacă,<br>
+<br>
+nici stăpân cu-mpărăție<br>
+<br>
+și nici stea rătăcitoare.<br>
+<br>
+Creștetul când îl apleacă<br>
+<br>
+peste pieptu-i peruzea,<br>
+<br>
+noaptea caută câmpia,<br>
+<br>
+în genunchi a se ruga.<br>
+<br>
+Sună tristele chitare<br>
+<br>
+pentru-Arhanghel Gabriel,<br>
+<br>
+strunitor de-obscure molii,<br>
+<br>
+și ostil pletoasei sălcii.<br>
+<br>
+Sfinte Gabriel: Copilul<br>
+<br>
+plânge-n pântecul de mamă.<br>
+<br>
+Să nu uiți că noi, țiganii,<br>
+<br>
+dăruitu-ți-am veșmântul.<br>
+<br>
+II<br>
+<br>
+Bun-a magilor Vestire,<br>
+<br>
+luminată și săracă,<br>
+<br>
+poarta stelei o deschide,<br>
+<br>
+pentru-a luneca pe-o rază.<br>
+<br>
+Sfântu-Arhanghel Gabriel,<br>
+<br>
+printre iriși și-o zâmbire,<br>
+<br>
+strănepot de al Giraldei*,<br>
+<br>
+își apropie venirea.<br>
+<br>
+Și din vesta lui brodată<br>
+<br>
+greierii ascunși vibrează.<br>
+<br>
+Stelele din miez de noapte<br>
+<br>
+clopoței se conturează.<br>
+<br>
+Iată-mă aici, preasfinte,<br>
+<br>
+cu trei cuie-bucurie.<br>
+<br>
+Iasomii, cu strălucirea-ți,<br>
+<br>
+îmi deschizi pe chip ce arde.<br>
+<br>
+Domnul să te mântuiască,<br>
+<br>
+Sfântă și Bună Vestire.<br>
+<br>
+Minunată arămie**.<br>
+<br>
+Vei avea un prunc frumos,<br>
+<br>
+trup de briză străvezie.<br>
+<br>
+Sfinte Gabriel din ochi-mi!<br>
+<br>
+Gabrielito-al vieții mele!<br>
+<br>
+Eu visez ca să te-așezi<br>
+<br>
+pe un jilț din flori de stele.<br>
+<br>
+Mântuiască-te, Vestire!,<br>
+<br>
+luminată, zdrențuită.<br>
+<br>
+Pruncul tău pe trup va pune<br>
+<br>
+vreo trei răni și-o aluniță.<br>
+<br>
+Sfinte Gabriel ce arzi!<br>
+<br>
+Gabrielito-al vieții mele!<br>
+<br>
+În străfundul meu din piept<br>
+<br>
+s-a născut un lapte cald.<br>
+<br>
+Dumnezeu te mântuiască,<br>
+<br>
+Sfântă și Bună Vestire.<br>
+<br>
+Mama stirpelor - o sută.<br>
+<br>
+Ochii-ți par arizi și goi,<br>
+<br>
+peisaje lungi, ecvestre.<br>
+<br>
+*<br>
+<br>
+Pruncul cântă stând la sânul<br>
+<br>
+Bunei și Sfintei Vestiri.<br>
+<br>
+Trei verzi sâmburi de migdale<br>
+<br>
+tremură-n glăsciorul lui.<br>
+<br>
+Deja, Gabriel, pe-o scară,<br>
+<br>
+înălța la cer urcare.<br>
+<br>
+Stelele din miezul nopții<br>
+<br>
+deveneau nemuritoare.<br>
+<br>
+Notă*<br>
+<br>
+Giralda - este numele dat turnului de clopot al Catedralei Santa María de la Sede, din orașul Sevilia, Andaluzia - Spania. Giralda are o înălțime de 104,1 metri și a fost timp de secole cel mai înalt turn din Spania și una dintre cele mai mari și cele mai renumite clădiri din Europa.<br>
+<br>
+Minunată arămie (Morena de maravilla) - se referă la Sfânta Fecioară Maria.<br>
+<br>
+San Gabriel<br>
+<br>
+Un bello niño de junco,<br>
+<br>
+anchos hombros, fino talle,<br>
+<br>
+piel de nocturna manzana,<br>
+<br>
+boca triste y ojos grandes,<br>
+<br>
+nervio de plata caliente,<br>
+<br>
+ronda la desierta calle.<br>
+<br>
+Sus zapatos de charol<br>
+<br>
+rompen las dalias del aire,<br>
+<br>
+con los dos ritmos que cantan<br>
+<br>
+breves lutos celestiales.<br>
+<br>
+En la ribera del mar<br>
+<br>
+no hay palma que se le iguale,<br>
+<br>
+ni emperador coronado,<br>
+<br>
+ni lucero caminante.<br>
+<br>
+Cuando la cabeza inclina<br>
+<br>
+sobre su pecho de jaspe,<br>
+<br>
+la noche busca llanuras<br>
+<br>
+porque quiere arrodillarse.<br>
+<br>
+Las guitarras suenan solas<br>
+<br>
+para San Gabriel Arcángel,<br>
+<br>
+domador de palomillas<br>
+<br>
+y enemigo de los sauces.<br>
+<br>
+San Gabriel: El niño llora<br>
+<br>
+en el vientre de su madre.<br>
+<br>
+No olvides que los gitanos<br>
+<br>
+te regalaron el traje.<br>
+<br>
+II<br>
+<br>
+Anunciación de los Reyes,<br>
+<br>
+bien lunada y mal vestida,<br>
+<br>
+abre la puerta al lucero<br>
+<br>
+que por la calle venía.<br>
+<br>
+El Arcángel San Gabriel,<br>
+<br>
+entre azucena y sonrisa,<br>
+<br>
+bisnieto de la Giralda,<br>
+<br>
+se acercaba de visita.<br>
+<br>
+En su chaleco bordado<br>
+<br>
+grillos ocultos palpitan.<br>
+<br>
+Las estrellas de la noche<br>
+<br>
+se volvieron campanillas.<br>
+<br>
+San Gabriel: Aquí me tienes<br>
+<br>
+con tres clavos de alegría.<br>
+<br>
+Tu fulgor abre jazmines<br>
+<br>
+sobre mi cara encendida.<br>
+<br>
+Dios te salve, Anunciación.<br>
+<br>
+Morena de maravilla.<br>
+<br>
+Tendrás un niño más bello<br>
+<br>
+que los tallos de la brisa.<br>
+<br>
+¡Ay, San Gabriel de mis ojos!<br>
+<br>
+¡Gabrielillo de mi vida!,<br>
+<br>
+Para sentarte yo sueño<br>
+<br>
+un sillón de clavellinas.<br>
+<br>
+Dios te salve, Anunciación,<br>
+<br>
+bien lunada y mal vestida.<br>
+<br>
+Tu niño tendrá en el pecho<br>
+<br>
+un lunar y tres heridas.<br>
+<br>
+¡Ay, San Gabriel que reluces!<br>
+<br>
+¡Gabrielillo de mi vidal!<br>
+<br>
+En el fondo de mis pechos<br>
+<br>
+ya nace la leche tibia.<br>
+<br>
+Dios te salve, Anunciación.<br>
+<br>
+Madre de cien dinastías.<br>
+<br>
+Áridos lucen tus ojos,<br>
+<br>
+paisajes de caballista.<br>
+<br>
+*<br>
+<br>
+El niño canta en el seno<br>
+<br>
+de Anunciación sorprendida.<br>
+<br>
+Tres balas de almendra verde<br>
+<br>
+tiemblan en su vocecita.<br>
+<br>
+Ya San Gabriel en el aire<br>
+<br>
+por una escala subía.<br>
+<br>
+Las estrellas de la noche<br>
+<br>
+se volvieron siemprevivas.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Federico Garcia Lorca
+* **Temă:** dumnezeu
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,144 @@
+---
+title: "Preciosa şi vântul"
+subtitle: "Federico Garcia Lorca"
+author: "Doctor Shrink"
+date: "2026-08-05"
+categories: [poezie, spoken-word, vant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b4kZDppsy2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Luna ei de pergament<br>
+<br>
+sunând, Preciosa-apare<br>
+<br>
+pe o umedă potecă<br>
+<br>
+de leandri şi cristale.<br>
+<br>
+Liniştea fără de stele<br>
+<br>
+tot fugind de tamburină<br>
+<br>
+moare unde marea-şi cântă<br>
+<br>
+noaptea ei de peşte plină.<br>
+<br>
+Sus, pe crestele sierrei<br>
+<br>
+dorm acum carabinierii<br>
+<br>
+păzind turnurile albe<br>
+<br>
+unde locuiesc englezii.<br>
+<br>
+Iar ţiganii de pe ape<br>
+<br>
+nalţă ca să se desfete<br>
+<br>
+umbrare din melci de mare<br>
+<br>
+şi din ramuri de pin verde.<br>
+<br>
+Luna ei de pergament<br>
+<br>
+sunând, Preciosa vine.<br>
+<br>
+Şi văzând-o, s-a stârnit<br>
+<br>
+vântul cel neadormit.<br>
+<br>
+Iar San Cristobald, gol puşcă<br>
+<br>
+plin de limbi cereşti de foc,<br>
+<br>
+priveşte fata cântând<br>
+<br>
+dintr-un flaut dulce, -absent.<br>
+<br>
+Fată, lasă-mă să-ţi salt<br>
+<br>
+rochia, să văd. Deschide<br>
+<br>
+mâinii mele-mbătrânite<br>
+<br>
+roza-albastră-ascunsă-n pântec.<br>
+<br>
+Ea aruncă tamburina<br>
+<br>
+şi aleargă înainte.<br>
+<br>
+Tânăr, vântu-o urmăreşte<br>
+<br>
+cu o sabie fierbinte.<br>
+<br>
+Marea, vuietul şi-a stins.<br>
+<br>
+Se îngălbenesc măslinii.<br>
+<br>
+Cântă flautele umbrei<br>
+<br>
+şi-al zăpezii gong întins.<br>
+<br>
+Preciosa, fugi, Preciosa,<br>
+<br>
+că te prinde vântul verde !<br>
+<br>
+Preciosa, fugi, Preciosa !<br>
+<br>
+Uită-te pe unde-apare !<br>
+<br>
+Satirul de stele joase<br>
+<br>
+şi cu limbi strălucitoare.<br>
+<br>
+*<br>
+<br>
+Preciosa-nspăimântată<br>
+<br>
+intră-n casa ce o are<br>
+<br>
+dincolo de pini, mai sus,<br>
+<br>
+consulul englez, spre mare.<br>
+<br>
+Speriaţi de ţipăt vin<br>
+<br>
+trei carabinieri în goană,<br>
+<br>
+mantii negre strânse-n talii<br>
+<br>
+şi bonete pe sprînceană.<br>
+<br>
+Lapte cald, să bea, o cană<br>
+<br>
+englezul ţigăncii-i dă<br>
+<br>
+şi o cupă de ienupăr.<br>
+<br>
+Preciosa nu le bea.<br>
+<br>
+Când le spune-acelor oameni<br>
+<br>
+întâmplarea sa, plângând,<br>
+<br>
+din olanele de-ardezie<br>
+<br>
+vântul muşcă, furibund
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Federico Garcia Lorca
+* **Temă:** vant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,66 @@
+---
+title: "Tarara"
+subtitle: "Federico Garcia Lorca"
+author: "Doctor Shrink"
+date: "2026-08-05"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqJepL1l_eU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Tarara da;<br>
+<br>
+Tarara nu;<br>
+<br>
+Tarara  fata<br>
+<br>
+pe care-o văzui.<br>
+<br>
+Tarara mea poartă<br>
+<br>
+o rochie verde<br>
+<br>
+numai volane<br>
+<br>
+și clopoței.<br>
+<br>
+Tarara da;<br>
+<br>
+Tarara nu;<br>
+<br>
+Tarara  fata<br>
+<br>
+pe care-o văzui.<br>
+<br>
+Tarara mea-și arată<br>
+<br>
+coada-i de mătase<br>
+<br>
+peste grozane<br>
+<br>
+și peste izmă.<br>
+<br>
+Ay, Tarara nebuna.<br>
+<br>
+Își leagănă talia<br>
+<br>
+pentru flăcăii<br>
+<br>
+dintre măslini.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Federico Garcia Lorca
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

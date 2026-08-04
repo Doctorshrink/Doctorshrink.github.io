@@ -1,0 +1,38 @@
+---
+title: "Tăcerea"
+subtitle: "Federico Garcia Lorca"
+author: "Doctor Shrink"
+date: "2026-08-05"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RPimPifyc7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ascultă, fiul meu, tăcerea.<br>
+<br>
+E o tăcere unduită,<br>
+<br>
+o tăcere<br>
+<br>
+unde alunecă văi și ecouri<br>
+<br>
+și care-nclină frunțile<br>
+<br>
+către țărână.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Federico Garcia Lorca
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
