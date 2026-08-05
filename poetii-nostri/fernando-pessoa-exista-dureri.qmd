@@ -1,0 +1,42 @@
+---
+title: "Există dureri"
+subtitle: "Fernando Pessoa"
+author: "Doctor Shrink"
+date: "2026-08-06"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z2YfrI3Rjt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Există dureri mai grele decât durerile,<br>
+Dureri ce nu dor, nici măcar în suflet,<br>
+Deși sunt mai dureroase ca altele.<br>
+Sunt angoase visate mult mai reale<br>
+Decât cele pe care le-aduce viaţa, senzații<br>
+Simțite doar cu imaginația, proprii<br>
+Vieții noastre chiar mai mult decât viaţa noastră<br>
+Lucruri nenumărate care, neexistând<br>
+Există, există cu încăpățânare,<br>
+Sunt ale noastre, cu încăpățânare, și suntem noi...<br>
+În cupa cea verde a fluviului maiestuos<br>
+Se regăsește strălucirea albilor pescăruși...<br>
+Iar peste suflet inutilă trece o alinare<br>
+Din ceva care nu există, și nici nu poate, și este totul.<br>
+Mai dați-mi vin, căci viaţa nu e nimic.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Fernando Pessoa
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

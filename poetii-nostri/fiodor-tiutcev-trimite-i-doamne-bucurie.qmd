@@ -1,0 +1,66 @@
+---
+title: "Trimite-i, Doamne, bucurie"
+subtitle: "Fiodor Tiutcev"
+author: "Doctor Shrink"
+date: "2026-08-06"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YXLuJrcAPv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Trimite-i, Doamne, bucurie<br>
+<br>
+Acelui ce-n arsura verii<br>
+<br>
+Robit de-adâncă sărăcie<br>
+<br>
+Străbate târgurile ţării.<br>
+<br>
+Acelui ce din întâmplare<br>
+<br>
+Priveşte umbrele grădinii,<br>
+<br>
+Verdeaţa văilor în zare<br>
+<br>
+În strălucirile luminii.<br>
+<br>
+Căci nu pentru a lui primire<br>
+<br>
+Umbroşii pomi-n verdeaţă cresc,<br>
+<br>
+Nici pentru a lui răcorire<br>
+<br>
+Cişmelele în sus ţâşnesc.<br>
+<br>
+Peşteri frumoase, ca prin ceaţă,<br>
+<br>
+Privirea lui degrabă vede,<br>
+<br>
+Şi rouratica verdeaţă<br>
+<br>
+Nu-i curmă arzătoarea sete.<br>
+<br>
+Trimite-i, Doamne, bucurie<br>
+<br>
+Acelui care calea vieţii<br>
+<br>
+Şi-o trece-n boală, sărăcie,<br>
+<br>
+Robit de vrajba răutăţii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Fiodor Tiutcev
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

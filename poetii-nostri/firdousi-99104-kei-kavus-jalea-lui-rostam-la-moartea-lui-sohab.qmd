@@ -1,0 +1,92 @@
+---
+title: "9.9.(10.4) Kei Kavus. Jalea lui Rostam la moartea lui Sohab"
+subtitle: "Firdousi"
+author: "Doctor Shrink"
+date: "2026-08-06"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxyoAJO1kEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Porunci-n brocarturi scumpe vrednice şi de un șah<br>
+<br>
+să-i învăluiască trupul fiului ce pizmui<br>
+<br>
+tronul şi împărăția, şi-un sicriu găsi, îngust.<br>
+<br>
+Fu adus din câmp coşciugul, şi spre corturi se-ndreptă.<br>
+<br>
+Foc la tabără îşi puse, oastea-n cap îşi presără<br>
+<br>
+pulbere. Se aruncară toate corturile-n foc<br>
+<br>
+din brocarturi înmuiate în culori de curcubeu,<br>
+<br>
+şi-a lui şea ce-i căptuşită-n pielea unui leopard,<br>
+<br>
+şi i-a fost lui tronul falnic. Lungu-i răcnet se-nălță<br>
+<br>
+ca un tunet, şi viteazul şi stăpânul lumii-ntregi<br>
+<br>
+vaiete stârni din pieptu-i : „Lumea n-o vedea nicicând<br>
+<br>
+mândru, un alt fecior ca tine, mai viteaz, mai îndrăzneț<br>
+<br>
+în ceas crâncen de bătaie ! Vai de-acest odor de preț,<br>
+<br>
+şi de-această-nțelepciune ! Vai de-aceşti obraji şi vai<br>
+<br>
+de-avîntata lui statură ! Vai de-acest sfîşietor<br>
+<br>
+chin din sufletul în zdrente ! Tu eşti mort şi maică-ta<br>
+<br>
+prea-i departe şi ți-i pieptul spintecat de tatăl tău !\&quot;<br>
+<br>
+Rostam plânse numai sânge şi-n țărână-nfipse-adânc<br>
+<br>
+aspre unghii, scump, veşmântul, aspru-şi smulse de pe piept<br>
+<br>
+şi grăi : „Zal, plete albe, virtuoasa Rudabe<br>
+<br>
+m-or învinui zicându-mi Cum găsi Rostam un braț<br>
+<br>
+de-a izbi-n fecioru-i, pieptul cum să-l spintece putu ? »<br>
+<br>
+De nelegiuirea-aceasta cum o să mă apăr . . .? Cum<br>
+<br>
+îndulci-voi din cuvinte chinu-amar din pieptul lor . . . ?<br>
+<br>
+Cei viteji şi mari ce-or zice de ticăloşia mea<br>
+<br>
+când vor şti că din grădină-am smuls un verde chiparos . . . ?&quot;<br>
+<br>
+Pahlivanii lui Kei Kavus şi Rostam şezură-n colb,<br>
+<br>
+şi cei mari aveau pe buze sfaturi gata să le dea,<br>
+<br>
+dar spre ei, Rostam în jalea lui aminte n-a luat.<br>
+<br>
+Notă informativă :<br>
+<br>
+...smuls un verde chiparos - Motivul tragic al luptei<br>
+<br>
+dintre tată şi fecior întâlnit în baladele germane<br>
+<br>
+îşi are izvorul în străvecbiul folclor iranian.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Firdousi
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
