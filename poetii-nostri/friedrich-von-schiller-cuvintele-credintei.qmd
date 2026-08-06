@@ -1,0 +1,86 @@
+---
+title: "Cuvintele Credinţei"
+subtitle: "Friedrich von Schiller"
+author: "Doctor Shrink"
+date: "2026-08-07"
+categories: [poezie, spoken-word, dumnezeu]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JWKwAntKKjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Eu ştiu trei cuvinte — şi rostul li-i sfânt<br>
+<br>
+Trec ele din gură în gură,<br>
+<br>
+Nici răul, nici jalea acestui pământ<br>
+<br>
+Sfinţenia lor nu le fură;<br>
+<br>
+Şi cel ce în ele mai mult n-a crezut,<br>
+<br>
+Credinţa şi cinstea de mult şi-a vândut.<br>
+<br>
+Voinţa ni-i slobodă, — aşa ne-a zidit<br>
+<br>
+Cel sfânt, — şi în neagra robie,<br>
+<br>
+Şi cel ce dreptatea pe lumea-a iubit<br>
+<br>
+Aceasta prea bine o ştie.<br>
+<br>
+De vrei să-l urmezi — apoi fugi de păcat<br>
+<br>
+Şi sufletul tău îl păstrează curat.<br>
+<br>
+Dreptatea pe lume nu-i sunet deşert,<br>
+<br>
+Îşi are ea rost în viaţă:<br>
+<br>
+Cei drepţi şi-n robie norocul nu-şi pierd,<br>
+<br>
+Viaţa aşa ne învaţă.<br>
+<br>
+Acest adevăr pentru noi îi ascuns,<br>
+<br>
+Dar pruncii cei mici mai demult l-au pătruns.<br>
+<br>
+Căci Unu îi Domnul — Preasfântă voinţă<br>
+<br>
+În toate voinţele noastre,<br>
+<br>
+Şi una-i în toate Preasfânta Fiinţă<br>
+<br>
+Mai sus de-nălţările-albastre;<br>
+<br>
+Pe rând trec schimbările-n vecinic lanţuh,<br>
+<br>
+Acelaşi rămâne în veci Sfântul Duh.<br>
+<br>
+Păziţi trei cuvinte, şi rostul lor sfânt<br>
+<br>
+Îl treceţi din gură în gură,<br>
+<br>
+Căci răul şi jalea acestui pământ<br>
+<br>
+Sfinţenia lor nu le fură,<br>
+<br>
+Şi cel ce-n sfinţenia lor a crezut<br>
+<br>
+Credinţa şi cinstea nu şi-a pierdut.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Friedrich von Schiller
+* **Temă:** dumnezeu
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

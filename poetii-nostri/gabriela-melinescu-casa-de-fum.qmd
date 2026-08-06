@@ -1,0 +1,52 @@
+---
+title: "Casa de fum"
+subtitle: "Gabriela Melinescu"
+author: "Doctor Shrink"
+date: "2026-08-07"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QG0cMug56Fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cărămizile casei noastre sunt din fum.<br>
+<br>
+Se vede un flaut suspendat.<br>
+<br>
+Patul cântă singur.<br>
+<br>
+De trei ori să fii lăudat fum,<br>
+<br>
+pentru tine știu că există un vârf de urcat.<br>
+<br>
+Nimicul lucește în mijlocul casei.<br>
+<br>
+Țin în gură un diamant.<br>
+<br>
+Printre obiecte vii psalmodiez<br>
+<br>
+cu pas amețitor de coribant.<br>
+<br>
+Nimeni nu poate opri procesiunea<br>
+<br>
+de oameni travestiți în crini.<br>
+<br>
+Se vede casa noastră de fum<br>
+<br>
+și toți cei care au picioare, aripi și rădăcini.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Gabriela Melinescu
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

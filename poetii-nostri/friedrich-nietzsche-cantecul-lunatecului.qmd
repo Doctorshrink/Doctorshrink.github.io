@@ -1,0 +1,52 @@
+---
+title: "Cântecul lunatecului"
+subtitle: "Friedrich Nietzsche"
+author: "Doctor Shrink"
+date: "2026-08-07"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVa4WZ6RiLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Învăţat-aţi acuma cântecul meu? Ghicit-aţi ce vrea? Ei bine! Haideţi! Oamenilor superiori, cântaţi-mi acuma cântecul, roată, pe rând!<br>
+<br>
+Cântaţi-mi acuma voi înşivă cântecul ce se cheamă &quot;De la capăt&quot;, al cărui tâlc e &quot;în vecii vecilor!&quot;, cântaţi, superiorilor, cântecul-roată al lui Zarathustra!<br>
+<br>
+Hei om! Veghezi?<br>
+<br>
+Ce zice-adâncul nopţii miez?<br>
+<br>
+&quot;Dormeam somn greu ,<br>
+<br>
+&quot;Din vis adânc eu m-am trezit: <br>
+<br>
+&quot;E lumea hău,<br>
+<br>
+&quot;Adânc cum ziua n-a gândit.<br>
+<br>
+&quot;Cu-adânci dureri ,<br>
+<br>
+&quot;Plăcerea-i mai adâncă-n ea:<br>
+<br>
+&quot;Dureri zic: Pieri!<br>
+<br>
+&quot;Plăcerea veşnicie vrea ,<br>
+<br>
+&quot; adâncă, mai adânc-o vrea!&quot;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Friedrich Nietzsche
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,234 @@
+---
+title: "Odă bucuriei"
+subtitle: "Friedrich von Schiller"
+author: "Doctor Shrink"
+date: "2026-08-07"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Okl9aAebYbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Bucurie, stea divină<br>
+<br>
+Fiică tu din Elizeu,<br>
+<br>
+Noi intrăm beți de lumină<br>
+<br>
+Pe cerescu-ți sfânt traseu.<br>
+<br>
+Farmecele îmbinară<br>
+<br>
+Tot ce moda a stricat;<br>
+<br>
+Frați vor fi oamenii iară<br>
+<br>
+Unde aripa ți-a stat.<br>
+<br>
+Cor:<br>
+<br>
+Fiți cuprinși voi milioane<br>
+<br>
+De sărutul lumii-ntregi!<br>
+<br>
+Frați – deasupra sub coroane<br>
+<br>
+Un părinte stă de veci.<br>
+<br>
+Cui i-a sorocit norocul<br>
+<br>
+Un prieten de-a avea,<br>
+<br>
+Cu iubire prinde-și jocul<br>
+<br>
+În a bucuriei stea!<br>
+<br>
+Da - oricine doar un suflet<br>
+<br>
+Al său este pe pământ!<br>
+<br>
+Cine nu scoate un sunet<br>
+<br>
+Plece din ăst legământ.<br>
+<br>
+Cor:<br>
+<br>
+Cine cântă pe-acest ton,<br>
+<br>
+Laude simpatia-n cele<br>
+<br>
+Ce s-or duce înspre stele<br>
+<br>
+Unde stă Domnul pe tron.<br>
+<br>
+Ființele beau bucurie<br>
+<br>
+Din naturii dulce sân;<br>
+<br>
+Tot ce-i bun, plin de mărie<br>
+<br>
+Va urma rostul bătrân.<br>
+<br>
+Ne-a dat sărutări și viță,<br>
+<br>
+Un prieten caduceu;<br>
+<br>
+Viermelui i-a dat ființă,<br>
+<br>
+Heruvim lui Dumnezeu.<br>
+<br>
+Cor:<br>
+<br>
+Cădeți jos voi milioane?<br>
+<br>
+Nu simțiți Domnul în cer?<br>
+<br>
+Caută-l în celeste stane!<br>
+<br>
+El acolo stă lejer.<br>
+<br>
+Bucuria este pana<br>
+<br>
+Pe întinsul jovial.<br>
+<br>
+Bucuria-nvârte roata<br>
+<br>
+Ceasului sfânt mondial.<br>
+<br>
+Scoate flori din muguri blânde,<br>
+<br>
+Soare de pe firmament,<br>
+<br>
+Și învârte roți crescânde<br>
+<br>
+Văzului eminament.<br>
+<br>
+Cor:<br>
+<br>
+Bucuroși zburați spre soare<br>
+<br>
+Prin frumoase planuri noi,<br>
+<br>
+Mergeți frați a voastră cale<br>
+<br>
+Fericiți ca sfinți eroi.<br>
+<br>
+În oglinda înfocată<br>
+<br>
+El zâmbește, sfidător<br>
+<br>
+Înspre valea invocată<br>
+<br>
+Celui care-i răbdător.<br>
+<br>
+Sus pe-a soarelui credință<br>
+<br>
+Se ivesc flamuri zburând<br>
+<br>
+Pe sicrie de căință<br>
+<br>
+Stând cu îngerii la rând.<br>
+<br>
+Cor:<br>
+<br>
+Îndurați voi milioane!<br>
+<br>
+Îndurați pentru ce-i bun!<br>
+<br>
+Sus, deasupra-n diafane<br>
+<br>
+Ceruri stă un sfânt tribun.<br>
+<br>
+Zeii nu primesc răsplată;<br>
+<br>
+E frumos să fiți ca ei.<br>
+<br>
+Veniți voi săraci deodată,<br>
+<br>
+Bucuria-i cu temei.<br>
+<br>
+Fie urile uitate,<br>
+<br>
+Inamicului iertat:<br>
+<br>
+Lacrimilor duritate<br>
+<br>
+Nu vă ducă spre păcat.<br>
+<br>
+Cor:<br>
+<br>
+Datoriile-s distruse!<br>
+<br>
+Toată lumea s-a împăcat!<br>
+<br>
+Frați – precum ce Domnul spuse<br>
+<br>
+Judecă ce-ați judecat.<br>
+<br>
+Bucuria curge-n cupe,<br>
+<br>
+Din al strugurilor must,<br>
+<br>
+Beți voi canibali cu sute<br>
+<br>
+Eroismul plin de gust -<br>
+<br>
+Fraților, zburați spre stele<br>
+<br>
+Cât pocalu-i încă plin,<br>
+<br>
+Lăsați vinul către ele<br>
+<br>
+Să se urce pe deplin.<br>
+<br>
+Cor:<br>
+<br>
+Fiindcă cerul imnul cerne,<br>
+<br>
+Serafimul lăudând,<br>
+<br>
+Cu pocalul plin așterne<br>
+<br>
+Fericirea-n sus zburând!<br>
+<br>
+Curaj vrednic, poveri grele,<br>
+<br>
+Ajutor, unde-i de plâns<br>
+<br>
+Veșnicia jură-n ele<br>
+<br>
+Adevărul pur pătruns<br>
+<br>
+Peste scaunele regale, -<br>
+<br>
+Fraților, cu sânge bun -<br>
+<br>
+Meritele coroanele;<br>
+<br>
+Cad minciunilor din sân!<br>
+<br>
+Cor:<br>
+<br>
+Strângeți-vă cercul sacru,<br>
+<br>
+Și Jurați pe acest vin,<br>
+<br>
+Fiți fideli acestui lucru,<br>
+<br>
+Jurământului divin.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Friedrich von Schiller
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

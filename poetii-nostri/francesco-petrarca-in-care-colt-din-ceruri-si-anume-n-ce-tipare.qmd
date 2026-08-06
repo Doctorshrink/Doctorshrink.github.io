@@ -1,0 +1,56 @@
+---
+title: "În care colţ din ceruri şi-anume-n ce tipare"
+subtitle: "Francesco Petrarca"
+author: "Doctor Shrink"
+date: "2026-08-07"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rll_0M65nAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+volumul &quot;Petrarca- Sonete&quot;, (Editura Tineretului, 1959)<br>
+<br>
+În care colţ din ceruri şi-anume-n ce tipare<br>
+<br>
+Găsi model Natura, atunci cînd făuri<br>
+<br>
+Făptura cea mai dragă? Creînd-o, ea voi<br>
+<br>
+S-arate lumii cîtă putere-n ceruri are!<br>
+<br>
+Ce zînă în pădure, ce nimfă la izvoare<br>
+<br>
+Atît de blonde bucle a desfăcut cîndva?<br>
+<br>
+Ce inimă, atîtea virtuţi a strîns în ea?<br>
+<br>
+Deşi virtutea asta e-n veci ucigătoare!<br>
+<br>
+Divina frumuseţe e pentru toţi poveste,<br>
+<br>
+Cînd ochii dragei mele nu i-au privit nicicînd-<br>
+<br>
+Acea căutătură ce-atît de dulce este.<br>
+<br>
+Şi nu va şti cum Amor ucide şi alină<br>
+<br>
+Acel ce n-a văzut-o cît de suav suspină,<br>
+<br>
+Vorbind atît de dulce surîzînd.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Francesco Petrarca
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

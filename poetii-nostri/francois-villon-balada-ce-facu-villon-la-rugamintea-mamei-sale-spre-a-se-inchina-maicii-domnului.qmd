@@ -1,0 +1,100 @@
+---
+title: "Baladă către Maica Domnului (ce făcu Villon la rugămintea mamei sale spre a se închina Maicii Domnului)"
+subtitle: "Francois Villon"
+author: "Doctor Shrink"
+date: "2026-08-07"
+categories: [poezie, spoken-word, mama]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BM58s6XXpxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Doamnă din cer, pământului regină,<br>
+<br>
+A iadului tărâm împărăteasă,<br>
+<br>
+Primește-mă, umila ta creștină,<br>
+<br>
+Între aleși să fiu și eu aleasă,<br>
+<br>
+Cu toate că nu sunt prea merituoasă.<br>
+<br>
+Darul ce-mi faci, Stăpână, împlinit,<br>
+<br>
+E mult față de câte am greșit,<br>
+<br>
+Căci fără el, nici nu e cu  putință<br>
+<br>
+S-ajung la ceruri. N-am de gând să mint:<br>
+<br>
+Vreau să trăiesc, să mor, întru credință.<br>
+<br>
+Zi-i Fiului că sunt a Lui, deplină;<br>
+<br>
+Și să mă ierte, de sunt păcătoasă,<br>
+<br>
+Cum Egiptencei1 nu i-a găsit vină,<br>
+<br>
+Sau Teophilus2 , fire ticăloasă,<br>
+<br>
+Cum fu iertat de orișice pedeapsă,<br>
+<br>
+Deși cu dracul pactul l-a-ntocmit.<br>
+<br>
+Păzește-mă de-așa un pas smintit,<br>
+<br>
+Fecioară, care porți cu umilință<br>
+<br>
+Trupul lui Crist, la slujbă-mpărtășit:<br>
+<br>
+Vreau să trăiesc, să mor, întru credință.<br>
+<br>
+Femeie sunt, săracă și bătrână,<br>
+<br>
+Ce nu știe nimic, nici să citească,<br>
+<br>
+În catedrală văd, când iau lumină,<br>
+<br>
+Raiul, pictat de mână credincioasă,<br>
+<br>
+Infernul, cu-a lui gloată zgomotoasă:<br>
+<br>
+Frică îmi face, cel’lalt nici un pic.<br>
+<br>
+Dă-mi, Zână, șansa raiului, râvnit<br>
+<br>
+De toți cei copleșiți de pocăință<br>
+<br>
+Căci fericită, fără să ezit,<br>
+<br>
+Vreau să trăiesc, să mor, întru credință.<br>
+<br>
+Viu l-ai purtat pe Fiul Tău iubit,<br>
+<br>
+Isus eternul, fără de sfârșit.<br>
+<br>
+Luă el asupra-i tot ce-am făptuit,<br>
+<br>
+Lăsă cerescul rai, și-n suferință,<br>
+<br>
+Orândui să moară, chinuit;<br>
+<br>
+Ne este Domn, căci l-am mărturisit:<br>
+<br>
+Vreau să trăiesc, să mor, întru credință.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Francois Villon
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
