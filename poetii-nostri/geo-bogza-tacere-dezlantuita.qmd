@@ -1,0 +1,106 @@
+---
+title: "Tăcere dezlănţuită"
+subtitle: "Geo Bogza"
+author: "Doctor Shrink"
+date: "2026-08-08"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AlfceMxiYFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Acum îşi împlinea poetul visul lui de tăcere universală<br>
+<br>
+strânsese în dinţi virtutea peşterilor mute<br>
+<br>
+ca o glandă o grefase în laringele vorbăreţilor<br>
+<br>
+iar a doua zi oraşul se zvârcolea ca pompeiul sub lavă<br>
+<br>
+tăcerea se întindea pretutindeni, nemiloasă, distrugătoare<br>
+<br>
+o femeie a dat să râdă şi gura i s-a umplut cu vată<br>
+<br>
+neauzite se îvârteau plăcile de patefon sub acul giafragmei<br>
+<br>
+buzele se deschideau în gol,<br>
+<br>
+nicio vorbă n-a mai putut fi rostită,<br>
+<br>
+dezastru total, iremediabil,<br>
+<br>
+din beregăţi tăcerea cobora în oase,<br>
+<br>
+nemaiavând niciun rost, urechile se desprindeau veştede<br>
+<br>
+de pe cap<br>
+<br>
+pe străzi câinii le înşfăcau lacomi de prin<br>
+<br>
+şanţuri<br>
+<br>
+înspăimântaţi poliţiştii izbeau în tobe în<br>
+<br>
+tinichele<br>
+<br>
+unii scoşi mdin fire<br>
+<br>
+spărgeau geamurile cu pumnul,<br>
+<br>
+dar niciun sunet n-a mai putut fi stors din materie<br>
+<br>
+din cer curgeau hoiturile păsărilor sufocate de cântecele<br>
+<br>
+rămase în<br>
+<br>
+gâtlej<br>
+<br>
+femei se azvârleau de la etaj în gol<br>
+<br>
+dar<br>
+<br>
+din gura lor larg deschisă<br>
+<br>
+nu ieşea niciun ţipăt<br>
+<br>
+prin gări trenurile se ciocneau ca nişte gângănii,<br>
+<br>
+înnebunit<br>
+<br>
+primarul a dat ordin să se audă cu orice preţ<br>
+<br>
+o casă a fost azvârlită în aer: parcă s-ar fi spulferat o<br>
+<br>
+păpădie<br>
+<br>
+au prăvălit atunci turnul cel mare din centrul oraşului<br>
+<br>
+fără ca vreun scrâşnet să se işte din ziduri<br>
+<br>
+cu fiecare clipă setea de zgomot creşte tot mai chinuitoare<br>
+<br>
+unii chiar în timpan şi-au slobozit revolvere<br>
+<br>
+dar nimeni nu mai găsea scăpare<br>
+<br>
+nicăieri<br>
+<br>
+tăcerea se întindea halucinantă nemiloasă pedepsitoare cum<br>
+<br>
+o visase poetul.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Geo Bogza
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

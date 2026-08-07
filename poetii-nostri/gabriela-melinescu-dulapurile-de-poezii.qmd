@@ -1,0 +1,130 @@
+---
+title: "Dulapurile de poezii"
+subtitle: "Gabriela Melinescu"
+author: "Doctor Shrink"
+date: "2026-08-08"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZ_2ZdGGSkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Aceasta nu este ultima scrisoare pe care ți-o scriu<br>
+<br>
+Corespondența noastră continuă<br>
+<br>
+deși se spune că ai plecat pentru totdeauna.<br>
+<br>
+Nu ca deobicei în Franța sau Turcia<br>
+<br>
+unde prin hipnoză un vrăjitor<br>
+<br>
+te va învăța repede rusa ori chineza<br>
+<br>
+sau toate limbile dintr-o dată<br>
+<br>
+Toate limbile pe care un poet<br>
+<br>
+are poftă să le guste ca pe vinuri.<br>
+<br>
+Cu toate că nu mai ai nici o adresă<br>
+<br>
+posedă încă, bătrâna ta mamă<br>
+<br>
+cutia noastră poștală minunatul dulap de poezii<br>
+<br>
+care există în camera ta,<br>
+<br>
+dulapul de poezii cu picioare de grifon<br>
+<br>
+și aripi de balaur,<br>
+<br>
+dulapul care poate să meargă și să zboare<br>
+<br>
+înainte și înapoi<br>
+<br>
+din lumea asta către cealaltă.<br>
+<br>
+Dulapul de poezii<br>
+<br>
+care poate străbate ca un fulger<br>
+<br>
+prezentul și trecutul, înapoi<br>
+<br>
+până în acel timp și loc<br>
+<br>
+unde tu te-ai născut.<br>
+<br>
+Acolo te poți întâlni pe tine însuți<br>
+<br>
+un băiat născut beat de șampanie,<br>
+<br>
+citind în cada din baie,<br>
+<br>
+cu poemele lui Baudelaire în sânge,<br>
+<br>
+băiatul scotocind în biblioteca tatălui său<br>
+<br>
+gânditor, pe umăr cu corbul lui Edgar Allan Poe.<br>
+<br>
+Dulapul de poezii, această minune<br>
+<br>
+are știe multe despre noi,<br>
+<br>
+conversând tot timpul cu poeții planetei<br>
+<br>
+în timp ce noi fermecați ascultăm<br>
+<br>
+improvizațiile lui Erik Satines<br>
+<br>
+Trois gymnopédies și Desespoir agréable.<br>
+<br>
+Dulapul de poezii mereu deschis pentru magie,<br>
+<br>
+pentru amețeli plăcute<br>
+<br>
+și toate dezgusturile posibile.<br>
+<br>
+dulapurile de poezii care singur înțelege<br>
+<br>
+că tu ai încă mulți poeți de descoperit,<br>
+<br>
+cel puțin o nouă limbă de învățat<br>
+<br>
+și încă o femeie de cerut în căsătorie.<br>
+<br>
+Te asigur:<br>
+<br>
+Aceasta nu este ultima scrisoare pentru tine,<br>
+<br>
+corespondența noastră continuă,<br>
+<br>
+cu toate că nu mai ai nici o adresă.<br>
+<br>
+Există încă<br>
+<br>
+dulapul de poezii cu picioarele de grifon<br>
+<br>
+și aripi de balaur,<br>
+<br>
+dulapul de poezii care merge și zbura<br>
+<br>
+înainte și înapoi,<br>
+<br>
+din lumea asta către cealaltă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Gabriela Melinescu
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

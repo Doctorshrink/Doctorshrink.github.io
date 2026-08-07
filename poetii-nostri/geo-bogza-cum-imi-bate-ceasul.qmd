@@ -1,0 +1,46 @@
+---
+title: "Cum îmi bate ceasul"
+subtitle: "Geo Bogza"
+author: "Doctor Shrink"
+date: "2026-08-08"
+categories: [poezie, spoken-word, timp]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XtVw-GZb8pM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Daca îl ascult cu urechea dreapta<br>
+Ceasul meu bate clipele vietii mele.<br>
+<br>
+Daca îl ascult cu urechea stânga<br>
+Ceasul meu bate clipele vietii tale.<br>
+<br>
+Daca îl ascult cu osul fruntii<br>
+Ceasul meu masoara durata universului.<br>
+<br>
+Daca îl arunc în apa<br>
+Dau înapoi cu un regn si devin copac.<br>
+<br>
+Daca îl arunc în foc<br>
+Dau înapoi cu doua regnuri si devin piatra.<br>
+<br>
+Daca îl arunc în neant<br>
+Si îl ascult cu memoria mortilor<br>
+Dau înapoi cu trei regnuri<br>
+Si devin Cuvânt.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Geo Bogza
+* **Temă:** timp
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

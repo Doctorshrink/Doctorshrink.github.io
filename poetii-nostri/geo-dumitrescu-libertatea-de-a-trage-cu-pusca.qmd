@@ -1,0 +1,98 @@
+---
+title: "Libertatea de a trage cu pușca"
+subtitle: "Geo Dumitrescu"
+author: "Doctor Shrink"
+date: "2026-08-08"
+categories: [poezie, spoken-word, libertate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yhv3qxTUmxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În groapa neagră, poate chiar într-un cimitir,<br>
+<br>
+oamenii, prietenii mei înarmați, își ascultau propriile șoapte -<br>
+<br>
+toți erau murdari, slabi, și patetici ca în Shakespeare,<br>
+<br>
+își numărau gloanțele și zilele și nădăjduiau un atac peste<br>
+<br>
+noapte.<br>
+<br>
+Atunci, a ieșit luna, fără cască, de undeva din bezna ghimpată;<br>
+<br>
+dar oamenii n-au căzut cu fețele la pămînt,<br>
+<br>
+ci au aprins țigările, discutînd despre libertatea de a trage cu<br>
+<br>
+pușca,<br>
+<br>
+rezemați comod în groapa neagră sau poate chiar pe<br>
+<br>
+cîte-o piatră de mormînt.<br>
+<br>
+Sînt sigur că unul din ei eram eu -<br>
+<br>
+de altfel, astăzi mi-am găsit în sertar, printre<br>
+<br>
+manuscrisele fel de fel,<br>
+<br>
+pistolul meu ghintuit, cu douăzeci și patru de focuri,<br>
+<br>
+cu care am participat la asediul Trebizondei, dacă nu mă-nșel.<br>
+<br>
+Doamne, ce de isprăvi am mai făcut și-atunci!...<br>
+<br>
+Ca un erou din Sadoveanu, eram viteaz și crud :<br>
+<br>
+țin minte să fi ucis trei sute șaizeci de dușmani într-un singur<br>
+<br>
+asalt -<br>
+<br>
+ah, răcnetele mele de mînie și triumf și-acuma mi le mai aud!...<br>
+<br>
+La Waterloo eram cu bietul Bonaparte cabotinul,<br>
+<br>
+rostandizînd pe pragul unui veac;<br>
+<br>
+viteaz și inutil și graseiat la culme,<br>
+<br>
+luptam și-atuncea - ce era să fac?<br>
+<br>
+*<br>
+<br>
+Degetele strîngeau o țigară fumată de mult.<br>
+<br>
+În, groapa neagră, ca niște pietre, cădeau ultimele cuvinte.<br>
+<br>
+Prietenii mei înarmați și patetici mă ascultau uluiți,<br>
+<br>
+rezemați comod de pietrele de la morminte.<br>
+<br>
+Paralel cu noi, dedesubt, oameni își dormeau veșnicia -<br>
+<br>
+și ei discutau despre libertatea de a trage cu pușca, după<br>
+<br>
+fiecare măcel!...<br>
+<br>
+Dar, pe pistolul meu cu douăzeci și patru de gloanțe!, luna mi<br>
+<br>
+se pare aceeași<br>
+<br>
+cu care am participat la asediul Trebizondei, dacă nu mă-nșel!...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Geo Dumitrescu
+* **Temă:** libertate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

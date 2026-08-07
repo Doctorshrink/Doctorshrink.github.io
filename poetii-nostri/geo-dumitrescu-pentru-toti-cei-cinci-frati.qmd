@@ -1,0 +1,68 @@
+---
+title: "Pentru toți cei cinci frați"
+subtitle: "Geo Dumitrescu"
+author: "Doctor Shrink"
+date: "2026-08-08"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1waoQt6YPBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+lui Emil Homoceanu<br>
+<br>
+Pentru toți cei cinci frați din mine,<br>
+<br>
+mănânc pâine, înjur și scriu<br>
+<br>
+pentru fiecare sunt un sicriu<br>
+<br>
+sau o întinsă plapumă de bine.<br>
+<br>
+Către toți cei cinci frați ai mei<br>
+<br>
+închin un gând și un blestem de moarte,<br>
+<br>
+pentru fiecare iubesc o carte;<br>
+<br>
+și disprețuiesc două-trei femei.<br>
+<br>
+Toate tăcerile mele sunt lupte -<br>
+<br>
+cinci oameni se bat năpraznic, crud,<br>
+<br>
+aud gemete, icneli aud<br>
+<br>
+și zăngănit de săbii rupte.<br>
+<br>
+Cândva, târziu i-oi prinde dimineața<br>
+<br>
+și-or da mâna tăcuți, înfrânți,<br>
+<br>
+vor fi bătrâni ca niște munți<br>
+<br>
+și vor purta o etichetă: viața...<br>
+<br>
+Pentru toți frații în nemernicie,<br>
+<br>
+pentru toate brațele moi, căzute,<br>
+<br>
+pentru toate luptele mute,<br>
+<br>
+hai să cerem vremurilor apa vie...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Geo Dumitrescu
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

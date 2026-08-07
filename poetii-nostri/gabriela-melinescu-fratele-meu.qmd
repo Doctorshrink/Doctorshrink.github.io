@@ -1,0 +1,54 @@
+---
+title: "Fratele meu"
+subtitle: "Gabriela Melinescu"
+author: "Doctor Shrink"
+date: "2026-08-08"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BRhwY4HkzLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Fratele meu de care am fost lipită<br>
+<br>
+spate în spate,<br>
+<br>
+de mine s-a smuls și a plecat<br>
+<br>
+ca și cum din două aripi: una de pământ, alte de cer –<br>
+<br>
+una din ele s-ar fi retezat.<br>
+<br>
+Precum copiii Ledei noi am fost<br>
+<br>
+unul divin și altul nedivin<br>
+<br>
+și mama noastră făcu să alunece-ntre noi<br>
+<br>
+harul ca niciodată să nu ne despărțim.<br>
+<br>
+Frate al meu, al cărui cuvânt face iarba să crească,<br>
+<br>
+eu te am doar pe tine în Cer, vorbește-mi<br>
+<br>
+cu o bucată de lună în gură,<br>
+<br>
+tu doar pe mine mă ai pe Pământ,<br>
+<br>
+privește-mă cum stau cu un miel în brațe.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Gabriela Melinescu
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
