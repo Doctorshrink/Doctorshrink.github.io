@@ -1,0 +1,60 @@
+---
+title: "Cântecul unei mierle captive"
+subtitle: "Georg Trakl"
+author: "Doctor Shrink"
+date: "2026-08-09"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZS_k0OnyjYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Lui Ludwig von Ficker<br>
+<br>
+Întunecată suflare în ramuri verzi.<br>
+<br>
+Floricele albastre împresoară făptura<br>
+<br>
+Singuraticului, pasul auriu<br>
+<br>
+Murind sub pomul de măslin.<br>
+<br>
+Fâlfâie cu bete aripi noaptea.<br>
+<br>
+Atât de tăcută sângerează smerenia,<br>
+<br>
+Rouă ce picură-ncet de pe spinu-nflorit.<br>
+<br>
+Luminoasele brațe se-ndură,<br>
+<br>
+Cuprind o inimă frântă.<br>
+<br>
+Analiza literară a traducătorului<br>
+<br>
+Textul este dedicat lui Ludwig von Ficker, editorul revistei &quot;Brenner&quot;, în care au apărut în mod repetat poeziile lui Trakl. Ficker a fost prietenul și promotorul lui Georg Trakl. „Cântecul unei mierle captive&quot; a fost probabil scrisă în a doua jumătate a lunii aprilie 1914, la Innsbruck, unde a trăit Ficker și unde Trakl a fost un oaspete frecvent. De la sfârșitul lunii aprilie Trakl a trăit în Hohenburg, lângă Innsbruck, la Rudolf von Ficker, un frate al lui Ludwig von Ficker, critic și istoric muzical.<br>
+<br>
+Motivul mierlei apare în multe dintre textele lui Trakl, ca de altfel și în literatura  timpului. Povestirea lui Robert Musil „Mierla&quot;, în care este prelucrată de asemenea o experiență din primul război mondial, este menționată ca fiind reprezentativă.<br>
+<br>
+Mierlele  au devenit importante în istoria culturală a acelor vremuri, pe de o parte datorită ciripitului extrem de melodios cât și datorită culorii extreme a penajului lor, albastru-negru, care în concepția noastră apar numai la păsările care nu sunt dotate cu acest „dar muzical” și pentru că aceste păsări sunt asociate cu magie/vrăjitorie. Mierlele au fost ținute ca păsări de casă până în secolul al XX-lea. Ele sunt inițial locuitoare ale pădurii și preferă locurile de cuibărit semi-întunecate în ramuri veșnic verzi.<br>
+<br>
+În această poezie întâlnim din nou „făpturi singuratice&quot;, ca în „Ora de durere&quot; strâns legate de „pasul&quot; (un motiv similar ca  în „Seară de toamnă&quot;). Pasul este acum „auriu&quot;, nu „negru&quot;. În plus, apare culoarea albastră, care se apropie de vecinătatea picturii religioase, în special a iconografia Fecioarei Maria. Legat de imaginea măslinului, este evocată povestea suferinței lui Isus, la care se adaugă „umilință&quot; și „Rouă ce picură-ncet de pe spinu-nflorit&quot;.<br>
+<br>
+Imaginea mierlei revine abia percepută în imaginea de noapte: „Fâlfâie cu bete aripi noaptea&quot;. Tema cântecului din titlul  poeziei nu poate fi găsită în poem, „Suflarea&quot; și „Atât de tăcută sângerează smerenia&quot; sunt relativ îndepărtate direct de „cântec”. Dar titlul și poemul în sine rămân enigmatice, chiar dacă motivele și sunetele sunt familiare din celelalte lucrări ale lui Trakl. Se poate imagina un amănunt biografic, Trakl locuind un timp la Rudolf von Ficker, criticul și istoricul muzical.<br>
+<br>
+Christian W. Schenk
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Georg Trakl
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

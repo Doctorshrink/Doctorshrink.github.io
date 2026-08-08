@@ -1,0 +1,110 @@
+---
+title: "Singur-Lună"
+subtitle: "Geo Dumitrescu"
+author: "Doctor Shrink"
+date: "2026-08-09"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t_qlYznpVo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Sufeream de alergia singurătății. Luna...<br>
+<br>
+(Dar mereu năvălesc venerabile inerții<br>
+<br>
+și gândurile mi le-apucă de gât, lăsându-mi<br>
+<br>
+pe emoții curate, aproape neîncepute,<br>
+<br>
+urme groase de labe literare.)<br>
+<br>
+Aș fi vrut să mărturisesc sincer :<br>
+<br>
+Sufeream... În fine, mai lipsea cineva<br>
+<br>
+ca să fim doi. Mai ales seara,<br>
+<br>
+când luna, plutind printre nori...<br>
+<br>
+(O, mâzgă livrescă, blestemata încremenire<br>
+<br>
+a vorbelor, tocite, îndobitocite în sensuri !...)<br>
+<br>
+...atât de singur, uneori, de parcă<br>
+<br>
+toți oamenii se îndreptau spre mine<br>
+<br>
+făcându-mă să mă simt că s-ar putea,<br>
+<br>
+din cea mai simplă bucurie biologică,<br>
+<br>
+să lăcrimez, ca la vederea unor frunze, dimineața.<br>
+<br>
+Acest sentiment simplu, uman,<br>
+<br>
+aș fi vrut să-l mărturisesc cinstit,<br>
+<br>
+în cuvinte puține, acest sentiment<br>
+<br>
+de toamnă, de Toamnă. De toamnă ?...<br>
+<br>
+(Ah, ticălos, nefericit lustragiu de cuvinte,<br>
+<br>
+atelier de sorcove!... Hârtia<br>
+<br>
+e plină de gângănii strivite, vorbe<br>
+<br>
+cu treizeci și două de picioare, inerții grase,<br>
+<br>
+târâtoare, duhnind a cerneală stătută,<br>
+<br>
+sinuoase moluște cotcodăcind duios<br>
+<br>
+peste neîncepute emoții, printre gânduri<br>
+<br>
+desfăcute în șisturi virgine...<br>
+<br>
+La dracu! Ei bine, nu sînt singur!<br>
+<br>
+Ei bine, dacă vreți din tot dinadinsul,<br>
+<br>
+nu sufăr, nu e toamnă,<br>
+<br>
+nu e nici lună - nu-i nimic... &quot;toate trec,<br>
+<br>
+durere sau noroc,<br>
+<br>
+nimic nu ține viața-n loc&quot;, pam-pam!...<br>
+<br>
+Și mă numesc încă o dată Popescu, și pot<br>
+<br>
+să declar, într-un elan nestăvilit,<br>
+<br>
+punând la tâmplă două dește:<br>
+<br>
+prin transcrieri succesive,<br>
+<br>
+nu încape îndoială,<br>
+<br>
+versul se-mbunătățește!&quot;...)<br>
+<br>
+O lacrimă. Stop. Totuși, toamnă.<br>
+<br>
+Mai lipsea cineva ca să fim doi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Geo Dumitrescu
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

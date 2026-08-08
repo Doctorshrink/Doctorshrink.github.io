@@ -1,0 +1,134 @@
+---
+title: "Furtuna"
+subtitle: "Georg Trakl"
+author: "Doctor Shrink"
+date: "2026-08-09"
+categories: [poezie, spoken-word, vant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sbp7jkvk91Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Voi, munți sălbatici, al vulturului<br>
+<br>
+Doliu solemn.<br>
+<br>
+Nori aurii<br>
+<br>
+Fumegă pietroasele pustiuri.<br>
+<br>
+Răbdătoare liniște respiră pinii,<br>
+<br>
+Mieii negrii lângă prăpastie<br>
+<br>
+Unde albastrul deodată<br>
+<br>
+Ciudat amuțește,<br>
+<br>
+Blânda muțenie a bondarilor.<br>
+<br>
+O, verzii pomi -<br>
+<br>
+O, tăcere.<br>
+<br>
+De vis cutremură sălbatecul pârâu<br>
+<br>
+Întunecate stafii inima,<br>
+<br>
+Beznă,<br>
+<br>
+Ce peste hăuri se întinde!<br>
+<br>
+Vocile albe<br>
+<br>
+Orbecăind peste-nspăimântătoare atrii,<br>
+<br>
+Zdrențuitele terase,<br>
+<br>
+Părintele furioaselor feroce, vaietele<br>
+<br>
+Mamelor,<br>
+<br>
+Strigătul de luptă al pruncului<br>
+<br>
+Și al nenăscuților<br>
+<br>
+Suspinând din orbii ochi.<br>
+<br>
+O, durere, tu înflăcărată uitătură<br>
+<br>
+A marelui suflet!<br>
+<br>
+Deja zvâcnește-n înghesuiala<br>
+<br>
+Armăsarului și al căruței<br>
+<br>
+Un fulger violet-fantomatic<br>
+<br>
+În țiuitul molidului.<br>
+<br>
+Răceala magnetică<br>
+<br>
+Încercuiește acest cap majestuos,<br>
+<br>
+Jăratică deprimare<br>
+<br>
+A unui Dumnezeu înfuriat.<br>
+<br>
+Frică, tu șarpe veninos,<br>
+<br>
+Neagră, mori în stâncă!<br>
+<br>
+Prăbușiri de lacrimi se prăvălesc<br>
+<br>
+Pe sălbatice pâraie în jos,<br>
+<br>
+Furtună-îndurare,<br>
+<br>
+Răsună-n a tunetului amenințare<br>
+<br>
+În juru-nzăpezitelor piscuri.<br>
+<br>
+Foc<br>
+<br>
+Purifică zdrențuita noapte.<br>
+<br>
+Analiza literară a traducătorului<br>
+<br>
+Această poezie, publicată în revista „Brenner&quot;, datată 15 iulie 1914, este luată de Eberhard Sauermann1 drept exemplu cum trebuie citit, și înțeleasă poezia lui Trakl, ca fiind una strâns legată de schimbarea și relația lui cu geneza.<br>
+<br>
+Începutul amintește de „Bildwelt” (“Imaginea lumii”) în a lui Nietzsche „Astfel grăi Zarathustra&quot;, care se află de asemenea în biblioteca lui Trakl, în special în cântul „Numai nebun! Numai poet!” din partea a patra. De asemenea, găsește în forma cântecului lui Nietzsche, versuri de esență, versuri scurte. Chiar mai mult ca în textul lui Nietsche, Trakl exprimă dragostea ca pe o frumusețe naturală, nu doar ca pe o proiecție proprie.<br>
+<br>
+O furtună caldă prăbușindu-se deasupra munților este schițată ca o formulare pregnantă cu treceri de la albastru spre negru, de liniște în furtună, cu inconfundabile „rotații” de la tonuri roșiatice la „Un fulger violet-fantomatic”. Aceasta este una dintre principalele preocupări a lui Trakl, precizia deosebită a tablourilor naturii și a picturilor naturale. Tocmai „Furtuna&quot; oferă o caracterizare clară mai ales prin chiar titlul său.<br>
+<br>
+În timp ce „Muntele&quot; și „Vulturii&quot; amintesc de Nietsche, versul „Răbdătoare liniște respiră pinii” se depărtează de acesta dând poeziei nota originalității. Nietsche compară aceeași situație cu „Pomi negri”. Trakl în schimb denumește pomii „albaștri” scoțând astfel la iveală simbolistica culorilor sale.<br>
+<br>
+Natura și daunele distincte sunt evidente dând astfel textului o diferență semnificativă. Aceasta este vizibilă pentru imaginea descrisă „Nori aurii / Fumegă pietroasele pustiuri&quot;.<br>
+<br>
+Se pot găsi concluzii la Trakl, interpretări diferite pentru categoria „aurii&quot;. Putem interpreta, în acest context, auriul ca pe o formulare pregnantă a unei experiențe naturale în munți înaintea declanșării furtunii.<br>
+<br>
+În doua jumătate a poeziei se accentuează în mod vădit, în detaliu, salturile voluptoase ale timpului, unde artiștii și intelectualii sărbătoresc magnetismul, angajați în teorii de filosofii spiritualiste. „Răceala magnetică&quot; care „Încercuiește acest cap majestos&quot; poate fi introdus de asemenea în acest context ca și o „Jăratică deprimare / A unui Dumnezeu înfuriat”.<br>
+<br>
+Aceasta din urmă poate fi interpretată și ca „limbaj iconoclastic”, des folosit în istorie, unde războiul este caracterizat des, în mod emfatic ca „violet-fantomatic”, „Strigătul de luptă al pruncului” sau „În țiuitul molidului”.<br>
+<br>
+Christian W. Schenk<br>
+<br>
+NOTĂ<br>
+<br>
+1 SAUERMANN, EBERHARDT – este autorul lucrării „Cu privire la datarea și interpretarea textelor lui Georg Trakl” – publicată la Departamentul de studii germane, Universitatea din Innsbruck, 1984.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Georg Trakl
+* **Temă:** vant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

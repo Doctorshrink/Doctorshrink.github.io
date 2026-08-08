@@ -1,0 +1,76 @@
+---
+title: "Cântec de seară"
+subtitle: "Georg Trakl"
+author: "Doctor Shrink"
+date: "2026-08-09"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ERGE0lPBM8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Seara, când pe poteci întunecate ne perindăm<br>
+<br>
+Ne apar în față ale noastre palide făpturi.<br>
+<br>
+Când ne e sete,<br>
+<br>
+Din iaz bem apa-i albă,<br>
+<br>
+Tristețea dulce a copilăriei.<br>
+<br>
+Decedați, la umbra tufei de soc ne odihnim<br>
+<br>
+Și ne uităm la pescărușii gri.<br>
+<br>
+Nori primăvăratici urcă peste-ntunecatul oraș,<br>
+<br>
+În care nobile timpuri ale călugărilor tac.<br>
+<br>
+Când îți țineam delicatele mâini<br>
+<br>
+Deschideai tăcută ochii rotunzi,<br>
+<br>
+Aceasta însă cu mult timp în urmă.<br>
+<br>
+Dar totuși când întunecata armonie năpădește sufletul,<br>
+<br>
+Tu albă apari în tomnaticul peisaj al prietenului.<br>
+<br>
+Analiza literară a traducătorului<br>
+<br>
+Un titlu simplu cu cântece de influență religioasă și / sau populară, cu cuvinte de bază care apar foarte des la Trakl, atât „seara&quot;, cât și „cântecul&quot;. De asemenea, cunoaștem legătura lor dintr-un alt loc, din titlul poeziei  „Cântec din apus&quot;.<br>
+<br>
+Ca formă, avem în această poezie patru strofe epigramatice cu două și trei versuri dispuse simetric: două versuri la începutul și la sfârșitul poemului, și două strofe fiecare cu trei versuri (intercalate după prima și înainte de ultima strofă).<br>
+<br>
+Dincolo de această claritate formală, poemul ne lasă într-un oarecare suspans, de o indeterminare care este neobișnuită chiar și în contextul operei lui Trakl.<br>
+<br>
+Un „noi&quot; este adresat cuiva, un „noi” în care cu greu ne putem regăsi noi ca cititori, dar în contextul creației trebuie să fie înțeleasă ca o dualitate intimă la Trakl, în contextul „iubitorilor&quot; sau în relația „frate-sora&quot; și „frate-frate„ des întâlnite.<br>
+<br>
+Din moment ce este abordată - comună sau doar similară („trista”)  - copilăria este probabil o relație, în primul rând fraternă, înainte de toate. Cu toate acestea, aceasta rupe ultimul vers, care se adresează unei partenere, feminine, ca fiind „albă&quot;, celuilalt, masculin, ca „prietenului&quot;.<br>
+<br>
+Știm însă, din întreaga operă că Trakl caracterizează adesea „figura soră” cu culoarea „albă”.<br>
+<br>
+Aceste „noi&quot; se află pe „pe poteci întunecate&quot;, întâlnindu-se cu ele însele sau separându-se de ele ca „ale noastre palide făpturi&quot; (cele care preced). Aici apare ceea ce a spus Gunther Kleefeld și anume că Trakl participă la o „moștenire ocultă&quot;. „Palide făpturi&quot; ar putea fi figurări ale propriei morți și, de asemenea, detașare de robia fizică.<br>
+<br>
+„Decedați&quot; sunt cele două figuri unite aici în &quot;Noi&quot;, vii în amintire și reîntâlniți în „tomnaticul peisaj&quot;, când „năpădește”  „întunecata armonie&quot;.<br>
+<br>
+Este sunetul poeziei perfecționate sau este mântuirea prin cântec, în acest &quot;Cântec de seară&quot;?<br>
+<br>
+Christian W. Schenk
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Georg Trakl
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,64 @@
+---
+title: "Cântecul profund"
+subtitle: "Georg Trakl"
+author: "Doctor Shrink"
+date: "2026-08-09"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1-dVWV1C7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Din noaptea-adâncă am fost eliberat.<br>
+<br>
+În nemurire sufletu-mi s-a tot mirat,<br>
+<br>
+Și asculta prin timp și loc, mișcat,<br>
+<br>
+Al veșniciei cânt îndurerat.<br>
+<br>
+Nici zi, nici chef, nici noapte înfierat<br>
+<br>
+E-al veșniciei cânt îndurerat,<br>
+<br>
+De când eu veșnicia o ascult înfrigurat<br>
+<br>
+Nu simt plăcerea sau durerea disperat.<br>
+<br>
+Analiza literară a traducătorului<br>
+<br>
+Acest text timpuriu din „Colecția 1909&quot; are o importanță redusă din punct de vedere literar, dar este relevant din punct de vedere biografic și istoric în măsura în care atestă preocuparea lui Trakl pentru Friedrich Nietzsche1 și importanța confesiunilor mistico-religioase de la începutul mileniului.<br>
+<br>
+Zarathustra2 lui Nietzsche cunoaște „Cântecul beat&quot;. Atât imaginile, cât și stilul lingvistic al textului lui Trakl amintesc clar de lucrarea lui Nietzsche despre reîntoarcerea pentru „al veșniciei cânt îndurerat&quot;. Nu numai titlul, ci și primul vers al scurtului text al lui Trakl: „Din noaptea-adâncă am fost eliberat” (citează aproape literal „Cântecul reîntoarcerii&quot; din „Cântecul beat&quot; al Zarathustrei. Acolo și Nietsche spune: „dintr-un vis profund sunt treaz&quot;.<br>
+<br>
+La Nietzsche, „chef&quot; și „înfierare&quot; sunt juxtapuse, iar la Trakl este „chef și îndurerare&quot;. Dar la Nietzsche, „dorința dorește” „eternitate&quot;, în timp ce Trakl stabilește experiența veșniciei - scriind în spiritul lui Nietzsche - dincolo de plăcere și de suferință.<br>
+<br>
+Faptul că modernismul din prima jumătate a secolului XX a abordat intens teoriile și practicile parapsihologice, mistice, teosofice și alchimice este bine cunoscut. Lucrările lui Gunther Kleefeld 2009, „Misterele transfigurării&quot; și „Patrimoniul ocult în poezia lui Georg Trakl&quot; sunt exemplare!<br>
+<br>
+Într-un aforism din 1914, Trakl vorbește despre „sentimentul momentului morții ca înființare&quot;. El spune: „Toți oamenii sunt vrednici de iubire, trezindu-te simți amărăciunea lumii, în care-i toată vina noastră nerezolvată; poemul tău e o ispășire imperfectă&quot;. În el găsește o formulă matură a ceea ce este deja menționat în „Cântecul profund&quot;, experiența unui &quot;unio mystica&quot; într-o stare de a fi înțeleasă ca fiind pur spirituală.<br>
+<br>
+În Aforismul din 1914, „Trezirea&quot; este numele dat întoarcerii în lumea practică a suferinței, iar în poezia tinereții trezirea, dacă înțelegem eliberarea &quot;chiar din noapte&quot;, la fel ca o tranziție către o stare epuizată și neconvingătoare.<br>
+<br>
+NOTE<br>
+<br>
+1 NIETZSCHE, FRIEDERICH ( 1844 – 1900) – cel mai important filosof din secolul XIX, cu o mare influență asupra gândirii filosofice care i-a urmat.<br>
+<br>
+2 ZARATHUSTRA – profet, coordonator al religiei din vechiul Iran. Zeu, sau personaj istoric zeificat, a instituit casta sacerdotală a magilor inițiați.<br>
+<br>
+Christian W. Schenk
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Georg Trakl
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
