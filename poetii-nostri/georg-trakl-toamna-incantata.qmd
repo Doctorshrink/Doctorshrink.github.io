@@ -1,0 +1,70 @@
+---
+title: "Toamnă încântată"
+subtitle: "Georg Trakl"
+author: "Doctor Shrink"
+date: "2026-08-10"
+categories: [poezie, spoken-word, toamna]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P7ebdRlrFAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Amarnic se sfârșește anul<br>
+<br>
+Cu auriul vin și fructe de grădină<br>
+<br>
+Pădurile tăcute-și țin aleanul<br>
+<br>
+Și-s singurii tovarăși fără vină.<br>
+<br>
+Țăranu-și spune: Este bine.<br>
+<br>
+Voi clopote de seară lungi și liniștite<br>
+<br>
+Mai dați curaj celor creștine.<br>
+<br>
+Salut un stol de păsări obosite.<br>
+<br>
+E anotimpul dragostei suave.<br>
+<br>
+Pe-albastrul râu în jos o barcă<br>
+<br>
+Se-nșiruire imaginii grozave -<br>
+<br>
+Tăcută-n liniște se duce parcă.<br>
+<br>
+Comentariul traducătorului<br>
+<br>
+Unul dintre poemele „frumoase&quot; ale lui Trakl,  dominat de imagini armonioase, uneori exuberant de solemne și de un limbaj pozitiv. Structura formală creează un ton melodic popular în trei strofe, fiecare cu patru versuri în rimă încrucișată. Deja titlul dă un motiv de încântare, cu o imagine pozitivă a toamnei care, de obicei la Trakl, indică întunecarea, decăderea și ruina.<br>
+<br>
+Venirea toamnei este „încântată&quot; acum - ceea ce, de asemenea, indică faptul că este, probabil, doar artificial înfrumusețată. O asemenea interpretare îndepărtată ne conduce la penultimul vers al poemului, în care observăm un ton ambiguu: „Se-nșiruire imaginii grozave&quot; - care poate fi înțeles ironic, dar cu siguranță și afirmativ.<br>
+<br>
+În ultimul vers, această transfigurare a toamnei se termină cu „tăcere și liniște&quot; („Tăcută-n liniște se duce parcă&quot;). Aici trebuie amintit și faptul că această ambiguitate este potrivită și fenomenelor naturale ale sezonul de toamnă.<br>
+<br>
+Imaginile naturale ale toamnei se caracterizează odată prin splendoarea culorilor, a fructelor coapte, a momentelor magice de toamnă în după-amiaza însorită sau la apusul soarelui - pe de altă parte, de asemenea, printr-o răceală umedă, tonuri întunecate și tulburi în lumina soarelui slăbită, cu precipitații frecvente.<br>
+<br>
+Trakl părăsește zona naturală destul de explicit, declarând toamna ca „anotimpul dragostei suave&quot;. În mijlocul strofei este abordat chiar și „curajul celor creștine” ca și curajul obligațiilor pe care „țăranul&quot; le are toamna. Dovada unei stări de siguranță și securitate care urmează toamna, o stare de infinită mulțumită este formulată în afirmația țăranului: &quot;Este bine&quot;.<br>
+<br>
+Poate, pentru a înțelege mai bine acest text este de asemenea instructivă o privire asupra celor două poezii intitulate „Toamna&quot; și „Toamnă”a lui Friedrich Hölderlin.<br>
+<br>
+Acestea ultime se numără printre cele mai recente poezii ale lui Hölderlin, scrise în ultimii ani ai vieții sale ca poet care de zeci de ani a fost îngrijit ca fiind „incurabil&quot;. Trakl a încheiat textul de mai sus în septembrie 1912. Referirea la textele lui Hölderlin este evidentă!<br>
+<br>
+NOTĂ<br>
+<br>
+1 HOLDERLIN, FRIEDERICH ( 1770 – 1843) –  poet  german,unul dintre cei mai importanți reprezentanți ai romantismului în literatura europeană. Considerat, după Goethe și Schiller, cel mai mare poet elegiac al literaturii germane.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Georg Trakl
+* **Temă:** toamna
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

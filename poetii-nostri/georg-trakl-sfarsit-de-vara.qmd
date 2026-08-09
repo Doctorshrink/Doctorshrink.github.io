@@ -1,0 +1,60 @@
+---
+title: "Sfârșit de vară"
+subtitle: "Georg Trakl"
+author: "Doctor Shrink"
+date: "2026-08-10"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zeuXhKu_Yow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O, vara verde cât de mult<br>
+<br>
+S-a liniștit, chipul tău de pur cristal!<br>
+<br>
+Lângă iazul serii florile-au murit,<br>
+<br>
+Un strigăt speriat de mierlă.<br>
+<br>
+Zadarnică speranță-a vieții. În casă<br>
+<br>
+Dă zor, de drum să se aștearnă, rândunica<br>
+<br>
+Și soarele coboară pe colină;<br>
+<br>
+Noaptea face semne stelelor să plece.<br>
+<br>
+Tăcere-a satelor; rotund răsună<br>
+<br>
+Pădurile părăsite. Mai iubitoare,<br>
+<br>
+O, inimă, înclină-te acum<br>
+<br>
+Peste calmul celei care doarme.<br>
+<br>
+O, vara verde cât de mult<br>
+<br>
+S-a liniștit, și pasul străinului<br>
+<br>
+Se-aude prin noaptea de-argint. Să poată<br>
+<br>
+Jivina-albastră cărarea să și-o amintească.<br>
+<br>
+Și armonia anilor ei sufletești.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Georg Trakl
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

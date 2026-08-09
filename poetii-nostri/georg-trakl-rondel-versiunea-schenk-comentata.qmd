@@ -1,0 +1,54 @@
+---
+title: "Rondel - Versiunea Schenk comentată"
+subtitle: "Georg Trakl"
+author: "Doctor Shrink"
+date: "2026-08-10"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lFoI7e3xbc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+RONDEL<br>
+<br>
+S-a scurs și aurul zilelor în nori<br>
+<br>
+Albastrul și maroul serilor culori:<br>
+<br>
+Muri al ciobanilor fluier fiori<br>
+<br>
+Maroul și albastrul serilor culori<br>
+<br>
+S-a scurs și aurul zilelor în nori<br>
+<br>
+_______________<br>
+<br>
+Comentariu<br>
+<br>
+Titlul sugerează faptul că Trakl a fost inspirat de un model francez, un poem numit „Rondelle&quot; sau „rondeau ancien&quot;. Excelentă este această formă prin reducerea la o singură rimă, A, și repetări ale cuvintelor și a versurilor întregi.<br>
+<br>
+Strofa de cinci versuri constă doar în trei propoziții, două dintre ele repetate identic și grupate în jurul versului de mijloc. Astfel, chiar și la nivel formal, poemul devine extrem de rotund și închis. Este demn de remarcat schimbarea minimă a repetării „Albastrul și maroul serilor culori&quot; la „Maroul și albastrul serilor culori&quot;, subliniate prin eliminarea primului adjectiv. Acest lucru ne atrage atenția asupra utilizării culorilor în această poezie. Dacă în multe texte ale lui Trakl aurul și albastrul joacă un rol important, aici mai vine maro-ul.<br>
+<br>
+Aurul are din nou înțelesul unei retrageri - ca în „Pasiune&quot; și „Grodek&quot;. Albastrul și maro-ul se întâlnesc deseori la Trakl, în contextul izvorât dintr-un mit de origine natural-genezică.<br>
+<br>
+Și aici sunt prevederile exprimate prin „scurs&quot;. Acest mesaj este, de asemenea, confirmat prin gama: „fluier fiori&quot; al ciobanului „murit&quot;, iar sunetul este astfel atribuit trecutului.<br>
+<br>
+Indiferent de forma luminoasă și „dansabilă” a acestui rondel, poemul dobândește astfel un caracter mai modest la nivel vizual, dar rămâne totuși neobișnuit.<br>
+<br>
+Poemul a fost scris probabil la începutul toamnei 1912, într-un moment al succesului personal și o dispoziție generală relativ  pozitivă ceea ce reiese și din scrisorile din acea perioadă, pe care le-a scris în octombrie 1912 din Innsbruck.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Georg Trakl
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

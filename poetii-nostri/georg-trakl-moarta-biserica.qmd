@@ -1,0 +1,94 @@
+---
+title: "Moarta biserică"
+subtitle: "Georg Trakl"
+author: "Doctor Shrink"
+date: "2026-08-10"
+categories: [poezie, spoken-word, dumnezeu]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LJ5h_qUqRe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pe bănci întunecate ei stau înghesuiți<br>
+<br>
+Și ridică-n sus doar stinsele priviri<br>
+<br>
+Spre cruce. Luminile clipesc încețoșate,<br>
+<br>
+Și tulburi ca acoperitul rănitul căpătâi.<br>
+<br>
+Tămâia se ridică dintr-o cădelniță de aur<br>
+<br>
+Spre înălțimi, cântec de rugăciuni pe moarte<br>
+<br>
+Se duce-n fum, și apune nesigur-dulce<br>
+<br>
+Bântuind în încăpere. Preotul merge<br>
+<br>
+Spre altar; dar pară duhul obosit<br>
+<br>
+Pioaselor tradiții - un jalnic jucător<br>
+<br>
+În fața rugătorilor cu inimi înghețate,<br>
+<br>
+În jocul fără suflet de-a pâinea și de-a vinul.<br>
+<br>
+Clopotul bate! Luminile sclipesc mai tulburi -<br>
+<br>
+Mai palide, ca acoperitul, rănitul căpătâi!<br>
+<br>
+Orga tușește! În inimile moarte revin<br>
+<br>
+Amintiri de groază! O față sângerândă, dureroasă<br>
+<br>
+Se-acoperă în disperare și-ntuneric<br>
+<br>
+Privit de ochii mulți în gol.<br>
+<br>
+Și-o voce, ce ca toate sună,<br>
+<br>
+Suspină - dar groaza a crescut în încăpere,<br>
+<br>
+Crescu a morții groază: Miluiește-ne pe noi -<br>
+<br>
+Doamne!<br>
+<br>
+Comentariul traducătorului<br>
+<br>
+Poezia timpurie a lui Trakl, „Moarta biserică&quot;, pare a fi o traducere idiosincratică a textului lui Rimbaud „Les pauvres à l&#x27;église&quot; din 1870. Data exactă a acestei poezii trakliene este necunoscută, însă textul face parte din colecția de versuri scrise până în 1909. Trakl a căutat în zadar un editor și, mai târziu, el nu a mai considerat textul ca fiind demn de publicat.<br>
+<br>
+Tendința anticlericală a textului lui Rimbaud este evidentă. La Trakl această tendință sună deja în titlu. Poate fi citit ca „Biserica este moartă&quot;, ceea ce este confirmată în versul „În jocul fără suflet de-a pâinea și de-a vinul&quot;. O critică liturgică mai dură este greu de imaginat.<br>
+<br>
+„Rugătorii au „inimi înghețate”, preotul este „un jalnic jucător&quot;.<br>
+<br>
+Poemul se termină în „Crescu a morții groază&quot; - rămâne neclar dacă e vorba de groaza individului care moare, de moartea colectivă sau de moartea bisericii.<br>
+<br>
+Nietzscheanul „Dumnezeu este mort&quot; sună, de asemenea, foarte vag.<br>
+<br>
+„Rănitul căpătâi&quot; al Răstignitului pare să se îndepărteze de goliciunea liturghiei, dar disperarea celor care nu sunt mulțumiți cu Biserica privesc cu „ochi mulți în gol&quot; - ceea ce ar putea însemna că însuși Hristos în transcendența afirmată eclesiastic vede doar goliciunea în concepția autorului.<br>
+<br>
+Întunericul, clipirea, înghețul, tulburarea, acoperirea, goliciunea sunt imagini vizuale definitorii poemului.<br>
+<br>
+Aurul, culoarea asociată cu concepția proprie despre transcendență, nu apare singură, ci doar pe o „cădelniță de aur&quot; și corespunde unui „cântec de rugăciuni pe moarte&quot;.<br>
+<br>
+Alte două evenimente bisericești-liturgice sunt definite prin: „Clopotul bate!&quot; și „Orga tușește!&quot; Semnul exclamării transformă această situație în incantații care nu corespund realității. Singurul lucru relevant pare la sfârșit: „Suspină - dar groaza a crescut în încăpere, / Crescu a morții groază: Miluiește-ne pe noi - / Doamne!&quot;.<br>
+<br>
+O voce umană care dă expresie tuturor celorlalte exprimă singurul lucru care mai poate fi spus și care este un „suspin”. Ceea ce trece dincolo de critica sa liturgică rămâne un text amar.<br>
+<br>
+Christian W. Schenk
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Georg Trakl
+* **Temă:** dumnezeu
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
