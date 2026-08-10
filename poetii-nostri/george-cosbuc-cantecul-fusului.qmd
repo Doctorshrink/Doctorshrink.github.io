@@ -1,0 +1,170 @@
+---
+title: "Cântecul fusului"
+subtitle: "George Coşbuc"
+author: "Doctor Shrink"
+date: "2026-08-11"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3xH2z3NjAw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Eu mi-am facut un cântec<br>
+<br>
+Stând singura-n iatac<br>
+<br>
+Eu mi-am facut un cântec,<br>
+<br>
+Si n-as fi vrut sa-l fac.<br>
+<br>
+Dar fusul e de vina<br>
+<br>
+Ca se-nvârtea mereu,<br>
+<br>
+Si ce-mi cânta nainte<br>
+<br>
+Cântam pe urma eu.<br>
+<br>
+De-atunci îl cânt întruna<br>
+<br>
+Ca-mi vine-asa nevrând;<br>
+<br>
+De-as face orice-as face,<br>
+<br>
+Nu pot sa-l scot din gând.<br>
+<br>
+Îl cânt torcând la vatra<br>
+<br>
+Si-l cânt mergând pe drum<br>
+<br>
+Si nu pricep ce-i asta,<br>
+<br>
+Si nu stiu, biata, cum?<br>
+<br>
+Adese stând la cina<br>
+<br>
+Simt lacrimile des,<br>
+<br>
+Nu pot mânca de lacrimi<br>
+<br>
+Si trebuie sa ies<br>
+<br>
+Afara-n vânt, afara,<br>
+<br>
+Ca-mi arde capul tot,<br>
+<br>
+Si-ngrop în palme capul<br>
+<br>
+Si-mi cânt amarul tot.<br>
+<br>
+Am stat la roata morii,<br>
+<br>
+Si roata umbla des,<br>
+<br>
+Si roata morii cânta<br>
+<br>
+Cuvinte cu-nteles.<br>
+<br>
+Ea cânta înainte;<br>
+<br>
+Cânt si eu dupa ea<br>
+<br>
+Moraru-si face cruce<br>
+<br>
+Privind în urma mea.<br>
+<br>
+Si-am mers pe malul apei,<br>
+<br>
+În valuri sa-mi îngrop<br>
+<br>
+Si cântecul, si-amarul<br>
+<br>
+Dar a-nceput un plop<br>
+<br>
+Sa cânte, si toti plopii<br>
+<br>
+Cântau duios în vânt,<br>
+<br>
+Si m-am trezit deodata<br>
+<br>
+Ca plâng si eu si cânt!<br>
+<br>
+Si-am mers pe lunci, dar jalnic,<br>
+<br>
+D-a lungul peste lunci,<br>
+<br>
+Cum plâng si cânta toate!<br>
+<br>
+Si-n crâng m-am dus atunci<br>
+<br>
+Nu-i loc mai bun pe lume<br>
+<br>
+De plâns decât în crâng!<br>
+<br>
+Ah, toate plâng, si satul<br>
+<br>
+Se mira ca eu plâng!<br>
+<br>
+Dar fusul e de vina,<br>
+<br>
+Ca se-nvârtea mereu,<br>
+<br>
+Si el cânta un cântec,<br>
+<br>
+Si-l stiu de-atunci si eu!<br>
+<br>
+Si-ncet ce trece viata<br>
+<br>
+Când n-ai nici un noroc<br>
+<br>
+Mai iute dac-ar trece,<br>
+<br>
+De-ar sta mai bine-n loc!<br>
+<br>
+De-ar sta pe loc mai bine!<br>
+<br>
+Ori loc eu sa-mi gasesc<br>
+<br>
+Sa pot sa plâng cu hohot<br>
+<br>
+Nici asta nu-ndraznesc!<br>
+<br>
+Ca mama ma tot cearta<br>
+<br>
+Si tata-i suparat,<br>
+<br>
+Si-n ochii mei se uita<br>
+<br>
+Toti oamenii din sat.<br>
+<br>
+Ah, seara, numai seara,<br>
+<br>
+Ma simt la largul meu,<br>
+<br>
+Ca-ngrop în perne capul<br>
+<br>
+Si, pâna-n zori mereu,<br>
+<br>
+Tot plâng ca o nebuna<br>
+<br>
+Si perna-n brate o strâng,<br>
+<br>
+Si plâng, ca nu ma vede<br>
+<br>
+Maicuta-mea ca plâng.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** George Coşbuc
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

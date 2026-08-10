@@ -1,0 +1,66 @@
+---
+title: "Plouă"
+subtitle: "George Bacovia"
+author: "Doctor Shrink"
+date: "2026-08-11"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I67PC5n9s3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Da, plouă cum n-am mai văzut<br>
+<br>
+Şi grele tălăngi adormite,<br>
+<br>
+Cum sună sub şuri învechite!<br>
+<br>
+Cum sună în sufletu-mi mut!<br>
+<br>
+Oh, plânsul tălăngii când plouă!<br>
+<br>
+Şi ce enervare pe gând!<br>
+<br>
+Ce zi primitivă de tină!<br>
+<br>
+O bolnavă faţă vecină<br>
+<br>
+Răcneşte la ploaie, râzând<br>
+<br>
+Oh, plânsul tălăngii când plouă!<br>
+<br>
+Da, plouă şi sună umil<br>
+<br>
+Ca tot ce-i iubire şi ură-<br>
+<br>
+Cu-o muzică tristă, de gură,<br>
+<br>
+Pe-aproape s-aude-un copil.<br>
+<br>
+Oh, plânsul tălăngii când plouă!<br>
+<br>
+Ce basme tălăngile spun!<br>
+<br>
+Ce lume-aşa goală de vise!<br>
+<br>
+Şi cum să nu plângi în abise,<br>
+<br>
+Da, cum să nu mori şi nebun?<br>
+<br>
+Oh, plânsul tălăngii când şi plouă!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** George Bacovia
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

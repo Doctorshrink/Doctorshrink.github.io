@@ -1,0 +1,86 @@
+---
+title: "Toamna singuraticului"
+subtitle: "Georg Trakl"
+author: "Doctor Shrink"
+date: "2026-08-11"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MsHdl0O00EA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Prea-sumbra toamnă-i plină de fructe și prinos,<br>
+<br>
+Îngălbenita strălucire a zilelor de vară.<br>
+<br>
+Albastru pur din coji trecute cade jos;<br>
+<br>
+Al păsărilor zbor răsună din legende-n seară.<br>
+<br>
+In prese-i vinul, tăcerea lină a vinului gustos<br>
+<br>
+Umple-n tăceri răspunsuri la-ntrebări de-odinioară.<br>
+<br>
+Pe ici și colo cruci pe dealuri goale;<br>
+<br>
+În roșia pădure se pierde-o turmă.<br>
+<br>
+Un nor plutește peste iazuri rotocoale;<br>
+<br>
+Se odihnește-a țăranului muncii urmă.<br>
+<br>
+Încet albastra aripă se mișcă moale<br>
+<br>
+Acoperiș de paie negrului pământ de gurmă.<br>
+<br>
+Curând se cuibăresc stele obosite-n gene;<br>
+<br>
+În răcoroase case liniștea-i smerită<br>
+<br>
+Iar îngerii ies din albastre tusigene<br>
+<br>
+Perechi de ochi de-ndrăgostiți dorită.<br>
+<br>
+Papura șuieră; osoasă groaza intră-n pene<br>
+<br>
+Când roua neagră picură zorită.<br>
+<br>
+Comentariul traducătorului<br>
+<br>
+Ar fi prea simplu să presupunem că Trakl a intenționat o „auto-declarație” în această poezie. Singurătatea era cu siguranță o trăsătură a referinței sale umane. Nu există dovezi convingătoare că Trakl ar fi dorit prin „sine&quot; să se autocaracterizeze. El a caracterizat scrisul său ca pe o muncă grea spre a ajunge la expresii și imagini (într-un aforism numit „Ispășire&quot;), dar niciodată ca mijloc de auto-cunoaștere sau de auto-exprimare.<br>
+<br>
+„Urmărind propria liniștea netulburată&quot;, i-a declarat Trakl lui Wittgenstein, sponsorul său(care i-a donat 20.000 de coroane), într-o scrisoare.<br>
+<br>
+„Toamna&quot; și „singurătatea&quot; sunt motive care apar frecvent în literatură, creând o conditie humana care cunoaște tensiunea dintre abundență și finalizare, apropierea de moarte și împlinirea în condițiile individualizării. În „Zi de toamnă&quot; de Rainer Maria Rilke (scrisă la Paris în 1902), motivul a fost conceput în acest sens. „Zi de toamnă&quot; a fost publicat în 1902 în volumul „Cartea imaginilor“. Că Trakl a cunoscut bine opera lui Rilke este un fapt cunoscut.<br>
+<br>
+Asemănările motivelor cum ar fi „fruct&quot;, „vara&quot; și „vinul&quot;, se pot datora doar temei comune și nu neapărat ca o referință directă.<br>
+<br>
+O a doua, foarte probabilă, referință ar fi de amintit poemul lui Hölderlin „Toamnă&quot;, în care zborul păsărilor apare ca un sistem imagistic indirect („Spiritul frigului se găsește din nou în cer&quot;) cât  și „țăranul&quot;. Se pot găsi, de asemenea, asemănări ca „Vacanța toamnei plină e de fructe&quot; la Hölderlin; la Trakl „Întunecata toamnă-i plină de fructe și prinos”. Se poate spune, la cei trei poeți amintiți, că este vorba despre o preocupare generală, comună. Starea generală are o imagine comună în toate cele trei strofe ale poemului: locul securizant.<br>
+<br>
+„Albastru pur din coji trecute cade&quot;, „Acoperiș de paie negrului pământ&quot; și „În răcoroase case&quot; sunt materialele cu care lucrează autorul.<br>
+<br>
+De asemenea, este de remarcat faptul că în toate cele trei strofe apare culoarea albastră, „Albastru pur din coji trecute&quot;, „Încet albastra aripă se mișcă moale&quot;, „Iar îngerii ies din albastre tusigene”.<br>
+<br>
+Sunt menționate treceri și atingeri blânde, metamorfoze, transformări, miracole.<br>
+<br>
+Ultimele două versuri aduc o disonanță în această lume securizată: „Papura șuieră; osoasă groaza intră-n pene / Când roua neagră picură zorită”.<br>
+<br>
+NOTE<br>
+<br>
+1 WITTGENSTEIN, LUDWIG ( 1889 – 1951) – filosof austriac cu contribuții valoroase la dezvoltarea logicii moderne și a filosofiei limbajului. Celebru, deși în timpul vieții publică o singură lucrare: „Tractatus Logico – Philosophicus”(1921).
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Georg Trakl
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,90 @@
+---
+title: "Graiul neamului"
+subtitle: "George Coşbuc"
+author: "Doctor Shrink"
+date: "2026-08-11"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5w9VhvSeXno" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+„Fie-a voastră-ntreagă ţară,<br>
+<br>
+Şi de cereţi, vă mai dăm,<br>
+<br>
+Numai daţi-ne voi graiul<br>
+<br>
+Neamului” – Şi se sculară<br>
+<br>
+Să ne vremuiască traiul<br>
+<br>
+Câţi duşmani aveam pe lume!<br>
+<br>
+Graiul ni-l cereau anume,<br>
+<br>
+Să-l lăsăm!<br>
+<br>
+Dar nestrămutaţi strămoşii<br>
+<br>
+Tot cu arma-n mâini au stat:<br>
+<br>
+Au văzut şi munţi de oase,<br>
+<br>
+Şi de sânge râuri roşii,<br>
+<br>
+Dar din ţara lor nu-i scoase<br>
+<br>
+Nici potop şi nici furtună.<br>
+<br>
+Graiul lor de voie bună<br>
+<br>
+Nu l-au dat!<br>
+<br>
+Astăzi stăm şi noi la pândă,<br>
+<br>
+Graiul vechi să-l apărăm;<br>
+<br>
+Dar pe-ascuns duşmanii cată<br>
+<br>
+Să ni-l fure, să ni-l vândă.<br>
+<br>
+Dacă-n vreme tulburată<br>
+<br>
+Nu ne-am dat noi graiul ţării,<br>
+<br>
+Azi, în ziua deşteptării,<br>
+<br>
+Cum să-l dăm?<br>
+<br>
+Repezi trec cu vifor anii,<br>
+<br>
+Ispitind puterea ta,<br>
+<br>
+Neam român! Cu ură mare<br>
+<br>
+Vor căta mereu duşmanii<br>
+<br>
+Graiului român pierzare;<br>
+<br>
+Dar să piară ei cu toţii:<br>
+<br>
+Nu l-am dat, şi nici nepoţii<br>
+<br>
+Nu-l vor da!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** George Coşbuc
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

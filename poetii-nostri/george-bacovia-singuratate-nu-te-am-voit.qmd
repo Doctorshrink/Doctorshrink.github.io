@@ -1,0 +1,92 @@
+---
+title: "Singuratate, Nu Te-am Voit"
+subtitle: "George Bacovia"
+author: "Doctor Shrink"
+date: "2026-08-11"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A9BdKBnvb4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cumplit<br>
+<br>
+E golul singuratatii!<br>
+<br>
+Sunt ucisul ei...<br>
+<br>
+Singuratatea?<br>
+<br>
+Povara tacerilor<br>
+<br>
+Sfasiate de suspine...<br>
+<br>
+Singuratate<br>
+<br>
+Ochiul tau<br>
+<br>
+Priveste inghetat<br>
+<br>
+In ochiul gandului<br>
+<br>
+Neimpartasit...<br>
+<br>
+Singuratate<br>
+<br>
+Nu te-am voit!<br>
+<br>
+Viata-haina-<br>
+<br>
+M-a daruit tie<br>
+<br>
+Tu m-ai cerut<br>
+<br>
+Vietii<br>
+<br>
+Prizonierul tau<br>
+<br>
+Singuratate<br>
+<br>
+Oamenii<br>
+<br>
+Cum i-am iubit<br>
+<br>
+Dar ei<br>
+<br>
+Nu m-au voit<br>
+<br>
+Din singuratatea<br>
+<br>
+Vietii<br>
+<br>
+In singuratatea<br>
+<br>
+Mortii si nimeni<br>
+<br>
+Nu intelege<br>
+<br>
+Acest adanc<br>
+<br>
+Poeti evitati<br>
+<br>
+Singuratatea<br>
+<br>
+Intre oameni<br>
+<br>
+E viata...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** George Bacovia
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
