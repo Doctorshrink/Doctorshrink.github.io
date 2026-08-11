@@ -1,0 +1,186 @@
+---
+title: "Pe drumul Plevnei"
+subtitle: "George Coşbuc"
+author: "Doctor Shrink"
+date: "2026-08-12"
+categories: [poezie, spoken-word, drum]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OU9civGrAsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Iar pe drumul care duce<br>
+<br>
+de la Dunăre spre munte<br>
+<br>
+Trec românii zi şi noapte<br>
+<br>
+către Plevna, merg şi vin.<br>
+<br>
+Vesele batalioane<br>
+<br>
+cu maiorii lor în frunte,<br>
+<br>
+Şir de care cu provizii<br>
+<br>
+schilăviţi în haine crunte<br>
+<br>
+Scârţâit şi chiu, şi tropot<br>
+<br>
+pe-acel drum de oameni plin.<br>
+<br>
+Într-acest pestriţ amestec,<br>
+<br>
+scoborând pe dealuri, iată<br>
+<br>
+Pe-un răzor s-oprise-n cale<br>
+<br>
+o bătrână şi gemea,<br>
+<br>
+Cu desagii goi pe umeri,<br>
+<br>
+semn de-o cale-ndelungată.<br>
+<br>
+Iar din văi, urcând alene<br>
+<br>
+se vedea venind o ceată<br>
+<br>
+De drumeţi din ţara noastră<br>
+<br>
+şi s-opriră lângă ea.<br>
+<br>
+Bună calea, zise unul,<br>
+<br>
+Inima vă fie bună,<br>
+<br>
+Oameni buni! Dar unde mergeţi?<br>
+<br>
+De ne-ajută Dumnezeu,<br>
+<br>
+Noi, la Plevna, maică dragă.<br>
+<br>
+Tot la Plevna! Cum ne-adună!<br>
+<br>
+Eu de-acolo viu. Băiatul<br>
+<br>
+mi-e-n război acu de-o lună,<br>
+<br>
+Şi m-am dus să-mi văd băiatul<br>
+<br>
+că-i la Plevna şi-i al meu.<br>
+<br>
+Repede-mprejur se strânse<br>
+<br>
+ca prin farmec toată ceata<br>
+<br>
+Ca să-ntrebe cum e Plevna?<br>
+<br>
+cum stau turcii-nchişi în ea?<br>
+<br>
+Ce mai zice Carol-vodă,<br>
+<br>
+când o fi războiul gata?<br>
+<br>
+Şi-mbătată de potopul<br>
+<br>
+întrebărilor ea, biata,<br>
+<br>
+Îşi ştergea cu palma ochii<br>
+<br>
+şi plângând le tot spunea.<br>
+<br>
+Dar în urmă, ei de grija<br>
+<br>
+nopţii, ca să nu-i apuce:<br>
+<br>
+Să rămâi în pace, maică,<br>
+<br>
+să te vadă Domnul sfânt.<br>
+<br>
+Şi grăbiţi se ridicară<br>
+<br>
+toţi de jos, făcându-şi cruce.<br>
+<br>
+Ea, cu ochii plini de plânset,<br>
+<br>
+privea gloata cum se duce,<br>
+<br>
+Şi-un pustiu simţi-mprejuru-i<br>
+<br>
+şi-ntuneric pe pământ.<br>
+<br>
+Stete-aşa, mereu privindu-i<br>
+<br>
+şi deodată-n fuga mare<br>
+<br>
+Ea porni la deal, cu strigăt<br>
+<br>
+să s-oprească ceata-n loc.<br>
+<br>
+Când ajunse-abia trăgându-şi<br>
+<br>
+puţintica răsuflare:<br>
+<br>
+Dragi creştini, voi unde mergeţi?<br>
+<br>
+aveţi milă şi-ndurare,<br>
+<br>
+Eu mă-ntorc cu voi acolo<br>
+<br>
+la băiatul meu, în foc!<br>
+<br>
+Dar ai fost! La Plevna, maică,<br>
+<br>
+toate-acum îţi sunt ştiute,<br>
+<br>
+Ţi-ai văzut şi tu băiatul,<br>
+<br>
+ce mai vrei să vezi acum?<br>
+<br>
+Să te-ntorci, în sat acasă;<br>
+<br>
+ia-ţi toiagul tău şi du-te.<br>
+<br>
+Noi suntem cu toţii tineri<br>
+<br>
+zor avem şi mergem iute,<br>
+<br>
+Tu eşti slabă şi puţină<br>
+<br>
+şi e mult de mers pe drum.<br>
+<br>
+Ea-şi întinse-atunci cu gemet<br>
+<br>
+mâinile, strigând cu jale:<br>
+<br>
+Nu mă bateţi cu nevrerea,<br>
+<br>
+că vă bate Dumnezeu!<br>
+<br>
+Voi fugi cu voi alături,<br>
+<br>
+şi de voi muri pe cale,<br>
+<br>
+Tot atât! M-oi şti aproape<br>
+<br>
+de băiat! În sat, acasă<br>
+<br>
+E pustiu, că n-am pe nimeni!<br>
+<br>
+Orice-o fi, mă duc şi eu!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** George Coşbuc
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

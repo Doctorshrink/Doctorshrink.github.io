@@ -1,0 +1,302 @@
+---
+title: "Moartea lui Gelu"
+subtitle: "George Coşbuc"
+author: "Doctor Shrink"
+date: "2026-08-12"
+categories: [poezie, spoken-word, moarte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PcpGAJCKJks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Razlet din ostirea batuta,<br>
+<br>
+Fugind pe campia tacuta,<br>
+<br>
+Cazu de pe cal, de durere,<br>
+<br>
+Pe marginea apei. Si piere.<br>
+<br>
+Din rana si-ar smulge sageata<br>
+<br>
+Si n-are putere.<br>
+<br>
+Pierdut-a si oaste si tara.<br>
+<br>
+E noapte-n vazduhuri; si rara<br>
+<br>
+E zbaterea apei, cand valul<br>
+<br>
+Atinge cu aripa-i malul<br>
+<br>
+Iar Gelu, prin noapte stand singur,<br>
+<br>
+Vorbeste cu calul:<br>
+<br>
+Vai, murgule, jalea ma curma!<br>
+<br>
+Ma lupt cu durerea din urma,<br>
+<br>
+Caci ranele-mi sapa mormantul,<br>
+<br>
+Degeaba imprastii tu vantul<br>
+<br>
+Din coama, piciorul tau scurma<br>
+<br>
+Degeaba pamantul.<br>
+<br>
+Ma chemi prin nechezuri pagane<br>
+<br>
+Si parca zici: Vino, stapane!<br>
+<br>
+Vezi, picura ranele tale<br>
+<br>
+Si neguri se nalta din vale,<br>
+<br>
+E noapte, si ziua de maine<br>
+<br>
+Ne-ajunge pe cale!<br>
+<br>
+Trei suliti facutu-si-au strunga<br>
+<br>
+Prin mine! Ma zbucium pe-o dunga<br>
+<br>
+Si nu-mi mai simt bratul si braul;<br>
+<br>
+Tu-ti rupi cu picioarele fraul<br>
+<br>
+Las, murgule, las sa ne-ajunga<br>
+<br>
+Pe-aicea pustiul.<br>
+<br>
+De-acum tu... cat va cuprinde<br>
+<br>
+Mantaua, deasupra-mi o-ntinde<br>
+<br>
+Si-apoi cu picioarele-mi sapa<br>
+<br>
+Mormantul pe margini de apa.<br>
+<br>
+Si-n urma cu dintii ma prinde<br>
+<br>
+Si-arunca-ma-n groapa.<br>
+<br>
+Jeleasca-ma apele Cernii!<br>
+<br>
+Sa-mi bubuie crivatul iernii.<br>
+<br>
+Ca-n taberi al cailor tropot;<br>
+<br>
+Iar vesnicul apelor sopot<br>
+<br>
+Sa-mi para ca-n ceasul vecernii.<br>
+<br>
+O ruga de clopot.<br>
+<br>
+Si, poate, sosi-va o vreme<br>
+<br>
+Cand muntii vor fierbe, vor geme<br>
+<br>
+Cu hohote mamele-n praguri,<br>
+<br>
+Vor trece barbatii-n siraguri<br>
+<br>
+Cand bucium suna-va sa cheme<br>
+<br>
+Pe tineri sub steaguri.<br>
+<br>
+Iar tu, de-i trai, fratioare,<br>
+<br>
+Sa-mi vezi luptatorii-n picioare,<br>
+<br>
+Atunci cand sosit va fi ceasul,<br>
+<br>
+Abate-ti pe-aice tu pasul:<br>
+<br>
+Necheaza-mi, si atunci eu din groapa<br>
+<br>
+Cunoaste-ti-voi glasul!<br>
+<br>
+Si-armat voi iesi eu afara,<br>
+<br>
+Si veseli vom trece noi iara<br>
+<br>
+Prin suliti si foc inainte,<br>
+<br>
+Sa tie protivnicii minte<br>
+<br>
+Ca-s vii, cand e vorba de tara,<br>
+<br>
+Si mortii-n morminte!<br>
+<br>
+El zice, si mana si-o strange<br>
+<br>
+Pe pieptul cel umed de sange<br>
+<br>
+Iar calul sta singur de paza<br>
+<br>
+Lui Gelu, si trist el aseaza<br>
+<br>
+La pieptul stapanului capul<br>
+<br>
+Si astfel vegheaza.<br>
+<br>
+Si-auzi! Ca un vant ce clateste<br>
+<br>
+Padurea, cand ploaia soseste,<br>
+<br>
+Asa din adancuri de zare<br>
+<br>
+Un vuiet prin noapte rasare.<br>
+<br>
+Iar vuietul vine, si creste,<br>
+<br>
+Mai iute, mai tare.<br>
+<br>
+Si iata-i, din umbrele vaii<br>
+<br>
+Cu scuturi ies repezi flacaii,<br>
+<br>
+Ca mortii ce-si lasa mormantul;<br>
+<br>
+Ies roibii cu umblet ca vantul,<br>
+<br>
+Rasar de tutindeni, de pare<br>
+<br>
+Ca-i varsa pamantul.<br>
+<br>
+Arcasii lui Arpad! In goana<br>
+<br>
+Ei fug dup-ostirea dusmana.<br>
+<br>
+Si, uzi de-alergare, se-ncura<br>
+<br>
+Fugarii prin negura sura,<br>
+<br>
+Cu fraul pe coama, si-arcasii<br>
+<br>
+Cu spazile-n gura.<br>
+<br>
+Navalnic s-apropie pasii,<br>
+<br>
+Si-n goana lor canta arcasii,<br>
+<br>
+Si-asa de salbatic li-e cantul<br>
+<br>
+Din piele de urs au vestmantul,<br>
+<br>
+Si-n barbile lor incalcite<br>
+<br>
+Se-mpiedica vantul.<br>
+<br>
+Iar Gel, auzindu-i prin zare,<br>
+<br>
+De spaima si groaza tresare<br>
+<br>
+El moare! Si canta paganii!<br>
+<br>
+N-au Domn si n-au tara romanii,<br>
+<br>
+Si-adusii de vanturi in tara<br>
+<br>
+Sunt astazi stapanii!<br>
+<br>
+Si-n mainile cui e scaparea?<br>
+<br>
+Nu-i piept sa le-nchida cararea?<br>
+<br>
+Nu-i brat de voinic, sa-i abata?<br>
+<br>
+Si nu e pe lume-o sageata<br>
+<br>
+Ca-n inima gloatei lui Arpad<br>
+<br>
+Adanc sa strabata?<br>
+<br>
+Si Gelu le judeca toate:<br>
+<br>
+Se nalta proptindu-se-n coate<br>
+<br>
+Si-a calului glezn-o cuprinde,<br>
+<br>
+Cu graba el arcul si-l prinde,<br>
+<br>
+Si-nvarte sageata si-o scoate<br>
+<br>
+Din rana, si-o-ntinde:<br>
+<br>
+Si vajaie slaba sageata<br>
+<br>
+Cu gemetul mortii deodata<br>
+<br>
+Arcasii trec repezi in cale,<br>
+<br>
+Si-i vuiet si-i chiot prin vale:<br>
+<br>
+Ce cant de-ngropare lui Gelu<br>
+<br>
+Si-ostirilor sale!<br>
+<br>
+Iar vuietu-n neguri patrunde<br>
+<br>
+Si-n inima noptii s-ascunde<br>
+<br>
+Departe, si-n valuri de valuri<br>
+<br>
+Ecoul izbindu-se-n dealuri<br>
+<br>
+De zece ori jalnic raspunde<br>
+<br>
+Pustiilor maluri.<br>
+<br>
+De zece ori, iarasi de zece,<br>
+<br>
+Si scade, si piere, si trece,<br>
+<br>
+De data din urma rasuna<br>
+<br>
+Tacerea-mprastiata s-aduna<br>
+<br>
+Si-n neguri aluneca rece<br>
+<br>
+O bolnava luna.<br>
+<br>
+Iar calul, vedenie muta,<br>
+<br>
+Cu coama de vanturi batuta,<br>
+<br>
+Sta-n noaptea cu neguri de paza<br>
+<br>
+Lui Gelu; si trist el aseaza<br>
+<br>
+Pe pieptul stapanului capul<br>
+<br>
+Si astfel vegheaza.<br>
+<br>
+Iar apa la maluri se frange<br>
+<br>
+Si cade pe spate si plange:<br>
+<br>
+Cu fierul potcoavei tu-mi sapa<br>
+<br>
+Mormantul pe margini de apa,<br>
+<br>
+Si-n urma cu dintii ma prinde<br>
+<br>
+Si-arunca-ma-n groapa!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** George Coşbuc
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

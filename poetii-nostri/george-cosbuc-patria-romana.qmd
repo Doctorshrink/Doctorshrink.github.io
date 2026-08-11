@@ -1,0 +1,62 @@
+---
+title: "Patria română"
+subtitle: "George Coşbuc"
+author: "Doctor Shrink"
+date: "2026-08-12"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QsauP-gDu3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Patria ne-a fost pământul<br>
+Unde ne-au trăit strămoşii,<br>
+Cei ce te-au bătut pe tine,<br>
+Baiazide, la Rovine,<br>
+Şi la Neajlov te făcură<br>
+Fără dinţi, Sinane,-n gură,<br>
+Şi punând duşmanii-n juguri<br>
+Ei au frământat sub pluguri<br>
+Sângele Dumbrăvii-Roşii. -<br>
+Asta-i patria română<br>
+Unde-au vitejit strămoşii!<br>
+<br>
+Patria ne e pământul<br>
+Celor ce suntem în viaţă,<br>
+Cei ce ne iubim frăţeşte,<br>
+Ne dăm mâna româneşte:<br>
+Numai noi cu-acelaşi nume,<br>
+Numai noi români pe lume<br>
+Toţi de-aceeaşi soartă data,<br>
+Suspinând cu toţi odată<br>
+Şi-având toţi o bucurie;<br>
+Asta-i patria română<br>
+Şi ea sfânta să ne fie!<br>
+<br>
+Patria ne-o fi pământul<br>
+Unde ne-or trăi nepoţii,<br>
+Şi-ntr-o mândră Românie<br>
+De-o vrea cerul, în vecie,<br>
+S-or lupta să ne păzească<br>
+Limba, legea românească<br>
+Şi vor face tot mai mare<br>
+Tot ce românismul are:<br>
+Asta-i patria cea dragă<br>
+Şi-i dăm patriei române<br>
+Inima şi viaţa-ntreagă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** George Coşbuc
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,46 @@
+---
+title: "Singurătate"
+subtitle: "George Gordon Byron"
+author: "Doctor Shrink"
+date: "2026-08-12"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y-cT0CWMkhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Să şezi visînd pe ţărm, pe lunci, pe stînci,<br>
+să mergi unde-i pădurea mai obscură,<br>
+în locuri unde tainele-s adînci<br>
+şi unde tu eşti cea dintîi făptură;<br>
+să vezi de sus ce alţii nu văzură,<br>
+s-ajungi pe culmi cu fiarele a sta,<br>
+s-admiri un pisc, un hău, o apă pură<br>
+nu-i a fi singur, ci a conversa<br>
+cu farmecul Naturii, cu măreţia sa.<br>
+<br>
+Dar în mulţime, forfotă, foială,<br>
+s-auzi, să vezi, să simţi şi să posezi,<br>
+pierdut, pribeag, muncit de îndoială,<br>
+lipsit de ale dragostei dovezi,<br>
+neadecvat, scăzut, lovit de boală!<br>
+Să n-ai un prieten, un ortac, un frate,<br>
+să n-ai pe nime-n care să te-ncrezi,<br>
+cu milioane-n faţă şi în spate<br>
+e a fi singur, e singurătate!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** George Gordon Byron
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,106 @@
+---
+title: "Tatăl nostru"
+subtitle: "George Lesnea"
+author: "Doctor Shrink"
+date: "2026-08-12"
+categories: [poezie, spoken-word, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YYSwKymSf2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Tatăl nostru carele<br>
+<br>
+Mâni la pradă fiarele<br>
+<br>
+Și ogoi cu buciumul<br>
+<br>
+Viforul și zbuciumul.<br>
+<br>
+Cârmuiești corabia,<br>
+<br>
+Zbori pe sus cu vrabia.<br>
+<br>
+Râzi cu diminețile<br>
+<br>
+Plângi și gemi cu viețile.<br>
+<br>
+Crești în frunza socului,<br>
+<br>
+Arzi în para focului,<br>
+<br>
+Murmuri cu fântânile,<br>
+<br>
+Stai la sfat cu stânile,<br>
+<br>
+Ești zemos cum rodia,<br>
+<br>
+Te întinzi cât zodia,<br>
+<br>
+Dormi în ochii boilor,<br>
+<br>
+Cânți în stropii ploilor.<br>
+<br>
+Ești miresma florilor,<br>
+<br>
+Miști aripa morilor,<br>
+<br>
+Fugi în peștii apelor,<br>
+<br>
+Scurmi cu dinții grapelor,<br>
+<br>
+Sui în seva luncilor,<br>
+<br>
+Sugi cu gura pruncilor,<br>
+<br>
+Curgi în mierea stupilor,<br>
+<br>
+Urli-n foamea lupilor.<br>
+<br>
+Te îngână clopotul,<br>
+<br>
+Tăinuiești cu șopotul,<br>
+<br>
+Te îndoi cu mladele,<br>
+<br>
+Durui cu cascadele,<br>
+<br>
+Te sfâșii cu geamătul,<br>
+<br>
+Te înalți cu freamătul,<br>
+<br>
+Alergându cu sunetul,<br>
+<br>
+Detunând cu tunetul.<br>
+<br>
+Tatăl nostru carele<br>
+<br>
+De dârlogi duci soarele,<br>
+<br>
+Luminând cu stelele<br>
+<br>
+Bunele și relele.<br>
+<br>
+Ești deasupra miilor<br>
+<br>
+Dumnezeul viilor -<br>
+<br>
+Și deaupra sorților<br>
+<br>
+Dumnezeul morților.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** George Lesnea
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
