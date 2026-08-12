@@ -1,0 +1,51 @@
+---
+title: "Plouă"
+subtitle: "George Topîrceanu"
+author: "Doctor Shrink"
+date: "2026-08-13"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YR3cSmJ8MXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pe-aici când plouă, plouă îndesat,<br>
+Nu ţine ca la noi un ceas ori două.<br>
+Că ziua plouă, plouă pe-nserat,<br>
+Şi când se crapă iar de ziuă, - plouă.<br>
+<br>
+În faptul zilei, streşinile plâng.<br>
+Pădurea stă plouată ca o curcă.<br>
+Natura calcă cu piciorul stâng:<br>
+Pe-aici când plouă, - plouă, nu se-ncurcă!<br>
+<br>
+Iar când s-arată soarele sărac.<br>
+De după nouri, ca să-ţi facă-n ciudă,<br>
+N-apuci a scoate nasul din cerdac,<br>
+Că până la întoarcere, - te udă.<br>
+<br>
+Există şi răstimpuri când se moaie,<br>
+Când parcă nu mai toarnă-aşa, de sus,<br>
+Şi cerul câte-oleacă, spre apus,<br>
+Se luminează puţintel - a ploaie.<br>
+<br>
+Atunci se cheamă că e timp frumos<br>
+(Măcar că tot mai cade-un pic de bură),<br>
+Dar fumul din ogeac se lasă-n jos,<br>
+Şi porcul umblă tot cu paiu-n gură...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** George Topîrceanu
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

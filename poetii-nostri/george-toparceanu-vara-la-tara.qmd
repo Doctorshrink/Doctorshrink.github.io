@@ -1,0 +1,206 @@
+---
+title: "Vara la ţară"
+subtitle: "George Topîrceanu"
+author: "Doctor Shrink"
+date: "2026-08-13"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MDlHO3iDF48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Locuinţa mea de vară<br>
+<br>
+E la ţară…<br>
+<br>
+Acolo era să mor<br>
+<br>
+De urât şi de-ntristare<br>
+<br>
+Beat de soare<br>
+<br>
+Şi pârlit îngrozitor!<br>
+<br>
+Acolo, când n-are treabă,<br>
+<br>
+Orice babă<br>
+<br>
+Este medic comunal.<br>
+<br>
+Viaţa ce aci palpită<br>
+<br>
+E lipsită<br>
+<br>
+De confort occidental.<br>
+<br>
+Nu există berărie,<br>
+<br>
+Nici regie…<br>
+<br>
+Doar un hoţ de cârciumar<br>
+<br>
+Care are marfă proastă<br>
+<br>
+Şi-o nevastă<br>
+<br>
+Ce se ţine c-un jandar.<br>
+<br>
+Când te duci pe drumul mare<br>
+<br>
+La plimbare,<br>
+<br>
+Este praf de nu te vezi.<br>
+<br>
+Trec, mişcând domol din coadă,<br>
+<br>
+Spre livadă<br>
+<br>
+Ale satului cirezi.<br>
+<br>
+Şi te poartă sub escortă<br>
+<br>
+O cohortă<br>
+<br>
+De ţânţari subţiri în glas,<br>
+<br>
+Înzestraţi la cap c-o sculă<br>
+<br>
+Minusculă<br>
+<br>
+Cu pretenţie de nas…<br>
+<br>
+Când se ia câte-o măsură,<br>
+<br>
+Lumea-njură<br>
+<br>
+Pe agentul sanitar<br>
+<br>
+Şi-l întreabă fără noimă:<br>
+<br>
+Ce-ai cu noi, mă?<br>
+<br>
+Pentru ce să dăm cu var?…<br>
+<br>
+Ale satului mari fete<br>
+<br>
+Fără ghete<br>
+<br>
+Ies la garduri pe-nserat…<br>
+<br>
+(Am văzut aci-ntr-o noapte<br>
+<br>
+Nişte fapte<br>
+<br>
+Care m-au scandalizat!)<br>
+<br>
+Lângă foc, o babă surdă<br>
+<br>
+Şi absurdă<br>
+<br>
+Spune, ca şi alte daţi,<br>
+<br>
+Tot povestea cu Ileana<br>
+<br>
+Cosânzeană,<br>
+<br>
+Plină de banalităţi.<br>
+<br>
+Doarme-apoi adânc comuna…<br>
+<br>
+Numai luna<br>
+<br>
+Galbenă ca un bostan<br>
+<br>
+Iese, mare şi rurală,<br>
+<br>
+La iveală,<br>
+<br>
+Dintr-o margine de lan.<br>
+<br>
+Când şi când un câine urlă<br>
+<br>
+Ca din surlă…<br>
+<br>
+Carul mare s-a oprit<br>
+<br>
+Suspendat, ca un macabru<br>
+<br>
+Candelabru,<br>
+<br>
+Peste satul adormit…<br>
+<br>
+Dar în zori încep cocoşii,<br>
+<br>
+Păcătoşii,<br>
+<br>
+Că să facă iar scandal,<br>
+<br>
+Să te saturi de viaţa<br>
+<br>
+Şi dulceaţa<br>
+<br>
+Traiului patriarhal!<br>
+<br>
+D-aia zic eu, prin urmare,<br>
+<br>
+Vorba mare:<br>
+<br>
+Că de-acuma, să mă tai,<br>
+<br>
+Nu-mi mai trebuie-altă cură<br>
+<br>
+În natură,<br>
+<br>
+Să mă duceţi cu alai!<br>
+<br>
+Meargă pictorii la ţară<br>
+<br>
+Ca să piară<br>
+<br>
+De căldură şi de praf!<br>
+<br>
+Mie daţi-mi străzi pavate,<br>
+<br>
+Măturate,<br>
+<br>
+Daţi-mi cinematograf!<br>
+<br>
+Ca un fluture pe floare,<br>
+<br>
+Beat de soare,<br>
+<br>
+Pentru ce să mor aşa?<br>
+<br>
+Nu mai vreau ţărănci naive,<br>
+<br>
+Primitive…<br>
+<br>
+Mie daţi-mi altceva!<br>
+<br>
+Daţi-mi, daţi-mi stradă-ngustă<br>
+<br>
+Unde gustă<br>
+<br>
+Omul viaţa mai din plin<br>
+<br>
+Cu trăsuri, femei cochete<br>
+<br>
+Şi cu fete<br>
+<br>
+Încălţate cel puţin!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** George Topîrceanu
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

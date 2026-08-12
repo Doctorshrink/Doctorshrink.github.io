@@ -1,0 +1,88 @@
+---
+title: "Balada ultimului cuvânt"
+subtitle: "George Ţărnea"
+author: "Doctor Shrink"
+date: "2026-08-13"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxtAdWvoCmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nici n-apuci să spui de-i bine<br>
+<br>
+Sau de-i frig în gândul tău<br>
+<br>
+Că prea iute noaptea vine<br>
+<br>
+Şi mi-e greu cu dorul tău<br>
+<br>
+Iar în urma ta-i părerea<br>
+<br>
+Paşilor purtaţi de vânt<br>
+<br>
+Nemişcat rămân<br>
+<br>
+Şi aştept ultimul cuvânt…<br>
+<br>
+Suntem iar singuri pe pământ<br>
+<br>
+Te privesc tăcut şi aştept ultimul cuvânt<br>
+<br>
+Ţi-aş şopti vesnic legământ<br>
+<br>
+Dar te îndepărtezi şi aştept ultimul cuvânt…<br>
+<br>
+Toamna, iarna, primvara,<br>
+<br>
+Însă vara mai ales<br>
+<br>
+Clipele-s fără de tine<br>
+<br>
+Şi lipsite de înţeles<br>
+<br>
+Şi din toate câte şoapte<br>
+<br>
+Nerostite rând pe rând<br>
+<br>
+Ochii tăi nu vor<br>
+<br>
+Să îmi spună ultimul cuvânt…<br>
+<br>
+Suntem iar singuri pe pământ<br>
+<br>
+Te privesc tăcut şi aştept ultimul cuvânt<br>
+<br>
+Tu şi eu, veşnic legământ<br>
+<br>
+Poţi să mă aduci înapoi doar cu un cuvânt…<br>
+<br>
+Şi din toate câte şoapte<br>
+<br>
+Nerostite rând pe rând<br>
+<br>
+Ochii tăi nu ştiu<br>
+<br>
+Să imi spună ultimul cuvânt…<br>
+<br>
+Suntem iar singuri pe pământ<br>
+<br>
+Te privesc tăcut şi aştept ultimul cuvânt<br>
+<br>
+Poţi să mă aduci… înapoi…. doar cu un… cuvânt…
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** George Ţărnea
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

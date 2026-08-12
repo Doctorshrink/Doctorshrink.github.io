@@ -1,0 +1,128 @@
+---
+title: "Sfârşit de vară"
+subtitle: "George Topîrceanu"
+author: "Doctor Shrink"
+date: "2026-08-13"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJuy6Ef9m8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dacă liniștea pădurii adormite<br>
+<br>
+Nici o veste de-altădată nu-ți trimite<br>
+<br>
+Și pe freamăte pornite de departe<br>
+<br>
+Nu te-ajunge glas de dincolo de moarte,<br>
+<br>
+Vin’ cu mine să ne pierdem în zadar<br>
+<br>
+Printre galbenele rariști de stejar,<br>
+<br>
+Cu sfioase campanule și sulfine,<br>
+<br>
+Pe cărări pe unde nimeni nu mai vine.<br>
+<br>
+Dulce zumzet somnoros și ireal<br>
+<br>
+Să ne cheme spre poienile din deal.<br>
+<br>
+Taina liniștii înalte să ne fure<br>
+<br>
+Prin cotite luminișuri de pădure<br>
+<br>
+Și la umbră să ne-mbie mai târziu<br>
+<br>
+O clopotniță de aur străveziu,<br>
+<br>
+Legănând deasupra creștetelor noastre<br>
+<br>
+Licuricii înălțimilor albastre...<br>
+<br>
+Fără gânduri, ca-ntr-un somn abia deschis,<br>
+<br>
+Să trăim în clipe lungi același vis.<br>
+<br>
+Foi uscate-n jurul tău să cadă rar,<br>
+<br>
+La ureche să-ți descânte un bondar<br>
+<br>
+Și cum stai cu ochii-nchiși pe jumătate,<br>
+<br>
+Soare galben printre ramuri nemișcate<br>
+<br>
+Să-ți învăluie-n tăcere și-n lumină<br>
+<br>
+Fruntea mică de domniță bizantină.<br>
+<br>
+*<br>
+<br>
+Iar la-ntoarcere, să trecem prin pășuni<br>
+<br>
+Și prin funduri de livadă cu aluni,<br>
+<br>
+Printre garduri fumurii și solitare<br>
+<br>
+Ce se uită-n urma noastră cu mirare...<br>
+<br>
+Și din treacăt, ici și colo, să culegi<br>
+<br>
+Sânziene cu tulpinele întregi,<br>
+<br>
+Margarete, scânteioare și aglice,<br>
+<br>
+Un buchet de flori orfane și calice,<br>
+<br>
+Lung în coadă și ghimpos și cu țărână.<br>
+<br>
+La plecare să-l ții falnic într-o mână,<br>
+<br>
+Dar cu vremea, desfoiat, să-ți pară greu<br>
+<br>
+Și la urmă să mi-l dai să-l duc tot eu...<br>
+<br>
+O șopârlă pe cărare, lângă noi,<br>
+<br>
+Speriată să foșnească dintre foi<br>
+<br>
+Și să stea, să vă uitați o dată bine,<br>
+<br>
+De departe, tu la ea și ea la tine,<br>
+<br>
+Tu de sus și ea din pietrele fierbinți,<br>
+<br>
+Amândouă serioase și cuminți.<br>
+<br>
+Mai încolo o crenguță de mălin<br>
+<br>
+Ori un ghimpe să te-ntârzie puțin<br>
+<br>
+Și — purtând de-a lungul văilor prin țară<br>
+<br>
+Vestea nouă a sfârșitului de vară,<br>
+<br>
+Flutur mic, într-o lucire de-asfințit,<br>
+<br>
+Să ne-ntâmpine din țarină grăbit,<br>
+<br>
+Cu rugină pe albastre aripioare<br>
+<br>
+Ca o veștedă petală de cicoare.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** George Topîrceanu
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,78 @@
+---
+title: "Balada călătorului"
+subtitle: "George Topîrceanu"
+author: "Doctor Shrink"
+date: "2026-08-13"
+categories: [poezie, spoken-word, drum]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TaOLiVNuMic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O, e-atât de bine când pe drumuri ninse<br>
+Întâlneşti o casă cu lumini aprinse,<br>
+Un ogeac din care se ridică fum,<br>
+Când te prinde noaptea călător la drum!<br>
+<br>
+Sania coboară clinul de pădure.<br>
+Fug în urma noastră luminişuri sure<br>
+Şi-n singurătatea care ne petrece,<br>
+Peste vârf de arbori, asfinţitul rece<br>
+Străbătând podoaba crengilor subţiri<br>
+Luminează-n aer bolţi de trandafiri.<br>
+<br>
+Dar amurgul palid a-nceput să scadă.<br>
+Noaptea, ca un abur, creşte din zăpadă.<br>
+Se ivesc departe măguri de hotar,<br>
+Într-un loc se face drum pustiu de car,<br>
+Şi-o fântână strâmbă pe lumina zării<br>
+Pare că sporeşte liniştea-nserării...<br>
+<br>
+Drum de vis! E clipa mutei agonii<br>
+Când alaiul Nopţii zboară pe câmpii,<br>
+Când singurătatea umbrele-şi arată<br>
+Şi departe-n şesuri Ziua alungată<br>
+Lângă reci fruntarii alergarea-şi curmă,<br>
+Cu ochi mari de spaimă să privească-n urmă,<br>
+Să-şi adune-n locul unde-a-ncremenit<br>
+Peste sâni de gheaţă părul despletit.<br>
+<br>
+Ca-ntr-o presimţire sufletul ţi-e-nchis.<br>
+Unde eşti? Îţi pare că trăieşti un vis...<br>
+Treci lăsând în urmă, la răspântii mute,<br>
+Umbre solitare şi necunoscute,<br>
+Treci ducând o parte din tristeţea lor,<br>
+Un suspin, o rugă, un zadarnic dor.<br>
+Iar târziu, când taina dimprejur te cheamă<br>
+Şi-ţi strecoară-n suflet un fior de teamă,<br>
+Singur cu povara cugetului tău<br>
+Te cuprind deodată lungi păreri de rău<br>
+După-o fericire care întârzie,<br>
+După câte n-au fost, dar puteau să fie,<br>
+După cele duse pentru totdeauna...<br>
+<br>
+Astfel, cu mirare, te trezeşti când luna<br>
+Luminează somnul unei lumi din basme,<br>
+Iar omătul umple noaptea de fantasme.<br>
+. . . . . . . . . . . . . . . . . . .<br>
+. . . . . . . . . . . . . . . . . . .<br>
+O, e-atât de bine când pe drumuri ninse<br>
+Întâlneşti o casă cu lumini aprinse,<br>
+Un ogeac din care se ridică fum,<br>
+Când te prinde noaptea călător la drum!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** George Topîrceanu
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
