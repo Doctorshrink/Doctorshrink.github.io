@@ -1,0 +1,90 @@
+---
+title: "Fraţii"
+subtitle: "Gheorghe Pituţ"
+author: "Doctor Shrink"
+date: "2026-08-17"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L6VioRWv7Rg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Fratele meu are turme,<br>
+<br>
+fratele meu are aur,<br>
+<br>
+fratele meu are neveste<br>
+<br>
+şi roabe frumoase,<br>
+<br>
+fratele meu e puternic şi rege.<br>
+<br>
+Eu am răbdare,<br>
+<br>
+eu am o sete,<br>
+<br>
+eu am un cântec şi o iubită,<br>
+<br>
+ea e înaltă<br>
+<br>
+şi foarte blândă<br>
+<br>
+şi otrăvită.<br>
+<br>
+Eu îmi iubesc fratele<br>
+<br>
+mai mult<br>
+<br>
+decât toate femeile lui,<br>
+<br>
+dar el mă scuipă şi mă alungă.<br>
+<br>
+Îmi scot iubita din hambare,<br>
+<br>
+mi-o port anume<br>
+<br>
+prin curţile lui,<br>
+<br>
+vai! el n-o ştie, însă o cheamă<br>
+<br>
+ca-ntr-o uitare,<br>
+<br>
+ca-ntr-o beţie.<br>
+<br>
+Nebun în noapte, cu un prieten<br>
+<br>
+dintr-un oţel ascultător,<br>
+<br>
+alerg pe trepte,<br>
+<br>
+pătrund în case<br>
+<br>
+dar deodată mi-e foarte dor<br>
+<br>
+de doamna mamă,<br>
+<br>
+de domnul tată,<br>
+<br>
+m-apucă somnul, abia mă port -<br>
+<br>
+pe când soldatul din turn aduce<br>
+<br>
+palizi în braţe<br>
+<br>
+un gând şi-un mort.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Gheorghe Pituţ
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

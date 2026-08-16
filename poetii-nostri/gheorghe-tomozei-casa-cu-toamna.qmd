@@ -1,0 +1,112 @@
+---
+title: "Casa cu toamnă"
+subtitle: "Gheorghe Tomozei"
+author: "Doctor Shrink"
+date: "2026-08-17"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WD1vnm5B4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Niciodata n-am sa mai vin in casa asta,<br>
+<br>
+in care toate ungherele ma cunosc,<br>
+<br>
+doar luna-mi va aduce reci eclipse<br>
+<br>
+taiate din varul peretilor ci<br>
+<br>
+in casele in care voi calatori<br>
+<br>
+Niciodata nu voi mai astepta toamna<br>
+<br>
+in odaile ale caror chei,<br>
+<br>
+singure se potriveau cu somnul meu chinuit,<br>
+<br>
+si-n care dezbracat de nume pana la ochi,<br>
+<br>
+adormeam vegheat de o singura frunza<br>
+<br>
+ca de un semn stenografie al padurii.<br>
+<br>
+Acum plec si carnea mi se lipeste de usi,<br>
+<br>
+din case se pleaca mai greu ca din oameni,<br>
+<br>
+si nu pot lua cu mine<br>
+<br>
+cenusa timpului pe carc-o vor matura,<br>
+<br>
+locatari ai aerului din care cad nestiutorii,<br>
+<br>
+nu pot lua mainile ce m-au iubit.<br>
+<br>
+Numai aici, linistea<br>
+<br>
+Totul era rodit<br>
+<br>
+de catre un dulce anapoda: greierii<br>
+<br>
+din propriile tipete se nasteau, din ierbi moarte<br>
+<br>
+se iveau ierbi-pui,<br>
+<br>
+iar merele ne stergeau de pe buze cuvintele amare.<br>
+<br>
+Niciodata n-am sa mai caut casa asta, —<br>
+<br>
+niciodata nu voi uita sticla geamurilor, umflata<br>
+<br>
+de chipuri stratificate pana la absurd,<br>
+<br>
+aici nu voi mai iubi, nici nu voi mai fi tanar.<br>
+<br>
+In fiecare odaie trecand, aveam alta varsta,<br>
+<br>
+adolescent in cele cu oglinzi,<br>
+<br>
+in cele cu sobe de portelan, batran.<br>
+<br>
+Pietrele astea fara mine vor muri,<br>
+<br>
+fara mine va muri arama din clanta usii,<br>
+<br>
+iar de candclabru se vor spanzura veverite.<br>
+<br>
+Pe punte de corabie sunt in toate casele,<br>
+<br>
+neclatinat sunt aici.<br>
+<br>
+Pamantul ne roade temeliile si trece cu mortile lui, prin mine, in cuvinte si toamna.<br>
+<br>
+Toamna ramane si ea.<br>
+<br>
+Mi s-a luat mireasma ci, mi s-au luat gesturile solemne si somnoroase.<br>
+<br>
+Cand nu e pasare, aerul se lemnifică alb, tarana creste pe noi cand nu e frunza,<br>
+<br>
+Cand nu e stea, neaua e trunchi de femeie.<br>
+<br>
+Treptele sparte uita repede, aici locurile toate nu fac decat sa uite, peretii leapada tot ce primesc.<br>
+<br>
+Uitarea roade memoria casei de care ma rup, din care scad.<br>
+<br>
+In casa asta nu mai mă întorc.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Gheorghe Tomozei
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

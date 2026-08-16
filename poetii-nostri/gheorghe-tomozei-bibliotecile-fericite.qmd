@@ -1,0 +1,150 @@
+---
+title: "Bibliotecile Fericite"
+subtitle: "Gheorghe Tomozei"
+author: "Doctor Shrink"
+date: "2026-08-17"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kSPEhc_FpeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Şi eu vă spun că am văzut<br>
+<br>
+biblioteci fericite<br>
+<br>
+cu turnuri de cărţi răsărinde<br>
+<br>
+din mlaştini de covoare<br>
+<br>
+cu ogive închipuind uriaşi crini amnezici,<br>
+<br>
+cu tâmple de icoane.<br>
+<br>
+Halebarde păzeau stranele de lemn<br>
+<br>
+lustruite de bărbi înţelepte. Firidele<br>
+<br>
+erau pline cu sextante şi lunete astrale<br>
+<br>
+iar îmbrăcăturile vechilor tomuri<br>
+<br>
+încă mai duhneau a sânge animal<br>
+<br>
+bine încopciate în buloane de-argint<br>
+<br>
+şi în broboanele pietrelor rare.<br>
+<br>
+Am văzut biblioteci fericite<br>
+<br>
+cu cărţi din care creştea iarba,<br>
+<br>
+cărţi de apă, de piatră şi naftă,<br>
+<br>
+cărţi volatile şi carnivore, cărţi<br>
+<br>
+din care ieşeau locomobile şi<br>
+<br>
+ghilotine, cărţi în care Romeo şi Iulia<br>
+<br>
+chiar se iubeau tăvălind cinstitele,<br>
+<br>
+uriaşe in-folii, cărţi-arce<br>
+<br>
+pline de lighioane (girafe-ntre ele)<br>
+<br>
+cărţi bolnave cu teribile răni putrefaote<br>
+<br>
+şi cărţi tămadă.<br>
+<br>
+Cărţi în care e frig, în care ninge,<br>
+<br>
+în care se surpă cascade<br>
+<br>
+cărţi ghiftuite cu cadavre de cai,<br>
+<br>
+prăzi de războaie şi imperatori,<br>
+<br>
+cărţi scrise de îngeri pe cartilagii florale,<br>
+<br>
+cărţile tiranilor, cu litere împuşcate<br>
+<br>
+şi, grozăvie! cărţi scrise chiar de poeţi<br>
+<br>
+ba, încă şi mai mult, scrise cu poeţi<br>
+<br>
+(trupuri mumificate, miniaturizate<br>
+<br>
+de vraci niponi şi aduse la proporţiile<br>
+<br>
+lăcustei; strivite-apoi printr-un tertip<br>
+<br>
+al tipografilor-călăi dintr-un alt veac,<br>
+<br>
+cel viitor), cărţi friabile, gata să se rupă<br>
+<br>
+la cel mai mic pipăit, împăroşate,<br>
+<br>
+cu genele câte rămân în ipsosul cald<br>
+<br>
+la facerea măştii mortuare (vezi Eminovici M.),<br>
+<br>
+pline de alge strivite şi ieftine cerneluri.<br>
+<br>
+Există şi asemenea cărţi în ospiciile<br>
+<br>
+bibliotecilor fericite; cu pielea coperţilor<br>
+<br>
+toată numai fisuri, numai riduri şi cearcăne,<br>
+<br>
+cu transpiraţie de mahorcă stătută,<br>
+<br>
+cărţi îmbrăcate în coji de pâine<br>
+<br>
+şi-n mâl fecundat de insecte vorace.<br>
+<br>
+Adesea ele sunt tipărite în sticlă vulgară<br>
+<br>
+şi se vede prin ele şi-atinse se sparg;<br>
+<br>
+alteori sunt tipărite pe ploaie<br>
+<br>
+ori pe cărămizi de pământ. Poeţii<br>
+<br>
+încep prin a scrie cu mormintele lor<br>
+<br>
+şi sfârşesc înainte de propria naştere,<br>
+<br>
+nevăzuţi, neştiuţi. Ei îşi mănâncă tomurile<br>
+<br>
+de le e foame, de le e sete îşi beau scrisa,<br>
+<br>
+cu cărţile lor fac copii, cu ele se-mbracă<br>
+<br>
+stârnind dezgust şi mirare în<br>
+<br>
+bibliotecile fericite..<br>
+<br>
+În bibliotecile în care cartea de gresie<br>
+<br>
+întrece preţul cărţii de smarald iar cartea<br>
+<br>
+de salcie desfide cartea-lotus.<br>
+<br>
+Eu am văzut biblioteci fericite.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Gheorghe Tomozei
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

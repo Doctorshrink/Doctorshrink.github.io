@@ -1,0 +1,62 @@
+---
+title: "Casa cuvântului"
+subtitle: "Gheorghe Tomozei"
+author: "Doctor Shrink"
+date: "2026-08-17"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umEDlupp7u4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Până să termini discursul<br>
+<br>
+dedicat inaugurării templului,<br>
+<br>
+templul<br>
+<br>
+e o<br>
+<br>
+ruină...<br>
+<br>
+Cuvântul începe<br>
+<br>
+cu propria lui ruină,<br>
+<br>
+se continuă cu acoperişul semeţ<br>
+<br>
+şi-l încheie<br>
+<br>
+talpa-ngropată în lut,<br>
+<br>
+temelia.<br>
+<br>
+Casa cuvântului<br>
+<br>
+o porneşti<br>
+<br>
+construind<br>
+<br>
+şarpele casei.<br>
+<br>
+Casa cuvântului se-ncepe<br>
+<br>
+de la ruină<br>
+<br>
+în sus...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Gheorghe Tomozei
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

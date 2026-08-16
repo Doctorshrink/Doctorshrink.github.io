@@ -1,0 +1,50 @@
+---
+title: "De unul singur"
+subtitle: "Gheorghe Tomozei"
+author: "Doctor Shrink"
+date: "2026-08-17"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gfDi41As5ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Am ajuns să respir de unul singur,<br>
+<br>
+îmi bate în piept numai inima mea,<br>
+<br>
+mă-ndop cu ultima conservă cu copilărie<br>
+<br>
+şi-mi fac singur jocuri (de-a turcii şi indienii).<br>
+<br>
+Am ajuns să beau numai cu gura mea<br>
+<br>
+şi când sunt bolnav, tot eu sunt cel ce suferă,<br>
+<br>
+urc în tren şi ajung singur la ţintă.<br>
+<br>
+O, singurătate...<br>
+<br>
+Am ajuns să rostesc: anii Mei<br>
+<br>
+şi . ce grozăvie, ce grozăvie! .<br>
+<br>
+versul<br>
+<br>
+Meu...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Gheorghe Tomozei
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

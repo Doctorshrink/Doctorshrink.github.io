@@ -1,0 +1,50 @@
+---
+title: "Ritual (părinţilor)"
+subtitle: "Gheorghe Istrate"
+author: "Doctor Shrink"
+date: "2026-08-17"
+categories: [poezie, spoken-word, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A_s8A5D50aU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Acolo-n iarba mirosind a fapte,<br>
+<br>
+în cimitirul somnului lor greu,<br>
+<br>
+sub crucile de piatră şi de lapte<br>
+<br>
+mormintele-i îmbătrânesc mereu.<br>
+<br>
+S-au scurs toţi corbii-n secolii de humă,<br>
+<br>
+s-a stins şi steaua-n lămpile de seu,<br>
+<br>
+dorm noaptea lor de tată şi de mumă –<br>
+<br>
+mormintele mă-mbătrânesc mereu.<br>
+<br>
+M-au destupat din floarea mea nebună<br>
+<br>
+şi-au supt zăpezi din cer din Dumnezeu,<br>
+<br>
+de-acum mă-ntorn la tată şi la mumă –<br>
+<br>
+mormintele ne-mbătrânesc mereu.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Gheorghe Istrate
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
