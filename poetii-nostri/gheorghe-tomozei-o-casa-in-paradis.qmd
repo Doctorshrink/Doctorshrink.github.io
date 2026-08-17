@@ -1,0 +1,108 @@
+---
+title: "O casă în paradis"
+subtitle: "Gheorghe Tomozei"
+author: "Doctor Shrink"
+date: "2026-08-18"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/08RvlWevULE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Casa? Mai de grabă măruntă,<br>
+<br>
+Toată numai iederi şi ţigle, cu ferestre<br>
+<br>
+Şi în acoperiş. Fără hornuri (în sobe<br>
+<br>
+Arde doar levănţica). Un vestibul cu<br>
+<br>
+Galoşi, cu umbrele. Camera mare,<br>
+<br>
+Camera copiilor (bătrânii continuă<br>
+<br>
+Şi-acolo să fie prolifici), biblioteca<br>
+<br>
+(Geometrie, acvaristică, poezie),<br>
+<br>
+Odaia de ospeţe (cu Învăţător<br>
+<br>
+Şi Vânzător) şi bucătăria în care fierb<br>
+<br>
+Bucatele alchimice (silexuri, hălci de zăpadă)<br>
+<br>
+Sacrificarea legumelor fiind strict<br>
+<br>
+Interzisă cum, la fel, pescuitul,<br>
+<br>
+Vânatul; beciul cu vinuri (doar<br>
+<br>
+Strugurele vinovat e pus la cazne)<br>
+<br>
+Şi o verandă în soare cu lunete<br>
+<br>
+Aţintite către planeta Pământ. Din<br>
+<br>
+Întâmplare.<br>
+<br>
+Şi peste tot, îngeri: îngerul<br>
+<br>
+Linguriţelor de ceai, al ochelarilor<br>
+<br>
+Uitaţi pe noptiere, îngerul muzicii<br>
+<br>
+(Palestrina în ritm de jazz) şi<br>
+<br>
+Îngerul ceasornicelor (fără limbi).<br>
+<br>
+Un înger al mătăsurilor şi unul<br>
+<br>
+Al porcelanei. Peste tot, îngeri.<br>
+<br>
+Chiar aşa? Chiar aşa: o casă<br>
+<br>
+Ca toate casele. Cu număr în poartă<br>
+<br>
+(Acelaşi peste tot, 13) păzită<br>
+<br>
+De greieri. Cu clanţă (doar că e<br>
+<br>
+Din argint) şi cu cheia (de sticlă)<br>
+<br>
+Sub preş.<br>
+<br>
+Şi, sub uşă, jurnalul de seară (fiindcă<br>
+<br>
+Şi raiul îşi tipăreşte campaniile<br>
+<br>
+Electorale, reţetele gastronomice,<br>
+<br>
+Scandalurile cu actriţe şi cu<br>
+<br>
+Beţiile poeţilor serafici; meciurile<br>
+<br>
+De golf, cursele de pelicani), în totul<br>
+<br>
+O casă ca toate casele. Cu streşini<br>
+<br>
+Puţin ruginite, cu vopseaua pereţilor<br>
+<br>
+Roasă de meteoriţi. Cu carte de imobil<br>
+<br>
+Şi cu ceva impozite. O casă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Gheorghe Tomozei
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

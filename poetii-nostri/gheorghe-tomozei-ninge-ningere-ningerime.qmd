@@ -1,0 +1,74 @@
+---
+title: "Ninge, ningere, ningerime"
+subtitle: "Gheorghe Tomozei"
+author: "Doctor Shrink"
+date: "2026-08-18"
+categories: [poezie, spoken-word, iarna]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JOT6yXxXFpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ninge suav,<br>
+<br>
+ninge blând .<br>
+<br>
+ninge feroce;<br>
+<br>
+ningere cu funii de spânzurători<br>
+<br>
+ningere carnasieră<br>
+<br>
+cu toiege de orbi<br>
+<br>
+(toiegele orbilor.fluturii)<br>
+<br>
+ninge cu capete avortate, de floare,<br>
+<br>
+ninge cu ziare zdrenţuite,<br>
+<br>
+ninge cu muzici de cimbale,<br>
+<br>
+ninge gros, grohăit,<br>
+<br>
+ninge ca-n schituri şi ninge lasciv,<br>
+<br>
+ninsoarea se-ncleiază de-a dreptul pe oasele<br>
+<br>
+bărbaţilor singuri, din trenuri singure,<br>
+<br>
+ninge cu sfărâmături, cu fisuri, cu găuri de răni,<br>
+<br>
+ne ninge de-a dreptul peste amintiri; ningerea<br>
+<br>
+perforându-ne ţeasta, ne ning trupurile ce ne-au trădat,<br>
+<br>
+ninge ca-n săli de bal şi săli de disecţii<br>
+<br>
+ninge ca-n odaia risipitorului<br>
+<br>
+ce lasă, murind, lumina aprinsă şi zăpada aprinsă<br>
+<br>
+de parcă ar vrea să vadă cum moare,<br>
+<br>
+ce moare.<br>
+<br>
+Ninge cu dinţii de lapte<br>
+<br>
+ai îngerilor...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Gheorghe Tomozei
+* **Temă:** iarna
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

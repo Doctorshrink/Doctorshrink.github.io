@@ -1,0 +1,74 @@
+---
+title: "Douăsprezece poeme într-un vers"
+subtitle: "Gheorghe Tomozei"
+author: "Doctor Shrink"
+date: "2026-08-18"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GGZyqnmva7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+TRISTEŢE<br>
+<br>
+Pe faţa apei, lebezi destramă curcubee<br>
+<br>
+CÂNTEC PIERDUT<br>
+<br>
+În ochii ciutei moarte, luceferii adorm<br>
+<br>
+PAHAR CU VIN<br>
+<br>
+Văzduhul şi ţărâna se logodesc pe buze<br>
+<br>
+SPERANŢA<br>
+<br>
+Câmp ars, ucise ierburi şi-ndepărtări, fântâni<br>
+<br>
+BUCURIE<br>
+<br>
+Pe-a sufletului boltă au fâlfâit păuni<br>
+<br>
+ARGHEZI<br>
+<br>
+Ceruri cu stele albe, cuprinse-n stropi de rouă<br>
+<br>
+ROMANŢA<br>
+<br>
+Şi cântecul desprinde din suflete statui<br>
+<br>
+SOMNUL IUBITEI<br>
+<br>
+Pe streşini, pacea albă a-ntâielor zăpezi<br>
+<br>
+POEMUL ÎNTR-UN VERS<br>
+<br>
+Izvorul lin, presimte imensitatea mării<br>
+<br>
+ÎNTÂIUL &quot;TE IUBESC&quot;<br>
+<br>
+Poleiul lunii curge pe buzele subţiri<br>
+<br>
+CORIGENŢA<br>
+<br>
+Mustrarea tatei, fata şi cartea de algebră<br>
+<br>
+TINEREŢE<br>
+<br>
+În zare munţi de piatră şi după munţi, furtuni
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Gheorghe Tomozei
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
