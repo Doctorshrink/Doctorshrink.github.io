@@ -1,0 +1,86 @@
+---
+title: "Scafandrul din lacrimă"
+subtitle: "Gheorghe Tomozei"
+author: "Doctor Shrink"
+date: "2026-08-19"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OCb-l9Jakd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+E-o lacrimă-a izbânzii<br>
+<br>
+O lacrimă Oceanul și-a cheltuit azuru-i<br>
+<br>
+s-o umple de lumină și-n inima-i coborî,<br>
+<br>
+în vreme ce, în palme, sonore lespezi zurui<br>
+<br>
+și-n calea ta nisipuri închipuie ninsori.<br>
+<br>
+Smaralde în spirale de ape șlefuite,<br>
+<br>
+ca ochii mari, de fată, clipesc între corali<br>
+<br>
+și degetele tale sunt albe stalactite<br>
+<br>
+în peșterile apei, printre luceferi pali<br>
+<br>
+Metale generoase, stelare roci, liane<br>
+<br>
+te-nconjură subtile, și-n lacrimă pătrunzi.<br>
+<br>
+Încununând izbânda visărilor umane,<br>
+<br>
+ca-n propria- i statuie-n arama ei te-afunzi!<br>
+<br>
+E-o lacrimă-a tristeții<br>
+<br>
+Ca scutul de războinic, de săbii spart, boltită,<br>
+<br>
+e lacrima amară în care-naintezi,<br>
+<br>
+meduzele cadavre de stele se agită<br>
+<br>
+și-n urma lor, coclite funingini cad, zăpezi.<br>
+<br>
+Surâsuri stinse, umbre de flori, c`ntari nespuse,<br>
+<br>
+cle=taruri amețițe de soare zac în scrum<br>
+<br>
+și numai monștrii marii cu veștedele buze<br>
+<br>
+mai ronțăie nisipul cetăților de fum<br>
+<br>
+Să scaperi din amnare, ca o pădure, ardă<br>
+<br>
+priveliștea acestor ruini. Sub ceruri largi,<br>
+<br>
+cupola-n care încă mai doarme apa moartă<br>
+<br>
+și învelișul rece, al lacrimii, să-l spargi!<br>
+<br>
+Vorbindu-și parcă sieși, un om, pe plajă arsă<br>
+<br>
+de razele de aur, de selenară nea,<br>
+<br>
+întârzia, cu mâna spre-al mării drum întoarsă.<br>
+<br>
+Poetul e scafandrul din lacrimă, spunea.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Gheorghe Tomozei
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

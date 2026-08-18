@@ -1,0 +1,60 @@
+---
+title: "6 - Grădina cu fântâni în ploaie"
+subtitle: "Giorgios Seferis"
+author: "Doctor Shrink"
+date: "2026-08-19"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o9nIdYGturY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+DL.<br>
+<br>
+Grădina cu fântâni în ploaie<br>
+<br>
+veți vedea numai din spatele geamului întunecat<br>
+<br>
+din fereastra inferioară. Camera ta<br>
+<br>
+nu va fi aprins doar flăcările de la șemineu<br>
+<br>
+și uneori se va dezvălui fulgerul îndepărtat<br>
+<br>
+ridurile de pe frunte, vechiul meu prieten.<br>
+<br>
+Grădina cu fântâni în mâinile tale<br>
+<br>
+era un ritm al celeilalte vieți, dincolo de rupte<br>
+<br>
+statui și coloane tragice<br>
+<br>
+și un dans printre oleandri<br>
+<br>
+în apropierea carierelor noi -<br>
+<br>
+ceața cețoasă va fi tăiat-o din viața ta.<br>
+<br>
+Nu vei respira; pământ și seva copacilor<br>
+<br>
+va ieși din memoria voastră să lovească<br>
+<br>
+această fereastră lovită de ploaie<br>
+<br>
+din lumea exterioară.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Giorgios Seferis
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,110 @@
+---
+title: "Soarele nostru"
+subtitle: "Giorgios Seferis"
+author: "Doctor Shrink"
+date: "2026-08-19"
+categories: [poezie, spoken-word, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2aQ320VUDUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Soarele acesta era al meu și al tău;<br>
+<br>
+l-am împărțit.<br>
+<br>
+Cine suferă sub mătasea aurie, cine<br>
+<br>
+moare?<br>
+<br>
+O femeie țipa lovindu-și sânul uscat:<br>
+<br>
+„Lașilor,<br>
+<br>
+mi-au luat copiii și i-au sfârtecat,<br>
+<br>
+voi i-ați ucis<br>
+<br>
+privind în seară, c-un aer straniu,<br>
+<br>
+licuricii,<br>
+<br>
+pierduți într-o oarbă cugetare.”<br>
+<br>
+Sângele se usca pe un braț ce se-nverzise<br>
+<br>
+de umbra unui pom,<br>
+<br>
+un oștean dormea sprijinit în lancea<br>
+<br>
+care-i lumina coastele.<br>
+<br>
+Era al nostru soarele, nu vedeam nimic<br>
+<br>
+după aurul broderiilor.<br>
+<br>
+Au venit apoi crainicii istoviți,<br>
+<br>
+murdari,<br>
+<br>
+bâlbâind silabe de ne-nțeles și gonind<br>
+<br>
+douăzeci de zile și nopți<br>
+<br>
+pe-un pământ cu spini,<br>
+<br>
+douăzeci de zile și nopți simțind că sângerează<br>
+<br>
+burțile cailor<br>
+<br>
+și neoprind nici măcar o clipă ca să soarbă<br>
+<br>
+apa ploii.<br>
+<br>
+I-ai pus să se odihnească și apoi să vorbească,<br>
+<br>
+te orbise lumina.<br>
+<br>
+Ei și-au dat sufletul spunând: „N-avem timp!”,<br>
+<br>
+atingând niște raze;<br>
+<br>
+uitaseși că nimeni nu se odihnește.<br>
+<br>
+Urla o femeie „Lașilor!”, ca un câine<br>
+<br>
+în noapte.<br>
+<br>
+O fi fost cândva frumoasă ca tine, cu buze<br>
+<br>
+umede,<br>
+<br>
+cu vene zvâcnind subt piele,<br>
+<br>
+cu iubire.<br>
+<br>
+Soarele era al nostru:L-ai păstrat în întregime,<br>
+<br>
+n-ai vrut să mă urmezi;<br>
+<br>
+și-atunci am învățat aceste lucruri de dincolo<br>
+<br>
+de aur și mătase.<br>
+<br>
+N-avem timp. Drept au grăit vestitorii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Giorgios Seferis
+* **Temă:** soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

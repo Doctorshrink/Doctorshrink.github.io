@@ -1,0 +1,156 @@
+---
+title: "Lumina"
+subtitle: "Giorgios Seferis"
+author: "Doctor Shrink"
+date: "2026-08-19"
+categories: [poezie, spoken-word, lumina, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0jkS7Whlxtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pe măsură ce anii trec<br>
+<br>
+se înmulțesc judecătorii cari te condamnă.<br>
+<br>
+Pe măsură ce anii trec și vorbești cu<br>
+<br>
+mai puține voci,<br>
+<br>
+vezi cu alți ochi soarele.<br>
+<br>
+Știi că acei care au rămas te înșelau –<br>
+<br>
+delirul cărnii, frumosul dans<br>
+<br>
+sfârșind într-o senzație de gol.<br>
+<br>
+Așa cum în noapte cotind pe-o șosea<br>
+<br>
+pustie<br>
+<br>
+vezi sticlind deodată doi ochi de animal,<br>
+<br>
+care a și plecat, așa îți simți ochii;<br>
+<br>
+te uiți la soare, apoi dispari în tenebre;<br>
+<br>
+tunica dorică<br>
+<br>
+pe care-au atins-o degetele tale și ca munții<br>
+<br>
+s-a curbat, e o marmoră în soare,<br>
+<br>
+dar creștetul și-l ține<br>
+<br>
+în întuneric.<br>
+<br>
+Pe cei ce lăsară arena<br>
+<br>
+ca să ia arcurile<br>
+<br>
+și l-au lovit pe îndârjitul alergător<br>
+<br>
+încât văzu dinainte arena plutind în sânge,<br>
+<br>
+lumea diminuîndu-se ca luna<br>
+<br>
+și glorioasele grădini pălind,<br>
+<br>
+îi vezi în soare, în spatele soarelui.<br>
+<br>
+Băieții care făceau plonjoane de pe bomprese<br>
+<br>
+mai merg ca niște fuse desfășurându-și firul,<br>
+<br>
+corpuri goale adâncindu-se-n lumina neagră,<br>
+<br>
+c-o monetă între dinți, continuând să înoate<br>
+<br>
+pe când soarele coase cu undrea de aur<br>
+<br>
+pânze și lemne ude și culori marine;<br>
+<br>
+mai coboară pieziș<br>
+<br>
+înspre pietrele adâncului,<br>
+<br>
+albele urne.<br>
+<br>
+Îngerească și neagră lumină,<br>
+<br>
+râs de valuri pe drumurile mării,<br>
+<br>
+surâs înlăcrimat,<br>
+<br>
+te vede bătrânul implorator,<br>
+<br>
+când trece pe lespezi nevăzute,<br>
+<br>
+reflectată în sângele lui<br>
+<br>
+care a dat pe Eteocle și Polynice.<br>
+<br>
+Zi îngerească și neagră.<br>
+<br>
+Gustul amar al femeii care-l ucide<br>
+<br>
+pe-ntemnițat<br>
+<br>
+iese din valuri, ram proaspăt, ornat cu stropi.<br>
+<br>
+Cântă, micăAntigonă, cântă...<br>
+<br>
+Eu nu-ți vorbesc de lucruri trecute, ci de iubire;<br>
+<br>
+împodobește-ți părul cu spinii soarelui,<br>
+<br>
+fată brună;<br>
+<br>
+Inima Scorpionului a apus,<br>
+<br>
+tiranul din om a plecat<br>
+<br>
+și toate fiicele mării, Nereidele, Greele,<br>
+<br>
+aleargă la scânteierile celei ieșind din valuri.<br>
+<br>
+Cine n-a iubit niciodată, va iubi,<br>
+<br>
+în lumină.<br>
+<br>
+Și tu ești<br>
+<br>
+într-o mare clădire cu toate geamurile deschise,<br>
+<br>
+alergi din odaie-n odaie și nu știi<br>
+<br>
+de unde să privești mai degrabă<br>
+<br>
+fiindcă pinii vor pleca și oglindiții munți<br>
+<br>
+și ciripitul păsărilor<br>
+<br>
+și marea se va goli, sticlă sfrâmată,<br>
+<br>
+de la nord la sud,<br>
+<br>
+și se vor goli ochii tăi de lumina zilei<br>
+<br>
+cum se opresc deodată și împreună toți greierii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Giorgios Seferis
+* **Temă:** lumina, soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,94 @@
+---
+title: "7 – Vântul Sudului"
+subtitle: "Giorgios Seferis"
+author: "Doctor Shrink"
+date: "2026-08-19"
+categories: [poezie, spoken-word, vant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/plebpnZ5ax8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Malul oceanului se amestecă cu o zonă montană.<br>
+<br>
+Din stânga noastră, vântul de sud suflă și ne înnebunește,<br>
+<br>
+genul de vânt care împrăștie oasele din carnea lor.<br>
+<br>
+Casa noastră printre pini și roșii.<br>
+<br>
+Ferestre mari. Mese mari<br>
+<br>
+pentru a vă scrie scrisorile pe care le-am scris<br>
+<br>
+acum atât de multe luni, scăpându-le<br>
+<br>
+în spațiul dintre noi, pentru a îl umple.<br>
+<br>
+Steaua zorilor, când ai coborât ochii<br>
+<br>
+orele noastre erau mai dulci decât petrolul<br>
+<br>
+pe o rană, mai plină de bucurie decât apa rece<br>
+<br>
+la palat, mai pașnic decât aripile lebedelor.<br>
+<br>
+Ți-ai ținut viața în palmă.<br>
+<br>
+După pâinea amară a exilului,<br>
+<br>
+noaptea dacă rămânem în fața peretelui alb<br>
+<br>
+vocea noastră ne apropie de noi ca nădejdea focului;<br>
+<br>
+și din nou acest vânt perfid<br>
+<br>
+brici împotriva nervilor noștri.<br>
+<br>
+Fiecare dintre noi vă scrie același lucru<br>
+<br>
+și fiecare tăgăduie în prezența celuilalt,<br>
+<br>
+uităm, fiecare dintre noi, că aceeași lume separă<br>
+<br>
+lumina și întunericul din zona montană<br>
+<br>
+și tu.<br>
+<br>
+Cine va ridica această îndoială din inimile noastre?<br>
+<br>
+Ieri seară, o ploaie torențială și din nou astăzi<br>
+<br>
+cerul acoperit ne împovărează. Gândurile noastre -<br>
+<br>
+ca acele de pin din ploaia de ieri<br>
+<br>
+agățați și inutiil în fața ușii noastre -<br>
+<br>
+ar construi un turn în colaps.<br>
+<br>
+Printre aceste sate decimate<br>
+<br>
+pe acest promontoriu, deschis spre vântul sudic<br>
+<br>
+cu gama de munți în fața noastră,<br>
+<br>
+va evalua pentru noi pedeapsa la uitare?<br>
+<br>
+Cine va accepta oferta noastră, la sfârșitul toamnei?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Giorgios Seferis
+* **Temă:** vant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

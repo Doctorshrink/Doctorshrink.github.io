@@ -1,0 +1,52 @@
+---
+title: "Râul cu un singur mal"
+subtitle: "Gheorghe Tomozei"
+author: "Doctor Shrink"
+date: "2026-08-19"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eyzqiWQCgf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Singuratic și pal,<br>
+<br>
+Curgând din prunci spre strămoși,<br>
+<br>
+Spart de trestii și pești somnoroși –<br>
+<br>
+Sunt râul cu un singur mal;<br>
+<br>
+Apă strânsă doar într-o singură<br>
+<br>
+Picătură irosindu-se triumfal,<br>
+<br>
+Torent și tot astfel nimicură –<br>
+<br>
+Sunt râul cu un singur val;<br>
+<br>
+Tras în de sine, totuși în curgere,<br>
+<br>
+Mormântul tăindu-mi-l în aval,<br>
+<br>
+Cenușă sunt și ceară de fulgere,<br>
+<br>
+Sunt râul cu un singur mal…<br>
+<br>
+(Vol. Un poet din Tibet)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Gheorghe Tomozei
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
