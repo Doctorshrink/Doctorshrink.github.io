@@ -1,0 +1,46 @@
+---
+title: "Frați"
+subtitle: "Giuseppe Ungaretti"
+author: "Doctor Shrink"
+date: "2026-08-20"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TQvjjlAtM8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Din ce regiment sunteţi<br>
+<br>
+fraţilor?<br>
+<br>
+Vorbă cutremurătoare<br>
+<br>
+în noapte<br>
+<br>
+Frunză abia mijită<br>
+<br>
+În văzduhul zbuciumat<br>
+<br>
+involuntara revoltă<br>
+<br>
+a omului ce-şi constată<br>
+<br>
+fragilitatea<br>
+<br>
+Fraţilor
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Giuseppe Ungaretti
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

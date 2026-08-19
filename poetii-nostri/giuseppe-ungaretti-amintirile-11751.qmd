@@ -1,0 +1,50 @@
+---
+title: "Amintirile"
+subtitle: "Giuseppe Ungaretti"
+author: "Doctor Shrink"
+date: "2026-08-20"
+categories: [poezie, spoken-word, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YRdWjTzZoog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Amintirile, un inutil infinit<br>
+Singure, însă, şi limpezi pe marea neatinsă<br>
+În mijlocul mugetelor nesfârşite...<br>
+<br>
+Marea,<br>
+Glas al unei măreţii libere,<br>
+Dar nevinovăţie potrivnică amintirilor,<br>
+Grăbită să şteargă dulcile urme<br>
+Ale unui gând credincios...<br>
+<br>
+Marea, dezmierdările-i indiferente,<br>
+Atât de sălbatice şi atât de mult aşteptate,<br>
+Şi-n agonia lor,<br>
+Mereu prezentă, mereu înnoită,<br>
+În treazul gând agonia...<br>
+<br>
+Amintirile,<br>
+Zadarnică revărsare<br>
+De nisip mişcător,<br>
+Ce nisipul n-apasă<br>
+Ecouri scurte necontenite,<br>
+Mute ecouri ale rămasului bun<br>
+De la clipele ce fericite păreau...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Giuseppe Ungaretti
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,64 @@
+---
+title: "Hohote de plâns"
+subtitle: "Giuseppe Ungaretti"
+author: "Doctor Shrink"
+date: "2026-08-20"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/86KVrcfX7BU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Mă întorc din drum<br>
+<br>
+trecând<br>
+<br>
+printre trestiile unduitoare<br>
+<br>
+de-a lungul străzii<br>
+<br>
+jupuite<br>
+<br>
+prin spatele solitudinii<br>
+<br>
+cuvintele<br>
+<br>
+sufletelor pierdute<br>
+<br>
+sfârșesc prin a se stinge<br>
+<br>
+în acele valuri<br>
+<br>
+de stâncă<br>
+<br>
+eliberată de întunericul<br>
+<br>
+ghemuit la<br>
+<br>
+poala cerului<br>
+<br>
+lipicioasă<br>
+<br>
+ca o majolică<br>
+<br>
+sculptând<br>
+<br>
+o buză ascuțită<br>
+<br>
+de prăpastie.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Giuseppe Ungaretti
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
