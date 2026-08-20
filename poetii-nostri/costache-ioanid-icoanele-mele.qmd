@@ -3,7 +3,7 @@ title: "Icoanele mele..."
 subtitle: "Costache Ioanid"
 author: "Doctor Shrink"
 date: "2026-07-25"
-categories: [poezie, spoken-word, dumnezeu]
+categories: [poezie, spoken-word, dumnezeu, frate]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -71,6 +71,6 @@ AMIN
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Costache Ioanid
-* **Temă:** dumnezeu
+* **Temă:** dumnezeu, frate
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

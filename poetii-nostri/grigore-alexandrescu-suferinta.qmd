@@ -1,0 +1,94 @@
+---
+title: "Suferinta"
+subtitle: "Grigore Alexandrescu"
+author: "Doctor Shrink"
+date: "2026-08-21"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xHvjG5x9I84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+SUFERINTA<br>
+<br>
+Îmi place a naturii salbatica mânie,<br>
+<br>
+Si negura, si viscol, si cer întarâtat,<br>
+<br>
+Si tot ce e de groaza, ce e în armonie<br>
+<br>
+Cu focul care arde în pieptu-mi sfâsiat.<br>
+<br>
+La umbra, -n întuneric, gândirea-mi se arata,<br>
+<br>
+Ca tigrul în pustiuri, o jertfa asteptând,<br>
+<br>
+Si prada îi e gata… De fulger luminata,<br>
+<br>
+Ca valea chinuirii se vede sângerând.<br>
+<br>
+Încerce acum soarta sa-mi creasca suferirea;<br>
+<br>
+Adaoge chiar iadul serpi, furii ce muncesc;<br>
+<br>
+Durerea mea e muta ca deznadajduirea,<br>
+<br>
+E neagra ca si ziua când nu te întâlnesc.<br>
+<br>
+Caci astfel e acuma viata-mi osândita,<br>
+<br>
+O lunga agonie în care tu domnesti;<br>
+<br>
+La glasu-ti, la privirea-ti simt inima-mi izbita,<br>
+<br>
+Luptându-se-n convulsii cum nu-ti închipuiesti.<br>
+<br>
+Si ochii mei în lacrimi înoata în tacere,<br>
+<br>
+Si prizmuiesc adesea pe cei ce nu mai sânt;<br>
+<br>
+Zadarnica dorinta când sufletul nu piere!<br>
+<br>
+Nu o sa-mi tulburi oare si pacea din mormânt?<br>
+<br>
+N-o sa se-ntoarca umbra-mi, cumplita, fioroasa,<br>
+<br>
+Pe pasurile tale oriunde locuiesti?<br>
+<br>
+E lume, e vecie atâta de frumoasa,<br>
+<br>
+Încât sa uit pamântul ce tu împodobesti?<br>
+<br>
+Sa mor dar la picioare-ti; sa mor dar de placere<br>
+<br>
+În ceasul cel din urma s-auz ca m-ai iubit,<br>
+<br>
+Sa strâng draga ta mâna, sa simt a ta durere<br>
+<br>
+Varsându-se asupra-mi ca balsam fericit.<br>
+<br>
+Si sufletu-mi atuncea pe buzele-ti sa zboare,<br>
+<br>
+Sa ia un lung, un dulce, un vesnic sarutat;<br>
+<br>
+Din bratele-ti, din sânu-ti sa treaca el în soare<br>
+<br>
+Sa duca la vecie placerea ce-a gustat.<br>
+<br>
+Adaugata de catre-Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Alexandrescu
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

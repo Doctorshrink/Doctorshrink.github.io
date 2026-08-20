@@ -3,7 +3,7 @@ title: "Catre un amic versificator"
 subtitle: "Aleksandr Puşkin"
 author: "Doctor Shrink"
 date: "2026-07-08"
-categories: [poezie, spoken-word, cuvant]
+categories: [poezie, spoken-word, cuvant, prieten]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -217,6 +217,6 @@ Dar sa traiesti în tihna-i de doua ori mai bine!
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Aleksandr Puşkin
-* **Temă:** cuvant
+* **Temă:** cuvant, prieten
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

@@ -3,7 +3,7 @@ title: "Prin casă-mi plimb amarul"
 subtitle: "Aleksandr Blok"
 author: "Doctor Shrink"
 date: "2026-07-04"
-categories: [poezie, spoken-word, casa]
+categories: [poezie, spoken-word, casa, durere]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -117,6 +117,6 @@ Că-i cald în casă, iar?
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Aleksandr Blok
-* **Temă:** casa
+* **Temă:** casa, durere
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

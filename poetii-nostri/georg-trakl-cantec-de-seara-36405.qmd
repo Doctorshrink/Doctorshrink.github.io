@@ -3,7 +3,7 @@ title: "Cântec de seară"
 subtitle: "Georg Trakl"
 author: "Doctor Shrink"
 date: "2026-08-09"
-categories: [poezie, spoken-word, cantec]
+categories: [poezie, spoken-word, cantec, frate]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -71,6 +71,6 @@ Christian W. Schenk
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Georg Trakl
-* **Temă:** cantec
+* **Temă:** cantec, frate
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

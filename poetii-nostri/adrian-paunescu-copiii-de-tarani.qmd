@@ -3,7 +3,7 @@ title: "Copiii de țărani"
 subtitle: "Adrian Păunescu"
 author: "Doctor Shrink"
 date: "2026-06-22"
-categories: [poezie, spoken-word, tara]
+categories: [poezie, spoken-word, sat, tara]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -77,6 +77,6 @@ Curații lor fii, rod al unicei vieți!
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Adrian Păunescu
-* **Temă:** tara
+* **Temă:** sat, tara
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

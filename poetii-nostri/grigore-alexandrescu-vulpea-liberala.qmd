@@ -1,0 +1,98 @@
+---
+title: "Vulpea liberală"
+subtitle: "Grigore Alexandrescu"
+author: "Doctor Shrink"
+date: "2026-08-21"
+categories: [poezie, spoken-word, libertate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v4mTVCtDpkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+VULPEA LIBERALAĂ<br>
+<br>
+Vulpea fară-ncetare<br>
+<br>
+Striga în gura mare<br>
+<br>
+Ca de când elefantul peste păduri domneşte<br>
+<br>
+Trebile merg la vale şi lumea pătimeste.<br>
+<br>
+Că este nedreptate<br>
+<br>
+Să vă să cheltuiască<br>
+<br>
+Veniturile toate<br>
+<br>
+Pentru masa crăiască.<br>
+<br>
+D-acestea elefantul, cât a luat de ştire,<br>
+<br>
+Temându-se, cu dreptul, de vreo răsvrătire,<br>
+<br>
+Pe iepure la vulpe cu un bilet trimise,<br>
+<br>
+O invită la curte, o-mbrățise şi-i zise:<br>
+<br>
+&quot;Am aflat, jupâneasa, ca ai mare talent.<br>
+<br>
+Voi să te pui în pâine;<br>
+<br>
+Şi începând de măine<br>
+<br>
+Îți dam cu mulțumire,<br>
+<br>
+Ca un semn de cinstire,<br>
+<br>
+Al găinilor noastre întins departament.<br>
+<br>
+Caută-ți bine traba!&quot;<br>
+<br>
+-&quot;Pe seama mea te lăsa&quot;,<br>
+<br>
+Răspunse oratorul şi, sărutându-i laba,<br>
+<br>
+Se întoarse acasă.<br>
+<br>
+În ziua vitoare,<br>
+<br>
+Vulpea ca totdeauna veni la adunare;<br>
+<br>
+Dar însa oblojită, pe sub barbă legată,<br>
+<br>
+Şi cu un lipan mare la cap, înfăsurată.<br>
+<br>
+&quot;Ce ai, de eşti astfel? o întrebară toate.<br>
+<br>
+-&quot;Îmi e rău de aseară, îmi e rău căt se poate,<br>
+<br>
+Şi cu trebile țării să mă lăsați în pace.<br>
+<br>
+Craiul ştie ce face;<br>
+<br>
+El ne-ncetat gândeşte la al obştii folos.<br>
+<br>
+Adio! sunt bolnavă; m-am înecat c-un os.&quot;<br>
+<br>
+Cunosc multi liberali, la vorbe ei se-ntrec,<br>
+<br>
+Dar până în sfârşit cu oase se înec.<br>
+<br>
+Adăugată de către-Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Alexandrescu
+* **Temă:** libertate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -3,7 +3,7 @@ title: "O Soră am acasă"
 subtitle: "Emily Dickinson"
 author: "Doctor Shrink"
 date: "2026-08-01"
-categories: [poezie, spoken-word, frate]
+categories: [poezie, spoken-word, casa, frate]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -75,6 +75,6 @@ Pe Sue – în veșnicie!
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Emily Dickinson
-* **Temă:** frate
+* **Temă:** casa, frate
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

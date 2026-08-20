@@ -3,7 +3,7 @@ title: "Dureroasă − amintirea iubirii!"
 subtitle: "Anna Ahmatova"
 author: "Doctor Shrink"
 date: "2026-07-13"
-categories: [poezie, spoken-word, amintire]
+categories: [poezie, spoken-word, amintire, durere]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -99,6 +99,6 @@ Versuri tălmăcite de Traianus
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Anna Ahmatova
-* **Temă:** amintire
+* **Temă:** amintire, durere
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

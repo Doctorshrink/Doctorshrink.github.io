@@ -3,7 +3,7 @@ title: "Casa cuvântului"
 subtitle: "Gheorghe Tomozei"
 author: "Doctor Shrink"
 date: "2026-08-17"
-categories: [poezie, spoken-word, casa]
+categories: [poezie, spoken-word, casa, cuvant]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -57,6 +57,6 @@ de la ruină<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Gheorghe Tomozei
-* **Temă:** casa
+* **Temă:** casa, cuvant
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

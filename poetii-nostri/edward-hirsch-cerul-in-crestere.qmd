@@ -3,7 +3,7 @@ title: "Cerul în creștere"
 subtitle: "Edward Hirsch"
 author: "Doctor Shrink"
 date: "2026-07-30"
-categories: [poezie, spoken-word, cer]
+categories: [poezie, spoken-word, cer, munte]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -53,6 +53,6 @@ Oare cum pot fi plin cu o asemenea iubire imensă?
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Edward Hirsch
-* **Temă:** cer
+* **Temă:** cer, munte
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

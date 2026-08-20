@@ -3,7 +3,7 @@ title: "Moartea păsărilor"
 subtitle: "Nichita Stănescu"
 author: "Doctor Shrink"
 date: "2026-06-23"
-categories: [poezie, spoken-word, ploaie]
+categories: [poezie, spoken-word, pasari, ploaie]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -209,6 +209,6 @@ si mereu îsi duce mîna la beregata...
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Nichita Stănescu
-* **Temă:** ploaie
+* **Temă:** pasari, ploaie
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

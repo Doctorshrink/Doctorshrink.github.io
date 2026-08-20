@@ -3,7 +3,7 @@ title: "Toamna singuraticului"
 subtitle: "Georg Trakl"
 author: "Doctor Shrink"
 date: "2026-08-11"
-categories: [poezie, spoken-word, singuratate]
+categories: [poezie, spoken-word, singuratate, toamna, vin]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -81,6 +81,6 @@ NOTE<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Georg Trakl
-* **Temă:** singuratate
+* **Temă:** singuratate, toamna, vin
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

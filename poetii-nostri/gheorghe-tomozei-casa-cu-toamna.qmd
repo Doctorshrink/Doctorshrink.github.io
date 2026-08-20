@@ -3,7 +3,7 @@ title: "Casa cu toamnă"
 subtitle: "Gheorghe Tomozei"
 author: "Doctor Shrink"
 date: "2026-08-17"
-categories: [poezie, spoken-word, casa]
+categories: [poezie, spoken-word, casa, toamna]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -107,6 +107,6 @@ In casa asta nu mai mă întorc.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Gheorghe Tomozei
-* **Temă:** casa
+* **Temă:** casa, toamna
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

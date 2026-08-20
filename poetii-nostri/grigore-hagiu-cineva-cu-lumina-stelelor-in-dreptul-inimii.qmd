@@ -1,0 +1,52 @@
+---
+title: "Cineva cu lumina stelelor în dreptul inimii"
+subtitle: "Grigore Hagiu"
+author: "Doctor Shrink"
+date: "2026-08-21"
+categories: [poezie, spoken-word, luna_stele]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-3BWu-WHreA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+am visat un cer înstelat<br>
+<br>
+cu stele limpezi până la înduioșare<br>
+<br>
+iată ți-am spus luându-te de mână<br>
+<br>
+unde se află cum arată<br>
+<br>
+constelația firului de iarbă<br>
+<br>
+constelația firului de grâu<br>
+<br>
+constelația codrului înverzit<br>
+<br>
+constelația blândei livezi amurgite<br>
+<br>
+constelația salcâmului și-a teiului înflorit<br>
+<br>
+și departe în depărtare constelația<br>
+<br>
+dragostei tinere a iubirii statornice<br>
+<br>
+privește constelațiile culorilor cum coboară<br>
+<br>
+din văzduh pe pământ într-un tact legănat
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Hagiu
+* **Temă:** luna_stele
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

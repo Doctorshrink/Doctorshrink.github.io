@@ -3,7 +3,7 @@ title: "Să priveşti Cerul de Vară"
 subtitle: "Emily Dickinson"
 author: "Doctor Shrink"
 date: "2026-08-01"
-categories: [poezie, spoken-word, cer]
+categories: [poezie, spoken-word, caldura, cer]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -29,6 +29,6 @@ Se mîntuie-n Azur Poemele adevărate
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Emily Dickinson
-* **Temă:** cer
+* **Temă:** caldura, cer
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

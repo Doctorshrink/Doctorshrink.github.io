@@ -1,0 +1,70 @@
+---
+title: "Porcul liberat"
+subtitle: "Grigore Alexandrescu"
+author: "Doctor Shrink"
+date: "2026-08-21"
+categories: [poezie, spoken-word, libertate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M2CpcLUsQPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+PORCUL LIBERAT<br>
+<br>
+Cînd s-au liberat țiganii, în anul de la Hristos<br>
+<br>
+O mie și ... nu știu cîte, unul din ei, omenos,<br>
+<br>
+Vru și el să libereze pe un porc ce el avea,<br>
+<br>
+Și în jug de multă vreme lîngă șatră îl ținea.<br>
+<br>
+Îl chemă dar și îi zise : —„Porcule, purcelul meu,<br>
+<br>
+Cunosc însumi, din cercare, jugul cît este de greu.<br>
+<br>
+De aceea te fac liber ; d-acum poți viețui<br>
+<br>
+Oricum ți-o plăcea, și hrana singur a ți-o dobîndi.“<br>
+<br>
+—„Să trăiești ! însă stăpîne, în grădini poci eu intra,<br>
+<br>
+Pepeni, dovlecei și verze fără grijă a mînca ?“<br>
+<br>
+—„Ba nu, astea sînt oprite.“ —„Așadar îți mulțumesc,<br>
+<br>
+Cu un sfert de libertate, drept să spui, nu mă-nvoiesc.<br>
+<br>
+Ba crez chiar că e rușine, cînd toți porcii au trăit<br>
+<br>
+La coșare în robie, să ies eu mai osebit,<br>
+<br>
+Să-mi ridic mai pe sus botul și de treapta lor să fug,<br>
+<br>
+Ș-apoi ce ar zice boii văzîndu-mă fără jug ?“<br>
+<br>
+Unii-nțeleg libertatea ca porcul cel țigănesc ;<br>
+<br>
+Alții, deprinși cu robia, de ea greu se despărțesc.<br>
+<br>
+„Rumânul“ 14 / 27 Decembrie 1857<br>
+<br>
+„Meditații, elegii, epistole, satire și fabule“,- 1863-<br>
+<br>
+Adaugata de catre-Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Alexandrescu
+* **Temă:** libertate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

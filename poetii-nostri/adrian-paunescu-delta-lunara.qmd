@@ -3,7 +3,7 @@ title: "Delta lunară"
 subtitle: "Adrian Păunescu"
 author: "Doctor Shrink"
 date: "2026-06-22"
-categories: [poezie, spoken-word, luna_stele]
+categories: [poezie, spoken-word, luna_stele, noapte]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -85,6 +85,6 @@ Două aripi prin trestii bătând.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Adrian Păunescu
-* **Temă:** luna_stele
+* **Temă:** luna_stele, noapte
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

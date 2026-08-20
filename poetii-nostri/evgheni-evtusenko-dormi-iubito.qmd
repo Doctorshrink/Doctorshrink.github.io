@@ -3,7 +3,7 @@ title: "Dormi, iubito!"
 subtitle: "Evgheni Evtuşenko"
 author: "Doctor Shrink"
 date: "2026-08-03"
-categories: [poezie, spoken-word, dor]
+categories: [poezie, spoken-word, dor, iubire]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -121,6 +121,6 @@ Marea-n tropot şi crengile scormonind ca vătraiul<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Evgheni Evtuşenko
-* **Temă:** dor
+* **Temă:** dor, iubire
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

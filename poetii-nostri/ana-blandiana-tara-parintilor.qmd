@@ -3,7 +3,7 @@ title: "Ţara părinţilor"
 subtitle: "Ana Blandiana"
 author: "Doctor Shrink"
 date: "2026-07-13"
-categories: [poezie, spoken-word, tata]
+categories: [poezie, spoken-word, tara, tata]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -47,6 +47,6 @@ Până-n pământ.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Ana Blandiana
-* **Temă:** tata
+* **Temă:** tara, tata
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

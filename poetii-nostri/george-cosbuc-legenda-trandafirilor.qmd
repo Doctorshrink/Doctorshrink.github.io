@@ -3,7 +3,7 @@ title: "Legenda trandafirilor"
 subtitle: "George Coşbuc"
 author: "Doctor Shrink"
 date: "2026-08-11"
-categories: [poezie, spoken-word, flori]
+categories: [poezie, spoken-word, flori, lacrimi]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -291,6 +291,6 @@ De ce te plângi că-i rea viaţa?
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** George Coşbuc
-* **Temă:** flori
+* **Temă:** flori, lacrimi
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

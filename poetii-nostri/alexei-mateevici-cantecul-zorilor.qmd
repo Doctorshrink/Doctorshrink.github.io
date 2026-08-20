@@ -3,7 +3,7 @@ title: "Cantecul Zorilor"
 subtitle: "Alexei Mateevici"
 author: "Doctor Shrink"
 date: "2026-07-10"
-categories: [poezie, spoken-word, soare]
+categories: [poezie, spoken-word, frate, libertate, soare]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -155,6 +155,6 @@ Adaugata de catre Radu Dan Alexandru
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alexei Mateevici
-* **Temă:** soare
+* **Temă:** frate, libertate, soare
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

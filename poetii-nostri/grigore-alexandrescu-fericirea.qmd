@@ -1,0 +1,150 @@
+---
+title: "Fericirea"
+subtitle: "Grigore Alexandrescu"
+author: "Doctor Shrink"
+date: "2026-08-21"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NqBVNVo1q_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+FERICIREA<br>
+<br>
+O vedeti colo, colo în vale,<br>
+<br>
+Unde natura vesel zâmbeste,<br>
+<br>
+Unde pastorul zilele sale<br>
+<br>
+În paza turmei le margineste?<br>
+<br>
+Inima simpla, nevinovata,<br>
+<br>
+Orice dorinta lesne-mplinita.<br>
+<br>
+La câmp simtirea e-adevarata,<br>
+<br>
+La câmp viata e fericita:<br>
+<br>
+La câmp, nadejdea zice, veniti,<br>
+<br>
+În fericire de vreti sa fiti.<br>
+<br>
+O vedeti colo, în palat mare,<br>
+<br>
+Înconjurata de bogatie<br>
+<br>
+Vedeti ce cinste, ce drepturi are,<br>
+<br>
+Vedeti pe fruntea-i ce bucurie?<br>
+<br>
+Relele-i fapte se schimb în bune,<br>
+<br>
+Orice dorinta are-mplinirea,<br>
+<br>
+Numai marirea toate supune,<br>
+<br>
+Numa-n palaturi e fericirea.<br>
+<br>
+Mariri, nadejdea zice, goniti,<br>
+<br>
+În fericire de vreti sa fiti.<br>
+<br>
+O vedeti colo, colo-n razboaie,<br>
+<br>
+De steagul slavei falnic umbrita?<br>
+<br>
+Ochii sunt groaznici, plini de vapaie,<br>
+<br>
+De morti, de sângiuri sta ocolita;<br>
+<br>
+Apara dreptul, legea, credinta,<br>
+<br>
+Si rasplatirea-i e nemurire.<br>
+<br>
+A! ce placuta e biruinta!<br>
+<br>
+Ce fericire e la ostire!<br>
+<br>
+Nadejdea zice: razboinici fiti,<br>
+<br>
+De fericire daca doriti.<br>
+<br>
+O vedeti colo, colo pe mare,<br>
+<br>
+Cum îsi încrede soarta la vânturi,<br>
+<br>
+Cum se preumbla fara-ncetare,<br>
+<br>
+Si ce departe e de pamânturi?<br>
+<br>
+Busola drumul la pol i-arata,<br>
+<br>
+Afla lumi noua, creste simtirea<br>
+<br>
+Masoara-adâncul, latimea toata:<br>
+<br>
+Numai pe mare e fericirea.<br>
+<br>
+Nadejdea zice: pe mari traiti,<br>
+<br>
+În fericire de vreti sa fiti.<br>
+<br>
+O vedeti colo, -n tara greceasca,<br>
+<br>
+Azil al slavei s-al libertatii,<br>
+<br>
+Fantoma mândra, urieseasca,<br>
+<br>
+Unde-a scris Solon cartea dreptatii?<br>
+<br>
+Frumoasa clima, ceruri senine,<br>
+<br>
+Care însufla-n veci bucuria!<br>
+<br>
+În aste locuri cît e de bine!<br>
+<br>
+Ce fericire e în Grecia!<br>
+<br>
+Nadejdea, -acolo, zice, traiti,<br>
+<br>
+În fericire de vreti sa fiti.<br>
+<br>
+O vedeti colo, colo departe,<br>
+<br>
+În noru-acela ce se zareste?<br>
+<br>
+A ! zice omul care la moarte,<br>
+<br>
+Albit de zile, mâhnit soseste:<br>
+<br>
+Ca voi odata aveam greseala,<br>
+<br>
+Dar al meu sânge astazi e rece,<br>
+<br>
+Astazi nadejdea nu mai ma-nseala:<br>
+<br>
+Veti vedea singuri norul cum trece!<br>
+<br>
+Pân-atunci însa, mergeti, goniti,<br>
+<br>
+Norul acela unde-o zariti.<br>
+<br>
+Adaugata de catre-Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Alexandrescu
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

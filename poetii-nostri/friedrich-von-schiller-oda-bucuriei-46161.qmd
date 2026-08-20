@@ -3,7 +3,7 @@ title: "Odă bucuriei"
 subtitle: "Friedrich von Schiller"
 author: "Doctor Shrink"
 date: "2026-08-07"
-categories: [poezie, spoken-word, fericire]
+categories: [poezie, spoken-word, fericire, frate]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -229,6 +229,6 @@ Jurământului divin.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Friedrich von Schiller
-* **Temă:** fericire
+* **Temă:** fericire, frate
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

@@ -3,7 +3,7 @@ title: "Râul cu un singur mal"
 subtitle: "Gheorghe Tomozei"
 author: "Doctor Shrink"
 date: "2026-08-19"
-categories: [poezie, spoken-word, singuratate]
+categories: [poezie, spoken-word, apa, singuratate]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -47,6 +47,6 @@ Sunt râul cu un singur mal…<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Gheorghe Tomozei
-* **Temă:** singuratate
+* **Temă:** apa, singuratate
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

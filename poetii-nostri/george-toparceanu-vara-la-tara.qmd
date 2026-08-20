@@ -3,7 +3,7 @@ title: "Vara la ţară"
 subtitle: "George Topîrceanu"
 author: "Doctor Shrink"
 date: "2026-08-13"
-categories: [poezie, spoken-word, caldura]
+categories: [poezie, spoken-word, caldura, sat, tara]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -201,6 +201,6 @@ Cu trăsuri, femei cochete<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** George Topîrceanu
-* **Temă:** caldura
+* **Temă:** caldura, sat, tara
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

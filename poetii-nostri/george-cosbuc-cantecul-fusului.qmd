@@ -3,7 +3,7 @@ title: "Cântecul fusului"
 subtitle: "George Coşbuc"
 author: "Doctor Shrink"
 date: "2026-08-11"
-categories: [poezie, spoken-word, cantec]
+categories: [poezie, spoken-word, cantec, lacrimi]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -165,6 +165,6 @@ Maicuta-mea ca plâng.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** George Coşbuc
-* **Temă:** cantec
+* **Temă:** cantec, lacrimi
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

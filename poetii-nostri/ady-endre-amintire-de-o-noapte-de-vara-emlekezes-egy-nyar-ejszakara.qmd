@@ -3,7 +3,7 @@ title: "Amintire de o noapte de vară - (Emlékezés egy nyár-éjszakára)"
 subtitle: "Ady Endre"
 author: "Doctor Shrink"
 date: "2026-06-24"
-categories: [poezie, spoken-word, caldura]
+categories: [poezie, spoken-word, amintire, caldura, noapte]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -119,6 +119,6 @@ Ciudată noapte de vară a fost.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Ady Endre
-* **Temă:** caldura
+* **Temă:** amintire, caldura, noapte
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

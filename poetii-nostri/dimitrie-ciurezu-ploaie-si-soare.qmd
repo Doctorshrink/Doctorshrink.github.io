@@ -3,7 +3,7 @@ title: "Ploaie si soare"
 subtitle: "Dimitrie Ciurezu"
 author: "Doctor Shrink"
 date: "2026-07-27"
-categories: [poezie, spoken-word, ploaie]
+categories: [poezie, spoken-word, ploaie, soare]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -105,6 +105,6 @@ Ca o ruga izbucnita din pamant.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Dimitrie Ciurezu
-* **Temă:** ploaie
+* **Temă:** ploaie, soare
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

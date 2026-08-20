@@ -3,7 +3,7 @@ title: "Viscol, viscolind"
 subtitle: "Afanasii Fet"
 author: "Doctor Shrink"
 date: "2026-06-25"
-categories: [poezie, spoken-word, iarna, vant]
+categories: [poezie, spoken-word, iarna, vant, vis]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -55,6 +55,6 @@ Iarna lui 1855
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Afanasii Fet
-* **Temă:** iarna, vant
+* **Temă:** iarna, vant, vis
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

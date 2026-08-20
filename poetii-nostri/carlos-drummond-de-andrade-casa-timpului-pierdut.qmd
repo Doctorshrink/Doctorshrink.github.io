@@ -3,7 +3,7 @@ title: "Casa timpului pierdut"
 subtitle: "Carlos Drummond de Andrade"
 author: "Doctor Shrink"
 date: "2026-07-18"
-categories: [poezie, spoken-word, casa]
+categories: [poezie, spoken-word, casa, timp]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -47,6 +47,6 @@ E doar o căsoaie goală și condamnată.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Carlos Drummond de Andrade
-* **Temă:** casa
+* **Temă:** casa, timp
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

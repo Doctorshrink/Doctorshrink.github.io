@@ -3,7 +3,7 @@ title: "Jocul de-a stelele"
 subtitle: "Aurel Rău"
 author: "Doctor Shrink"
 date: "2026-07-17"
-categories: [poezie, spoken-word, luna_stele]
+categories: [poezie, spoken-word, hora, luna_stele, noapte]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -81,6 +81,6 @@ Stelele veșnice.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Aurel Rău
-* **Temă:** luna_stele
+* **Temă:** hora, luna_stele, noapte
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

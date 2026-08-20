@@ -3,7 +3,7 @@ title: "Stuful dureros al amintirii"
 subtitle: "Cassian Maria Spiridon"
 author: "Doctor Shrink"
 date: "2026-07-19"
-categories: [poezie, spoken-word, amintire]
+categories: [poezie, spoken-word, amintire, durere]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -79,6 +79,6 @@ stuful dureros al amintirii
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Cassian Maria Spiridon
-* **Temă:** amintire
+* **Temă:** amintire, durere
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 
