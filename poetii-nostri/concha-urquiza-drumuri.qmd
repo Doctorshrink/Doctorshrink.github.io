@@ -3,7 +3,7 @@ title: "Drumuri"
 subtitle: "Concha Urquiza"
 author: "Doctor Shrink"
 date: "2026-07-22"
-categories: [poezie, spoken-word, drum]
+categories: [poezie, spoken-word, casa, drum]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -167,6 +167,6 @@ que a tus labios dulces va?&quot;
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Concha Urquiza
-* **Temă:** drum
+* **Temă:** casa, drum
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

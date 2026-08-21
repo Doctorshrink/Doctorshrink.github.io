@@ -3,7 +3,7 @@ title: "Coana Ágnes - (Ágnes asszony)"
 subtitle: "Arany János"
 author: "Doctor Shrink"
 date: "2026-07-15"
-categories: [poezie, spoken-word, dumnezeu]
+categories: [poezie, spoken-word, casa, dumnezeu]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -283,6 +283,6 @@ Oh! sfânta milă nu mă lăsa.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Arany János
-* **Temă:** dumnezeu
+* **Temă:** casa, dumnezeu
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

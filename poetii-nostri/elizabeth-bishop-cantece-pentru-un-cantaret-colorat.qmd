@@ -3,7 +3,7 @@ title: "Cântece pentru un cântăreț colorat"
 subtitle: "Elizabeth Bishop"
 author: "Doctor Shrink"
 date: "2026-07-31"
-categories: [poezie, spoken-word, cantec]
+categories: [poezie, spoken-word, cantec, copilarie, lacrimi]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -249,6 +249,6 @@ Sunt prea reali pentru a fi un vis.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Elizabeth Bishop
-* **Temă:** cantec
+* **Temă:** cantec, copilarie, lacrimi
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

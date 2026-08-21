@@ -3,7 +3,7 @@ title: "Pastel pustiu"
 subtitle: "Alexandru Philippide"
 author: "Doctor Shrink"
 date: "2026-07-08"
-categories: [poezie, spoken-word, vant]
+categories: [poezie, spoken-word, amintire, singuratate, vant]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -201,6 +201,6 @@ Dar, pustnic obosit, adorm din nou,<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alexandru Philippide
-* **Temă:** vant
+* **Temă:** amintire, singuratate, vant
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

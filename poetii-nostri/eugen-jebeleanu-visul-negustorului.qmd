@@ -3,7 +3,7 @@ title: "Visul negustorului"
 subtitle: "Eugen Jebeleanu"
 author: "Doctor Shrink"
 date: "2026-08-03"
-categories: [poezie, spoken-word, ploaie]
+categories: [poezie, spoken-word, casa, lacrimi, ploaie]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -263,6 +263,6 @@ de muzici ademenitoare,<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Eugen Jebeleanu
-* **Temă:** ploaie
+* **Temă:** casa, lacrimi, ploaie
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

@@ -1,0 +1,54 @@
+---
+title: "A căzut cerul din ochii tăi"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-22"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6cRLeygW2I8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+A căzut cerul din ochii tăi<br>
+<br>
+Şi s-a fărîmiţat.<br>
+<br>
+A căzut de pe faţa ta soarele<br>
+<br>
+Şi-a îngheţat.<br>
+<br>
+Încremenit e vîntul cel răcoros<br>
+<br>
+Fără harnicele tale mîini.<br>
+<br>
+Căutîndu-te pe tine,<br>
+<br>
+S-au tăinuit izvoarele-n ţărîni.<br>
+<br>
+Ca un pom doborît<br>
+<br>
+Însuşi graiul<br>
+<br>
+Parcă se aude căzînd.<br>
+<br>
+Doamne, atît de singur,<br>
+<br>
+Atît de singur<br>
+<br>
+N-am fost nicicînd!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

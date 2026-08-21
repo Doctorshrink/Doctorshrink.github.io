@@ -1,0 +1,66 @@
+---
+title: "Casă nouă"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-22"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OUIFA9WVX8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Iată-a fost la noi zidarul,<br>
+<br>
+A făcut pereţi la casă.<br>
+<br>
+Ai, a fost la noi zidarul,<br>
+<br>
+Dar noi nu eram acasă.<br>
+<br>
+Şi a fost la noi tâmplarul,<br>
+<br>
+A pus geam şi uşă-aleasă.<br>
+<br>
+Ai, a fost la noi tâmplarul,<br>
+<br>
+Dar noi nu eram acasă.<br>
+<br>
+Şi a fost la noi zugravul,<br>
+<br>
+Făcu casa mai frumoasă.<br>
+<br>
+Ai, a fost la noi zugravul,<br>
+<br>
+Dar noi nu eram acasă.<br>
+<br>
+Şi a fost la noi montorul,<br>
+<br>
+Uite şi lumina-i trasă.<br>
+<br>
+Ai, a fost la noi montorul,<br>
+<br>
+Dar noi nu eram acasă.<br>
+<br>
+Iată-n casă amiroasă<br>
+<br>
+A colac, a must, gherghine…<br>
+<br>
+Ai, de-acum suntem acasă,<br>
+<br>
+Dar nici unul nu mai vine.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

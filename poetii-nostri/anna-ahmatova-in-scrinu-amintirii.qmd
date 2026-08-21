@@ -3,7 +3,7 @@ title: "În scrinu-amintirii"
 subtitle: "Anna Ahmatova"
 author: "Doctor Shrink"
 date: "2026-07-14"
-categories: [poezie, spoken-word, amintire]
+categories: [poezie, spoken-word]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -37,6 +37,6 @@ Trufaș va surâde spre tine.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Anna Ahmatova
-* **Temă:** amintire
+* **Temă:** —
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

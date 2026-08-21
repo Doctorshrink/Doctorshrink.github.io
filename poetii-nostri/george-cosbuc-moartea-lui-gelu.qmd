@@ -3,7 +3,7 @@ title: "Moartea lui Gelu"
 subtitle: "George Coşbuc"
 author: "Doctor Shrink"
 date: "2026-08-12"
-categories: [poezie, spoken-word, moarte]
+categories: [poezie, spoken-word, inima, moarte]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -297,6 +297,6 @@ Si-arunca-ma-n groapa!
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** George Coşbuc
-* **Temă:** moarte
+* **Temă:** inima, moarte
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

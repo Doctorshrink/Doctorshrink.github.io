@@ -3,7 +3,7 @@ title: "9.9.(10.4) Kei Kavus. Jalea lui Rostam la moartea lui Sohab"
 subtitle: "Firdousi"
 author: "Doctor Shrink"
 date: "2026-08-06"
-categories: [poezie, spoken-word, durere]
+categories: [poezie, spoken-word, durere, moarte]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -87,6 +87,6 @@ dintre tată şi fecior întâlnit în baladele germane<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Firdousi
-* **Temă:** durere
+* **Temă:** durere, moarte
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

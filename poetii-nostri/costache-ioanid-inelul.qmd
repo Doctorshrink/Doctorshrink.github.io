@@ -3,7 +3,7 @@ title: "Inelul"
 subtitle: "Costache Ioanid"
 author: "Doctor Shrink"
 date: "2026-07-25"
-categories: [poezie, spoken-word, libertate]
+categories: [poezie, spoken-word, lacrimi, libertate]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -269,6 +269,6 @@ AMIN
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Costache Ioanid
-* **Temă:** libertate
+* **Temă:** lacrimi, libertate
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

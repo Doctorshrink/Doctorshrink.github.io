@@ -1,0 +1,42 @@
+---
+title: "Bată vântul"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-22"
+categories: [poezie, spoken-word, vant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Co7FpO6cbLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Bată vântul cât de tare,<br>
+<br>
+Nu se stinge mândrul soare!<br>
+<br>
+Bată vântul cât o vrea,<br>
+<br>
+Nu se stinge nici o stea!<br>
+<br>
+Bată vântul fără milă,<br>
+<br>
+Nu se stinge-a mea lumină!<br>
+<br>
+Bată vântul furios,<br>
+<br>
+Nu mai dă soarele jos!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** vant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

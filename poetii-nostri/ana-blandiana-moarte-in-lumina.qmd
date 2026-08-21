@@ -3,7 +3,7 @@ title: "Moarte in lumină"
 subtitle: "Ana Blandiana"
 author: "Doctor Shrink"
 date: "2026-07-12"
-categories: [poezie, spoken-word, lumina, soare]
+categories: [poezie, spoken-word, lumina, moarte, soare, tata]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -152,6 +152,6 @@ Aştept curată noaptea următoare<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Ana Blandiana
-* **Temă:** lumina, soare
+* **Temă:** lumina, moarte, soare, tata
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

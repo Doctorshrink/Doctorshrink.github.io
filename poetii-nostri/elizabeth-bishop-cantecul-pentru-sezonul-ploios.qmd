@@ -3,7 +3,7 @@ title: "Cântecul pentru sezonul ploios"
 subtitle: "Elizabeth Bishop"
 author: "Doctor Shrink"
 date: "2026-07-31"
-categories: [poezie, spoken-word, ploaie]
+categories: [poezie, spoken-word, casa, ploaie]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -141,6 +141,6 @@ cascadele scârțâie<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Elizabeth Bishop
-* **Temă:** ploaie
+* **Temă:** casa, ploaie
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

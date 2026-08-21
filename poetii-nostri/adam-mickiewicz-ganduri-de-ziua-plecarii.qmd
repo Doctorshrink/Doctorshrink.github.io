@@ -3,7 +3,7 @@ title: "Gânduri de ziua plecării"
 subtitle: "Adam Mickiewicz"
 author: "Doctor Shrink"
 date: "2026-06-20"
-categories: [poezie, spoken-word, drum]
+categories: [poezie, spoken-word, drum, lacrimi]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -127,6 +127,6 @@ Suna-vor clopoţeii, vestind plecarea mea.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Adam Mickiewicz
-* **Temă:** drum
+* **Temă:** drum, lacrimi
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

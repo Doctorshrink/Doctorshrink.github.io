@@ -1,0 +1,82 @@
+---
+title: "Fluier de os"
+subtitle: "Grigore Hagiu"
+author: "Doctor Shrink"
+date: "2026-08-22"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IgVT5kbQjD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+FLUIER DE OS<br>
+<br>
+Fluier de os axă a Lumii<br>
+<br>
+fior al golului făcut să sune<br>
+<br>
+pe trunchiul tău pământul se învârte<br>
+<br>
+şi stelele pocnind în noapte<br>
+<br>
+La baza ta trântiţi în iarbă<br>
+<br>
+Si-n inimile lor înfipt mocanii<br>
+<br>
+Mioritic tot te mai aud<br>
+<br>
+Si dacă vârful tău deasupra.<br>
+<br>
+Se termină undeva de bună seamă<br>
+<br>
+Zeii au lăcaş acolo şi sorii cum te-nconjoară<br>
+<br>
+Din toate părţile deodată eşti<br>
+<br>
+Tu singur ţie însuţi umbră<br>
+<br>
+Timp concentrat pe verticală.<br>
+<br>
+Până la refuz astru polar<br>
+<br>
+In curgere-mpietrită măduvă aeriană<br>
+<br>
+Fântână dezgolită până la izvor<br>
+<br>
+Brâu suprapus de sfere din care-<br>
+<br>
+Numai cercurile au rămas.<br>
+<br>
+Inalţă-te-n continuarea gurii melc<br>
+<br>
+Si lasă-mă prin tine să respir<br>
+<br>
+Si dincolo de mine-n univers<br>
+<br>
+Mi-e dor de puritatea ta.<br>
+<br>
+Eu mie însumi mic însumi să rezist topit<br>
+<br>
+Cu carnea de prisos de cântece înnebunind<br>
+<br>
+Pulverizată sunet cu sunet să se-audă<br>
+<br>
+Pe năluca aceluiaşi prelung şi fraged fluier alb de os.<br>
+<br>
+Adăugată de către-Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Hagiu
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

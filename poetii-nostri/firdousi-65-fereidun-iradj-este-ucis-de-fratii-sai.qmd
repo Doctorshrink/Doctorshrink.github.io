@@ -3,7 +3,7 @@ title: "6.5 Fereidun. Iradj este ucis de frații săi"
 subtitle: "Firdousi"
 author: "Doctor Shrink"
 date: "2026-08-06"
-categories: [poezie, spoken-word, frate]
+categories: [poezie, spoken-word, frate, inima]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -199,6 +199,6 @@ Cronica Șahilor
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Firdousi
-* **Temă:** frate
+* **Temă:** frate, inima
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

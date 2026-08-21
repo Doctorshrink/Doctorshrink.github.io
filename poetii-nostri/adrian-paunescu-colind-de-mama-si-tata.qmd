@@ -3,7 +3,7 @@ title: "Colind de mamă și tată"
 subtitle: "Adrian Păunescu"
 author: "Doctor Shrink"
 date: "2026-06-22"
-categories: [poezie, spoken-word, mama, tata]
+categories: [poezie, spoken-word, mama]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -93,6 +93,6 @@ Cineva, departe-n vifor, parcă izbucnește-n plâns.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Adrian Păunescu
-* **Temă:** mama, tata
+* **Temă:** mama
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

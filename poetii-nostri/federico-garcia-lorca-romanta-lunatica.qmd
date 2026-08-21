@@ -3,7 +3,7 @@ title: "Romanță lunatică"
 subtitle: "Federico Garcia Lorca"
 author: "Doctor Shrink"
 date: "2026-08-05"
-categories: [poezie, spoken-word, luna_stele, noapte]
+categories: [poezie, spoken-word, casa, luna_stele, noapte]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -367,6 +367,6 @@ Y el caballo en la montaña.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Federico Garcia Lorca
-* **Temă:** luna_stele, noapte
+* **Temă:** casa, luna_stele, noapte
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

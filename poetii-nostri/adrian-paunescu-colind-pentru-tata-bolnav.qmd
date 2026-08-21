@@ -3,7 +3,7 @@ title: "Colind pentru tată bolnav"
 subtitle: "Adrian Păunescu"
 author: "Doctor Shrink"
 date: "2026-06-22"
-categories: [poezie, spoken-word, tata]
+categories: [poezie, spoken-word]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -73,6 +73,6 @@ A ta este ziua, venirăm cu toții<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Adrian Păunescu
-* **Temă:** tata
+* **Temă:** —
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

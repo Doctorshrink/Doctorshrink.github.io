@@ -3,7 +3,7 @@ title: "E primăvară..."
 subtitle: "Costache Ioanid"
 author: "Doctor Shrink"
 date: "2026-07-25"
-categories: [poezie, spoken-word, flori, primavara]
+categories: [poezie, spoken-word, flori, inima, primavara, tata]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -217,6 +217,6 @@ AMIN
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Costache Ioanid
-* **Temă:** flori, primavara
+* **Temă:** flori, inima, primavara, tata
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

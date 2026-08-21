@@ -3,7 +3,7 @@ title: "Dor de ploaie"
 subtitle: "Constanţa Buzea"
 author: "Doctor Shrink"
 date: "2026-07-23"
-categories: [poezie, spoken-word, dor, ploaie]
+categories: [poezie, spoken-word, dor, lacrimi, ploaie]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -69,6 +69,6 @@ lung de dor de ploaie
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Constanţa Buzea
-* **Temă:** dor, ploaie
+* **Temă:** dor, lacrimi, ploaie
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

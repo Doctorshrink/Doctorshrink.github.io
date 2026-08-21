@@ -3,7 +3,7 @@ title: "Ceasul greu"
 subtitle: "Alexandru Philippide"
 author: "Doctor Shrink"
 date: "2026-07-08"
-categories: [poezie, spoken-word, timp]
+categories: [poezie, spoken-word, suflet, timp]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -163,6 +163,6 @@ Si-n loc ca să mă rog, am început să cânt.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alexandru Philippide
-* **Temă:** timp
+* **Temă:** suflet, timp
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

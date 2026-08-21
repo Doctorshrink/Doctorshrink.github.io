@@ -3,7 +3,7 @@ title: "Cărare de morți"
 subtitle: "Adrian Păunescu"
 author: "Doctor Shrink"
 date: "2026-06-21"
-categories: [poezie, spoken-word, moarte]
+categories: [poezie, spoken-word]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -69,6 +69,6 @@ sub pașii mei se vaietă și plânge<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Adrian Păunescu
-* **Temă:** moarte
+* **Temă:** —
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

@@ -3,7 +3,7 @@ title: "Razbunarea soarecilor sau moartea lui Sion"
 subtitle: "Grigore Alexandrescu"
 author: "Doctor Shrink"
 date: "2026-08-21"
-categories: [poezie, spoken-word, soare]
+categories: [poezie, spoken-word, moarte, soare]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -227,6 +227,6 @@ Adaugata de catre-Radu Dan Alexandru
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Grigore Alexandrescu
-* **Temă:** soare
+* **Temă:** moarte, soare
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

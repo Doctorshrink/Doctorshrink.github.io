@@ -3,7 +3,7 @@ title: "Harpista"
 subtitle: "Duiliu Zamfirescu"
 author: "Doctor Shrink"
 date: "2026-07-28"
-categories: [poezie, spoken-word, lacrimi]
+categories: [poezie, spoken-word, lacrimi, mama, suflet]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -237,6 +237,6 @@ Iar ea, abia-i răspunde, cu vocea ei cea stinsă:<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Duiliu Zamfirescu
-* **Temă:** lacrimi
+* **Temă:** lacrimi, mama, suflet
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

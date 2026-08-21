@@ -3,7 +3,7 @@ title: "Copilaria"
 subtitle: "Carlos Drummond de Andrade"
 author: "Doctor Shrink"
 date: "2026-07-18"
-categories: [poezie, spoken-word, copilarie]
+categories: [poezie, spoken-word, copilarie, tata]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -65,6 +65,6 @@ era mai frumoasă decât a lui Robinson Crusoe.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Carlos Drummond de Andrade
-* **Temă:** copilarie
+* **Temă:** copilarie, tata
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

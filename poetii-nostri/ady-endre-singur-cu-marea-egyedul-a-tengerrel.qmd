@@ -3,7 +3,7 @@ title: "Singur cu marea - (Egyedül a tengerrel)"
 subtitle: "Ady Endre"
 author: "Doctor Shrink"
 date: "2026-06-24"
-categories: [poezie, spoken-word, mare]
+categories: [poezie, spoken-word, mare, singuratate]
 image: "../images/tds-logo-150px.png"
 format:
   html:
@@ -57,6 +57,6 @@ Cântă marea, cântă trecutul.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Ady Endre
-* **Temă:** mare
+* **Temă:** mare, singuratate
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 
