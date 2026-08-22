@@ -1,0 +1,74 @@
+---
+title: "Casa părintească"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-23"
+categories: [poezie, spoken-word, casa, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmMS8PIJVzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ascultaţi-mă, surori, pe mine,<br>
+<br>
+şi voi, fraţii mei, ce vă sfădiţi:<br>
+<br>
+E păcat, nu-i drept şi nu e bine<br>
+<br>
+Să vinzi casa care te-a-ncălzit.<br>
+<br>
+Bani ne-ar trebui la fiecare,<br>
+<br>
+Toţi avem copii şi vremea-i grea.<br>
+<br>
+însă cum să vinzi fereastră oare,<br>
+<br>
+Cea la care maica te-aştepta?!<br>
+<br>
+Casa părintească nu se vinde,<br>
+<br>
+Nu se vinde tot ce este sfânt.<br>
+<br>
+Din atâtea lucruri dragi şi sfinte<br>
+<br>
+Ochii mamei încă ne privesc.<br>
+<br>
+O vom da şi vor schimba lăcata<br>
+<br>
+şi vor pune şi ferestre noi.<br>
+<br>
+şi trecând pe lângă ea vreodată,<br>
+<br>
+Va privi că la străini la noi.<br>
+<br>
+Casa părintească nu se vinde,<br>
+<br>
+Nu se vinde tot ce este sfânt.<br>
+<br>
+Din atâtea lucruri dragi şi sfinte<br>
+<br>
+Ochii mamei încă ne privesc.<br>
+<br>
+Vom pleca şi noi candva din viaţă<br>
+<br>
+şi părinţii sus ne-or întreba<br>
+<br>
+Ce mai face casa lor cea dragă,<br>
+<br>
+Cine are grijă azi de ea.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** casa, tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

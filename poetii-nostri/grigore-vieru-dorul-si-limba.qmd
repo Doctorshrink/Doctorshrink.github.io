@@ -1,0 +1,50 @@
+---
+title: "Dorul și limba"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-23"
+categories: [poezie, spoken-word, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Yc8POapUtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cerul e țesut din stele,<br>
+<br>
+Luncile – din floricele,<br>
+<br>
+Numai dorul strămoșesc –<br>
+<br>
+Din cuvântul românesc.<br>
+<br>
+Din pământ izvorul iese,<br>
+<br>
+Grâul – din semințe dese,<br>
+<br>
+Numai dorul strămoșesc –<br>
+<br>
+Din cuvântul românesc.<br>
+<br>
+Razele ne vin din soare,<br>
+<br>
+Iar miresmele – din floare,<br>
+<br>
+Numai dorul strămoșesc –<br>
+<br>
+Din cuvântul românesc.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

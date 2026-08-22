@@ -1,0 +1,112 @@
+---
+title: "Despre fericire"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-23"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rmpAyWli4ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Sunt fericit<br>
+<br>
+Că n-am cântat păunii.<br>
+<br>
+Cântat-am mărul înflorit:<br>
+<br>
+Cel rușinându-se<br>
+<br>
+De trupul gol al Lunii,<br>
+<br>
+Izvorul care reînvață<br>
+<br>
+De unde vine,<br>
+<br>
+Când s-a fost născut<br>
+<br>
+Și malul sfredelit<br>
+<br>
+De țipătul durut<br>
+<br>
+Pe care-l dau lăstunii.<br>
+<br>
+Sunt fericit<br>
+<br>
+C-am plâns ori<br>
+<br>
+M-am bătut în vatră<br>
+<br>
+Cu hoarda<br>
+<br>
+Ploilor de piatră,<br>
+<br>
+C-am încălzit<br>
+<br>
+Cu sângele-mi rănit<br>
+<br>
+Pământul<br>
+<br>
+(Ori poate-mi încălzii<br>
+<br>
+Mormântul? !),<br>
+<br>
+C-am fost o trestie<br>
+<br>
+Cu-ndurerată pleoapă<br>
+<br>
+În aer jumătate<br>
+<br>
+Și jumătate-n apă.<br>
+<br>
+Sunt fericit<br>
+<br>
+C-aud cum sună-n față,<br>
+<br>
+Prea tainic și integru,<br>
+<br>
+Un cântec drag,<br>
+<br>
+Atât de cunoscut,<br>
+<br>
+Și că mă latră-n urmă<br>
+<br>
+Cu cerul gurii negru<br>
+<br>
+Prăpastia<br>
+<br>
+Pe care zburător<br>
+<br>
+O am trecut;<br>
+<br>
+Că nu aurul eu număr,<br>
+<br>
+Ci stelele din cer<br>
+<br>
+Și-n lacrima de lut -<br>
+<br>
+Străbunii.<br>
+<br>
+Erou nu sunt,<br>
+<br>
+Măriri nu cer,<br>
+<br>
+Sunt fericit<br>
+<br>
+Că n-am cântat păunii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,56 @@
+---
+title: "Din ceruri, de-aproape"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-23"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ivHntp9yHjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Mierea și ghimpii<br>
+<br>
+Pe frunte, ce dor.<br>
+<br>
+Cinstirea limbii<br>
+<br>
+În care ți-e dor.<br>
+<br>
+Pe-un picior de plai.<br>
+<br>
+Din ceruri, de-aproape,<br>
+<br>
+Din floarea de tei,<br>
+<br>
+Adun sub pleoape<br>
+<br>
+Cuvintele ei.<br>
+<br>
+Pe-un picior de plai.<br>
+<br>
+Iar două de-o samă.<br>
+<br>
+Cuvinte-n amurg<br>
+<br>
+(Iubită și mamă)<br>
+<br>
+Pe față îmi curg.<br>
+<br>
+Mioriță laie.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

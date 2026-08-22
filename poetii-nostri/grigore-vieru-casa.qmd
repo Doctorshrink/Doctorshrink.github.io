@@ -1,0 +1,88 @@
+---
+title: "Casa"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-23"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BGrKlZ9lNvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Oamenii la noi<br>
+<br>
+Primăvara<br>
+<br>
+Scot din malul Prutului<br>
+<br>
+Lut pentru casă:<br>
+<br>
+Îi scot pe străbunii noștri<br>
+<br>
+Prefăcuți în lut.<br>
+<br>
+Pe urmă,<br>
+<br>
+Frământă, dureros, lutul<br>
+<br>
+Până când<br>
+<br>
+Le sângerează picioarele<br>
+<br>
+Apoi femeile pe horn<br>
+<br>
+Cocoși cu flori stilizate,<br>
+<br>
+Bărbații sparg podul<br>
+<br>
+Să treacă lumina electrică,<br>
+<br>
+Bătrânii se încălzesc<br>
+<br>
+Cu spatele la sobă,<br>
+<br>
+Copiii zgârie obrazul pereților<br>
+<br>
+Și fac pipi pe fața casei.<br>
+<br>
+Iar lutul<br>
+<br>
+Scade tot mai mult,<br>
+<br>
+Și gropile acele, pe sub pământ,<br>
+<br>
+Înaintează tot mai mult<br>
+<br>
+Către sat.<br>
+<br>
+Și vine o vreme<br>
+<br>
+Când lumea se adună săpând<br>
+<br>
+Chiar sub casa ta.<br>
+<br>
+Atunci copiii tăi<br>
+<br>
+Scot din casa cea mare covorul<br>
+<br>
+Și se mută la marginine de sat<br>
+<br>
+Unde-și fac o<br>
+<br>
+Casă nouă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
