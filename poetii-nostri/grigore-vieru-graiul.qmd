@@ -1,0 +1,226 @@
+---
+title: "Graiul"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-24"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6b9XxJDetOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Tu mă întrebi copile,<br>
+<br>
+Ce-i cu graiul, al lui muma,<br>
+<br>
+Cu care intri-n casă<br>
+<br>
+Ori vara pleci la buna.<br>
+<br>
+Lemn dulce e! Lemn tare!<br>
+<br>
+Din el vioara-i scoasă<br>
+<br>
+Și leagănul, și pragul<br>
+<br>
+Și grinzile la casă.<br>
+<br>
+Păstrează-se pământul<br>
+<br>
+Pe verbele-i de stele.<br>
+<br>
+De-aceea cad eroii<br>
+<br>
+Cu pieptul spart pe ele.<br>
+<br>
+Și aerul e-n ele!<br>
+<br>
+De-aceea, până-asfinte,<br>
+<br>
+Poetul stă cu gura<br>
+<br>
+Lipită de cuvinte.<br>
+<br>
+Și pâinea, pâinea albă<br>
+<br>
+Din lutul lui răsare.<br>
+<br>
+De-aceea i se-nchină<br>
+<br>
+Bătrânii ca la soare.<br>
+<br>
+Putem întreg să-l punem<br>
+<br>
+Pe muzică, ah, prunce,<br>
+<br>
+Ori muzica pe dânsul<br>
+<br>
+Așa-i de clar și dulce!<br>
+<br>
+E piatră cu semințe<br>
+<br>
+De aur cald în miezu-i.<br>
+<br>
+E cremene fierbinte<br>
+<br>
+Ce scapără de-o-nghesui.<br>
+<br>
+Nu-s văi în floare fără<br>
+<br>
+Cuvânt,  nici albe creste.<br>
+<br>
+Și-un steag ce nu cuvântă<br>
+<br>
+O apă moartă este.<br>
+<br>
+Un grai e când din vale,<br>
+<br>
+Pe-a văzduhului unde,<br>
+<br>
+Ecoul te întreabă<br>
+<br>
+Iar gura ta răspunde.<br>
+<br>
+Un grai cu tot ce are<br>
+<br>
+Mai mult decât priință-i.<br>
+<br>
+Când uit un verb, eu parcă<br>
+<br>
+Nu mi-aș vedea părinții.<br>
+<br>
+Sau mi-aș uita bunicii.<br>
+<br>
+Să nu uităm, copile,<br>
+<br>
+Pe-acei ce azi sub țară<br>
+<br>
+Sunt iarbă și zambile.<br>
+<br>
+Ei dintr-o zi în alta,<br>
+<br>
+Cu sapa și mălaiul,<br>
+<br>
+Mutându-se ca oameni<br>
+<br>
+Luau cu ei și graiul.<br>
+<br>
+Și graiul! Ah, te uită:<br>
+<br>
+Pe apa lui cea caldă<br>
+<br>
+Manole se apleacă,<br>
+<br>
+Luceafărul se scaldă.<br>
+<br>
+De veacuri crește-mi-se,<br>
+<br>
+Plivește-se și-adună,<br>
+<br>
+Ca azi s-avem această<br>
+<br>
+Avere, cea mai bună.<br>
+<br>
+Nu este, nu, mai mare<br>
+<br>
+Decât alt grai de frate,<br>
+<br>
+Nimic nu e mai mare<br>
+<br>
+Din câte-s jos lăsate.<br>
+<br>
+Chiar cerul! Boltă albă<br>
+<br>
+Măreț desfășurată<br>
+<br>
+E-n palma nesfârșirii<br>
+<br>
+Un bulgăr de zâpadă.<br>
+<br>
+Un grai e un strop de sunet<br>
+<br>
+Topit ca într-o mare<br>
+<br>
+În zvonul veșniciei,<br>
+<br>
+În muzica cea mare.<br>
+<br>
+Ci în cuprinsu-i rodnic,<br>
+<br>
+Cu cele vechi și nouă,<br>
+<br>
+Noi încăpem cu toții<br>
+<br>
+Și nu ți-e frig când plouă.<br>
+<br>
+Mă-trebi de unde vine<br>
+<br>
+Cu spicul lui și apa<br>
+<br>
+Arzându-mi, umezându-mi<br>
+<br>
+Și fruntea și pleoapa?!<br>
+<br>
+Din munții omeniei,<br>
+<br>
+De-acolo curge râul!<br>
+<br>
+Și nu-i cântar să poată<br>
+<br>
+Să-i cântărească grâul!<br>
+<br>
+Și iarăși zic: comoara-i<br>
+<br>
+Nu ni s-a dat de-a gata.<br>
+<br>
+Ce încă să mai spună<br>
+<br>
+Mirării tale tata?!<br>
+<br>
+C-o slovă fără seamăn<br>
+<br>
+Nu i-am sporit frumosul.<br>
+<br>
+Dar cred că nici rănit-am<br>
+<br>
+Simțirea lui și osul.<br>
+<br>
+Și sunt slăvit: prin ziua<br>
+<br>
+Cea dulce datu-mi-sa<br>
+<br>
+De-a vețui în graiul<br>
+<br>
+Ce-l spune Miorița!<br>
+<br>
+Mai bun noroc și-avere<br>
+<br>
+Mai mare eu nu am<br>
+<br>
+Decât în suflet graiul<br>
+<br>
+Acestu-i pașnic neam.<br>
+<br>
+Primește-l sfânt, copile,<br>
+<br>
+Căci el ți-e moștenirea.<br>
+<br>
+Și sapă-l pân-la lacrimi<br>
+<br>
+Păzindu-i strălucirea.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

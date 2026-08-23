@@ -1,0 +1,58 @@
+---
+title: "Graiul meu"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-24"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b8nx_pHCcpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Drag îmi este graiul<br>
+<br>
+Ca un cer cu stele,<br>
+<br>
+Vorbe mângâioase:<br>
+<br>
+Neamuri ale mele.<br>
+<br>
+Graiul meu, graiul meu,<br>
+<br>
+Ca un cer cu stele,<br>
+<br>
+Graiul meu, graiul meu,<br>
+<br>
+Neamuri ale mele!<br>
+<br>
+Ia vezi tu ce sunet,<br>
+<br>
+Ce mireasmă are!<br>
+<br>
+Parcă-nfloare teiul,<br>
+<br>
+Parcă trec izvoare!<br>
+<br>
+Graiul meu, graiul meu,<br>
+<br>
+Ce mireasmă are!<br>
+<br>
+Graiul meu, graiul meu,<br>
+<br>
+Parcă trec izvoare!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

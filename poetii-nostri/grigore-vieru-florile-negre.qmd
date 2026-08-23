@@ -1,0 +1,102 @@
+---
+title: "Florile negre"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-24"
+categories: [poezie, spoken-word, flori]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/He2IBYAGIh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+(Colind nou)<br>
+<br>
+Lui Gheorghe Buzatu<br>
+<br>
+Năvăliseră cartuşe,<br>
+<br>
+Lerui, florile negre,<br>
+<br>
+Şi spuneau că mi-s mătuşe,<br>
+<br>
+Lerui, florile negre!<br>
+<br>
+Ne-au pus strajă la fereastră,<br>
+<br>
+Lerui, florile negre,<br>
+<br>
+Şi spuneau că-i sora noastră,<br>
+<br>
+Lerui, florile negre!<br>
+<br>
+Ne-au adus necurăţia,<br>
+<br>
+Lerui, florile negre,<br>
+<br>
+Dar ziceau că îi frăţia,<br>
+<br>
+Lerui, florile negre!<br>
+<br>
+Ne-aruncaseră în grotă,<br>
+<br>
+Lerui, florile negre.<br>
+<br>
+Dar ziceau că îi slobodă,<br>
+<br>
+Lerui, florile negre!<br>
+<br>
+Sârme mă tot înveliră,<br>
+<br>
+Lerui, florile negre,<br>
+<br>
+Mi le-aduseră ca liră,<br>
+<br>
+Lerui, florile negre!<br>
+<br>
+Ne pândiră Babe Cloanţe,<br>
+<br>
+Lerui, florile negre,<br>
+<br>
+Am mâncat carne de gloanţe,<br>
+<br>
+Lerui, florile negre!<br>
+<br>
+Băum apă numai tină,<br>
+<br>
+Lerui, florile negre,<br>
+<br>
+Ne-au scos Ţara din creştină,<br>
+<br>
+Lerui, florile negre!<br>
+<br>
+M-au spânzurat de cuvinte,<br>
+<br>
+Lerui, florile negre,<br>
+<br>
+Am murit în Trei Morminte,<br>
+<br>
+Lerui, florile negre!<br>
+<br>
+Ne uitară fraţi, tovarăşi,<br>
+<br>
+Lerui, florile negre.<br>
+<br>
+Înviat-am. Iar şi iarăşi!<br>
+<br>
+Lerui, florile negre!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** flori
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

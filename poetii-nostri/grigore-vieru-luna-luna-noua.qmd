@@ -1,0 +1,42 @@
+---
+title: "Lună, lună nouă!"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-24"
+categories: [poezie, spoken-word, luna_stele, noapte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a3T_q0xbQsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Lună, lună nouă!<br>
+<br>
+Uite flori cu rouă!<br>
+<br>
+Una, două, trei,<br>
+<br>
+Rupe câte vrei!<br>
+<br>
+Luna le miroase,<br>
+<br>
+Spune că-s frumoase!<br>
+<br>
+Ah, le-ar rupe ea –<br>
+<br>
+N-are cui le dă!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** luna_stele, noapte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

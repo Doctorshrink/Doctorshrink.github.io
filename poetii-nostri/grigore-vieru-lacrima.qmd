@@ -1,0 +1,74 @@
+---
+title: "Lacrima"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-24"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_zzmRbRCOdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Acest chip de zeu trist clar<br>
+<br>
+Lacrima<br>
+<br>
+Acest greier de cleştar<br>
+<br>
+Lacrima<br>
+<br>
+Acest creier gânditor<br>
+<br>
+Lacrima<br>
+<br>
+Acest Soare arzător<br>
+<br>
+Lacrima<br>
+<br>
+Acest lanţ crescut în os<br>
+<br>
+Lacrima<br>
+<br>
+Acest glonte mânios<br>
+<br>
+Lacrima<br>
+<br>
+Acest iepure ah plâns<br>
+<br>
+Lacrima<br>
+<br>
+În a genei umbră-ascuns<br>
+<br>
+Lacrima<br>
+<br>
+Acest nu cu paloş lat<br>
+<br>
+Lacrima<br>
+<br>
+Ci cu inima-mpărat<br>
+<br>
+Lacrima<br>
+<br>
+Acest deal de sare greu<br>
+<br>
+Lacrima<br>
+<br>
+Acest clopot acest zeu<br>
+<br>
+Lacrima.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
