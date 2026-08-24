@@ -1,0 +1,34 @@
+---
+title: "Tata, a treia variantă"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-25"
+categories: [poezie, spoken-word, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2hpWUmD9BDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+– Măi copile, nu eşti mic,<br>
+<br>
+Ţii de mână pe tătic.<br>
+<br>
+– Aşa-l ţin, nu că sunt mic,<br>
+<br>
+Dar mi-e drag al meu tătic.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

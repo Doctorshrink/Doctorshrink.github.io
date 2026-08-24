@@ -1,0 +1,60 @@
+---
+title: "Se încălzește cerul, mamă"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-25"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FEa57W1YYIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Se încălzește cerul, mamă,<br>
+<br>
+De la mâinile tale,<br>
+<br>
+Se iluminează-n adânc,<br>
+<br>
+Își liniștește<br>
+<br>
+Nemărginirea.<br>
+<br>
+Iată o stea<br>
+<br>
+S-a desprins de vecie<br>
+<br>
+Topindu-și făptura-n neant.<br>
+<br>
+Dar nu de stele<br>
+<br>
+Se pustiește cerul,<br>
+<br>
+Ci de mâinile tale<br>
+<br>
+Căzând spre pământ.<br>
+<br>
+Nimic, ah, mai îndepărtat<br>
+<br>
+Ca cerul,<br>
+<br>
+Ca adâncul de sus,<br>
+<br>
+Fără de mâinile tale,<br>
+<br>
+Mamă!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

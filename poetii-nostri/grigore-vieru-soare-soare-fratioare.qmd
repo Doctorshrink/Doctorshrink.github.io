@@ -1,0 +1,42 @@
+---
+title: "Soare-soare, frăţioare!"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-25"
+categories: [poezie, spoken-word, frate, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cU5XQ6qbtoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Soare, soare, frăţioare,<br>
+<br>
+Hai dă drumul la izvoare,<br>
+<br>
+Scoate iarba din ţărână<br>
+<br>
+Spune păsării să vin!<br>
+<br>
+– Pe izvor l-am slobozit,<br>
+<br>
+Pe ogor l-am înverzit,<br>
+<br>
+Păsărele vin zglobii…<br>
+<br>
+Ce porunci mai am copii?!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** frate, soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,58 @@
+---
+title: "Pe drum alb, pe drum verde"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-25"
+categories: [poezie, spoken-word, drum]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MrRyAAsEJxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pe drum alb, înzăpezit,<br>
+<br>
+Pleacă mama.<br>
+<br>
+Pe drum verde, înverzit,<br>
+<br>
+Vine draga.<br>
+<br>
+S-o petrec pe cea plecând<br>
+<br>
+Pe drum alb?!<br>
+<br>
+S-o-ntâlnesc pe cea venind<br>
+<br>
+Pe drum verde?!<br>
+<br>
+Doua drumuri strâns, în tot, –<br>
+<br>
+Alb şi verde –<br>
+<br>
+Umpleţi-le-aş şi nu pot.<br>
+<br>
+Cine poate?!<br>
+<br>
+Din inel, din flori de tei,<br>
+<br>
+Gălbioară,<br>
+<br>
+Se tot uită-n ochii mei<br>
+<br>
+Suferinţa.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

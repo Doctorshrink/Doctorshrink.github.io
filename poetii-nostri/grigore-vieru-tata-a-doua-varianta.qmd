@@ -1,0 +1,58 @@
+---
+title: "Tata, a doua variantă"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-25"
+categories: [poezie, spoken-word, flori, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BcYi3wL3Pkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Masa este gata<br>
+<br>
+Florile, florile,<br>
+<br>
+A venit şi tata<br>
+<br>
+Florile, florile.<br>
+<br>
+Mama este bucuroasă<br>
+<br>
+Florile, florile,<br>
+<br>
+Că suntem cu toţi acasă.<br>
+<br>
+Florile, florile.<br>
+<br>
+Cuţu pe la poartă,<br>
+<br>
+Florile, florile,<br>
+<br>
+La nimeni nu latră,<br>
+<br>
+Florile, florile!<br>
+<br>
+Cuţu ştie foarte bine,<br>
+<br>
+Florile, florile,<br>
+<br>
+Că e tata lângă mine,<br>
+<br>
+Florile, florile!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** flori, tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
