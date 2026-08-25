@@ -1,0 +1,70 @@
+---
+title: "Dacă-ti compar icoana cu stelele și luna..."
+subtitle: "Hafez"
+author: "Doctor Shrink"
+date: "2026-08-26"
+categories: [poezie, spoken-word, luna_stele, noapte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5rcuYoC9s0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dacă-ti compar icoana cu stelele și luna,<br>
+<br>
+e doar ghicind, căci chipul ascuns ți-e-ntotdeauna.<br>
+<br>
+A lui Șirin și Farhad legendă a Iubirii,<br>
+<br>
+asemeni cu a noastră, menită-i nemuririi.<br>
+<br>
+Pe unde-și au sălașul frumoaselor ce țin<br>
+<br>
+în grele lanțuri inimi, e-un praf pe stradă fin,<br>
+<br>
+în care-ndrăgostiții aflară-un duh de crin,-<br>
+<br>
+parfum al încântării, dar și-al înțelepciunii.<br>
+<br>
+Ah ! însetați, amanții, cât sufăr, bieții, unii,<br>
+<br>
+la fel cum și eu sufăr ca un pământ uscat,<br>
+<br>
+cerșind un strop de rouă din cupa ta de jad.<br>
+<br>
+Ci cupa de argilă, nu mi-o disprețui,<br>
+<br>
+căci ea secrete multe îmi va destăinui.<br>
+<br>
+A vrăjilor știință, magia cea făloasă<br>
+<br>
+puteri nu au ca ochii și păruți de mătasă.<br>
+<br>
+îmi datorezi săruturi. Mă-amâni și mă tot minți.<br>
+<br>
+Vreau plata cuvenită pe buzele-ți fierbinți.<br>
+<br>
+Cu focul lor obrajii iubitei mistuiesc<br>
+<br>
+întreaga-nțelepciune-mi și orice jurământ.<br>
+<br>
+Poemele lui Hafiz, Regină, te slăvesc,<br>
+<br>
+și toți cei ce ne-ascultă înalță-același cânt.<br>
+<br>
+Divanul
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Hafez
+* **Temă:** luna_stele, noapte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,64 @@
+---
+title: "Iubirea dragei face mai mult decât vecia"
+subtitle: "Hafez"
+author: "Doctor Shrink"
+date: "2026-08-26"
+categories: [poezie, spoken-word, iubire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BkCXUVpW8og" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Iubirea Dragei face mai mult decât vecia.<br>
+<br>
+Îndură-te, Stăpâne, și iartă-mi bucuria!<br>
+<br>
+M-a sugrumat iubita, dar nimănui n-am spus.<br>
+<br>
+Secretul Dragei mele de răi să stea ascuns.<br>
+<br>
+O, inimă, pe strada Iubitei-om locui,<br>
+<br>
+și astfel mai statornic norocul meu va fi.<br>
+<br>
+De Rai și-a sale fructe, eu n-am voit să știu,<br>
+<br>
+căci pe obrazu-ți fraged sorb fructul auriu.<br>
+<br>
+Decât imperiul lumii, mi-e nesfârșit de drag,<br>
+<br>
+umil și în sclavie să mor pe al tău parg.<br>
+<br>
+În loc de-a primăverii grădina nesfârșită,<br>
+<br>
+prefer pulberi de roză sub pașii săi strivită.<br>
+<br>
+În numele Tăriei, Iubito, dă-mi de știre,<br>
+<br>
+când oare-o să mă vindeci de lunga despărțire?<br>
+<br>
+Mi-ai spus: &#x27;&#x27;Această perlă urechea-mi luminând<br>
+<br>
+e-un mugure de raze nemaivăzut nicicând&#x27;&#x27;<br>
+<br>
+Cuvintele din gură iubitei-s prețioase.<br>
+<br>
+Dar vorbele lui Hafiz sunt cele mai frumoase.<br>
+<br>
+Divanul
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Hafez
+* **Temă:** iubire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,78 @@
+---
+title: "Tata"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-26"
+categories: [poezie, spoken-word, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GSQmyIeB3QM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Lui Gheorghe Banariuc şi Vadim Gheorghelas<br>
+<br>
+Tată, eu nu ştiu de ce<br>
+<br>
+Nu te-au pus în cântece<br>
+<br>
+Ca pe măiculiţă mea<br>
+<br>
+Care viaţă datu-mi-a.<br>
+<br>
+Tu că dânsa ne iubeşti<br>
+<br>
+Şi ca ea îmbătrâneşti,<br>
+<br>
+Tată.<br>
+<br>
+Rele-n viaţă sunt de-ajuns,<br>
+<br>
+Dacă plângi, tu plângi pe-ascuns.<br>
+<br>
+Mai iei câte-un păhăruţ,<br>
+<br>
+Dar nu uiţi să ne săruţi,<br>
+<br>
+Tată.<br>
+<br>
+La necaz şi bucurii<br>
+<br>
+Tu ai, tată, mulţi copii,<br>
+<br>
+Că şi mama-i pruncul tău,<br>
+<br>
+O fereşti de tot ce-i rău.<br>
+<br>
+Asta-i bogăţia ta Şi nu-ţi trebuie alta,<br>
+<br>
+Tată.<br>
+<br>
+Nu ne spui vorbe de dor,<br>
+<br>
+Dar ades în locul lor<br>
+<br>
+Mâna tu pe cap ne-o pui<br>
+<br>
+Şi mai dragă vorbă nu-i.<br>
+<br>
+Mai mult taci decât vorbeşti,<br>
+<br>
+Dar noi ştim că ne iubeşti,<br>
+<br>
+Tată.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,46 @@
+---
+title: "De chinu-absenței cruță-i pe alții"
+subtitle: "Hafez"
+author: "Doctor Shrink"
+date: "2026-08-26"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epdhwEXVXEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+De chinu-absenței cruță-i pe alții, Domn al firii !<br>
+<br>
+Mi-am petrecut viața în jalea despărțirii.<br>
+<br>
+Străin în a mea țară, sărac și-ngândurat,<br>
+<br>
+trăiesc în deznadejde și-n brațele mâhnirii.<br>
+<br>
+Unde sa merg ? Povestea cea crudă-a inimii<br>
+<br>
+cui pot s-o spun ? dreptate nu este-n legea Firii ?<br>
+<br>
+De unde-mi vine-atâta durere ? Fui născut<br>
+<br>
+să-ndur mereu exilul din Patria Iubirii ?<br>
+<br>
+De mine-nduioșată, de jalea pătimirii,<br>
+<br>
+plângând, privighetoarea raspunse tânguirii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Hafez
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

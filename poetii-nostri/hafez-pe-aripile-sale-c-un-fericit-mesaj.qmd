@@ -1,0 +1,64 @@
+---
+title: "Pe aripile sale c-un fericit mesaj"
+subtitle: "Hafez"
+author: "Doctor Shrink"
+date: "2026-08-26"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KvDw9zI9niY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pe aripile sale c-un fericit mesaj<br>
+<br>
+în zori se-ntoarse briza din plaiuri de miraj,<br>
+<br>
+cu Saba-nvecinate. Sa cânți, privighetoare,<br>
+<br>
+mult timp în viersu-ți dulce, având asemănare<br>
+<br>
+cu-al lui David cântare, căci astăzi trandafirul<br>
+<br>
+- lui Solomon rivalul, se-ntoarse cu zefirul.<br>
+<br>
+Lalelele descopăr în briza dimineții<br>
+<br>
+miresmi de vin, și-n ele și elexirul vieții.<br>
+<br>
+Cine-nțelege crinii și limba lor divină,<br>
+<br>
+ca să-i intrebe: &#x27;&#x27;Draga de unde-o să revina?&#x27;&#x27;<br>
+<br>
+Privisem plin de lacrimi cum caravana pleacă,<br>
+<br>
+Și-am plâns până în ziua când ora mea săracă<br>
+<br>
+s-a-mbogățit cu clinchet voios de clopoței,<br>
+<br>
+vestind că vin cămile purtând povara ei.<br>
+<br>
+M-a copleșit cu șansă Cel Veșnic, care iartă,<br>
+<br>
+și mi-a redat ăst idol cu inimă de piatră.<br>
+<br>
+Ți-ai frânt credința, Hafiz. Deschis-ai poarta mare<br>
+<br>
+pacatului. Dar, iată, că domnului milă are:<br>
+<br>
+Iubita se întoarce cu gând de împăcare.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Hafez
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,58 @@
+---
+title: "Vreau să plouă…"
+subtitle: "Grigore Vieru"
+author: "Doctor Shrink"
+date: "2026-08-26"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2v8HrjtBmWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vreau să plouă roşu,<br>
+<br>
+Vreau să plouă galben,<br>
+<br>
+Vreau să plouă-albastru,<br>
+<br>
+Vreau să plouă verde.<br>
+<br>
+Dar nu plouă roşu,<br>
+<br>
+Dar nu plouă galben,<br>
+<br>
+Dar nu plouă-albastru,<br>
+<br>
+Dar nu plouă verde.<br>
+<br>
+Voi zbura la cer eu,<br>
+<br>
+L-oi boi în roşu,<br>
+<br>
+L-oi boi în galben,<br>
+<br>
+Şi-n albastru, verde.<br>
+<br>
+Şi-o să plouă roşu,<br>
+<br>
+Şi-o să plouă galben,<br>
+<br>
+Şi-o să plouă-albastru,<br>
+<br>
+Şi-o să plouă verde.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Grigore Vieru
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
