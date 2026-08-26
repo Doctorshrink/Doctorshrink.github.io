@@ -1,0 +1,56 @@
+---
+title: "Priveam azuru-asemeni cu-o nesfârșită glie..."
+subtitle: "Hafez"
+author: "Doctor Shrink"
+date: "2026-08-27"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5PeGx27376Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Priveam azuru-asemeni cu-o nesfârșită glie<br>
+<br>
+și luna nouă-asemeni cu-o seceră-argintie.<br>
+<br>
+Și-atuncea sub albastrul al lumii-acoperiș,<br>
+<br>
+gândit-am la recoltă, gândii la seceriș.<br>
+<br>
+Strigai: &#x27;&#x27;Tu dormi, Ursită, iar soarele-i pe cer !&#x27;&#x27;<br>
+<br>
+Și mi-ai răspuns Ursita : &#x27;&#x27;Oricum, să nu disperi !<br>
+<br>
+Chiar dacă-n ceruri, poate, tu gol vei reveni,<br>
+<br>
+cum te-ai născut - și totuși, și-atunci vei străluci.<br>
+<br>
+Să nu te-ncrezi în stele, că-s hoațe ale nopții.<br>
+<br>
+Ele-au furat corona lui Klaus&#x27;&#x27; - Greul sorții,<br>
+<br>
+o, Cerule, ne-apasă prea mult pentru-a ne da<br>
+<br>
+o zi de fericire, o zi din slava ta.<br>
+<br>
+Tu porți rubin și aur, dar frumusețea-n lume<br>
+<br>
+decât orice podoabă mai repede apune.<br>
+<br>
+Divanul
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Hafez
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
