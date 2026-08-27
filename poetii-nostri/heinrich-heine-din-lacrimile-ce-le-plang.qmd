@@ -1,0 +1,42 @@
+---
+title: "Din lacrimile ce le plâng"
+subtitle: "Heinrich Heine"
+author: "Doctor Shrink"
+date: "2026-08-28"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MMf1B8o4BXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Din lacrimile ce le plâng<br>
+<br>
+Răsar înfloritoare flori,<br>
+<br>
+Și suspinările-mi se strâng<br>
+<br>
+În coruri de privighetori.<br>
+<br>
+Și ale tale-or fi de-i vrea,<br>
+<br>
+Copilă, toate florile<br>
+<br>
+Și toată noaptea ți-or cânta<br>
+<br>
+La geam privighetorile
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Heinrich Heine
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

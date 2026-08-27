@@ -1,0 +1,42 @@
+---
+title: "Cum pe valurile mării"
+subtitle: "Heinrich Heine"
+author: "Doctor Shrink"
+date: "2026-08-28"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7mABRoDIG-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cum pe valurile mării<br>
+<br>
+Tremură icoana lunii<br>
+<br>
+Când pe cer ea lin se plimbă<br>
+<br>
+Peste clocotul furtunii, –<br>
+<br>
+Tot așa te plimbi, iubito,<br>
+<br>
+Singură. Tremurătoare-i<br>
+<br>
+Doar în inima mea, biata,<br>
+<br>
+Fața ta răscolitoare.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Heinrich Heine
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

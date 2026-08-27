@@ -1,0 +1,50 @@
+---
+title: "Am plans in somn, iubito"
+subtitle: "Heinrich Heine"
+author: "Doctor Shrink"
+date: "2026-08-28"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YxPgPztA5Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Am plans in somn, iubito,<br>
+<br>
+Visam c-ai fi murit<br>
+<br>
+Si chiar dupa trezire<br>
+<br>
+Plansei necontenit.<br>
+<br>
+Am plans in somn, iubito,<br>
+<br>
+Visam ca m-ai lasat<br>
+<br>
+Si chiar dupa trezire<br>
+<br>
+Plansei nemangaiat.<br>
+<br>
+Am plans in somn, iubito,<br>
+<br>
+Visam ce drag ti-s eu<br>
+<br>
+Si chiar dupa trezire<br>
+<br>
+Amarnic plang mereu.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Heinrich Heine
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

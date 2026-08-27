@@ -1,0 +1,50 @@
+---
+title: "Stă-n tăcere țărmul mării"
+subtitle: "Heinrich Heine"
+author: "Doctor Shrink"
+date: "2026-08-28"
+categories: [poezie, spoken-word, mare, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-cqelcEOY6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Stă-n tăcere țărmul mării<br>
+<br>
+Și se lasă-adânca noapte.<br>
+<br>
+Luna iese dintre nouri,<br>
+<br>
+Vânturile-și spun în șoapte:<br>
+<br>
+„E hai-hui bărbatu-acela?<br>
+<br>
+Sau e-ndrăgostit de-o fată?<br>
+<br>
+Ba e trist și ba e vesel,<br>
+<br>
+Trist și vesel totodată.”<br>
+<br>
+Râde luna. După-aceea<br>
+<br>
+Cu glas tare se socoate:<br>
+<br>
+„E hai-hui și-ndrăgostit e,<br>
+<br>
+Și-i poet pe lângă toate.”
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Heinrich Heine
+* **Temă:** mare, singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

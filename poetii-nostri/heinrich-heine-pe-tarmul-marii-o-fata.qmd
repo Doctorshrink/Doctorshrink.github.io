@@ -1,0 +1,42 @@
+---
+title: "Pe țărmul mării-o fată"
+subtitle: "Heinrich Heine"
+author: "Doctor Shrink"
+date: "2026-08-28"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MZKwPbbBQlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pe țărmul mării-o fată<br>
+<br>
+Ofta cu foc nespus.<br>
+<br>
+Era adânc mișcată<br>
+<br>
+De soarele-n apus.<br>
+<br>
+Duduie, hai, zâmbește,<br>
+<br>
+Că gluma s-a-nvechit:<br>
+<br>
+În față-ți asfințește<br>
+<br>
+În spate-a răsărit.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Heinrich Heine
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
