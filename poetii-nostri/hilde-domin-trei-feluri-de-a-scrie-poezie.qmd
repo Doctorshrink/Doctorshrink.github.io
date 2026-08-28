@@ -1,0 +1,146 @@
+---
+title: "Trei feluri de a scrie poezie"
+subtitle: "Hilde Domin"
+author: "Doctor Shrink"
+date: "2026-08-29"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jR2kjUU5eR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+1<br>
+<br>
+Un vad uscat de fluviu,<br>
+<br>
+un rând de pietre albe<br>
+<br>
+văzute de departe<br>
+<br>
+aici doresc să scriu<br>
+<br>
+cu litere clare<br>
+<br>
+sau pe o haldă de moloz,<br>
+<br>
+de prundiș,<br>
+<br>
+prundișul alunecându-mi pe sub rânduri<br>
+<br>
+prăvălindu-se<br>
+<br>
+pentru ca delicata viață a cuvintelor mele<br>
+<br>
+totuși<br>
+<br>
+să fie un Tot al literelor.<br>
+<br>
+2<br>
+<br>
+Litere mici<br>
+<br>
+exacte<br>
+<br>
+pentru ca cuvintele să vină cu pas ușor<br>
+<br>
+pentru ca cuvintele să se strecoare încet<br>
+<br>
+pentru a merge înspre acolo,<br>
+<br>
+înspre cuvinte,<br>
+<br>
+pentru a căuta pe hârtia<br>
+<br>
+albă<br>
+<br>
+cu pas ușor<br>
+<br>
+penetrarea semnelor,<br>
+<br>
+prin pori<br>
+<br>
+sudoarea ce curge spre interior<br>
+<br>
+Frica<br>
+<br>
+mea<br>
+<br>
+a noastră<br>
+<br>
+și totuși cea a fiecărei litere<br>
+<br>
+3<br>
+<br>
+Doresc o bucată de hârtie<br>
+<br>
+la fel de mare ca și mine<br>
+<br>
+un metru și șaizeci,<br>
+<br>
+pe ea o poezie<br>
+<br>
+care zbiară<br>
+<br>
+deîndată ce trece unul<br>
+<br>
+care urlă cu litere negre<br>
+<br>
+cerând ceva imposibil,<br>
+<br>
+de exemplu curaj civic<br>
+<br>
+acest curaj ce nu-l are nici un animal,<br>
+<br>
+solidaritate în loc de turmă<br>
+<br>
+Cuvinte-Străine<br>
+<br>
+Familiare fac în Facere<br>
+<br>
+prefacerea<br>
+<br>
+omul<br>
+<br>
+ce posedă curajul civic<br>
+<br>
+omul<br>
+<br>
+animal ce cunoaște cu durere<br>
+<br>
+omul Animal-Cuvânt-Străin<br>
+<br>
+Cuvânt-Animal<br>
+<br>
+animal<br>
+<br>
+care scrie poezii<br>
+<br>
+poezie<br>
+<br>
+care cere imposibilul<br>
+<br>
+de la fiecare trecător<br>
+<br>
+urgent<br>
+<br>
+irefutabil<br>
+<br>
+de parcă ar striga<br>
+<br>
+Bea Coca-Cola
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Hilde Domin
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

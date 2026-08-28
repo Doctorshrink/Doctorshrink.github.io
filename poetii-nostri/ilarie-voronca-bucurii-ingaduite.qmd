@@ -1,0 +1,48 @@
+---
+title: "Bucurii îngăduite"
+subtitle: "Ilarie Voronca"
+author: "Doctor Shrink"
+date: "2026-08-29"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CUjhJZdv4B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cum se bucură de eleganţa trestiilor, raţele sălbatice,<br>
+<br>
+păpurişul destramă un cântec pe panglica nemişcării<br>
+<br>
+în ierburi alunecă tăciunii din privirea vulpilor<br>
+<br>
+bursucii se leagănă în adiere cu arbuştii<br>
+<br>
+pitpalacii împletesc un şal din lumina sunetului,<br>
+<br>
+caprele negre fac alpinism,<br>
+<br>
+oglindesc înalţimile,<br>
+<br>
+ploaia dăruie scoarţe olteneşti pământului,<br>
+<br>
+şi plugurile fac dragoste cu ţărâna, o sărută, o muşcă,<br>
+<br>
+iepurii se pitesc la marginea zilei ca dovlecii,<br>
+<br>
+soarele dă mălai vrăbiilor e o bucurie în argint a vocilor.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ilarie Voronca
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

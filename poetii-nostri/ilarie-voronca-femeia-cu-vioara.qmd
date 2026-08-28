@@ -1,0 +1,74 @@
+---
+title: "Femeia cu vioara"
+subtitle: "Ilarie Voronca"
+author: "Doctor Shrink"
+date: "2026-08-29"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fyEFoUTtgwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O femeie a cărei siluetă<br>
+<br>
+Seamănă cu aceea a corpului tău<br>
+<br>
+Cânta la vioară cu o mână secretă<br>
+<br>
+În camera unde adorm.<br>
+<br>
+Nu-i văd chipul<br>
+<br>
+Ea cântă cu spatele spre mine<br>
+<br>
+Un cântec teribil, un cântec de înger<br>
+<br>
+Și camera are ceva de mormânt.<br>
+<br>
+Respirația mea e tăiată de spaimă<br>
+<br>
+Ah! Numai să nu fii tu<br>
+<br>
+Și implor femeia „Nu-ți întoarce fața”<br>
+<br>
+Arcușul tremură între degetele ei.<br>
+<br>
+Numele tale dulci urcă spre buzele mele<br>
+<br>
+Acele pe care numai eu le cunosc. Dar trebuie<br>
+<br>
+Să refuzi a le spune în visul acesta<br>
+<br>
+Unde se ascunde lupul cu un nume fals.<br>
+<br>
+Astfel femeia se ține în umbră<br>
+<br>
+Cu vioara ei fatală<br>
+<br>
+Și evit cuvintele, numerele<br>
+<br>
+Care ar putea să evoce numele tău.<br>
+<br>
+Ah! Toate țipetele sufletului meu<br>
+<br>
+Trebuie să-mi moară între dinți<br>
+<br>
+Nu voi chema niciodată pe această femeie<br>
+<br>
+Care seamănă cu tine pe care te iubesc atâta.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ilarie Voronca
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

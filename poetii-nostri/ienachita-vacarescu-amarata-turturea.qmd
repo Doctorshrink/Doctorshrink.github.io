@@ -1,0 +1,66 @@
+---
+title: "Amărâtă turturea"
+subtitle: "Ienăchită Văcărescu"
+author: "Doctor Shrink"
+date: "2026-08-29"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hUnkOEBWo6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Amărâtă turturea<br>
+Când remâne singurea,<br>
+Căci soţia şi-a repus,<br>
+Jalea ei nu e de spus.<br>
+<br>
+Cât trăieşte, tot jăleşte,<br>
+Şi nu se mai însoţeşte,<br>
+Trece prin flori, prin livede,<br>
+Nu să uită, nici nu vede.<br>
+<br>
+Trece prin pădurea verde<br>
+Şi să duce, de se pierde;<br>
+Zboară, până de tot cade,<br>
+Dar pre lemn verde nu şade.<br>
+<br>
+Şi când şade câteodată<br>
+Tot pre ramura uscată;<br>
+Umblă prin dumbrava-adâncă,<br>
+Nici nu bea, nici nu mănâncă.<br>
+<br>
+Unde vede apă rece,<br>
+Ea o turbură şi trece;<br>
+Unde e apa mai rea,<br>
+O mai turbură şi bea.<br>
+<br>
+Unde vede vânătorul,<br>
+Acolo o duce dorul,<br>
+Ca s-o vază, s-o lovească,<br>
+Să nu se mai pedepsească.<br>
+<br>
+Când o biată păsărică<br>
+Atât inima îşi strică,<br>
+Încât doreşte să moară<br>
+Pentru a sa soţioară,<br>
+<br>
+Dar eu om de-naltă fire<br>
+Decât ea mai cu simţire,<br>
+Cum poate să-mi fie bine?<br>
+Oh! amar şi vai de mine!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ienăchită Văcărescu
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

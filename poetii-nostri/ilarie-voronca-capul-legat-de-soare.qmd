@@ -1,0 +1,106 @@
+---
+title: "Capul legat de soare"
+subtitle: "Ilarie Voronca"
+author: "Doctor Shrink"
+date: "2026-08-29"
+categories: [poezie, spoken-word, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f4QT14Lapeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dar am râs atât de luminos între hamurile iernei,<br>
+<br>
+Cuvintele trezite pe gingiile zăpezii,<br>
+<br>
+Și umbra între cristale ca o rufă înghețată,<br>
+<br>
+Până ce capul în aerul greu îl legi puternic de soare.<br>
+<br>
+O! Flacăra rece în mâini ca un bulgăre de zăpadă,<br>
+<br>
+Și-un viitor văratec în strălucirea surprinsă,<br>
+<br>
+Așa focul se dezbracă de flacără ca de-o păstaie<br>
+<br>
+Și rămâne numai, mazăre, cenușa tulbure dintr-o după-amiază.<br>
+<br>
+Și când te desfaci din străzile atârnând pe umerii tăi<br>
+<br>
+Ca niște serpentine după ce părăsești orașul ca o sală de bal,<br>
+<br>
+Și-ajungi între patlagini prin febra aeriană,<br>
+<br>
+O auroră încearcă râsul din clapele fântânii.<br>
+<br>
+Nu-ți mai întorci fața ca un crepuscul prin coline,<br>
+<br>
+Cu ziua spartă lacăt la porțile grădinii,<br>
+<br>
+Atâția ochi smulși din țărână o dată cu tulpinile,<br>
+<br>
+Și dimineața - clește scoate cuiele stelelor.<br>
+<br>
+Tot timpul capul e legat, cu panglici, de soare,<br>
+<br>
+Fructul tăiat în două de o căldură liberă,<br>
+<br>
+Și după aceea capul rămâne îmbibat de lumină<br>
+<br>
+Cum și apele și aerul păstrează ceva din lumina apusă.<br>
+<br>
+Singurătăți, voi, mânați mai departe cirezile de flăcări,<br>
+<br>
+Și focul poposește în orișice colibă,<br>
+<br>
+Cuvântul pe care-l duci la ureche atent ca pe-un ceasornic,<br>
+<br>
+Cuvântul de iubire scoborând de pe culmi ca un cioban.<br>
+<br>
+Duceți-mă și pe mine la vale turme miraculoase,<br>
+<br>
+Prin evocări și sete litera presimțită,<br>
+<br>
+Vedeți, departe e umbra care râcâie pământul,<br>
+<br>
+Voind să tragă după dânsa trupul însuși ca pe-o umbră.<br>
+<br>
+Lângă iarna care s-a oprit limpede în mine,<br>
+<br>
+Cum îngheață în țevi pumnalele de apă,<br>
+<br>
+Și capul va rămâne încă încleștat în soare<br>
+<br>
+Ca o rădăcină pe care furtuna n-a putut-o smulge.<br>
+<br>
+Sau lângă tăcerea, creangă sfărâmată sub talpă,<br>
+<br>
+Când iarna capătă tonuri din alte anotimpuri,<br>
+<br>
+Ca un flaut în care distingi un glas de femeie,<br>
+<br>
+Și ochiul e plin de un reflex al nopții,<br>
+<br>
+Dar capul va rămâne încă legat de soare,<br>
+<br>
+Până ce craniul va fi în rocă zăcământul de radium,<br>
+<br>
+Până ce poemele ca niște vase comunicante,<br>
+<br>
+Se vor goli de toată lumina hohotind în iarnă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ilarie Voronca
+* **Temă:** soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

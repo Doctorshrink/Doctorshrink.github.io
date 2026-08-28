@@ -1,0 +1,134 @@
+---
+title: "Construiește-mi o casă"
+subtitle: "Hilde Domin"
+author: "Doctor Shrink"
+date: "2026-08-29"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaNl5EteMsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vine vântul.<br>
+<br>
+Vântul care piaptănă florile<br>
+<br>
+și transformă florile în fluturi,<br>
+<br>
+porumbeii se ridică și lasă hârtia veche<br>
+<br>
+în prăpăstiile Manhattan-ului<br>
+<br>
+spre cer, până la etajul zece să se ridice,<br>
+<br>
+iar păsările migratoare se spulberă<br>
+<br>
+de pe turnuri zgârie-norilor.<br>
+<br>
+Vântul vine, vântul sărat<br>
+<br>
+care ne alungă peste mare<br>
+<br>
+și ne aruncă pe o plajă<br>
+<br>
+ca pe niște meduze,<br>
+<br>
+din nou aruncate la mal.<br>
+<br>
+Vântul vine.<br>
+<br>
+Ține-mă strâns.<br>
+<br>
+Oh, corpul meu luminos de nisip,<br>
+<br>
+format doar din eterna imagine<br>
+<br>
+de nisip.<br>
+<br>
+Vântul vine<br>
+<br>
+și ia un deget cu el<br>
+<br>
+apa vine<br>
+<br>
+și-mi riduri.<br>
+<br>
+Dar vântul<br>
+<br>
+eliberează inima<br>
+<br>
+- pasărea roșie ciripind<br>
+<br>
+în spatele coastelor -<br>
+<br>
+și-mi arde pielea inimii<br>
+<br>
+cu respirația-i ozonată.<br>
+<br>
+O, corpul meu de nisip!<br>
+<br>
+Ține-mă strâns,<br>
+<br>
+ține-mi<br>
+<br>
+corpul de nisip.<br>
+<br>
+Să mergem dinspre mal spre uscat<br>
+<br>
+unde micile ierburi ancorează pământul.<br>
+<br>
+Vreau un pământ solid,<br>
+<br>
+verde, înnodat în rădăcini<br>
+<br>
+ca un covor.<br>
+<br>
+Taie copacul,<br>
+<br>
+ia pietrele<br>
+<br>
+și construiește-mi o casă.<br>
+<br>
+O casă mică<br>
+<br>
+cu un perete alb<br>
+<br>
+pentru soarele de seară<br>
+<br>
+și o fântână pentru lună<br>
+<br>
+spre a se oglindi,<br>
+<br>
+ca să nu se piardă<br>
+<br>
+ca pe mare.<br>
+<br>
+O casă<br>
+<br>
+lângă un măr<br>
+<br>
+lângă care vântul<br>
+<br>
+trece<br>
+<br>
+ca un vânător a cărui vânat<br>
+<br>
+nouă<br>
+<br>
+ne aparține.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Hilde Domin
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
