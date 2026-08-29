@@ -1,0 +1,50 @@
+---
+title: "Căldurile verii s-au dus"
+subtitle: "Ileana Mălăncioiu"
+author: "Doctor Shrink"
+date: "2026-08-30"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VpXx_EvS4yc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Căldurile verii s-au dus, e tîrziu,<br>
+<br>
+Tu eşti mai departe de lumina aceea pură<br>
+<br>
+În care te-am văzut fără să fii,<br>
+<br>
+Eu simt mai mult nevoia de căldură.<br>
+<br>
+Dar totul începe să nu mai fie aşa cum era,<br>
+<br>
+Pămîntul pare trist şi-nsingurat,<br>
+<br>
+În prăpastie cad frunze şi oameni<br>
+<br>
+La care nici nu te-ai fi aşteptat.<br>
+<br>
+Pe muntele închis cu sîrmă e pustiu,<br>
+<br>
+Toamna e galbenă ca un obraz de ceară,<br>
+<br>
+Sufletul meu ar vrea sa fie îngropat<br>
+<br>
+Şi sa răsară iar la primăvară.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ileana Mălăncioiu
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

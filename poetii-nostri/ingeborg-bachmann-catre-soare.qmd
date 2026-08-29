@@ -1,0 +1,84 @@
+---
+title: "Către soare"
+subtitle: "Ingeborg Bachmann"
+author: "Doctor Shrink"
+date: "2026-08-30"
+categories: [poezie, spoken-word, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aAe4Dw7RH64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Mai frumos decât măreața lună și nobila ei lumină,<br>
+<br>
+Mai frumos decât stelele, vestitele ordine ale nopții,<br>
+<br>
+Mult mai frumos decât apariția de foc a unei comete<br>
+<br>
+Și pe departe mai frumoasă menire decât a oricărui alt astru,<br>
+<br>
+Fiindcă viața ta și a mea depind de el zi de zi, este soarele.<br>
+<br>
+Soare frumos, ce răsare și lucrarea nu și-a uitat-o<br>
+<br>
+Și o duce la capăt, cel mai frumos vara, când ziua<br>
+<br>
+Pe coastă se evaporă și oglindite sleitele-i pânze<br>
+<br>
+Peste ochiul tău le trage, când obosești și îl micșorează.<br>
+<br>
+Fără de soare însăși arta își pierde misterul,<br>
+<br>
+Tu nu-mi mai apari, iar marea și nisipul,<br>
+<br>
+Biciuite de umbre, sub pleoapa mea se retrag.<br>
+<br>
+Lumina frumoasa, ce ne ține de cald, ne păzește și minunat are grijă<br>
+<br>
+Ca din nou să văd și pe tine să te revăd!<br>
+<br>
+Nimic mai frumos sub soare decât sub soare să fii...<br>
+<br>
+Nimic mai frumos decât toiagul în apă să-l vezi și pasărea sus,<br>
+<br>
+Ce zborul își chibzuiește, și jos peștii în bancuri,<br>
+<br>
+Colorați, modelați, în lume veniți cu o solie de lumină,<br>
+<br>
+Și întinderea să o vezi, hatul unei câmpii, colturile mii ale țării mele<br>
+<br>
+Și rochia pe care ai îmbrăcat-o. Și rochia ta, rotund de clopot și albastră!<br>
+<br>
+Albastru frumos, în care se plimbă păunii și fac plecăciuni,<br>
+<br>
+Albastru al depărtărilor, al ținuturilor fericirii cu furtuni pentru simțirea mea,<br>
+<br>
+Albastru hazard la orizont! Și ochii mei fermecați<br>
+<br>
+Se lărgesc iar și clipesc și ard până la rană.<br>
+<br>
+Soare frumos, căruia încă de la firul de praf cea mai mare admirație i se cuvine,<br>
+<br>
+De aceea, nu din pricina lunii și a stelelor și nici<br>
+<br>
+Pentru că noaptea cu cometele se fălește în mine caută un nebun,<br>
+<br>
+Ci din pricina ta și în curând fără sfârșire și ca pentru nimic altceva<br>
+<br>
+Plângere voi depune pentru pierderea de neînlăturat a ochilor mei.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ingeborg Bachmann
+* **Temă:** soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,158 @@
+---
+title: "Nopțile trec"
+subtitle: "Ilarie Voronca"
+author: "Doctor Shrink"
+date: "2026-08-30"
+categories: [poezie, spoken-word, mare, noapte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v6S3fxbYQk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nopțile trec din mână în mână ca îmbrăcămintea bogatului<br>
+<br>
+Desfac cearceafuri peste oasele ghețarilor<br>
+<br>
+Șoldul colinelor primește lebăda umbrei<br>
+<br>
+Sălciile întind lacului o oglindă.<br>
+<br>
+Sălcii, voi aburiți aerul ca ferestrele transatlanticului<br>
+<br>
+Flăcări urcă din voi ca din urnele trecutului,<br>
+<br>
+Nuielele voastre au subțiat norii ca vocile,<br>
+<br>
+Au ars privirile în arșiță ca savanele.<br>
+<br>
+Haide, izbucniți cascade din pietrele liniștii,<br>
+<br>
+Revărsați-vă buchete de lacrimi peste întinderea somnului,<br>
+<br>
+Umerii cărbunarilor se macină în docuri<br>
+<br>
+De cărbune e sângele lor ca scorburile trăsnite<br>
+<br>
+Și șlepurile înghit cu sacii ultimele rămășițe ale surâsului<br>
+<br>
+Trupurile se veștejesc ca lămpile frunzelor,<br>
+<br>
+Lămpile clatină cheile apelor în salină<br>
+<br>
+Târnăcoapele taie în sare dantela zborului.<br>
+<br>
+Sare, sân de spumă, panoplie de zăpadă,<br>
+<br>
+Degetul tău ustură ca vântul stepelor,<br>
+<br>
+Sare, cum pui o panglică de sete gâtlejului,<br>
+<br>
+Brațele osândiților te flutură ca o maramă<br>
+<br>
+Colivii, bulgării tăi au închis mierla gemetelor,<br>
+<br>
+Și fumul amarului tău nu răzbate prin veselia ospețelor<br>
+<br>
+Nu sfâșie ca o sirenă întunericul minților<br>
+<br>
+Nu trece ca o coadă de cometă prin plantele burților,<br>
+<br>
+Clopoțeii solnițelor sună o tristețe neînțeleasă.<br>
+<br>
+Sare, în care scrâșnesc dinții ocnașilor<br>
+<br>
+Dar clinchetul cupelor acoperă furtuna lanțurilor<br>
+<br>
+Tânărul elegant înnoadă cravata cerului,<br>
+<br>
+Execută o piruetă dinaintea înaltelor taine,<br>
+<br>
+Marea își pune o rochie de gală<br>
+<br>
+Prinde o medalie la gâtul vântului.<br>
+<br>
+Nervure farurile brăzdează frunzele valurilor,<br>
+<br>
+Și visul despletește în coame de catifea peștii,<br>
+<br>
+Vopsește părul minutului, marea,<br>
+<br>
+Umple ceștile ochilor îndepărtează umerii bărcilor.<br>
+<br>
+Marea își varsă bijuteriile în șorțul amurgului,<br>
+<br>
+Cleștele vântului îi ondulează buclele<br>
+<br>
+Ca vegetale șerpii trec prin coastele de azur<br>
+<br>
+Înalță statui din spumele umbrelor<br>
+<br>
+Spânzurători catargele sângeră apusul<br>
+<br>
+Marea alungă haitele ei de glasuri<br>
+<br>
+Că urcă-se din adâncuri luceferii<br>
+<br>
+Sapă ca un ocnaș gresia zilelor<br>
+<br>
+Alunecă arcuș pe strunele zărilor<br>
+<br>
+Se joacă rostogolind ca arșice înecații pe băncile de valuri.<br>
+<br>
+Mare, limbă atârnând la gura pământului<br>
+<br>
+Cum ai vrea să te rupi din maxilarele stâncilor<br>
+<br>
+Să lingi testiculul lunei pântecul nopții<br>
+<br>
+Balele tale umezesc țărmurile<br>
+<br>
+Mânia îți umflă nările<br>
+<br>
+Te ridică până la buruiana cerului<br>
+<br>
+Dar neputincioasă cortina apelor cade în prăpăstii.<br>
+<br>
+Marea își pune în plete un curcubeu ca un pieptene de dansatoare spaniolă<br>
+<br>
+Armăsari albi valurile mușcă hamul brumelor<br>
+<br>
+Valurile, valiza cu batistele vântului răvășite<br>
+<br>
+Și spumele presară flori ca sub pașii învingătorului<br>
+<br>
+Marea e o mănușă aruncată în arena nopții<br>
+<br>
+Unde e cutezătorul care s-o înapoieze frumoasei din balconul cerului?<br>
+<br>
+Marea e un teren de fotbal<br>
+<br>
+Cine va trece mingea prin poarta descătușării finale<br>
+<br>
+Cine va da semnalul înfrângerii, izbânzii?<br>
+<br>
+Marea e un circ și se dau peste cap maimuțele valurilor,<br>
+<br>
+Marea stăruie îndelung în privire precum în scoică vuietul<br>
+<br>
+Marea acrobat se leagănă pe trapezul aerului<br>
+<br>
+Uneori se culcă la picioarele vântului ca un câine bătut<br>
+<br>
+Marea arborează pavilionul de pirat al nopții.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ilarie Voronca
+* **Temă:** mare, noapte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

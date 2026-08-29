@@ -1,0 +1,74 @@
+---
+title: "Trecere liberă (aria II)"
+subtitle: "Ingeborg Bachmann"
+author: "Doctor Shrink"
+date: "2026-08-30"
+categories: [poezie, spoken-word, libertate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X5iUP6sim8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cu păsări de somn amețite<br>
+<br>
+și arbori de vânt împușcați<br>
+<br>
+se trezește ziua, iar marea<br>
+<br>
+deasupra-i golește un pahar înspumat.<br>
+<br>
+Râurile forfotesc spre apa cea mare,<br>
+<br>
+iar câmpul pune în gura aerului pur<br>
+<br>
+jurăminte de dragoste<br>
+<br>
+cu flori proaspete.<br>
+<br>
+Pământul nu vrea să poarte ciuperca de fum,<br>
+<br>
+nici o făptură să nu vomite sub cer,<br>
+<br>
+cu ploaie și fulgere de mânie să abolească<br>
+<br>
+nemaiauzite voci ale distrugerii.<br>
+<br>
+Cu noi el vrea să-și vadă frații pestriți<br>
+<br>
+și surorile cenușii trezindu-se,<br>
+<br>
+pe regele pește, alteța privighetoare,<br>
+<br>
+și salamandra, craiul de foc.<br>
+<br>
+Pentru noi, în mare plantează corali.<br>
+<br>
+Pădurilor le poruncește să păstreze liniștea,<br>
+<br>
+marmurei, frumoasa vână să și-o îngroașe,<br>
+<br>
+și boabelor de rouă iar peste cenușă să treacă.<br>
+<br>
+Pământul vrea trecere liberă în univers,<br>
+<br>
+fiecare zi să-i urmeze nopții,<br>
+<br>
+ca încă o mie și una de dimineți<br>
+<br>
+bătrânei splendori să-i urmeze tinere haruri.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ingeborg Bachmann
+* **Temă:** libertate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

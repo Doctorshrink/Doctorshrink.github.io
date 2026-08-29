@@ -1,0 +1,48 @@
+---
+title: "Frontierele văzduhului"
+subtitle: "Ilarie Voronca"
+author: "Doctor Shrink"
+date: "2026-08-30"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n7PjN78Wo2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În heleșteie mari cât pereții ospiciului<br>
+<br>
+peste tulburarea șoaptelor în despărțire,<br>
+<br>
+prin parcurile îndoindu-se ca tăietorii de pietre,<br>
+<br>
+pe plaja de pieptenul vântului frizată,<br>
+<br>
+din curțile orășenești ca menageriile pătrate<br>
+<br>
+prin maxilarele vântului străvezii ca metaniile,<br>
+<br>
+pe șesurile atârnând ca limbi la gura aventurilor<br>
+<br>
+din șoldul dealurilor cu podgorii,<br>
+<br>
+cum sunt șipotele albastre ca omizile,<br>
+<br>
+buzele singurătății sug potecile vremii,<br>
+<br>
+toate frontierele văzduhului ca fructele căzute
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ilarie Voronca
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

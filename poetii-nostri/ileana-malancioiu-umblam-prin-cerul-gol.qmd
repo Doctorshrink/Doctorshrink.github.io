@@ -1,0 +1,50 @@
+---
+title: "Umblam prin cerul gol"
+subtitle: "Ileana Mălăncioiu"
+author: "Doctor Shrink"
+date: "2026-08-30"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yT2gahxuH_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+umblam prin cerul gol la fel ca pe pământ<br>
+<br>
+nu mai ştiam de nimeni uitasem cine sunt<br>
+<br>
+umărul drept îmi era tot adus<br>
+<br>
+şi-aici de parcă mă priveai de sus<br>
+<br>
+cu ochii tăi încremeniţi şi trişti<br>
+<br>
+deşi cred că uitasem că exişti<br>
+<br>
+în amintirea binecuvîntată<br>
+<br>
+venise lumea cum a fost odată<br>
+<br>
+te ocoleam încet şi nu mai ştiu<br>
+<br>
+cînd am aflat c-am început să fiu<br>
+<br>
+un suflet gol şi m-am întins să rup<br>
+<br>
+din tine şi din carnea de pe trup
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ileana Mălăncioiu
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
