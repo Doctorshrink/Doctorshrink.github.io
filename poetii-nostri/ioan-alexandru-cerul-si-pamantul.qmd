@@ -1,0 +1,50 @@
+---
+title: "Cerul si pământul"
+subtitle: "Ioan Alexandru"
+author: "Doctor Shrink"
+date: "2026-08-31"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uwSngG8VD8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Trece-vor graiurile universului<br>
+Se va stinge-n tarana seara<br>
+Pamantului.  Lampile vor orbi<br>
+Si-n vazduh va amuti larma<br>
+Cucuvailor. Vulturii se vor retrage<br>
+In nevazut si taria vederii<br>
+Se va preface-n amurg. Toate<br>
+Se vor aduna in acea matca<br>
+Usoara de nimic din care<br>
+Smulse-au fost de Duh la inceputuri.<br>
+Atunci te voi vedea pe Tine<br>
+Cum ma vezi si ne-om cunoaste<br>
+Indeaproape cuvant din cuvant<br>
+Putere din putere. Dimineata fi-va,<br>
+Fi-vor ani fi-va si reveni-vor blande<br>
+-N vested vant aprinsele tulburatoarele zari<br>
+Ce ne hraneau nadejdea altadata.<br>
+Pamant si cer vor trece ca o facla<br>
+Din umbra sfantului mormant<br>
+Ramane-va lumina din vapaie<br>
+Ramane-va uitarea din cuvant<br>
+Ramane-va iubirea iubitoare<br>
+Din saraciile ce sunt.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ioan Alexandru
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

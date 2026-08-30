@@ -1,0 +1,50 @@
+---
+title: "Cântarea Cântărilor"
+subtitle: "Ion Caraion"
+author: "Doctor Shrink"
+date: "2026-08-31"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HmNKBPX-udo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Există-n apa vieții-un pește<br>
+<br>
+pe care-l beau de sete inși<br>
+<br>
+ne-ncrezători că apa crește<br>
+<br>
+în locul celor ce-au fost prinși.<br>
+<br>
+Iar primăvara ies pestriții<br>
+<br>
+sub glandele din carnea pietrii,<br>
+<br>
+înmugurind căpăstrul șiții<br>
+<br>
+de-atâtea plante și nisetrii.<br>
+<br>
+Așa încât, din diamante<br>
+<br>
+– mereu la loc, mereu altfel –<br>
+<br>
+bergsonizau: sau tu sau el,<br>
+<br>
+sau vasele comunicante.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Caraion
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

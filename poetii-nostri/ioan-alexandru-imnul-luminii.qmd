@@ -1,0 +1,66 @@
+---
+title: "Imnul luminii"
+subtitle: "Ioan Alexandru"
+author: "Doctor Shrink"
+date: "2026-08-31"
+categories: [poezie, spoken-word, lumina]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rhKi4aewZzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Lumina sfânta-n zorile de zi<br>
+Nu-i creatura sa n-o vorbesti de bine<br>
+Începi cu roua si sfârsesti în vârf<br>
+Lasând o târa-n floare dupa tine<br>
+<br>
+La fiecare-n parte odihnesti<br>
+E-un freamat si-un fior de bucurie<br>
+Frunza-n extaz atinge raza ta<br>
+Si-odata ochiul umbrei o învie<br>
+<br>
+E-un ceas si-o clipa-n zi si anotimp<br>
+Când cea din urma poarta e strapunsa<br>
+Tâtâna visului celui mai sfânt<br>
+Cu lacrima luminii este unsa<br>
+<br>
+Crinul te-asteapta ca pe-un împarat<br>
+De-aceea s-a gatit de-mparatie<br>
+Atât de des sta dealu-n fata ta<br>
+Ca s-a ascuns sub vitele de vie<br>
+<br>
+Nemaiputând sa-ndure atâtea sarbatori<br>
+Chemata umbra turmelor sa vina<br>
+Sa-si lege limba clopotelor lor<br>
+De firele de iarba pe colina<br>
+<br>
+Albina toata noaptea a urzit<br>
+În strai de aur sa se-mpodobeasca<br>
+Asteapta numai sa te uiti la ea<br>
+Ca toata truda ei sa-nvesniceasca<br>
+<br>
+Iar ciocârlia-i dusa în vazduh<br>
+Pe-un fir curat de ceara de la grinda<br>
+Înfrigurata scapara în cer<br>
+Sa prinda raza-n brate sa-l aprinda<br>
+<br>
+Iar florile umile pe pamânt<br>
+N-au cum sa-ti iasa în întâmpinare<br>
+Se fac un fel de clinchete covor<br>
+Si zvânta roua sfintelor picioare
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ioan Alexandru
+* **Temă:** lumina
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

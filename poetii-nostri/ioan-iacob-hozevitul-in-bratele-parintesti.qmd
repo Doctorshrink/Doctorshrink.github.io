@@ -1,0 +1,82 @@
+---
+title: "În brațele părintești"
+subtitle: "Ioan Iacob Hozevitul"
+author: "Doctor Shrink"
+date: "2026-08-31"
+categories: [poezie, spoken-word, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NhKAFpdWDS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Rămas de mic orfan pe lume,<br>
+<br>
+Ca un copil al nimănui,<br>
+<br>
+Mi-am pus nădejdea mea spre Domnul<br>
+<br>
+Cerând de-a pururi mila Lui<br>
+<br>
+Bunica, Dumnezeu s-o ierte,<br>
+<br>
+Mi-a semănat de timpuriu<br>
+<br>
+În suflet tainele credinții<br>
+<br>
+Și rodul lor mă ține viu<br>
+<br>
+O, scumpa mea bătrână sfântă<br>
+<br>
+Eu, tot ce am îți datoresc,<br>
+<br>
+Căci m-ai adus la cunoștința<br>
+<br>
+Părintelui Celui Ceresc<br>
+<br>
+&quot;Când tatăl meu&quot; (cum zice psalmul)<br>
+<br>
+&quot;Și mama mea m-au părăsit,<br>
+<br>
+Atuncea Domnul cel din ceruri<br>
+<br>
+La sânul milei m-a primit<br>
+<br>
+Deci, suflete al meu smerite<br>
+<br>
+Întraripează-te mereu,<br>
+<br>
+Prin rugăciune prea fierbinte<br>
+<br>
+și dragoste spre Dumnezeu.<br>
+<br>
+Privind în inimă cu mintea<br>
+<br>
+Să cauți tainicul izvor,<br>
+<br>
+Din care viața se adapă<br>
+<br>
+Cu darul cel mântuitor<br>
+<br>
+Urmează calea mântuirii<br>
+<br>
+Trăind în pace singurel<br>
+<br>
+și toată grija cea lumească<br>
+<br>
+S-o lepezi astăzi pentru El.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ioan Iacob Hozevitul
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

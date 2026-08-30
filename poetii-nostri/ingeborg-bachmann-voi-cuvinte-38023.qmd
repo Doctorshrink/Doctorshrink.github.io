@@ -1,0 +1,96 @@
+---
+title: "Voi, cuvinte"
+subtitle: "Ingeborg Bachmann"
+author: "Doctor Shrink"
+date: "2026-08-31"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nE-qfQdK0H4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Voi, cuvinte, urmați-mă!<br>
+<br>
+și suntem deja mai departe,<br>
+<br>
+plecați prea departe, merge din nou<br>
+<br>
+mai departe, spre un nesfârșit merge.<br>
+<br>
+Nu se luminează.<br>
+<br>
+Cuvântul<br>
+<br>
+va trage după el<br>
+<br>
+alte cuvinte,<br>
+<br>
+fraze după fraze.<br>
+<br>
+Așa s-ar dori lumea,<br>
+<br>
+definitivă,<br>
+<br>
+înghesuită<br>
+<br>
+deja spusă.<br>
+<br>
+Nu o spune.<br>
+<br>
+Cuvinte, urmați-mă<br>
+<br>
+- nu această lăcomie de cuvinte<br>
+<br>
+și contradicții peste contradicții!<br>
+<br>
+Nu lăsați acum o vreme<br>
+<br>
+sentimentele să vorbească,<br>
+<br>
+mușchiul inimii<br>
+<br>
+să exerseze altfel.<br>
+<br>
+Lăsați, zic eu, lăsați.<br>
+<br>
+În urechea înaltă,<br>
+<br>
+nimic, spun eu, șoptit,<br>
+<br>
+la moarte nu-ți mai vine nimic,<br>
+<br>
+lasă, urmați-mă, nu blând<br>
+<br>
+nici amărui,<br>
+<br>
+nici reconfortant,<br>
+<br>
+fără confort,<br>
+<br>
+nici fără semne -<br>
+<br>
+și nici doar asta: imaginea<br>
+<br>
+în pânza de praf, moloz gol<br>
+<br>
+de silabe, cuvinte mortale.<br>
+<br>
+Nici un singur cuvânt,<br>
+<br>
+voi cuvinte!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ingeborg Bachmann
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
