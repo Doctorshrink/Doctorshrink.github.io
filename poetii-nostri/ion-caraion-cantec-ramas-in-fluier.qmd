@@ -1,0 +1,38 @@
+---
+title: "Cântec rămas în fluier"
+subtitle: "Ion Caraion"
+author: "Doctor Shrink"
+date: "2026-09-01"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9jRgbNZRJZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Mirosea a rod și a primăvară.<br>
+<br>
+A fost o altfel de ploaie.<br>
+<br>
+Ochii grădinilor: năpădiți de lacrimile sănătoase ale plânsului verde-nchis, tânăr și gras.<br>
+<br>
+Câte un copil iese din măceși cu bucurii în păr.<br>
+<br>
+O vrabie s-a izbit de geamul mașinii și a căzut.<br>
+<br>
+Noi mergem mai departe...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Caraion
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

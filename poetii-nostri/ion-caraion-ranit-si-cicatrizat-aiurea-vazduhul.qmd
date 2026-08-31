@@ -1,0 +1,48 @@
+---
+title: "Rănit și cicatrizat aiurea, văzduhul"
+subtitle: "Ion Caraion"
+author: "Doctor Shrink"
+date: "2026-09-01"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ii5srj__aP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Rănit și cicatrizat aiurea, văzduhul.<br>
+<br>
+Cruste. Sau norii cojindu-se întorc<br>
+<br>
+pe dos cerul. Zboară prin aer<br>
+<br>
+saltimbanci cu capetele-n jos, cu picioarele<br>
+<br>
+în sus ca praștia. Dintr-un călcâi de copil<br>
+<br>
+izvorăște marea.<br>
+<br>
+Din mare a izvorât mitologia.<br>
+<br>
+Orizontale și verticale corăbii<br>
+<br>
+umplu spațiul dintre vocale și valuri.<br>
+<br>
+Limbajul deosebirii.<br>
+<br>
+S-au prelins trandafirii până sub timp.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Caraion
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

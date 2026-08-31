@@ -1,0 +1,106 @@
+---
+title: "Adio la patrie"
+subtitle: "Ion Heliade-Rădulescu"
+author: "Doctor Shrink"
+date: "2026-09-01"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D4NZDlFWcVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Te las, patrie, sotie,<br>
+<br>
+Ah! si dorul v-a-mpilat,<br>
+<br>
+Jugul greu v-a-ngenuncheat,<br>
+<br>
+Viata-amara, moar te vie!<br>
+<br>
+Te las, patrie,-n lamente<br>
+<br>
+Si-n catene fiii tai;<br>
+<br>
+Rad si danta toti cei rai<br>
+<br>
+La suspinele-ti ardente.<br>
+<br>
+Pruncul tipa, mama plange,<br>
+<br>
+Tata geme greu sub fier,<br>
+<br>
+Junii nalta pumni la cer,<br>
+<br>
+Si tiranii-s beti de sange.<br>
+<br>
+Rusul bate, neamtu-ntinde,<br>
+<br>
+Veneticul blestemat,<br>
+<br>
+Lor ce naibei s-a-nchinat,<br>
+<br>
+Tara, fata, toate-si vinde.<br>
+<br>
+Te las, patrie,-n sclavie;<br>
+<br>
+Si-n pamant si loc strain<br>
+<br>
+Nu m-asteapta decat chin,<br>
+<br>
+Viata-amara, moarte vie.<br>
+<br>
+Voi vedea munte si vale,<br>
+<br>
+Fetisoare, ochi frumosi,<br>
+<br>
+Gesturi, datini, juni voiosi,<br>
+<br>
+Dar nimic ca ale tale.<br>
+<br>
+Rauri, mare, vanturi, stele,<br>
+<br>
+Toate-s surde l-al meu chin;<br>
+<br>
+Nu esti, Oltule, strain:<br>
+<br>
+Spune tu de ale mele.<br>
+<br>
+D-oi vedea si lumea-ntreaga,<br>
+<br>
+Spune ca nu sunt ai mei;<br>
+<br>
+D-oi vedea eroi si zei,<br>
+<br>
+Nu e Romania draga.<br>
+<br>
+Te las, dulce Romanie,<br>
+<br>
+Dar, d-a vrea si Dumnezeu,<br>
+<br>
+A veni si randul meu<br>
+<br>
+Sa mor, sa traiesti tu vie.<br>
+<br>
+Moartea pentr u-a ta scapare<br>
+<br>
+A fost toata tinta mea;<br>
+<br>
+Fericirea-mi cea mai mare<br>
+<br>
+E sa mor cand vei via.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Heliade-Rădulescu
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

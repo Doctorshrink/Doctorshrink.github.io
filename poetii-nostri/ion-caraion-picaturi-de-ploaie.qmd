@@ -1,0 +1,82 @@
+---
+title: "Picături de ploaie"
+subtitle: "Ion Caraion"
+author: "Doctor Shrink"
+date: "2026-09-01"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2MDVHrWTQDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ultima lume.<br>
+<br>
+Stau<br>
+<br>
+ca într-o piersică din care<br>
+<br>
+oboseala<br>
+<br>
+scoate în fiecare zi<br>
+<br>
+tegumente, grimase ori stropi<br>
+<br>
+de praf.<br>
+<br>
+E o lună pe cer ca un marsupiu.<br>
+<br>
+Voi, picături de ploaie. Eroism al infinitului.<br>
+<br>
+Bolborositor ospăț. Proaspătă<br>
+<br>
+prididire<br>
+<br>
+îmbrobonând cărnurile lumii !<br>
+<br>
+Vai, timp<br>
+<br>
+nealterat de cunoaștere…<br>
+<br>
+Dense-egale-continue<br>
+<br>
+unalângăalta<br>
+<br>
+ca<br>
+<br>
+niște<br>
+<br>
+ostași<br>
+<br>
+vin să cucerească pământul<br>
+<br>
+și cad<br>
+<br>
+la datorie<br>
+<br>
+de la începutul apei<br>
+<br>
+și-al vieții.<br>
+<br>
+Ce oi prostuțe, cu bănuții lânii<br>
+<br>
+găuriți de lacrimi !<br>
+<br>
+Ploaie – fată subțire ca o grisină –<br>
+<br>
+tu nu ai decât șansa rănii…
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Caraion
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
