@@ -1,0 +1,89 @@
+---
+title: "Litanii pentru miezul nopţii"
+subtitle: "Ion Minulescu"
+author: "Doctor Shrink"
+date: "2026-09-02"
+categories: [poezie, spoken-word, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mNh_l4jTwyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+I<br>
+<br>
+Dormi, felină obsedată de plăcerea de-a fi-nvinsă...<br>
+A trecut de miezul nopţii...<br>
+Iar duetul senzual<br>
+Orchestrat de fantezia unui Heliogabal<br>
+Pâlpâie-n finalul unei lumânări aproape stinsă.<br>
+<br>
+Dormi, felină cu ochi stranii<br>
+Şi cu pleoape cercuite<br>
+În culori evocatoare de fanate clematite,<br>
+Dormi, felină obsedată de plăcerea de-a fi-nvinsă...<br>
+<br>
+Culcă-ţi capul pe risipa chiparoaselor strivite<br>
+De contururile-ţi roze<br>
+Torturate,<br>
+Şi-amorţite,<br>
+Şi multiplicate-n visul unei Venere, desprinsă<br>
+Din anticul bronz al unei statui reconstituite.<br>
+<br>
+Dormi, felină obsedată de plăcerea de-a fi-nvinsă...<br>
+<br>
+Dormi, felină torturată de-al duetului final...<br>
+Plimbă-ţi degetele pale pe dantelele pătate<br>
+De capriciul unor alte flori, de tine-nsângerate,<br>
+Şi respiră-n vis parfumul parcului sentimental.<br>
+<br>
+Şi respiră infinitul ce pluteşte-n străvezii<br>
+Nori,<br>
+Din care plouă-n luptă hidromelul Walkyriei...<br>
+Dormi, felină torturată de-al duetului final...<br>
+<br>
+II<br>
+<br>
+Dormi, ca anticele statui mutilate de barbari,<br>
+Goală toată<br>
+Ca victima primilor amanţi-corsari,<br>
+Uită binecuvântarea gestului sacerdotal<br>
+Şi-ntrupează-te-n Phryneea bandelor de mercenari.<br>
+<br>
+Dormi, felină torturată de-al duetului final...<br>
+Dormi, felină saturată de-al eternului simbol...<br>
+Toate dorm.<br>
+Şi-n juru-ţi toate sunt absente.<br>
+Pe perete,<br>
+Miezul nopţii-a-nchis chiar ochii<br>
+Neadormitelor portrete<br>
+Şi-albul ochi al lumânării doarme-n stinsu-i rotogol.<br>
+<br>
+Dormi cu buzele deschise, ca un filtru-n care porţi<br>
+Deopotrivă-aceleaşi lacrimi pentru vii<br>
+Şi pentru morţi...<br>
+Dormi, felină saturată de-al eternului simbol...<br>
+<br>
+Dormi, supremă frenezie de jăratic şi schântei,<br>
+Tu, ce-ţi schimbi amanţii-n preoţi<br>
+Şi pe preoţi în Atei -<br>
+Dormi,<br>
+Şi-n aşternutul moale forma corpului tău gol<br>
+Să-mpietrească pe vecie &quot;Crucea Sfântului Andrei&quot;.<br>
+<br>
+Dormi, felină saturată de-al eternului simbol!...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Minulescu
+* **Temă:** dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

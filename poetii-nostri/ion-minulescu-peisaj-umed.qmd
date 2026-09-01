@@ -1,0 +1,74 @@
+---
+title: "Peisaj umed"
+subtitle: "Ion Minulescu"
+author: "Doctor Shrink"
+date: "2026-09-02"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CZRcYRN7Zjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Plouă strâmb<br>
+<br>
+Şi fals,<br>
+<br>
+Plouă tâmpit ―<br>
+<br>
+Plouă cum ploua-ntr-o zi la Londra<br>
+<br>
+Când sorbeam un vermut sec<br>
+<br>
+Cu Anny Ondra<br>
+<br>
+Într-un bar pe Piccadilly Street...<br>
+<br>
+Plouă ca şi cum o stropitoare<br>
+<br>
+Ar uda, pripită, verzile peluze<br>
+<br>
+Inventate-anume ca s-amuze<br>
+<br>
+Lorzii beţi de whisky<br>
+<br>
+Şi morţi după soare…<br>
+<br>
+Plouă ca şi cum stropii de ploaie<br>
+<br>
+N-ar fi decât stropi de năduşală<br>
+<br>
+Ce s-ar scurge de pe Anny Ondra goală<br>
+<br>
+Când se-ncuie cu boxerul în odaie...<br>
+<br>
+Plouă,<br>
+<br>
+Plouă,<br>
+<br>
+Toată ziua plouă,<br>
+<br>
+Plouă ca-ntr-o baltă fără fund ―<br>
+<br>
+Baltă-n care ― Ofelia şi Hamlet<br>
+<br>
+Se ascund<br>
+<br>
+Să-i procure lui Shakespeare<br>
+<br>
+O dramă nouă…
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Minulescu
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

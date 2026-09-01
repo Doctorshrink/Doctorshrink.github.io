@@ -1,0 +1,120 @@
+---
+title: "Cântăreaţa anonimă"
+subtitle: "Ion Minulescu"
+author: "Doctor Shrink"
+date: "2026-09-02"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lp0L13S2rAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cine cântă la fereastra cu perdelele-nflorate,<br>
+<br>
+Că nu-i cântec de femeie<br>
+<br>
+Şi nici cântec de vioară?...<br>
+<br>
+Cine-aruncă pe fereastră note vagi,<br>
+<br>
+Desperecheate,<br>
+<br>
+Dintr-o veche melodie,<br>
+<br>
+Care urcă<br>
+<br>
+Şi coboară<br>
+<br>
+Ca o lentă agonie<br>
+<br>
+Pe diezi de serpentine<br>
+<br>
+Şi bemoli de mici confeti?...<br>
+<br>
+Cine?...<br>
+<br>
+Cineva cânta!<br>
+<br>
+Dar cine<br>
+<br>
+Cântă parcă pentru mine?...<br>
+<br>
+Cine cântă nu se ştie!...<br>
+<br>
+Poate-i toamna, ce-ntârzie,<br>
+<br>
+Ca bolnavii de ftizie,<br>
+<br>
+Pe aleile pătate de rugină<br>
+<br>
+Şi noroi...<br>
+<br>
+Şi pe prima indecenţă a castanilor eroi -<br>
+<br>
+Invalizi, aproape goi!...<br>
+<br>
+În odaie, la fereastra cu perdelele-nflorate,<br>
+<br>
+Nu e nimeni!...<br>
+<br>
+Şi-n odaie cântă, totuşi, cineva!...<br>
+<br>
+Doamne!...<br>
+<br>
+Cine cântă-aşa?<br>
+<br>
+Cine-mperechează-n noapte<br>
+<br>
+Note vagi, desperecheate?...<br>
+<br>
+Cine-mi luminează calea<br>
+<br>
+Şi m-aduce până-aci?...<br>
+<br>
+Cine-mi schimbă noaptea-n zi?...<br>
+<br>
+Cine cântă?...<br>
+<br>
+Cine-o fi?...<br>
+<br>
+A tăcut!...<br>
+<br>
+Un glas ce tace este-o «Pasăre albastră»<br>
+<br>
+Care-ţi zboară pe fereastră...<br>
+<br>
+A tăcut!...<br>
+<br>
+Dar la fereastra cu perdelele-nflorate<br>
+<br>
+Nevăzută cântăreaţa anonimă<br>
+<br>
+Când iesi dintre culise, să-şi arate<br>
+<br>
+Ca la teatru-n faţa rampei<br>
+<br>
+Chipul vechi<br>
+<br>
+Şi rochia nouă,<br>
+<br>
+Iată că-ncepu să plouă!...<br>
+<br>
+Plouă...<br>
+<br>
+Plouă!...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Minulescu
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

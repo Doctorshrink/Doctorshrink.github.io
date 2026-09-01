@@ -1,0 +1,86 @@
+---
+title: "Spre soare"
+subtitle: "Ion Minulescu"
+author: "Doctor Shrink"
+date: "2026-09-02"
+categories: [poezie, spoken-word, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ats4nIwkcVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Noi vom porni-ntr-o zi de sărbătoare<br>
+<br>
+Spre-naltele contururi crenelate<br>
+<br>
+Din care-ntâile priviri de soare<br>
+<br>
+Îşi varsă-n vid imensa lor cascadă<br>
+<br>
+Şi-n care seara-şi urcă resemnarea,<br>
+<br>
+Cu gestul unei păsări mari de pradă<br>
+<br>
+Ce-şi pregăteşte-n taină răzbunarea<br>
+<br>
+Înviselor aripi însângerate.<br>
+<br>
+Superbi, ca cei ce-nveşmântaţi în zale<br>
+<br>
+Porneau pe drumul Sfântului Mormânt,<br>
+<br>
+Noi vom porni-ntr-o zi de sărbătoare<br>
+<br>
+Spre-naltele contururi feodale;<br>
+<br>
+Căci drumurile noastre duc spre Soare,<br>
+<br>
+Şi soarele preface verbu-n cânt.<br>
+<br>
+Şi vom porni cu-ntreaga majestate<br>
+<br>
+A celor ce, pornind de nouă ori,<br>
+<br>
+Purtară prin oraşe-ndepărtate,<br>
+<br>
+Mai mult învinşi decât învingători,<br>
+<br>
+Fantasmagoricele lor armate<br>
+<br>
+De cai şi călăreţi halucinaţi,<br>
+<br>
+Cu flori de crin pe mantii presărate<br>
+<br>
+Şi vulturi albi pe scuturi încrustaţi.<br>
+<br>
+Spre soare deci – spre soarele de vară,<br>
+<br>
+Monarhul orbitorului zenit...<br>
+<br>
+El ne va strânge-armata răzleţită<br>
+<br>
+Şi-o va-ndruma din nou spre răsărit.<br>
+<br>
+El va topi păpuşile de ceară<br>
+<br>
+Şi gestul lui de bronz va desemna<br>
+<br>
+În spaţiu o Golgotă prăbuşită<br>
+<br>
+Şi magilor de mâine-o nouă stea.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Minulescu
+* **Temă:** soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,146 @@
+---
+title: "Sunt un pacătos, părinte"
+subtitle: "Ion Pribeagu"
+author: "Doctor Shrink"
+date: "2026-09-02"
+categories: [poezie, spoken-word, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/64HOJg6enFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+La parintele Vintila<br>
+<br>
+Vine Arvinte, cam sfios<br>
+<br>
+Si se roaga: - Fie-ti mila<br>
+<br>
+De un suflet pacatos!<br>
+<br>
+Chiar în saptamâna mare<br>
+<br>
+Când tot omul e smerit<br>
+<br>
+Si posteste cu-ndurare,<br>
+<br>
+Uite, am pacatuit!<br>
+<br>
+- Ai furat? întreaba popa<br>
+<br>
+- Nu, prea sfinte! Fara vrere<br>
+<br>
+M-am dat raului si hopa<br>
+<br>
+În gradina c&#x27;o muiere!<br>
+<br>
+- Vai de mine, vai de mine...<br>
+<br>
+Greu pacat ai savârsit...<br>
+<br>
+Însa daca-mi spui cu cine,<br>
+<br>
+Poate vei fi mântuit.<br>
+<br>
+- Nu pot, a raspuns Arvinte<br>
+<br>
+Sa-mi fac chinul si mai greu<br>
+<br>
+Nu pot s-o divulg Parinte<br>
+<br>
+Ca ma bate Dumnezeu!<br>
+<br>
+... Era&#x27;nalta si frumoasa,<br>
+<br>
+Parul blond si ochi de jar,<br>
+<br>
+Gura dulce, voluptoasa,<br>
+<br>
+Dintii de margaritar...<br>
+<br>
+- Nu cumva ai fost cu Tanti<br>
+<br>
+Din Smârdan, de peste drum?<br>
+<br>
+- Nu pot s-o divulg ca Domnul<br>
+<br>
+Ma trazneste chiar acum!<br>
+<br>
+... Si-avea flori la cingatoare,<br>
+<br>
+Trup de crin îmbobocit,<br>
+<br>
+Mijlocel de fata mare,<br>
+<br>
+Numai buna de iubit...<br>
+<br>
+- Poate-ai fost cu Mita Creata<br>
+<br>
+Cea usoara ca un fulg?<br>
+<br>
+- Cere-mi tot, ba chiar si viata,<br>
+<br>
+Însa nu pot s-o divulg!<br>
+<br>
+... Durdulie, &#x27;mbujorata,<br>
+<br>
+Numai cântec, numai joc,<br>
+<br>
+Când te-a strâns în brate-odata,<br>
+<br>
+Ai simtit în vine foc!<br>
+<br>
+- Mai Arvinte-ai fost cu Leana<br>
+<br>
+Care sade pe Neptun?<br>
+<br>
+- Oh! Degeaba-mi zgândari rana,<br>
+<br>
+Fiindca tot nu pot sa spun!<br>
+<br>
+... O comoara tainuita,<br>
+<br>
+Fruct în dragoste scaldat,<br>
+<br>
+Toata plina de ispita,<br>
+<br>
+Toata plina de pacat!<br>
+<br>
+- Bine, du-te, mediteaza,<br>
+<br>
+Si vii mâine mai dispus,<br>
+<br>
+Domnul sa te aibe-n paza!<br>
+<br>
+- Sarut dreapta! Si s-a dus.<br>
+<br>
+Ajungând în colt, ca vântu&#x27;<br>
+<br>
+S-a-ntâlnit cu Calistrat<br>
+<br>
+Care ntreaba: - Ei, Prea Sfântul<br>
+<br>
+De pacat te-a dezlegat?<br>
+<br>
+- Înca nu, raspunse Arvinte<br>
+<br>
+Foarte vesel si vioi,<br>
+<br>
+Dar aflai de la Parinte<br>
+<br>
+Înca trei adrese noi!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pribeagu
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,62 @@
+---
+title: "Ștanțele durerii"
+subtitle: "Ion Luca Caragiale"
+author: "Doctor Shrink"
+date: "2026-09-02"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TGSgpA8opJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+ȘTANȚELE DURERII<br>
+<br>
+Să nu-mi spui că &#x27;ntristarea îmi tremură pe pleoape,<br>
+<br>
+Și gura-mi de durere zîmbește &#x27;mbătrînită,<br>
+<br>
+Ci lasă desnădejdea să crească liniștită,<br>
+<br>
+Ca nuferii &#x27;n podoabă pe înverzite ape.<br>
+<br>
+Nu-mi amăgi tăcerea și nu veni să-mi tulburi<br>
+<br>
+Singurătatea...Lasă-mi să-mi plîngă amintirea,<br>
+<br>
+Cutreerînd alături, deapuriri ca iubirea,<br>
+<br>
+Trecutul greu de vrajă,pe &#x27;ndepărtate drumuri.<br>
+<br>
+Că poate pe &#x27;nserate am să tresar ,deodată,<br>
+<br>
+Și-o clipă veselia în ochii mei va arde,<br>
+<br>
+Gîndindu-mă că &#x27;n zarea,trecutului,departe,<br>
+<br>
+Eu patima învoaltă,am răsfirat-o toată,<br>
+<br>
+Și poate-atunci,în șoaptă de adîncă &#x27;nduioșare,<br>
+<br>
+O să-ți destram povestea durerii ce &#x27;nflorește,<br>
+<br>
+Înaltă și trufașă cum purerea,sporește<br>
+<br>
+Și nu cerșește vremii netrebnica,uitare.<br>
+<br>
+Adăugată de către-Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Luca Caragiale
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
