@@ -1,0 +1,62 @@
+---
+title: "Vara în capitală"
+subtitle: "Ion Minulescu"
+author: "Doctor Shrink"
+date: "2026-09-03"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4WMC_hJ3DOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Au plecat bucureştenii toţi la băi<br>
+Şi cu Vara n-au rămas în capitală<br>
+Decât morţii şi gardiştii...<br>
+Iar pe străzile pustii şi prin odăi -<br>
+Praful ce se-ngroaşă zilnic,<br>
+Şi-n covoare -<br>
+Moliile cu prezenţa lor fatală<br>
+Şi cu veşnica lor poftă de mâncare...<br>
+De urât că n-are ce să vadă<br>
+În monumentala noastră capitală,<br>
+Vara umblă toată ziua-n pielea goală<br>
+Prin apartamente-nchise<br>
+<br>
+Şi pe stradă -<br>
+De la Parcul Carol la Şosea<br>
+Şi de la Şosea la Cotroceni,<br>
+Însoţită de o droaie de ţigani<br>
+Şi de olteni,<br>
+Care vând cireşi, rahat şi limonadă<br>
+Şi-o poftesc să cumpere şi ea...<br>
+Vara însă-i fata de la ţară -<br>
+Bleagă şi prostuţă ca o oaie -<br>
+Nu ştie că-n capitală<br>
+Este şi-o &quot;Baie centrală&quot;,<br>
+Şi când simte că-i zăduf din cale-afară<br>
+Se răsfaţă-n Dâmboviţa cât îi place,<br>
+Ca Suzana clasică, la baie...<br>
+<br>
+Iar pe mal, gardiştii - cască-gură -<br>
+O mănâncă cu privirea lor şireată,<br>
+Ca bătrânii poftitori de trup de fată,<br>
+Şi se-ntreabă:<br>
+Ce să-i facă?...<br>
+Să-i dea pace,<br>
+Sau s-o vâre-n beci la prefectură?...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Minulescu
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

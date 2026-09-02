@@ -1,0 +1,42 @@
+---
+title: "Cântec - Coboară, dorule înfrânt"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-03"
+categories: [poezie, spoken-word, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aQTGHyzC26M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Coboară, dorule înfrânt,<br>
+<br>
+De plumb o aripă rănită<br>
+<br>
+Şi taci. Nu plânge nici un cânt<br>
+<br>
+Credinţă pururi izgonită.<br>
+<br>
+În lut te culcă, dorul meu.<br>
+<br>
+Dormi somn adânc, înfăşurat<br>
+<br>
+În aripi aprige de zeu -<br>
+<br>
+Pe scutul vremii fulgerat.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

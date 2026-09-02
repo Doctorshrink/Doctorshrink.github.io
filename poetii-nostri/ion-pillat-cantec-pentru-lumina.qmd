@@ -1,0 +1,62 @@
+---
+title: "Cântec pentru lumină"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-03"
+categories: [poezie, spoken-word, lumina, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XMi5x_dTzv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Lumină, lumină, de ce<br>
+<br>
+În toamna târzie te duci<br>
+<br>
+Amară e coaja de nuci<br>
+<br>
+Şi floarea-soarelui e<br>
+<br>
+Tăciune când tu ne-o usuci.<br>
+<br>
+Lumină, lumină, mai stai -<br>
+<br>
+Spre iarnă nu te grăbi!<br>
+<br>
+Ce-or face în vânturi pustii<br>
+<br>
+Foşnitele frunze şi mai<br>
+<br>
+Mâhnite de nu le mângâii?<br>
+<br>
+Lumină, lumină, n-ai nici<br>
+<br>
+O milă de flori şi furnici<br>
+<br>
+Dar greierii, bieţii, ce strâng<br>
+<br>
+Doar bobul de soare din crâng,<br>
+<br>
+Ce-or face la iarnă şi cui<br>
+<br>
+Să ceară de nu-i îndestui?<br>
+<br>
+Lumină, lumină, mai stai<br>
+<br>
+La mine măcar până-n Mai!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** lumina, soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

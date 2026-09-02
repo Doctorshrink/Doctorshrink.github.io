@@ -1,0 +1,53 @@
+---
+title: "Trei lacrimi reci de călătoare"
+subtitle: "Ion Minulescu"
+author: "Doctor Shrink"
+date: "2026-09-03"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4zG0vpTkqaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Şi-ai să mă uiţi -<br>
+Că prea departe<br>
+Şi prea pentru mult timp porneşti!<br>
+Şi-am să te uit -<br>
+Că şi uitarea e scrisă-n legile-omeneşti.<br>
+. . . . . . . . . . . . . . . . . . . . . . . .<br>
+Cu ochii urmări-vei ţărmul, topindu-se ca noru-n zare,<br>
+Şi ochii-ţi lăcrima-vor poate<br>
+Trei lacrimi reci de călătoare ;<br>
+Iar eu pe ţărm<br>
+Mâhnit privi-voi vaporu-n repedele-i mers,<br>
+Şi-nţelegând că mi-eşti pierdută,<br>
+Te-oi plânge-n ritmul unui vers.<br>
+<br>
+Şi versul meu<br>
+L-o duce poate vreun cântăreţ până la tine,<br>
+Iar tu -<br>
+Cântându-l ca şi dânsul,<br>
+Plângându-l, poate, ca şi mine -<br>
+Te vei gândi la adorata în cinstea căreia fu scris,<br>
+Şi-uitând că m-ai uitat,<br>
+Vei smulge din cadrul palidului vis<br>
+Întunecatu-mi chip,<br>
+Ca-n ziua când te-afunda vaporu-n zare<br>
+Şi când din ochi lăsai să-ţi pice<br>
+Trei lacrimi reci de călătoare!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Minulescu
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

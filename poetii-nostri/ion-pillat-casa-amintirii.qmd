@@ -1,0 +1,74 @@
+---
+title: "Casa amintirii"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-03"
+categories: [poezie, spoken-word, amintire, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xs5UiT_x_wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+E casa amintirii o casă cu pridvor,<br>
+<br>
+Cu bârne şi chilimuri pe încăperi zidite,<br>
+<br>
+În drumul către dânsa ţin strajă dreapta plopii,<br>
+<br>
+Şi în pereţi icoane de morţi bătrâni veghează:<br>
+<br>
+Strămoşi din altă vreme de cari, uitând de jocuri,<br>
+<br>
+Copii, ne-apropiarăm privind cu ce sfială<br>
+<br>
+La feţele lor şterse de sfinţi în mânăstiri.<br>
+<br>
+În casa amintirii nu-i astăzi şi nu-i ieri,<br>
+<br>
+Căci orologiul vremii a încetat să bată,<br>
+<br>
+Şi clipa netrăită a îngheţat pe el.<br>
+<br>
+Dar prin iatac adesea te-apucă şi te fură<br>
+<br>
+Miresmele cosite cu florile de fân<br>
+<br>
+Păstrate sub răcoarea pânzetului de in.<br>
+<br>
+Şi, seara, pe divane în liniştite-odăi<br>
+<br>
+Tot mai pogoară caântec şi zumzănit de strună<br>
+<br>
+Ca de pe alăuta plăpândelor visări,<br>
+<br>
+Când, în apus de soare şi răsărit de lună,<br>
+<br>
+Simţim zădărnicia întâilor uitări,<br>
+<br>
+Rămân aceleaşi toate, şi somnul fără zbucium<br>
+<br>
+Îl dorm sub coperişul aceluiaşi trecut.<br>
+<br>
+Stafie, trece gândul prin casa mea străveche<br>
+<br>
+Sub raza călăuză a visului tăcut...<br>
+<br>
+Şi închizând în urmă odăile străine,<br>
+<br>
+M-am dus, m-am dus în lume, cu-atâţia morţi în mine.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** amintire, casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

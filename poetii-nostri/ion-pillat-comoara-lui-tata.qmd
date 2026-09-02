@@ -1,0 +1,42 @@
+---
+title: "Comoara lui tata"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-03"
+categories: [poezie, spoken-word, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YnRyEoWmxfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Albă rochiţă<br>
+<br>
+Din fir de mătase,<br>
+<br>
+Sunt o fetiţă<br>
+<br>
+Tare frumoasă.<br>
+<br>
+Tata mă alintă:<br>
+<br>
+– Prinţesa lui tata!<br>
+<br>
+Mama îmi zice:<br>
+<br>
+– Comoară mi-e fata.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
