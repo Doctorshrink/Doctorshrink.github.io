@@ -1,0 +1,54 @@
+---
+title: "Eternități, vremelnicii"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-04"
+categories: [poezie, spoken-word, timp]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fNJcwWAMZ8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Eternităţi, vremelnicii —<br>
+<br>
+Le ţine moartea în balanţă.<br>
+<br>
+Zadarnic te trudeşti să ştii<br>
+<br>
+De eşti de bronz sau de faianţă.<br>
+<br>
+Suflati cu fulgi de păpădii,<br>
+<br>
+Părtaşi cu munţii în constanţa,<br>
+<br>
+Din fruntea noastră la ţării<br>
+<br>
+Sau la schelet nu-i vreo distanţă.<br>
+<br>
+Tot ce sculptăm, tot ce clădim,<br>
+<br>
+Le-nghit veciile ce curg<br>
+<br>
+Pe-ai veacurilor ţintirim.<br>
+<br>
+Şi pe un cer proteic norii,<br>
+<br>
+Topindu-şi zborul în amurg,<br>
+<br>
+Rămân — doar ei — nemuritorii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** timp
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,36 @@
+---
+title: "Eternități de-o clipă"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-04"
+categories: [poezie, spoken-word, timp]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T22scRj6iEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+1912-1914<br>
+<br>
+Culege inteleptul pe drumu-i orice floare<br>
+<br>
+Si floarea-n vantul serii se scutura-n risipa.<br>
+<br>
+Dar el zambind le lasa ca fluturii sa zboare...<br>
+<br>
+Caci, trecator, viseaza eternitati de-o clipa.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** timp
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

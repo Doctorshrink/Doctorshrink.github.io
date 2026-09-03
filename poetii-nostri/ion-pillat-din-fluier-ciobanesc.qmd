@@ -1,0 +1,282 @@
+---
+title: "Din fluier ciobănesc"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-04"
+categories: [poezie, spoken-word, dor, sat]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RtnSrsq6WoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cântece de dor<br>
+<br>
+I.<br>
+<br>
+Foaie verde micşunea.<br>
+<br>
+Fă-mă, Doamne, iarnă grea<br>
+<br>
+Apele să le încheg,<br>
+<br>
+Oltul să-l podesc întreg,<br>
+<br>
+Badea roibul să-şi gonească,<br>
+<br>
+Gheaţă piatră să pocnească<br>
+<br>
+Oltul tot şi inima<br>
+<br>
+De-o loveşte dragostea.<br>
+<br>
+II.<br>
+<br>
+Foaie verde măr rotat,<br>
+<br>
+Dorul a picat în sat<br>
+<br>
+Pe aripi de rândunele,<br>
+<br>
+Jos la casa dragei mele.<br>
+<br>
+Draga dacă l-a văzut,<br>
+<br>
+Dorul nu l-a cunoscut<br>
+<br>
+Că era golaş la pene -<br>
+<br>
+Şi-l goni peste poiene.<br>
+<br>
+Mândro, mândro, ce făcuşi<br>
+<br>
+Unde-i dorul meu acuşi?<br>
+<br>
+III.<br>
+<br>
+Păpădie, păpădie,<br>
+<br>
+Fulgul tău cine să-l ţie!<br>
+<br>
+Dorul mi l-a vânturat,<br>
+<br>
+Mândra mea când te-a suflat.<br>
+<br>
+IV.<br>
+<br>
+Foaie verde de răchită<br>
+<br>
+Bate murgul din copită<br>
+<br>
+Că pe airpi de cocor<br>
+<br>
+Mi-a trimes răvaş de dor<br>
+<br>
+Primăvara şi un sturz,<br>
+<br>
+Să nu stau aşa ursuz,<br>
+<br>
+Primăvara şi un cuc<br>
+<br>
+Iar la mândră să mă duc.<br>
+<br>
+V.<br>
+<br>
+Floarea, floarea-soarelui,<br>
+<br>
+Ce duci dorul mirelui<br>
+<br>
+Când apune soarele<br>
+<br>
+Şi se şterg ogoarele?<br>
+<br>
+Fruntea nu ţi-o apleca,<br>
+<br>
+Fruntea grea şi inima,<br>
+<br>
+Că, în zori, când stelele<br>
+<br>
+Îşi închid ploapele,<br>
+<br>
+Soarele iar s-o ivi,<br>
+<br>
+Şi pe placul inimii<br>
+<br>
+Înaintea altuia<br>
+<br>
+Raza lui te-o lumina.<br>
+<br>
+VI.<br>
+<br>
+Foaie verde şi-o lalea,<br>
+<br>
+Dorul meu e iarnă grea,<br>
+<br>
+Dorul tău, o rândunea.<br>
+<br>
+De ţi-aduce dorul iară<br>
+<br>
+Cer senin de primăvară<br>
+<br>
+Doru-mi, bietul, moare-n ţară.<br>
+<br>
+De învie dorul meu<br>
+<br>
+Din fulgi reci şi viscol greu,<br>
+<br>
+Dorul tău prin zări mereu...<br>
+<br>
+VII.<br>
+<br>
+Brânduşă, brânduşă,<br>
+<br>
+Floare jucăuşă,<br>
+<br>
+Toamna pe poiene<br>
+<br>
+Toarce-n pas alene<br>
+<br>
+Şi tu stai şi stai<br>
+<br>
+S-o alini pe plai<br>
+<br>
+Şi nu te gândeşti<br>
+<br>
+Şi nu socoteşti<br>
+<br>
+Că frunziş de ceară<br>
+<br>
+Nu e o comoară,<br>
+<br>
+Că frunziş de pică<br>
+<br>
+Nu e rândunică<br>
+<br>
+Şi că mâine vine<br>
+<br>
+Iarnă peste tine,<br>
+<br>
+Vine iarnă rea,<br>
+<br>
+Albă mi te ia.<br>
+<br>
+VIII.<br>
+<br>
+Stele, stele şi tot stele<br>
+<br>
+Pasc albastrele vâlcele<br>
+<br>
+Şi le mână luna lină<br>
+<br>
+Cu fuiorul de lumină.<br>
+<br>
+IX.<br>
+<br>
+Ţipă cucuvea pe şură<br>
+<br>
+Moartea intră-n bătătură.<br>
+<br>
+Ţipă cucuvea pe casă,<br>
+<br>
+Moartea bate la fereastră<br>
+<br>
+Cucuvea, nu mai ţipa<br>
+<br>
+Că adoarme mândra mea.<br>
+<br>
+Cucuvea, te du departe<br>
+<br>
+Că-i sunt genele brumate<br>
+<br>
+Cu rouă din alte zori<br>
+<br>
+Ce pălesc la cântători.<br>
+<br>
+X.<br>
+<br>
+9 ţări şi 9 mari,<br>
+<br>
+9 zări fără cărări,<br>
+<br>
+9 lanuri de grâu nou<br>
+<br>
+Şi un lan de păpuşoi,<br>
+<br>
+Am umblat, am răsfirat,<br>
+<br>
+Umbra ei de am aflat<br>
+<br>
+Am aflat-o la un rău<br>
+<br>
+Limpede ca un pârâu<br>
+<br>
+La un lan curat de grâu<br>
+<br>
+Ce crescuse pân-la brâu,<br>
+<br>
+La un drum uitat de care,<br>
+<br>
+Plin de iarbă şi răcoare,<br>
+<br>
+La o margine de luncă<br>
+<br>
+După umbra mea cea lungă.<br>
+<br>
+Am aflat-o şi-nflorea<br>
+<br>
+Luminoasă ca o stea.<br>
+<br>
+Am lăsat-o, să mai dea<br>
+<br>
+Flori ferite dragostea.<br>
+<br>
+XI.<br>
+<br>
+Peste deal la ţintirim,<br>
+<br>
+De o vară ne iubim.<br>
+<br>
+Numai morţii şi-o viorea<br>
+<br>
+Ne ascultă dragostea.<br>
+<br>
+Mândro, nu mă săruta,<br>
+<br>
+Că de somn s-or sătura.<br>
+<br>
+Mândro, ne-ndrăgim în şoapte<br>
+<br>
+Că de dor nu mai au parte.<br>
+<br>
+XII.<br>
+<br>
+De gândesc la ochii tăi,<br>
+<br>
+Dau să ardă-n vălvătăi<br>
+<br>
+Nouă sate, nouă şuri<br>
+<br>
+Şi pe munţi nouă păduri.<br>
+<br>
+De gândeşti şi tu la mine<br>
+<br>
+Nici nu prind să ardă bine<br>
+<br>
+Trei surcele cât trei fire<br>
+<br>
+Cu fum nalt şi foc subţire.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** dor, sat
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,288 @@
+---
+title: "Ecouri marine"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-04"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AttGpDqxW88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+I<br>
+<br>
+CORUL LOPĂTARILOR<br>
+<br>
+Luceferi ard pe mare si nu mai sunt sirene!<br>
+<br>
+Zadarnic noaptea toată veghea-vom pe carene,<br>
+<br>
+Cu trupul lor de spumă si coadă de delfin,<br>
+<br>
+Prin valuri legănate să le vedem cum vin.<br>
+<br>
+Nebuni, în van cerca-vom să deslusim chemarea<br>
+<br>
+Tritonilor ce suflă în scoici marine. — Marea<br>
+<br>
+Mugind ne va răspunde că zeii ei sunt morţi...<br>
+<br>
+Dar tu, ce-n al tău suflet trecutul tot îl porţi,<br>
+<br>
+O, călător de-o clipă pe apa călătoare,<br>
+<br>
+Ridică-ţi fruntea tristă! Pe coarda sunătoare<br>
+<br>
+A lirei, ce asteaptă vibrând, loveste rar.<br>
+<br>
+Atunci sub nimbul lunii si farmecul stelar,<br>
+<br>
+Purtând în păru-i alge si albe flori marine,<br>
+<br>
+Sirena va renaste din valuri pentru tine.<br>
+<br>
+II<br>
+<br>
+O VOCE PE PRORA TRIREMEI<br>
+<br>
+Din lira pentacordă cu strunele de-aramă<br>
+<br>
+Eu voi cânta la noapte sub cer fosforescent<br>
+<br>
+În murmur de talazuri si în bătăi de ramă,<br>
+<br>
+Pe când trirema spuma în urma ei destramă<br>
+<br>
+Şi sparge valul neted vâslind spre Occident.<br>
+<br>
+Din lira pentacordă chema-voi să revie<br>
+<br>
+Poporul ce trăieste în fund stâncos de mări...<br>
+<br>
+Tritonii să-si urmeze uitata pribegie<br>
+<br>
+Suflând prin scoici sonore prelung melancolie<br>
+<br>
+În suflete deprinse cu vechile visări.<br>
+<br>
+Apoi voi bate struna mai tare, tot mai tare,<br>
+<br>
+Poseidon iar să-si mâne fugarii lui marini,<br>
+<br>
+Necheze sub copite de-acum întreaga mare,<br>
+<br>
+Şi armăsarii umezi în herghelii barbare<br>
+<br>
+Să treacă albi de spume ca turme de delfini.<br>
+<br>
+Şi voi atinge dulce cu dreapta coarda lirii<br>
+<br>
+Căci poate din talazuri târziu se va ivi<br>
+<br>
+Sirena, întruparea eternă a iubirii...<br>
+<br>
+Şi ca să nu mai piară în umbra amintirii<br>
+<br>
+O, lopătari — pe proră eu lira voi lovi!<br>
+<br>
+III<br>
+<br>
+GLASUL SIRENEI<br>
+<br>
+Când sub luciul lunei apa e mai albă ca zăpada<br>
+<br>
+Urmărim corăbii grele sau triremele subţiri<br>
+<br>
+Nopţi întregi... si marinarii ne cred poate năluciri,<br>
+<br>
+Lopătarii fără suflet din Sidon sau din Hellada.<br>
+<br>
+Nu aud cântarea noastră dureroasă cum învie,<br>
+<br>
+Nu văd trupul nostru fraged mângâiat din val în val,<br>
+<br>
+Pentru dânsii el e spumă sau spinare de narval,<br>
+<br>
+Căci nu stie azi vâslasul marea toată că e vie.<br>
+<br>
+Dar tu care stai pe proră, pe trirema triumfală,<br>
+<br>
+Tu, ce cânţi si chemi trecutul peste vremuri domnitor<br>
+<br>
+Glasul tău prin zări se-afundă ca un bucium sunător<br>
+<br>
+Din ecouri în ecouri sub tăcerea siderală.<br>
+<br>
+Şi sirena ce ascunde o femeie si o zeie<br>
+<br>
+Într-un trup cum nu e altul nici în cer, nici pe pământ,<br>
+<br>
+Goală va iesi din valuri, din al mării larg vestmânt<br>
+<br>
+Ca femeia de frumoasă si eternă ca o zeie.<br>
+<br>
+IV<br>
+<br>
+SCOICILE TRITONILOR ÎN DEPĂRTARE<br>
+<br>
+Prin care unde<br>
+<br>
+Înoţi, sirenă?<br>
+<br>
+Răspunde: unde,<br>
+<br>
+Sub ce carenă?<br>
+<br>
+Din scoica mării<br>
+<br>
+Dorinţa vie,<br>
+<br>
+Pustiul zării<br>
+<br>
+În van învie!<br>
+<br>
+Din stâncă-n stâncă<br>
+<br>
+Lovindu-si plânsul,<br>
+<br>
+Răsună încă<br>
+<br>
+Pierind cu dânsul...<br>
+<br>
+Îsi strigă marea<br>
+<br>
+Pierduta fată;<br>
+<br>
+N-auzi chemarea<br>
+<br>
+Înfricosată?<br>
+<br>
+Răspunde: unde,<br>
+<br>
+Sub ce carenă,<br>
+<br>
+Prin care unde<br>
+<br>
+Înoţi, sirenă?<br>
+<br>
+V<br>
+<br>
+GLASUL SIRENEI DIN NOU<br>
+<br>
+Mă strigă valul mării si dorul tău mă leagă:<br>
+<br>
+Am sânul de femeie si trupul de delfin.<br>
+<br>
+Trirema-naintează si ape noi dezleagă,<br>
+<br>
+Iar cornul lunii palid se-apleacă în declin.<br>
+<br>
+Mă strigă valul mării si Echo trist răspunde,<br>
+<br>
+Şi scoicile sonore din zări în zări se frâng...<br>
+<br>
+Aruncă-ţi iar, străine, cântarea ta pe unde,<br>
+<br>
+Sa nu aud talazul si apele ce plâng.<br>
+<br>
+Mai cântă, ca sirena sa fie iar femeie!<br>
+<br>
+Căci iată se înalţă cu murmur milenar<br>
+<br>
+Lung marea să-si recheme puternic a ei zeie...<br>
+<br>
+O, tu, ce stai pe proră, ridică glasul iar!<br>
+<br>
+VI<br>
+<br>
+VOCEA DE PE PRORĂ<br>
+<br>
+Am auzit cântarea sirenelor pe mare...<br>
+<br>
+Trecut-au nopţi si zile de-atunci, si-acum dispare<br>
+<br>
+Iar soarele... si struna din urmă mi s-a frânt.<br>
+<br>
+Sirena nu mai cântă si singur stau pe proră<br>
+<br>
+Şi mâine ca si astăzi aceeasi auroră,<br>
+<br>
+Dar marea va fi goală, si moartă, si pustie.<br>
+<br>
+Zadarnic astepta-voi sirenele să vie<br>
+<br>
+— Mai trist de-a le cunoaste, de-a le dori mai trist —<br>
+<br>
+Când steaua dimineţii pe valul de-ametist<br>
+<br>
+Aprinde opalină lumina ce scânteie.<br>
+<br>
+O, lopătar, o, frate, prin visu-ţi ce femeie,<br>
+<br>
+Mireasă sau nevastă torcând fuior de lână,<br>
+<br>
+Asteaptă pe pribeagul plecat de la cămin?<br>
+<br>
+Pe când cu lira spartă si inima păgână<br>
+<br>
+Tot mai ascult chemarea ecoului marin.<br>
+<br>
+VII<br>
+<br>
+MURMUR CRESCÎND DE VALURI<br>
+<br>
+Trirema se sterge prin asfinţit,<br>
+<br>
+Cu dânsa suspine desarte...<br>
+<br>
+Ecouri fugare au amuţit,<br>
+<br>
+Departe se-aud... mai departe.<br>
+<br>
+Trec plângeri de oameni pe apele mari<br>
+<br>
+Cu valul spumos si cu vântul.<br>
+<br>
+Nimic nu rămâne din patime mari<br>
+<br>
+Şi piere pe mare cuvântul.<br>
+<br>
+E-al nostru acuma întinsul stelar,<br>
+<br>
+A noastră e noaptea pustie!<br>
+<br>
+Din frânte talazuri un muget barbar<br>
+<br>
+Se-nalţă, descreste, învie.<br>
+<br>
+A noastră-i sirena cu păr de argint<br>
+<br>
+Ce-noată în rază de lună!<br>
+<br>
+Uitate acuma sunt doruri ce mint!...<br>
+<br>
+Ea simte iubirea străbună<br>
+<br>
+A mării; iar valul o fură, o ia,<br>
+<br>
+O strânge — sa-i fie stăpână!<br>
+<br>
+Alunecă albă pe cerul de nea<br>
+<br>
+Spre ziuă Diana păgână.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

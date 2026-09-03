@@ -1,0 +1,82 @@
+---
+title: "Elegie în faţa mării"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-04"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/REk0TKi3E48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În faţa mării iată-mă, în faţă<br>
+<br>
+Desăvârşirii cerului pe ape<br>
+<br>
+Fără sfârşit Dezgranițarea iat-o,<br>
+<br>
+Şi sufletul cu aripa de spumă<br>
+<br>
+Pe valuri vii, vestind vuirea verde-a<br>
+<br>
+Furtunilor, sub norul de cerneală,<br>
+<br>
+Venind din zări. În faţă marii stau că<br>
+<br>
+Un stâlp de lut. Pe tălpi purtând ţărână<br>
+<br>
+Ogorului, pe frunte praful holdei,<br>
+<br>
+În sânge neamul morţilor ducându-l,<br>
+<br>
+Aici, pe ţărmul vechi de unde-ncepe<br>
+<br>
+Sămânţa vântului pe brazdă apei,<br>
+<br>
+Şi jocul norilor, şi zbor de stoluri<br>
+<br>
+În unghi deschis cu vremea şi cu visul.<br>
+<br>
+Ce-mi poate-aicea secera, şi sapă,<br>
+<br>
+Şi plugul tras de opintirea viţei?<br>
+<br>
+Aici ce-mi folosesc grâu şi secară?<br>
+<br>
+Stau şi privesc, ajuns la căpătâiul<br>
+<br>
+Pământului din mine. Singur, fără<br>
+<br>
+Moştenitor ca să-mi adune sarea<br>
+<br>
+Durerii de pe apele amare.<br>
+<br>
+Stau şi socot, înfipt cu rădăcina<br>
+<br>
+Piciorului în humă grea, cu frunză<br>
+<br>
+Mea slobodă pe vânturi. Pescăruşii<br>
+<br>
+Furtunilor se duc ţipând. Stau stanca<br>
+<br>
+În murmur lung de valuri prăbuşite<br>
+<br>
+Şi tot ascult, pe ţărmul cel din urmă,<br>
+<br>
+La glasul morţii şi la glasul marii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

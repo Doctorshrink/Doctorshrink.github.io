@@ -1,0 +1,66 @@
+---
+title: "Drumul strămoşesc"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-04"
+categories: [poezie, spoken-word, drum, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_JJaGMzsMmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+E seară - brazii lung şoptesc<br>
+<br>
+Şi stă telega-n poartă.<br>
+<br>
+E seară - brazii lung şoptesc,<br>
+<br>
+S-aşterne drumul strămoşesc,<br>
+<br>
+Iar dorul lui ne poartă.<br>
+<br>
+Luceferi ard de veghe sus,<br>
+<br>
+Prelung talanga sună.<br>
+<br>
+Luceferi ard de veghe sus,<br>
+<br>
+Izvoarele poveşti ne-au spus<br>
+<br>
+Ţesute-n mreji de lună...<br>
+<br>
+Departe - caii merg întins,<br>
+<br>
+Potcoava-n noapte sună.<br>
+<br>
+Departe - caii merg întins.<br>
+<br>
+Iar drumul tot e parcă nins<br>
+<br>
+Stropit cu stropi de lună.<br>
+<br>
+Zăpada n-a căzut pe drum,<br>
+<br>
+Dar a brumat în mine.<br>
+<br>
+Zăpada n-a căzut pe drum,<br>
+<br>
+Doar brazii mari visează-acum<br>
+<br>
+Un dor din vremi străine.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** drum, tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
