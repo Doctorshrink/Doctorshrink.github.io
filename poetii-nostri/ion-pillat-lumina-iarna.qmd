@@ -1,0 +1,58 @@
+---
+title: "Lumină iarna"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-05"
+categories: [poezie, spoken-word, iarna, lumina, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ufayb-4ybA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+A nins. În soare codrul cu trunchiuri de cărbune<br>
+<br>
+Întinde umbre-albastre pe proaspătul omăt<br>
+<br>
+Şi mă visez la geamuri cu anii îndărăt:<br>
+<br>
+Văd dealul alb, târlia şi vremurile bune.<br>
+<br>
+Ies, scârţâie zăpada ca ieri sub pasul meu,<br>
+<br>
+Şi atârnând marame subţiri de promoroacă<br>
+<br>
+De ramurile joase, lumina goală joacă<br>
+<br>
+Azi numai pentru mine şi pentru Dumnezeu.<br>
+<br>
+Apoi îşi dă pe spate tot părul de beteală<br>
+<br>
+Şi sare învârtindu-şi al razelor hanger<br>
+<br>
+Şi unde talpa-i roză atinge albul ger<br>
+<br>
+Fulgerător scânteie pe nea câte-o petală.<br>
+<br>
+Crra trece pe sub soare vâslind întâiul corb.<br>
+<br>
+A stat din joc lumina, pe brânci se face mică<br>
+<br>
+Crra stolu-ntreg  şi-n umbră rămân privind cu frică<br>
+<br>
+Trei picături de sânge pe-o ramură de sorb.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** iarna, lumina, soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

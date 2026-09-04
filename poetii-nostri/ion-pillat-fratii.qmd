@@ -1,0 +1,56 @@
+---
+title: "Fratii"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-05"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qc_4iCC9OUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+De fratii mei crestini m-am saturat,<br>
+<br>
+De rautatea lor cea buna,<br>
+<br>
+De targ, de casa si de sat,<br>
+<br>
+De adevarul lor minciuna.<br>
+<br>
+De sora mea pagana m-am scarbit,<br>
+<br>
+De sarutarea ei ce musca,<br>
+<br>
+De patul ca mormantul adancit,<br>
+<br>
+De dragostea-i ingusta cusca.<br>
+<br>
+Vreau sa ma duc la frati adevarati,<br>
+<br>
+M-asteapta-n munti parinti de totdeauna.<br>
+<br>
+Din leagan de copil imi stau visati<br>
+<br>
+Ca soarele de dragi, frumosi ca luna.<br>
+<br>
+in funduri de paduri si de coclauri<br>
+<br>
+si peste vremi, ca om sa nu strabata,<br>
+<br>
+Pazita de poveste si balauri.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

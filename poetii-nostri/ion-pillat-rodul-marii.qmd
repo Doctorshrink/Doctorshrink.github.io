@@ -1,0 +1,82 @@
+---
+title: "Rodul mării"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-05"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W0h63bWR4rQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Mi-ai cerut, privind talazul nebrăzdat de nici o navă,<br>
+<br>
+Unde-și moaie doar aripa zborul unui elcovan,<br>
+<br>
+Să-ți aduc din fundul mării, ca pescarul năzdrăvan,<br>
+<br>
+O minune să desfete nostalgia ta bolnavă.<br>
+<br>
+Și prin valuri translucide cu vibrații de fosfor,<br>
+<br>
+Unde tremură sargasul și se-nalță goemonii,<br>
+<br>
+Lângă stelele de mare cu-nflorirea anemonii,<br>
+<br>
+Scufundat-am în adâncuri dorul meu lampadofor.<br>
+<br>
+Cu lumina într-o mână și într-alta cu tridentul,<br>
+<br>
+Gol, purtând în ochi iubirea și năvodul între dinți,<br>
+<br>
+Dar purtat de amăgirea unei veșnice credințe,<br>
+<br>
+A lăsat să-l năpădească și să-l tragă-n fund curentul.<br>
+<br>
+Pescui ursine rare, mărgărint cu luci de stea,<br>
+<br>
+Pe nisipuri fabuloase ca grădinile Golcundei,<br>
+<br>
+Când, cu soarele, din zare vine cavalcada undei<br>
+<br>
+Cu penașuri de lumină și cu coamele de nea...<br>
+<br>
+Și culese flori de nufăr - ce pe țărm erau meduze -<br>
+<br>
+Scoici trandafirii ursite s-aibă farmec femenin,<br>
+<br>
+Când în adumbrirea zilei valul mării e senin<br>
+<br>
+Și în limpeziri de vise formele devin confuze.<br>
+<br>
+Lumină smaraldul arctic sub ghețarul triumfal,<br>
+<br>
+Duse plasa în azurul însoritelor escale<br>
+<br>
+Și din apa nemișcată până-n ape tropicale<br>
+<br>
+Toate mările cuprinse le aprinse val cu val.<br>
+<br>
+Răscolind prin oceane irizatele vitrine<br>
+<br>
+Cu crengi roșii de coraliu și cu alb mărgăritar,<br>
+<br>
+Dorul meu și-a tras năvodul din talaze pentru tine -<br>
+<br>
+Dar în el găsit-ai numai sarea lacrimei ca dar.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

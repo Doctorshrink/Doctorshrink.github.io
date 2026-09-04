@@ -1,0 +1,66 @@
+---
+title: "Lanterna magică"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-05"
+categories: [poezie, spoken-word, libertate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u6Bh3fcS-BY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pe-omătul nepătat de pe cearceaf,<br>
+<br>
+În umbra ce se-ncheagă în odaie,<br>
+<br>
+A tresărit lumina ca un praf<br>
+<br>
+Cînd şi-a deschis pupila ei bălaie.<br>
+<br>
+Lanterna magică, privind pieziş,<br>
+<br>
+C-un singur ochi în frunte, ca-n poveste -<br>
+<br>
+Şi glasuri de copii în luminiş<br>
+<br>
+De râs curat, ţâşniră fără veste.<br>
+<br>
+Acolo unde-a fost doar scrumul şters,<br>
+<br>
+Răsare-o lume veche şi ciudată.<br>
+<br>
+Scufiţei Roşii-i ard obrajii-n mers,<br>
+<br>
+O vezi zorind spre casa de-altădată.<br>
+<br>
+Spre casa albă şi cu nalbă-n prag<br>
+<br>
+În care o aşteaptă blând bunica –<br>
+<br>
+Prin fumul vremii, prin trecutul drag,<br>
+<br>
+Mai stau privind cum piere lin fetica.<br>
+<br>
+Zadarnic cerc zăvorul ferecat<br>
+<br>
+Pe care tot copilul îl descuie...<br>
+<br>
+Prin vremi Scufiţa Roşie-a plecat<br>
+<br>
+Şi lupul sur mai stă pe cărăruie.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** libertate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,230 @@
+---
+title: "Poeme într-un vers II"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-05"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u42rMSTQUrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Stelă funerară<br>
+<br>
+O umbră joacă ramul pe piatra unei umbre.<br>
+<br>
+Stelă de mim<br>
+<br>
+Cu plâns şi râs de mască în mâini, nepăsător.<br>
+<br>
+Groapă nouă<br>
+<br>
+Păşeşte lin drumeţe, pe moartă să n-o scoli.<br>
+<br>
+Colori<br>
+<br>
+Zambilele, nori vineţi, şi cerul flori purta.<br>
+<br>
+Veghie<br>
+<br>
+La gura sobei gândul, tovarăş călător.<br>
+<br>
+Mare sudică<br>
+<br>
+Pe mări de micşunele ning pescăruşii fulgi.<br>
+<br>
+Insula de mirodenii<br>
+<br>
+Mireasma ei pe valuri venea, ca niciodată.<br>
+<br>
+Apă neîncepută<br>
+<br>
+Mi-ai dat să beau din cană iubire de izvor.<br>
+<br>
+Vecernie<br>
+<br>
+Cu stropi de ploaie toaca, şi clopotul furtună.<br>
+<br>
+Heraclit<br>
+<br>
+Priveam cum fuge ziua pe apele ce curg.<br>
+<br>
+Tipar<br>
+<br>
+Nisipul poartă încă plăpândă urma ta.<br>
+<br>
+Portret<br>
+<br>
+Durere cu ochi negri sub părul azi mai alb.<br>
+<br>
+Floarea vremii<br>
+<br>
+Pe pajişti stânjeneii, în suflet toamna iar.<br>
+<br>
+Stol coborât<br>
+<br>
+Cad frunzele, pământul e plin de rândunele.<br>
+<br>
+Murmur etern<br>
+<br>
+În golul scoicii marea; în suflet nemuriri.<br>
+<br>
+Darul<br>
+<br>
+Dă-mi pacea înserării pe care-o ţii în mâini.<br>
+<br>
+Poetul trădat<br>
+<br>
+Un vers cu plâns de ape, când îl credeai cleştar.<br>
+<br>
+Vasul lovit<br>
+<br>
+Urciorul crapă, suflet rănit, de plânset gol.<br>
+<br>
+Belşug<br>
+<br>
+Am întâlnit azi toamna venind în car cu boi.<br>
+<br>
+Castana<br>
+<br>
+Din ghimpii amintirii trecutul l-am cules.<br>
+<br>
+Drum de noapte<br>
+<br>
+Ne învelise luna în colb de amintiri.<br>
+<br>
+Nocturnă<br>
+<br>
+Mai ştii în noapte plopul cu luna, galben cuib?<br>
+<br>
+Casa copilăriei<br>
+<br>
+Sub lună casa albă: o piatră de mormânt.<br>
+<br>
+Menire<br>
+<br>
+Un clopot peste lanuri şi vremuri, te chema.<br>
+<br>
+Asemănări<br>
+<br>
+Viaţa-i fum  şi fumul căminului ţi-e drag.<br>
+<br>
+Păreri<br>
+<br>
+Brotacul: frunză verde; sitarul: frunziş mort.<br>
+<br>
+Amurg în crâng<br>
+<br>
+Albinele luminii prin frunze se jucau.<br>
+<br>
+Casă la Balcic<br>
+<br>
+Şi sufletul şi casa mi le-am deschis pe mări.<br>
+<br>
+Fată la fântână<br>
+<br>
+Coboară, legănată din frizele greceşti.<br>
+<br>
+Măgăruşul<br>
+<br>
+Stă cu urechi pleoştite, jupitul înţelept.<br>
+<br>
+Camee<br>
+<br>
+Prin piatra străvezie ca un talaz: Sirena.<br>
+<br>
+Driada<br>
+<br>
+De trunchi lipeşti urechea s-auzi cum plâng azi.<br>
+<br>
+Mare pământeană<br>
+<br>
+Desfăşurarea verde a grâului în zări.<br>
+<br>
+Popor nomad<br>
+<br>
+Foc stins, cort strâns, pustiul şi pulberea plecării.<br>
+<br>
+Sclave<br>
+<br>
+Femei cu trup de noapte şi miez de soare-aprins.<br>
+<br>
+Artă poetică<br>
+<br>
+Nu vorbele, tăcerea dă cântecului glas.<br>
+<br>
+Hanul vechi<br>
+<br>
+Cu zeghea amintirii la foc de cărăuşi.<br>
+<br>
+Inima<br>
+<br>
+O viaţă-ntreagă bate la poarta liniştirii.<br>
+<br>
+Marmură greacă<br>
+<br>
+Sub cuta caldă-a pietrei simţi trupul unui zeu.<br>
+<br>
+Friză<br>
+<br>
+Pe piatră stau eroii, în ea dorm zei ascunşi.<br>
+<br>
+San Francesco nel deserto<br>
+<br>
+Din cerul apei moarte cresc seara chiparoşi.<br>
+<br>
+Primăvară pastorală<br>
+<br>
+Din zare munţi albaştri trezesc pe văi tălăngi.<br>
+<br>
+Cetatea din mare<br>
+<br>
+Prin valuri limpezi, toamna, vezi temple licărind.<br>
+<br>
+Căţelul pământului<br>
+<br>
+Auzi-l cum te latră de pe un alt tărâm.<br>
+<br>
+Floare târzie<br>
+<br>
+A nins pe munţi. O rază a tremurat în parc.<br>
+<br>
+Cer răsturnat<br>
+<br>
+În apele strălimpezi zvârl undiţa, prind umbre.<br>
+<br>
+Clopot de taină<br>
+<br>
+La pasul tău îmi sună vecernii inima.<br>
+<br>
+Cimitir tătăresc<br>
+<br>
+Prin pietre ceruri albe şi marea-n zări, argint.<br>
+<br>
+Cimitir turcesc<br>
+<br>
+Prin pietre părăsite, cireşul: înger alb.<br>
+<br>
+Întâile micşunele<br>
+<br>
+Copilul primăverii deschide ochi albaştri.<br>
+<br>
+Lalele<br>
+<br>
+Oştirea cu turbane stă şiruri în grădină.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,292 @@
+---
+title: "Poeme într-un vers I"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-05"
+categories: [poezie, spoken-word, cuvant, suflet]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NIrFvplwRh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+1. Poemul într-un vers<br>
+<br>
+Un singur nai, dar câte ecouri în păduri.<br>
+<br>
+2. Păstorul mării<br>
+<br>
+Copilul gol mai cântă din fluier la delfini.<br>
+<br>
+3. Îmbrăţişare<br>
+<br>
+Suia o viţă de-aur pe negrul chiparos.<br>
+<br>
+4. Pan<br>
+<br>
+Prin frunza rară ţapul priveşte, faun trist.<br>
+<br>
+5. Pasărea din basm<br>
+<br>
+Zburau fazani de aur în focul din cămin.<br>
+<br>
+6. Arta poetică<br>
+<br>
+Nu vorbele, tăcerea dă cântecului glas.<br>
+<br>
+7. Melancolie<br>
+<br>
+Foşniră împuşcate lungi aripi. Dor târziu.<br>
+<br>
+8. Pasărea mării<br>
+<br>
+Un nor de taină zboară pe-o insulă-n amurg.<br>
+<br>
+9. Trecutul<br>
+<br>
+În ochii verzi porţi marea spălată de furtuni.<br>
+<br>
+10. Reîntoarcere<br>
+<br>
+Am pribegit cu zeii, la oameni să mă-ntorc.<br>
+<br>
+11. Ciocârlia<br>
+<br>
+Din praştia câmpiei lumina cântă sus.<br>
+<br>
+12. Norii<br>
+<br>
+Albastru clătinate, aeriane culmi.<br>
+<br>
+13. Crăciun<br>
+<br>
+Se-oprise steaua, fânul din staul strălucea.<br>
+<br>
+14. Templu antic<br>
+<br>
+Încremeniră patru coloane, cerul, marea.<br>
+<br>
+15. Stăpânul mării<br>
+<br>
+În plasa lor pescarii au prins un zeu străin.<br>
+<br>
+16. Înserare<br>
+<br>
+Pe-oglinda legănată a sufletului: norii.<br>
+<br>
+17. Sângele vieţii<br>
+<br>
+Ca vremea nu se-opreşte, ca moartea nu-l aud.<br>
+<br>
+18. Zvon<br>
+<br>
+E roiul de albine sau numai amintiri?<br>
+<br>
+19. Stelă de dansatoare<br>
+<br>
+Cu vălul tras pe faţă, se depărtează stând.<br>
+<br>
+20. Trup de fată<br>
+<br>
+O salcie mlădie cum e tulpina ei.<br>
+<br>
+21. Dorinţa<br>
+<br>
+Iubire nu fi veşnic al inimii tăun.<br>
+<br>
+22. Întâlniri<br>
+<br>
+O piersică pufoasă şi fraged un obraz.<br>
+<br>
+23. Iarnă<br>
+<br>
+În zare zurgălăii de sănii Suflet nins.<br>
+<br>
+24. Amurg<br>
+<br>
+Iubirea ta m-ajunge cu umbre tot mai lungi.<br>
+<br>
+25. Logodnă<br>
+<br>
+Pe mal un singur paltin, pe ape doar o stea.<br>
+<br>
+26. Calea nopţii<br>
+<br>
+Prelungul drum al lunii pe mare până-n zori.<br>
+<br>
+27. Navigatorii<br>
+<br>
+Pe zări amurgul singur cu dorul lor pustiu.<br>
+<br>
+28. Marinarul<br>
+<br>
+Din larg zăream pământul, pe ţărm privesc în larg.<br>
+<br>
+29. Plaja<br>
+<br>
+Nisip, talazuri, spume şi scoici  tu, nicăieri<br>
+<br>
+30. Tinereţe<br>
+<br>
+Pe frunza toamnei pasul sfios al căprioarei.<br>
+<br>
+31. Dezamăgire<br>
+<br>
+Ai spart oglinda: chipul din ţăndări nu-l culegi.<br>
+<br>
+32. Turc bătrân<br>
+<br>
+Îşi numără mătănii de-o mie şi-una de nopţi.<br>
+<br>
+33. Golful<br>
+<br>
+A strâns albastru-n braţe, şi-l leagănă mereu.<br>
+<br>
+34. Popor nomad<br>
+<br>
+Cu norii şi cu vântul porneam, pământul sta.<br>
+<br>
+35. Popor nomad<br>
+<br>
+Foc stins, cort strâns, pustiul şi pulberea plecării.<br>
+<br>
+36. Popas<br>
+<br>
+Proptiţi în lănci, cu hăţul pe braţ, la focuri mari.<br>
+<br>
+37. Descălecătorii<br>
+<br>
+Întâiul fum de sate şi-n vale glas de câini.<br>
+<br>
+38. Artă poetică<br>
+<br>
+Din teascurile vremii plâng lacrimă de vers.<br>
+<br>
+39. Zile şi nopţi<br>
+<br>
+Trecură ciute albe şi-ntunecaţi ogari.<br>
+<br>
+40. Prevestire<br>
+<br>
+În codrul numai muguri, un sunet de topor.<br>
+<br>
+41. Copilărie<br>
+<br>
+O jucărie spartă găsită într-un pod.<br>
+<br>
+42. Toamna copilăriei<br>
+<br>
+Mireasmă de gutuie într-un iatac bătrân.<br>
+<br>
+43. Părăsire<br>
+<br>
+Pe orice cărăruie dau iarbă amintiri.<br>
+<br>
+44. Conac de altădată<br>
+<br>
+La scări părăginite de suflet, surugii.<br>
+<br>
+45. Singur<br>
+<br>
+Prin pulberea de aur cu toamna în zăvoaie.<br>
+<br>
+46. Veveriţa toamna<br>
+<br>
+O frunză roşie suie pe ramuri, alte cad.<br>
+<br>
+47. Poetul<br>
+<br>
+Stă încărcat de versuri ca toamnele de rod.<br>
+<br>
+48. Vânătoare<br>
+<br>
+În zori prin ceaţa roză un sunet surd de moarte.<br>
+<br>
+49. Friză<br>
+<br>
+Strunindu-şi calul, sare prin veacuri nemişcat.<br>
+<br>
+50. Friză<br>
+<br>
+De când îţi legi sandala, s-au dezlegat milenii.<br>
+<br>
+51. Păstorul<br>
+<br>
+Cu fluierul la gură cum tace, codrul cântă.<br>
+<br>
+52. Amintirea<br>
+<br>
+La cuib, o rândunică prin suflet zboară lung.<br>
+<br>
+53. Gorgane pe Bărăgan<br>
+<br>
+Cămile-ngenuncheate venite din Altai.<br>
+<br>
+54. Primăvară<br>
+<br>
+Livezi în floare, cucul, munţii ninşi, alt cuc, departe.<br>
+<br>
+55. Ţara<br>
+<br>
+Balauri, munţi vineţi, păzeau cetăţi de-argint.<br>
+<br>
+56. Lacrimi<br>
+<br>
+De plângi, o primăvară s-o scutura de flori.<br>
+<br>
+57. Luntraşul<br>
+<br>
+Spre moarte mă tot duce, lin, inima vâslind.<br>
+<br>
+58. Nemuriri plăpânde<br>
+<br>
+Migdalul meu în floare şi tu zâmbind sub el.<br>
+<br>
+59. Întoarcere<br>
+<br>
+În toamna desfrunzită m-am întâlnit, copil.<br>
+<br>
+60. Cimitir tătăresc<br>
+<br>
+Pasc moarte capre straniu încremenind pe râpă.<br>
+<br>
+61. Bujori sălbatici<br>
+<br>
+Pe ruguri verzi ard flăcări în inima pădurii.<br>
+<br>
+62. Prier<br>
+<br>
+Oprit în drum, migdalul ne-ntinde flori sfios.<br>
+<br>
+63. Pescăruşi<br>
+<br>
+Din valuri spume albe au început să zboare.<br>
+<br>
+64. Despăduriri<br>
+<br>
+Se duc pe râul vremii toţi anii mei, buşteni.<br>
+<br>
+65. Sângele vieţii<br>
+<br>
+Ca vremea nu se-opreşte, ca moartea nu-l aud.<br>
+<br>
+66. Seară la Voroneţ<br>
+<br>
+La sfinţii-n zugrăveală, amurgu-ngenunchea.<br>
+<br>
+Cocorii ţipă. Gheaţa din suflet mi se sparge.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** cuvant, suflet
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
