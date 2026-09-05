@@ -1,0 +1,62 @@
+---
+title: "Stelele"
+subtitle: "Ion Vinea"
+author: "Doctor Shrink"
+date: "2026-09-06"
+categories: [poezie, spoken-word, luna_stele, noapte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7l79S82xnw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Tăcerea a înmărit luna.[...]<br>
+<br>
+și tăcerea e atât de veșnică încât aud vrabia timpului fosnind<br>
+<br>
+scurt între ramuri.[...]<br>
+<br>
+Și iată că vis sau demență, - nu mai știu pentru cine mă întreb,<br>
+<br>
+căci mă gândesc că cerul e opac ca pleoapele ei,<br>
+<br>
+că liniștea asta n-am mai simțit-o de demult.<br>
+<br>
+Iubita mea [...]<br>
+<br>
+ce vedenii sapi în perne cu fruntea?[...]<br>
+<br>
+iubita mea [...]<br>
+<br>
+vezi cum s-au destins și dorm pe umbre și lumini crengile [...]<br>
+<br>
+cum se sting luminile la ferestre,<br>
+<br>
+cum se netezește totul mărginit în liniile lui clare,<br>
+<br>
+acoperisurile geometrice și cupolele de stuh,<br>
+<br>
+muchia dealurilor cu păduri mărețe și rouă,<br>
+<br>
+mătasea cerului tăiată de taina zărilor și stelele,<br>
+<br>
+stelele,<br>
+<br>
+stelele,<br>
+<br>
+stelele.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Vinea
+* **Temă:** luna_stele, noapte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

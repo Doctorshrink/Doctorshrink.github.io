@@ -1,0 +1,74 @@
+---
+title: "În ţara mea"
+subtitle: "Ion Pribeagu"
+author: "Doctor Shrink"
+date: "2026-09-06"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bc3t1LgL8po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În ţara mea sunt văi şi munţi şi flori,<br>
+<br>
+Şi diamante,<br>
+<br>
+Şi sunt sticleţi atât de mulţi în capete savante!...<br>
+<br>
+Poeţii ritmului sărac slăvesc albastrul zării,<br>
+<br>
+Şi creşte-atât de mult spanac pe lanurile ţării.<br>
+<br>
+În ţara mea sunt tei şi plopi,<br>
+<br>
+Şi zarea-i diafană,<br>
+<br>
+Şi-n ţara mea jandarmi şi popi iau lefuri de pomană;<br>
+<br>
+Şi-n ţara mea sunt flori de myrt,<br>
+<br>
+Principiu sau idee,<br>
+<br>
+Sunt vorbe de păstrat în spirt, expuse prin muzee.<br>
+<br>
+Din larg de crânguri vin zefiri şi tuturor dau veste<br>
+<br>
+Că-n ţara mea sunt trandafiri şi fete<br>
+<br>
+Că-n poveste,<br>
+<br>
+Idile nasc şi se desfac subt luminiş de lună,<br>
+<br>
+În ţara mea onoarea-i fleac şi dragostea<br>
+<br>
+Minciună.<br>
+<br>
+Şi-n ţara mea sunt mulţi părinţi ce plâng morminte<br>
+<br>
+Multe...<br>
+<br>
+Şi pribegesc scrâşniri din dinţi...<br>
+<br>
+Dar cine să le-asculte,<br>
+<br>
+Când e minciuna pe amvon şi nedreptatea-i lege,<br>
+<br>
+Când guvernanţii-s de carton<br>
+<br>
+Şi nepăsarea Rege?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pribeagu
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

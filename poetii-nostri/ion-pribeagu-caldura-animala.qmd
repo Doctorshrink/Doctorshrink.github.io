@@ -1,0 +1,212 @@
+---
+title: "Căldura animală"
+subtitle: "Ion Pribeagu"
+author: "Doctor Shrink"
+date: "2026-09-06"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZB5XZC-fWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+CĂLDURA ANIMALĂ<br>
+<br>
+Nenea, Nae Fostoloacă,<br>
+<br>
+Megies din stradă,scurtă<br>
+<br>
+S-a plîns doctorului Costea<br>
+<br>
+Că are dureri de burtă<br>
+<br>
+-Uite doctore, - am pus prisnit<br>
+<br>
+Și compres cu apă rece<br>
+<br>
+Și de-aproape o săptîmînă<br>
+<br>
+Mă tot doare și nu-mi trece.<br>
+<br>
+Uite ce-ai să faci – ii spune<br>
+<br>
+Doctorul cu chibzuință<br>
+<br>
+Trebuie să-ți pui pe burtă<br>
+<br>
+O căldura animală!<br>
+<br>
+O vițică, o căpriță<br>
+<br>
+Iepure sau un pisic<br>
+<br>
+Și de-l  ții un ceas pe burtă<br>
+<br>
+Nu mai ai nimic, nimic!<br>
+<br>
+Cum să intre-n pat cu capra<br>
+<br>
+Sau vițeaua a jigărită<br>
+<br>
+Și-apoi ce-o să zică mița<br>
+<br>
+Cînd l-o prinde-n pat cu vita?<br>
+<br>
+Dar o stașnică ideie<br>
+<br>
+La salvat în clipe grele:<br>
+<br>
+Ia două găini din curte<br>
+<br>
+Și se bagă în pat cu ele.<br>
+<br>
+Coana Mița isprăvindu-și<br>
+<br>
+Vorba cu vecinele<br>
+<br>
+A băgat puțin de seamă<br>
+<br>
+Că-i lipsesc găinile<br>
+<br>
+Caută le prin cotețe<br>
+<br>
+Sub șoproane, sub terarsă<br>
+<br>
+Nicaierea!Ca furtuna,<br>
+<br>
+Coana Mița intra-n casă<br>
+<br>
+Și-l zărește-ntins pe Nae<br>
+<br>
+Ca buhaiul de umflat<br>
+<br>
+Și fără să-i spuie o vorba<br>
+<br>
+Trage plapuma din pat<br>
+<br>
+Și ce credeți că văzură<br>
+<br>
+Ochii doamnei Fostoloacă<br>
+<br>
+O găina sta pe ouă<br>
+<br>
+Și cealaltă pe-o cracă.<br>
+<br>
+Adăugată de către-Radu Dan Alexandru<br>
+<br>
+Caldura animala<br>
+<br>
+Vezi toate poeziile poetului Ion Agarbiceanu<br>
+<br>
+Nenea<br>
+<br>
+Nae<br>
+<br>
+Fostoloaca<br>
+<br>
+Megies din strada<br>
+<br>
+Scurta<br>
+<br>
+S-a plans doctorului<br>
+<br>
+Costea<br>
+<br>
+Ca are dureri de burta<br>
+<br>
+-	Uite doctore, - am pus prisnit<br>
+<br>
+Si compres cu apa rece<br>
+<br>
+Si de-aproape o saptamana<br>
+<br>
+Ma tot doare si nu-mi trece.<br>
+<br>
+Uite ce-ai sa faci – ii spune<br>
+<br>
+Docotrul cu chibzuinta<br>
+<br>
+Trebuie sa-ti pui pe burta<br>
+<br>
+O caldura animala!<br>
+<br>
+O vitica, o caprita<br>
+<br>
+Iepure sau un pisic<br>
+<br>
+Si de-l tii un ceas pe burta<br>
+<br>
+Nu mai ai nimic, nimic!<br>
+<br>
+Cum sa intre-n pat cu capra<br>
+<br>
+Sau viteua a jigarrita<br>
+<br>
+Si-apoi ce-o sa zica mita<br>
+<br>
+Cand l-o prindre-n pat cu vita?<br>
+<br>
+Dar o stasnica ideie<br>
+<br>
+l-a salvat in clipe grele:<br>
+<br>
+Ia doua gaini din curte<br>
+<br>
+Si se baga in pat cu ele.<br>
+<br>
+Coana<br>
+<br>
+Mita ispravindu-si<br>
+<br>
+Vorba cu vecinele<br>
+<br>
+A bagat putin de seama<br>
+<br>
+Ca-i lipsesc gainile<br>
+<br>
+Cauta-le prin cotete<br>
+<br>
+Sub soproane, sub terarsa<br>
+<br>
+Nicaierea!<br>
+<br>
+Ca furtuna<br>
+<br>
+Coana<br>
+<br>
+Mita intra-n casa<br>
+<br>
+Si-l zareste-ntins pe<br>
+<br>
+Nae<br>
+<br>
+Ca buhaiul de umflat<br>
+<br>
+Si fara sa-i spuie o vorba<br>
+<br>
+Trage plapuma din pat<br>
+<br>
+Si ce credeti ca vazura<br>
+<br>
+Ochii doamnei<br>
+<br>
+Fostoloaca<br>
+<br>
+O gaina sta pe oua<br>
+<br>
+Si cealalta pe-o craca.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pribeagu
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,66 @@
+---
+title: "Un cântec preadulce"
+subtitle: "Iosif Trifa"
+author: "Doctor Shrink"
+date: "2026-09-06"
+categories: [poezie, spoken-word, cantec]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Scu-vl2j0gE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Un cântec preadulce-nvăţat-am în lume,<br>
+<br>
+îl cânt pe tot locul, mereu să răsune,<br>
+<br>
+cântarea mea e scurtă, se cântă într-un fel:<br>
+<br>
+mai lângă Domnul meu, mai lângă El.<br>
+<br>
+Chiar El mi-a fost Dascăl l-această cântare,<br>
+<br>
+lovindu-mă cu multe necazuri amare,<br>
+<br>
+m-a-nvăţat s-o cânt cu râvnă şi zel:<br>
+<br>
+mai lângă Domnul meu, mai lângă El.<br>
+<br>
+El cuibul de-acasă mi-l sparse-ntr-o vară,<br>
+<br>
+şi pribeag mă trimise prin lume şi ţară,<br>
+<br>
+simţindu-mă singur să cânt singurel:<br>
+<br>
+mai lângă Domnul meu, mai lângă El.<br>
+<br>
+O, scumpii mei fraţi, gândiţi-vă bine,<br>
+<br>
+că orice necaz în lume ne vine<br>
+<br>
+pe noi să ne-nveţe să cântăm într-un fel:<br>
+<br>
+mai lângă Domnul meu, mai lângă El.<br>
+<br>
+Cu-această cântare mereu ne-ntărim,<br>
+<br>
+când moartea veni-va, cu drag s-o primim,<br>
+<br>
+ca pe o solie ce ne duce la El:<br>
+<br>
+mai lângă Domnul meu, mai lângă El.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Iosif Trifa
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

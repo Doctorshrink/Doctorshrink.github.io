@@ -1,0 +1,90 @@
+---
+title: "Șarpele casei"
+subtitle: "Ion Pillat"
+author: "Doctor Shrink"
+date: "2026-09-06"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TA8cM9GxHik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nod din adâncuri,<br>
+<br>
+Sarpe al casei,<br>
+<br>
+Lapte ca spuma<br>
+<br>
+Ia-mi-l din blid.<br>
+<br>
+Lapte muls noaptea<br>
+<br>
+Pe luna noua,<br>
+<br>
+Miere de-albine<br>
+<br>
+Scoasă din stup.<br>
+<br>
+Lasă poiana,<br>
+<br>
+Umbra padurii:<br>
+<br>
+Casa te-asteapta<br>
+<br>
+Șarpe bătrân.<br>
+<br>
+Casa trosnește<br>
+<br>
+Din temelie:<br>
+<br>
+Vatra te cheamă,<br>
+<br>
+Șarpe bătrân.<br>
+<br>
+Noaptea de friguri<br>
+<br>
+Pruncul bolește;<br>
+<br>
+Galben te striga<br>
+<br>
+Șarpe bătrân.<br>
+<br>
+Boii pe brazda,<br>
+<br>
+Oile-n țarcuri<br>
+<br>
+Pier de-a-n picioare,<br>
+<br>
+Șarpe bătrân.<br>
+<br>
+Vraja de baba,<br>
+<br>
+Ruga de preot<br>
+<br>
+Leacuri și ierburi<br>
+<br>
+Nu pot nimic.<br>
+<br>
+Lasa padure,<br>
+<br>
+Lasa poiana<br>
+<br>
+Sarpe al casei<br>
+<br>
+Vino la cuib.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ion Pillat
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
