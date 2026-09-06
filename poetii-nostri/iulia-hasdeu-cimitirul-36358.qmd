@@ -1,0 +1,100 @@
+---
+title: "Cimitirul."
+subtitle: "Iulia Haşdeu"
+author: "Doctor Shrink"
+date: "2026-09-07"
+categories: [poezie, spoken-word, moarte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E4iv63RmtG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+CIMITIRUL<br>
+<br>
+Îmi place de el, acest cimitir sărac,<br>
+<br>
+Care sunt martori revoltați,i noștri zburda.<br>
+<br>
+Îți amintești acele vremuri de până acum<br>
+<br>
+Unde făceam școala debusolați?<br>
+<br>
+Cînd ne-a plăcut să stăm pe o piatră.<br>
+<br>
+Pentru a ne spune secretele noastre infantine:<br>
+<br>
+Și ne-a plăcut  să  stăm la tristul cimitir.<br>
+<br>
+El a vrut la acest monument negru,<br>
+<br>
+La aceasta biserica din ochii noștri încă e frumoasă,<br>
+<br>
+Care la timp a servit ca o capelă<br>
+<br>
+Pentru a călugări o mănăstirea antică.<br>
+<br>
+Sub  un chiparos de multe ori rătăcesc,<br>
+<br>
+Umbra lor a fost mereu proaspătă și nouă,<br>
+<br>
+Și ne-a plăcut monumentul întunecat.<br>
+<br>
+Încă văd volumul abandonat,<br>
+<br>
+Marmura unde am fost în căutarea de a o  sparge<br>
+<br>
+O lege pierdută, că a trebuit să plîngem bine<br>
+<br>
+Odată, un nume al unei femei recoltate,<br>
+<br>
+Ca o floare, de moarte încăpăţînată.<br>
+<br>
+Cine râde de relele pe care le face.<br>
+<br>
+Eu,o văd,ca un  mormîntul abandonat.<br>
+<br>
+Și mai văd sub salcia de plîns<br>
+<br>
+Razant un front de ramuri se lasă;<br>
+<br>
+Copacul, acoperit cu stele albe<br>
+<br>
+Cînd s-a venit aprilie, luna florilor;<br>
+<br>
+Salcia, răspîndindu-și  al său miros,<br>
+<br>
+Și cerul a devenit  un buchet pervertit<br>
+<br>
+Cine va sta sub, salcie plângând.<br>
+<br>
+Că el a fugit ca un vis efemer<br>
+<br>
+Fericirea noastră, în trecutul îndepărtat.<br>
+<br>
+Cine poate ști cînd se oprește destinul<br>
+<br>
+Care adună în vechiul nostru cimitir.<br>
+<br>
+Inimile noastre ce s-au despărțit de mult timp pe pămînt,<br>
+<br>
+Cînd picura în  noi, dimineață fericită.<br>
+<br>
+Care a fugit ca un vis efemer!<br>
+<br>
+Tradusă și adaptată  de către-Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Iulia Haşdeu
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

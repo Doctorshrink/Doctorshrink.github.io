@@ -1,0 +1,78 @@
+---
+title: "La ţărmul mării"
+subtitle: "Iulia Haşdeu"
+author: "Doctor Shrink"
+date: "2026-09-07"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SO2Zx5hP1nI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+LA TĂRMUL MĂRII<br>
+<br>
+Prieteni, bună seara, sub clar de lună spun<br>
+<br>
+Sub vântul care plânge trecând prin codrul brun<br>
+<br>
+Ca nişte unde care, lovindu-se, se sparg<br>
+<br>
+Şi sub uşoara briză ce trestia o-nclină<br>
+<br>
+Un călător visează şi-n visuri se alină<br>
+<br>
+Şi-ascultă glăsuirea talazului din larg.<br>
+<br>
+Pe-acest pescar noptatec pe stânca sumbră-l văd<br>
+<br>
+Cum îşi îndreaptă ochii spre al cerului prăpăd<br>
+<br>
+Şi-n timp ce-a lui privire pătrunde-n firmament,<br>
+<br>
+El se întreabă, poate ce este cu-acest cântec<br>
+<br>
+Ce către ceruri suie rupt din al mării pântec<br>
+<br>
+Se stinge şi renaşte în fiece moment.<br>
+<br>
+Aţi auzit, prieteni, ce imn a înălţat<br>
+<br>
+Nemărginita mare spre cerul înstelat?<br>
+<br>
+Ce muzică sublimă trezeşte Dumnezeu<br>
+<br>
+În lumea infinită Atoatecreator<br>
+<br>
+Însufleţind talazul statornic călător<br>
+<br>
+Să cânte imnul sufletului meu!<br>
+<br>
+Prin Dumnezeu vorbeşte talazul vast al mării<br>
+<br>
+Şi totul prinde viaţă la şoaptele chemării,<br>
+<br>
+Venind din mari adâncuri ca soarele-n răsfrângeri<br>
+<br>
+Al valurilor mării fantastic cor de îngeri<br>
+<br>
+Care-şi topeşte-n spaţii nemărginite ceara<br>
+<br>
+În castul clar de lună, prieteni, bună seara!<br>
+<br>
+Adăugată de către-Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Iulia Haşdeu
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

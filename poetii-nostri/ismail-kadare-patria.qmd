@@ -1,0 +1,49 @@
+---
+title: "Patria"
+subtitle: "Ismail Kadare"
+author: "Doctor Shrink"
+date: "2026-09-07"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wrB0zQZwtOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Patria nu-i numai<br>
+Goana romburilor de beton pe pista prelungă a aeroportului,<br>
+Mantaua ostaşului, sub ploaie şi vânt,<br>
+Adresa, în albaneză, spusă taximetristului.<br>
+Patria este mai fermă decât pista de beton,<br>
+Mai ostaş decât acel ostaş.<br>
+<br>
+Patria,<br>
+Trandafirul de pe fiece mormânt de erou<br>
+Căzut pe fundal stacojiu de cruci şi de flăcări;<br>
+Năframa cernită a mamei,<br>
+Şirul nesfârşit al refugiaţilor cu chipuri cetluite<br>
+Ca şi când ar ţine închis în ele<br>
+Misterul lumii acesteia.<br>
+Patria,<br>
+Strămoşii rătăcind printre secole,<br>
+Purtându-şi pe umeri străvechile cetăţi ca pe nişte urne<br>
+Poleite-n roşu şi negru, spre Panteon, spre glorie.<br>
+Patria,<br>
+Betonul armat al vechilor şi noilor vise,<br>
+Amurgurile trecute şi viitoarele dimineţi,<br>
+Patria suntem noi toţi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ismail Kadare
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

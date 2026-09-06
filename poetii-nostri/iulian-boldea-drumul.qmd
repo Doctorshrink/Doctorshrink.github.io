@@ -1,0 +1,40 @@
+---
+title: "Drumul"
+subtitle: "Iulian Boldea"
+author: "Doctor Shrink"
+date: "2026-09-07"
+categories: [poezie, spoken-word, drum]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xgg9f84B0N8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+drumul meu zilnic pe lângă cetate pe lângă zborul neauzit al fluturilor<br>
+pe lângă meandrele tulburate ale florilor stinghere<br>
+drumul meu zilnic pe lângă chipurile cuminţi şi atente<br>
+reculese şi ipocrite drumul meu zilnic pe lângă cetate<br>
+în aerul limpede curba graţioasă a zborului păsărilor<br>
+în lumina amiezii travestiul acesta al spaimei clar desenate pe obrazul meu<br>
+şi gândurile mele închise în osul străveziu al tâmplei<br>
+dizolvate în sângele meu mut.<br>
+dar limbuţia voinţei dar<br>
+arhitectura fragilă a timpului<br>
+iarăşi şi iarăşi măsurându-mi tăcerea suspectă<br>
+în drumul meu zilnic<br>
+pe lângă cetate...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Iulian Boldea
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
