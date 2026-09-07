@@ -1,0 +1,44 @@
+---
+title: "Ce vară luminată şi ştrengară!"
+subtitle: "Ivan Bunin"
+author: "Doctor Shrink"
+date: "2026-09-08"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ykaYiVSsMs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ce vară luminată şi ştrengară!<br>
+<br>
+Te uită-n ochii mei, ca înainte<br>
+<br>
+Şi spune-mi: de ce tristă eşti în vară?<br>
+<br>
+Şi unde-i gingăşia ta cuminte?<br>
+<br>
+Dar taci, firavă, ochii nu-ţi sînt galeşi,<br>
+<br>
+Nu-mi mai şopti recunoştinţi cu brio:<br>
+<br>
+Eu am aflat tandreţea de adio –<br>
+<br>
+Sînt singur, iarăşi!<br>
+<br>
+Versuri tălmăcite de Traianus
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ivan Bunin
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

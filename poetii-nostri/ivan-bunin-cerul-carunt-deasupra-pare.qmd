@@ -1,0 +1,44 @@
+---
+title: "Cerul cărunt deasupra pare,"
+subtitle: "Ivan Bunin"
+author: "Doctor Shrink"
+date: "2026-09-08"
+categories: [poezie, spoken-word, cer]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SWvjBg4cOoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cerul cărunt deasupra pare,<br>
+<br>
+Doarme pădurea-n luminiş,<br>
+<br>
+Printre cărări şi pe furiş<br>
+<br>
+Glodul se-ntunecă-n frunzare.<br>
+<br>
+Pe sus e-un zgomot, arde foc,<br>
+<br>
+Pe jos-tăceri,urme pe prunduri...<br>
+<br>
+Mi-i toată tinereţea joc<br>
+<br>
+Şi tihnă singurelor gînduri!<br>
+<br>
+Versuri tălmăcite de Traianus
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ivan Bunin
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

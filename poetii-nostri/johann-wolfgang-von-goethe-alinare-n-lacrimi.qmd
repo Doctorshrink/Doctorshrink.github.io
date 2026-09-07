@@ -1,0 +1,92 @@
+---
+title: "Alinare-n lacrimi"
+subtitle: "Johann Wolfgang von Goethe"
+author: "Doctor Shrink"
+date: "2026-09-08"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W9to4rAB--k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+De ce eşti oare-atât de trist<br>
+<br>
+Când totul e voios?<br>
+<br>
+Ţi se cunoaşte după ochi,<br>
+<br>
+Ai plâns, neîndoios.<br>
+<br>
+&quot;Şi chiar acum de-am lăcrimat,<br>
+<br>
+stingher,<br>
+<br>
+Mi-am plâns durerea mea,<br>
+<br>
+Şuvoiul lacrimilor lin<br>
+<br>
+Povara parcă-mi ia.&quot;<br>
+<br>
+Voioşi prietenii îţi spun:<br>
+<br>
+La pieptul nostru, vin&#x27;!<br>
+<br>
+Şi orişice ai fi pierdut<br>
+<br>
+Încrede-te deplin.<br>
+<br>
+&quot;În larma voastră, nici ghiciţi<br>
+<br>
+De unde-i chinul meu.<br>
+<br>
+O, nu-i ceva ce-aş fi pierdut,<br>
+<br>
+De-i dorul cât de greu.&quot;<br>
+<br>
+Ci hai mai iute, fruntea sus!<br>
+<br>
+Atât de tânăr eşti!<br>
+<br>
+La anii tăi ai doar puteri<br>
+<br>
+Şi-avânt să cucereşti.<br>
+<br>
+&quot;Să cuceresc aceasta, nu,<br>
+<br>
+Căci prea departe mi-i.<br>
+<br>
+Sclipeşte-nalt şi-aşa frumos<br>
+<br>
+Ca steaua din tării.&quot;<br>
+<br>
+La stele n-ai ce să râvneşti;<br>
+<br>
+Splendoarea lor sorbim<br>
+<br>
+Şi fermecaţi privim în sus<br>
+<br>
+Spre-al nopţii cer senin.<br>
+<br>
+&quot;Şi zi de zi, privesc în sus<br>
+<br>
+Departe, fermecat;<br>
+<br>
+Lăsaţi-mi nopţile să plâng,<br>
+<br>
+Cât plânsul n-a secat.&quot;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Johann Wolfgang von Goethe
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

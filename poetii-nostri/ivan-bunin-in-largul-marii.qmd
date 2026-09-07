@@ -1,0 +1,90 @@
+---
+title: "În largul mării"
+subtitle: "Ivan Bunin"
+author: "Doctor Shrink"
+date: "2026-09-08"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K90M58LY3aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În largul mării-numai cer,<br>
+<br>
+Apă şi vînt şi, îngrelat,<br>
+<br>
+Trec valuri, ca un temnicer<br>
+<br>
+Stau pescăruşii la vînat.<br>
+<br>
+În largul mării vîntul poartă<br>
+<br>
+Ba licăr, ba umbrinde veşti,<br>
+<br>
+Iar tu, uitată eşti, uitată,<br>
+<br>
+La nesfîrşit departe eşti!<br>
+<br>
+Dar valurile-n foc de aştri<br>
+<br>
+Fug în întîmpinarea mea<br>
+<br>
+Şi cineva cu ochi albaştri<br>
+<br>
+Se uită-n valuri singurea<br>
+<br>
+Şi-atunci ceva, mai viu, sporeşte,<br>
+<br>
+Ca apa-n valuri albăstrii<br>
+<br>
+Din nou, din nou îmi aminteşte<br>
+<br>
+Ce am uitat peste vecii!<br>
+<br>
+* * *<br>
+<br>
+Printre grădini văd casa mult prea bine,<br>
+<br>
+Din geamuri luci de soare o cuprinde,<br>
+<br>
+Aur cristalizat pe clavecine,<br>
+<br>
+Covoare vechi şi mese înflorite.<br>
+<br>
+În jurul casei- linişti adormite.<br>
+<br>
+Arborii tac sau au uitat ce ştiu...<br>
+<br>
+Uşile-nchise... Împăienjenite,<br>
+<br>
+Zac cărţile umbrite de tîrziu<br>
+<br>
+Şi-aşa de ani şi ani avea să fie,<br>
+<br>
+O molie înaintează mut.<br>
+<br>
+Pe sticlă, enervat de-o nerozie,<br>
+<br>
+Un fluture se caţără, căzut.<br>
+<br>
+Dar nu-i un oberliht şi rama-i stacojie.<br>
+<br>
+Nici molia aici nu va trăi prea mult!<br>
+<br>
+Versuri tălmăcite de Traianus
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ivan Bunin
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

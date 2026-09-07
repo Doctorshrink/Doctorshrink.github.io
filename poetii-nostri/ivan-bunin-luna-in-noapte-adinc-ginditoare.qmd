@@ -1,0 +1,68 @@
+---
+title: "Luna în noapte, adînc gînditoare..."
+subtitle: "Ivan Bunin"
+author: "Doctor Shrink"
+date: "2026-09-08"
+categories: [poezie, spoken-word, luna_stele, noapte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iQoH34cUaBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Luna în noapte, adînc gînditoare...<br>
+<br>
+Dealul în stepă, uitat,<br>
+<br>
+Tremură-n tihna tăcerilor, care<br>
+<br>
+Ceruri au însingurat.<br>
+<br>
+Urme pe prund, lunecînd înspre mare,<br>
+<br>
+Duse de valuri, pe rînd...<br>
+<br>
+Vîntul prin cîmp stăpîneşte o zare,<br>
+<br>
+Printre grînare umblînd.<br>
+<br>
+Vîntul prin cîmp se ascunde în luna<br>
+<br>
+Cerului plin şi nocturn,<br>
+<br>
+Lin într-o umbră adoarme, nebuna,<br>
+<br>
+După un nour nebun.<br>
+<br>
+De după nouri răzbate lumină,<br>
+<br>
+Iar peste grîul aprins<br>
+<br>
+Fuge, tiptil, fulgerînd fără vină<br>
+<br>
+Astrul de boltă desprins.<br>
+<br>
+Bezna-şi împrăştie cenuşa spre maluri,<br>
+<br>
+Parcă ar scoate-o din horn,<br>
+<br>
+Noaptea − poveste, aduce din valuri<br>
+<br>
+Dulcele zorilor somn...<br>
+<br>
+Versuri tălmăcite de Traianus
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ivan Bunin
+* **Temă:** luna_stele, noapte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

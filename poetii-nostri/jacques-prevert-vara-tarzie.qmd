@@ -1,0 +1,66 @@
+---
+title: "Vara tarzie"
+subtitle: "Jacques Prevert"
+author: "Doctor Shrink"
+date: "2026-09-08"
+categories: [poezie, spoken-word, caldura]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XGndn1IY93k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vremea iubirilor noastre-a fost vara fugara,<br>
+<br>
+vara tarzie-a pus capat grabitului zbor.<br>
+<br>
+Parca vad cum plecai pe nisip-strigau,<br>
+<br>
+strigau si piereau in septembrie mainile tale.<br>
+<br>
+Nu mai stiu ce-a urmat dupa tine.<br>
+<br>
+Poate un gol, poate pasari sau vant.<br>
+<br>
+Te-am chemat inca mult timp si nimenea<br>
+<br>
+nu-mi raspundea,<br>
+<br>
+pana cand intr-o noapte a raspuns pentru tine zapada.<br>
+<br>
+Ar fi fost sa te uit ori sa-mi spun<br>
+<br>
+ca-ntalnirile noastre n-au fost decat visul<br>
+<br>
+gradinii aceleia,<br>
+<br>
+ca volutele sanilor tai nu erau decat umbletul<br>
+<br>
+lunii prin apa,<br>
+<br>
+surprins de un tanar.<br>
+<br>
+Dar vara de cate ori trece si tremura-n zare<br>
+<br>
+din nou banuindu-se toamna cu capul tau rosu,<br>
+<br>
+vad iarasi nisipul acela, vad iarasi cum pleci-<br>
+<br>
+si striga,<br>
+<br>
+striga pierind in septembrie mainile tale.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Jacques Prevert
+* **Temă:** caldura
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
