@@ -1,0 +1,56 @@
+---
+title: "Lăsați-mi plânsul!"
+subtitle: "Johann Wolfgang von Goethe"
+author: "Doctor Shrink"
+date: "2026-09-09"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rDbbCKE_tGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Lăsați-mi plânsul! Grănițat de noapte,<br>
+<br>
+În nesfârșitul pustiu<br>
+<br>
+Cămile dorm, călăuze la fel,<br>
+<br>
+Socotind tăcut veghează armeanul;<br>
+<br>
+Eu însă, alături, număr poștele<br>
+<br>
+Ce mă despart de Suleika, reiau<br>
+<br>
+Prelungitoarele, supărătoarele cotiri de drum.<br>
+<br>
+Lăsați-mi plânsul! Nu-i nici o rușine.<br>
+<br>
+Oameni ce plâng sunt buni.<br>
+<br>
+N-a plâns Ahile după Briseis!<br>
+<br>
+Xerses și-a plâns nebiruită oștire.<br>
+<br>
+Pe iubitul său sinucis,<br>
+<br>
+Alexandru l-a plâns.<br>
+<br>
+Lăsați-mi plânsul! Lacrimi dau colbului viață.<br>
+<br>
+Iată, crapă de ziuă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Johann Wolfgang von Goethe
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,58 @@
+---
+title: "Lăsați-mă să plâng"
+subtitle: "Johann Wolfgang von Goethe"
+author: "Doctor Shrink"
+date: "2026-09-09"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ydusBq2x6wY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Lăsați-mă să plâng de noapte-ncercuit,<br>
+<br>
+În pustiul fără margini,<br>
+<br>
+Cămilele se odihnesc, deasemeni cei care le mână,<br>
+<br>
+Armeanul se deșteaptă socotind încet;<br>
+<br>
+Eu, lângă el însă număr distanța<br>
+<br>
+Ce mă desparte de Suleika și-mi tot repet<br>
+<br>
+Acele ocolișuri lungi de drum.<br>
+<br>
+Lăsați-mă să plâng! Nu-i o rușine.<br>
+<br>
+Bărbații care plâng îmi plac.<br>
+<br>
+Achille nu plânse după Brizea<br>
+<br>
+Și Xerxes după oastea-i neînfrântă?<br>
+<br>
+După sinucigașa dragoste<br>
+<br>
+nu plânse Alexandru?<br>
+<br>
+Lăsați-mă să plâng!<br>
+<br>
+Lacrima deșertului dă viață;<br>
+<br>
+Și iată, înverzește.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Johann Wolfgang von Goethe
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,45 @@
+---
+title: "Lăsaţi-mă să plâng"
+subtitle: "Johann Wolfgang von Goethe"
+author: "Doctor Shrink"
+date: "2026-09-09"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M6hSCFJ-ukU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Lăsaţi-mă să plâng! Încercuit<br>
+De noapte, în pustiul fără margini<br>
+Cămile dorm şi cei care le mână.<br>
+Tăcut veghează-armeanul socotind.<br>
+Iar eu, alături, milele socot<br>
+Cari de Suleica mă despart; revăd<br>
+Supărătoate, lungile-ocolişuri.<br>
+<br>
+Lăsaţi-mă să plâng! nu e ruşine!<br>
+Bărbaţii care plâng, sunt buni.<br>
+Doar şi Achille-a plâns pentru Brizeis!<br>
+Jelit-a Xerxes oastea neînfrântă.<br>
+Pe cel iubit ce singur moartea-şi dete<br>
+Îl plânse Alexandru.<br>
+Lăsaţi-mă sa plâng! sub lacrimi colbul prinde viaţă,<br>
+Iar musteşte.<br>
+<br>
+de Maria Banuş
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Johann Wolfgang von Goethe
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

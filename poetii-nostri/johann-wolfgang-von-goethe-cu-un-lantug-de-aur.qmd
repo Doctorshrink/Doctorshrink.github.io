@@ -1,0 +1,50 @@
+---
+title: "Cu un lănțug de aur"
+subtitle: "Johann Wolfgang von Goethe"
+author: "Doctor Shrink"
+date: "2026-09-09"
+categories: [poezie, spoken-word, libertate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r9aRasL_JFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vreau un lănțug să-ți dau acușe,<br>
+<br>
+Cu mlădieri de mult deprins,<br>
+<br>
+Dorind, în mii de inelușe,<br>
+<br>
+La gâtul tău să fie prins.<br>
+<br>
+Tu fă-i pe plac, e o nimică,<br>
+<br>
+E dorul lui sfios, fugar,<br>
+<br>
+Iar ziua-i o podoabă mică<br>
+<br>
+Și seara ai să-l lepezi iar.<br>
+<br>
+Dar de-ți aduce unu-odată<br>
+<br>
+Un lanț ce te-ar încătușa,<br>
+<br>
+Eu nu-ți port pică, dragă fată,<br>
+<br>
+De șovăiești, Lisette-a mea.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Johann Wolfgang von Goethe
+* **Temă:** libertate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

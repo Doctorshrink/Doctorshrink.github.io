@@ -1,0 +1,130 @@
+---
+title: "Ceasul de nisip"
+subtitle: "Jorge Luis Borges"
+author: "Doctor Shrink"
+date: "2026-09-09"
+categories: [poezie, spoken-word, timp]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJUi3ZGaXlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+E măsurat de mișcătoarea umbră<br>
+<br>
+A stâlpului pe lespedea-nsorită,<br>
+<br>
+De unda râului neobosită.<br>
+<br>
+Deșartă goană, nebunie sumbră<br>
+<br>
+E timpul. O, cum seamănă-amândouă<br>
+<br>
+Cu timpul și cu soarta: a zilei umbră<br>
+<br>
+Ușoară, lină; unda care umblă<br>
+<br>
+Neostenit, croindu-și cale nouă.<br>
+<br>
+În dogorit pustiu el a găsit<br>
+<br>
+Plămadă potrivită: grea și fină,<br>
+<br>
+Pesemne-nchipuită ca să țină<br>
+<br>
+În seamă veacul celor ce-au murit.<br>
+<br>
+Ivitu-s-a un instrument ciudat,<br>
+<br>
+Expus pe-o etajeră prăfuită,<br>
+<br>
+Alături de o spadă ruginită,<br>
+<br>
+Un turn răzleț și-un telescop stricat.<br>
+<br>
+Deși apare-n enciclopedie<br>
+<br>
+Pe-o plașă în culori, e osândit<br>
+<br>
+Să-nțepenească într-un colț sordid<br>
+<br>
+În pulbere-ngropat. Nimicnicie.<br>
+<br>
+Severul și cumplitul instrument<br>
+<br>
+Ce, zugrăvit de Dürer, e ținut<br>
+<br>
+În mâna Domnului, în ceas știut<br>
+<br>
+Ne sperie, și îl privim atent.<br>
+<br>
+Prin vârf mereu deschis un con invers<br>
+<br>
+Strecoară lin nisipul precaut<br>
+<br>
+Ce s-a desprins și – iată – a umplut<br>
+<br>
+Cleștar scobit de tainic univers.<br>
+<br>
+E o-ncântare să privești arina<br>
+<br>
+Ce se prelinge-ncet, se-mpuținează<br>
+<br>
+Și, înainte de-a cădea, cu groază<br>
+<br>
+Tresare omenește, bat-o vina.<br>
+<br>
+Nisipul ciclurilor e același,<br>
+<br>
+Povestea lui e fără de sfârșit.<br>
+<br>
+Nefericit de ești ori fericit,<br>
+<br>
+Se-afundă veșnicia. Neoprit. Aș<br>
+<br>
+Dori să întrerup a ei cădere.<br>
+<br>
+Eu sângerez, nu conul de cleștar.<br>
+<br>
+E nesfârșit ritualul funerar<br>
+<br>
+Și-o dată cu nisipul viața piere.<br>
+<br>
+În clipele când se prefiră-arina<br>
+<br>
+Simt timpul cosmic, intuiesc istoria<br>
+<br>
+Pe care-o prinde-n ciobul ei memoria<br>
+<br>
+Ori o cuprinde Lethe-n unda-i lină.<br>
+<br>
+Un stâlp de fum și celălalt de foc,<br>
+<br>
+Cartagina ce Roma n-o răzbește,<br>
+<br>
+Și regele saxon ce-i pregătește<br>
+<br>
+Norvegului de-ngropăciune loc.<br>
+<br>
+Tot risipește, făr′ să ostenească,<br>
+<br>
+Subțire fir de-arină-mbelșugată.<br>
+<br>
+Putea-va oare-un râu de timp scăldată<br>
+<br>
+Ființa-mi, biata, să se izbăvească?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Jorge Luis Borges
+* **Temă:** timp
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

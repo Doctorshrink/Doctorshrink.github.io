@@ -1,0 +1,68 @@
+---
+title: "Floare de răsură"
+subtitle: "Johann Wolfgang von Goethe"
+author: "Doctor Shrink"
+date: "2026-09-09"
+categories: [poezie, spoken-word, flori]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/90OEc2kRI9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Un flăcău în câmp zări<br>
+<br>
+Floarea de răsură,<br>
+<br>
+Mândră-n straie purpurii.<br>
+<br>
+Dulce-n inimă simți<br>
+<br>
+O săgetătură,<br>
+<br>
+Roșu, roșu trandafir,<br>
+<br>
+Floare de răsură.<br>
+<br>
+El îi zise: Eu te rup,<br>
+<br>
+Floare de răsură.<br>
+<br>
+Floarea zise: Eu te-mpung,<br>
+<br>
+Să ții minte îndelung –<br>
+<br>
+Floarea nu îndură,<br>
+<br>
+Roșu, roșu trandafir,<br>
+<br>
+Floare de răsură.<br>
+<br>
+Crunt flăcăul, crunt a rupt<br>
+<br>
+Floarea de răsură.<br>
+<br>
+Ea l-a-mpuns și s-a zbătut.<br>
+<br>
+Geaba-n lacrimi a gemut,<br>
+<br>
+Soarta tot o-ndură,<br>
+<br>
+Roșu, roșu trandafir,<br>
+<br>
+Floare de răsură.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Johann Wolfgang von Goethe
+* **Temă:** flori
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
