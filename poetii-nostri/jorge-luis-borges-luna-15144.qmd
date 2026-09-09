@@ -1,0 +1,212 @@
+---
+title: "Luna"
+subtitle: "Jorge Luis Borges"
+author: "Doctor Shrink"
+date: "2026-09-10"
+categories: [poezie, spoken-word, luna_stele, noapte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/boKVd5Qm_ME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Povestea spune că-n acel uitat<br>
+<br>
+Trecut în care-atîtea-s făptuite,<br>
+<br>
+Nesigure, reale,-nchipuite,<br>
+<br>
+Un om a conceput nemăsurat<br>
+<br>
+Proiect de a închide universul<br>
+<br>
+În carte şi-n avînt nesăbuit<br>
+<br>
+Nălţat-a manuscris fin întocmit,<br>
+<br>
+Din scoarţă-n scoarţă declamîndu-i versul.<br>
+<br>
+Se pregătea acum să-i mulţumească<br>
+<br>
+Preabunei sorţi, cînd, deodată, vede<br>
+<br>
+Disc lucitor pe cer. Nu-i vine-a crede:<br>
+<br>
+Uitase-n grabă luna s-o numească.<br>
+<br>
+Povestea-i născocită, ia aminte,<br>
+<br>
+Dar poate tîlcui vrăjitoria<br>
+<br>
+Acelora ce-ales-am meseria<br>
+<br>
+De-a preschimba viaţa în cuvinte.<br>
+<br>
+Mereu esenţa scapă. Legea-i una.<br>
+<br>
+Orice cuvînt e palid raportat<br>
+<br>
+La lucru-n sine. Bietul rezumat<br>
+<br>
+Al vechii mele prietenii cu luna<br>
+<br>
+N-o poate eluda. Şi unde oare<br>
+<br>
+Văzut-o-am întîi? Întipărită<br>
+<br>
+Pe cerul teoriei ori ivită<br>
+<br>
+În seara ce se lasă peste mare?<br>
+<br>
+Cum ştim, viaţa noastră schimbătoare<br>
+<br>
+Să fie poate, uneori, frumoasă,<br>
+<br>
+Şi au fost şi seri cînd, mire şi mireasă,<br>
+<br>
+Te-am contemplat, o, lună, cu-ncîntare.<br>
+<br>
+Mai lesne ca de luna-adevărată<br>
+<br>
+De cea din vers să-mi amintesc îmi este:<br>
+<br>
+Vrăjita dragon moon care uimeşte<br>
+<br>
+Şi a lui Quevedo lună-nsîngerată.<br>
+<br>
+De altă lună aprinsă, stacojie,<br>
+<br>
+Vorbit-a Ioan în cartea-i cu bizare<br>
+<br>
+Minuni şi lucruri înfricoşătoare;<br>
+<br>
+Răsar şi luni de aur în tărie.<br>
+<br>
+Pitagora cu sînge (povesteşte<br>
+<br>
+Tradiţia) scria pe o oglindă,<br>
+<br>
+Şi oamenii citeau în altă oglindă:<br>
+<br>
+Oglinda lunii scrisul oglindeşte.<br>
+<br>
+De fier pădurea-i unde-aşteaptă ora<br>
+<br>
+Lup cu destin ciudat legat de lună:<br>
+<br>
+Din cer să o doboare, s-o răpună,<br>
+<br>
+Cînd marea înroşi-va aurora.<br>
+<br>
+(În Nord profetic soarta-i e ştiută<br>
+<br>
+Şi-aşijderi că-n aceeaşi zi fatală<br>
+<br>
+Spurca-va marea nava legendară<br>
+<br>
+Din unghii strînse de la morţi făcută.)<br>
+<br>
+La Zürich ori Geneva, cînd nebuna<br>
+<br>
+Mea soartă a vrut să fiu şi eu poet,<br>
+<br>
+Mi-am stabilit, ca toţi, canon secret<br>
+<br>
+De-a defini cu-nverşunare luna.<br>
+<br>
+Amarnic mă sileam să aflu chipul<br>
+<br>
+De-a depăşi modeste variaţii,<br>
+<br>
+Cu spaima că Lugones comparaţii<br>
+<br>
+Cu ambra folosise şi nisipul.<br>
+<br>
+Cu fildeş depărtat, cu fum, cu nea,<br>
+<br>
+Pe rînd a fost asemuită luna,<br>
+<br>
+Dar versul să cunoască n-a fost bun a<br>
+<br>
+Tiparului cerneală cinste grea.<br>
+<br>
+Poetul - îmi spuneam - găseşte-n lume,<br>
+<br>
+Precum roşcatu-Adam din paradis,<br>
+<br>
+Oricărui lucru singurul, precis,<br>
+<br>
+Adevărat, nepus de alţii nume.<br>
+<br>
+Spune Ariosto că locaş e luna<br>
+<br>
+De vise. Acolo lin, ireversibil<br>
+<br>
+Se scurge timpul, tot ce e posibil<br>
+<br>
+Ori imposibil, ceea ce-i totuna.<br>
+<br>
+Apolodor să văd m-a ajutat<br>
+<br>
+A Dianei schimbătoare umbră magică,<br>
+<br>
+Şi-un irlandez, o neagră lună tragică;<br>
+<br>
+De aur seceră Hugo mi-a dat.<br>
+<br>
+Şi-n timp ce eu în mină coboram<br>
+<br>
+De astre pure din mitologie,<br>
+<br>
+Cereasca lună iată că învie<br>
+<br>
+La colţul străzii, acolo, lîngă ram.<br>
+<br>
+Dintre ale noastre vorbe ştiu că una<br>
+<br>
+Există, pentru a o figura.<br>
+<br>
+Secretul stă, cred, în a o afla<br>
+<br>
+Cu umilinţă. Este vorba luna.<br>
+<br>
+Să întinez nu îndrăznesc curata<br>
+<br>
+Ivire-a lunii cu-o figură vană.<br>
+<br>
+Indescifrabilă-i şi cotidiană<br>
+<br>
+Şi mai presus de poezia-mi, biata.<br>
+<br>
+Şi ştiu că luna sau cuvîntul luna<br>
+<br>
+E-un şir de semne care-au fost create<br>
+<br>
+Spre-a da un sens acestei încifrate<br>
+<br>
+Enigme ce sîntem, multiplă, una.<br>
+<br>
+E o imagine perpetuu vie,<br>
+<br>
+Ce omului destinu-i hărăzeşte,<br>
+<br>
+Cînd se înalţă ori se prăbuşeşte,<br>
+<br>
+Ca numele-i adevărat să-l poată scrie.<br>
+<br>
+Trad. Andrei Ionescu
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Jorge Luis Borges
+* **Temă:** luna_stele, noapte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

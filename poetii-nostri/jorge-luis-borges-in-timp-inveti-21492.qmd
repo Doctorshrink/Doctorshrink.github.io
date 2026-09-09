@@ -1,0 +1,140 @@
+---
+title: "În timp inveti...."
+subtitle: "Jorge Luis Borges"
+author: "Doctor Shrink"
+date: "2026-09-10"
+categories: [poezie, spoken-word, timp]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N1CVJap3wEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+După un anumit timp,<br>
+<br>
+omul învaţă să perceapă diferenţa<br>
+<br>
+subtilă între a susţine o mână<br>
+<br>
+şi a înlănţui un suflet,<br>
+<br>
+şi învaţă că amorul nu înseamnă a te culca cu cineva<br>
+<br>
+şi că a avea pe cineva alături nu e sinonim cu starea desiguranţă,<br>
+<br>
+şi aşa, omul începe să înveţe...<br>
+<br>
+că săruturile nu sunt contracte şi cadourile nu sunt promisiuni,<br>
+<br>
+şi aşa omul începe să-şi accepte căderile cu capul sus şi cu ochii larg deschişi,<br>
+<br>
+şi învaţă să-şi construiască toate drumurile bazate în astăzi şi acum,<br>
+<br>
+pentru că terenul lui mâine este prea nesigur pentru a face planuri ...<br>
+<br>
+şi viitorul are mai mereu o mulţime de variante care se opresc însă la<br>
+<br>
+jumătatea drumului.<br>
+<br>
+Şi după un timp, omul învaţă că dacă e prea mult,<br>
+<br>
+până şi căldura cea dătătoare de viaţă a soarelui, arde şi calcinează.<br>
+<br>
+Aşa că începe să-şi planteze propria grădină<br>
+<br>
+şi-şi împodobeşte propriul suflet,<br>
+<br>
+în loc să mai aştepte ca altcineva să-I aducă flori,<br>
+<br>
+şi învaţă că într-adevăr poate suporta, că într-adevăr are forţă,<br>
+<br>
+că într-adevăr e valoros,<br>
+<br>
+şi omul învaţă şi învaţă ...şi cu fiecare zi învaţă...<br>
+<br>
+Cu timpul înveţi că a sta alături decineva pentru că îţi oferă un viitor bun,<br>
+<br>
+înseamnă că mai devreme sau mai târziu vei vrea să te întorci la trecut.<br>
+<br>
+Cu timpul înţelegi că doar cel care e capabil<br>
+<br>
+să te iubească cu defectele tale, fără a pretinde să te schimbe,<br>
+<br>
+îţi poate aduce toată fericirea pe care ţi-o doreşti.<br>
+<br>
+Îţi dai seama cu timpul că dacă eşti alături de această<br>
+<br>
+persoană doar pentru a-ţi întovărăşi singurătatea,<br>
+<br>
+în mod inexorabil vei ajunge să nu mai vrei să o vezi<br>
+<br>
+Ajungi cu timpul să înţelegi că adevăraţii prieteni sunt număraţi,<br>
+<br>
+şi că cel care nu luptă pentru ei, mai devreme sau mai târziu se va vedea înconjurat doar de false prietenii<br>
+<br>
+Cu timpul înveţi că vorbele spuse într-un moment de mânie,<br>
+<br>
+pot continua tot restul vieţii să facă rău celui rănit.<br>
+<br>
+Cu timpul înveţi că a scuza e ceva ce poate face oricine,<br>
+<br>
+dar că a ierta, asta doar sufletele cu adevărat mari o pot face<br>
+<br>
+Cu timpul înţelegi că dacă ai rănit grav un prieten,<br>
+<br>
+e foarte probabil că niciodată prietenia lui nu va mai fila aceeaşi intensitate<br>
+<br>
+Cu timpul îţi dai seama că deşi poţi fi fericit cu prietenii tăi,<br>
+<br>
+într-o bună zi vei plânge după cei pe care i-ai lăsat să plece.<br>
+<br>
+Cu timpul îţi dai seama că fiecare experienţă trăită<br>
+<br>
+alături de fiecare fiinţă, nu se va mai repeta niciodată<br>
+<br>
+Cu timpul îţi dai seama că cel care umileşte sau dispreţuieşte o fiinţă umană,<br>
+<br>
+mai devreme sau mai târziu va suferi aceleaşi umilinţe şi dispreţ,<br>
+<br>
+dar multiplicate ridicate la pătrat<br>
+<br>
+Cu timpul înveţi că grăbind sau forţând lucrurile să se petreacă,<br>
+<br>
+asta va determina că în final ele nu vor mai fi aşa cum sperai<br>
+<br>
+Cu timpul îţi dai seama că în realitate cel mai bun nu era viitorul,<br>
+<br>
+ci momentul pe care-l trăiai exact în acel moment.<br>
+<br>
+Cu timpul vei vedea că deşi te simţi fericit cu cei care-ţi sunt împrejur,<br>
+<br>
+îţi vor lipsi teribil cei care mai ieri erau cu tine<br>
+<br>
+şi acum s-au dus şi nu mai sunt...<br>
+<br>
+Cu timpul vei învăţa că încercând să ierţi sau să ceri iertare,<br>
+<br>
+să spui că iubeşti, să spui că ţi-e dor , să spui că ai nevoie,<br>
+<br>
+să spui că vrei să fii prieten , dinaintea unui mormânt,<br>
+<br>
+nu mai are nici un sens<br>
+<br>
+Dar din păcate,<br>
+<br>
+toate se învaţă doar cu timpul...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Jorge Luis Borges
+* **Temă:** timp
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

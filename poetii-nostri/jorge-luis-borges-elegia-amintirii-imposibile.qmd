@@ -1,0 +1,100 @@
+---
+title: "Elegia amintirii imposibile"
+subtitle: "Jorge Luis Borges"
+author: "Doctor Shrink"
+date: "2026-09-10"
+categories: [poezie, spoken-word, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i8urk02jm7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Oh, ce n-aș da pe amintirea străzii<br>
+<br>
+nepietruite, cu zidul de chirpici<br>
+<br>
+și-un falnic călăreț ce umple zorii<br>
+<br>
+cu poncho lung și ponosit<br>
+<br>
+venit din pampă.<br>
+<br>
+Oh, ce n-aș da pe amintirea mamei<br>
+<br>
+în faptul zilei la conacul Santa Irene,<br>
+<br>
+când nu știa c-are s-o cheme Borges.<br>
+<br>
+Oh, ce n-aș da pe amintirea luptei<br>
+<br>
+de la Cepeda, unde Estanislao del Campo<br>
+<br>
+a salutat râzând cel dintâi glonț<br>
+<br>
+cu bucuria vitejiei.<br>
+<br>
+Oh, ce n-aș da pe amintirea ușii care dă<br>
+<br>
+spre tainicul tărâm în care tata<br>
+<br>
+se cufunda în fiecare seară<br>
+<br>
+mai înainte de-a se pierde-n vis.<br>
+<br>
+Ultima oară a făcut-o-n paișpe<br>
+<br>
+pe paisprezece februarie 1938.<br>
+<br>
+Oh, ce n-aș da pe amintirea navelor<br>
+<br>
+lui Hengist desprinzându-se de țărmul<br>
+<br>
+cel nisipos al Danemarcei, spre-a supune<br>
+<br>
+o insulă ce-avea să se numească Englitera.<br>
+<br>
+Oh, ce n-aș da pe amintirea unei<br>
+<br>
+(pierdută azi, dar altădată vie)<br>
+<br>
+scăldate-n aur pânze a lui Turner,<br>
+<br>
+la fel ca muzica necuprinsă.<br>
+<br>
+Oh, ce n-aș da pe amintirea serii<br>
+<br>
+când, înainte de a bea cucuta, liniștit,<br>
+<br>
+l-aș fi auzit chiar pe Socrate<br>
+<br>
+examinând problema nemuririi,<br>
+<br>
+ba apelând la mit, ba la rațiune,<br>
+<br>
+pe când, treptat, albastra moarte rece,<br>
+<br>
+suind din tălpi, îi cuprindea tot trupul.<br>
+<br>
+Oh, ce n-aș da pe amintirea clipei<br>
+<br>
+în care mi-ai fi spus că mă iubești,<br>
+<br>
+iar eu n-aș fi dormit până în zori<br>
+<br>
+cutremurat de fericire.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Jorge Luis Borges
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

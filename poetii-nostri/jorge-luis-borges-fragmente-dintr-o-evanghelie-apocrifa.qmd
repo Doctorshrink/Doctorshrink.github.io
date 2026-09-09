@@ -1,0 +1,104 @@
+---
+title: "Fragmente dintr-o Evanghelie apocrifă"
+subtitle: "Jorge Luis Borges"
+author: "Doctor Shrink"
+date: "2026-09-10"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pKOgFmzntYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Elogiul umbrei<br>
+<br>
+Fragmente dintr-o Evanghelie apocrifă<br>
+<br>
+3. Nefericit cel sărac cu duhul, fiindcă sub pământ va fi ceea ce este acum pe pământ.<br>
+<br>
+4. Nefericit cel ce plânge, fiindcă a dobândit jalnica deprindere a plânsului.<br>
+<br>
+5. Fericiţi cei ce ştiu că suferinţa nu e o cunună de slavă.<br>
+<br>
+6. Nu e de ajuns să fii cel din urmă pentru a ajunge cândva cel dintâi.<br>
+<br>
+7. Fericit cel ce nu ţine cu tot dinadinsul să aibe dreptate.<br>
+<br>
+8. Fericit cel ce iartă altora şi se iartă pe el însuşi.<br>
+<br>
+9. Fericiţi cei blânzi, fiindcă nu se coboară la ceartă.<br>
+<br>
+10. Fericiţi cei care nu sunt însetaţi de dreptate, fiindcă ştiu că soarta noastră, potrivnică sau milostivă, este rodul întâmplării, care este nepătrunsă.<br>
+<br>
+11. Fericiţi cei miloşi, fiindcă fericirea lor stă în facerea de bine şi nu în nădejdea de răsplată.<br>
+<br>
+12. Fericiţi cei cu inima curată, fiindcă îl văd pe Dumnezeu.<br>
+<br>
+13. Fericiţi cei care suferă împilare din pricina că au luptat pentru dreptate, fiindcă pentru ei este mai importantă dreptatea decât soarta lor omenească.<br>
+<br>
+14. Nimeni nu este sarea pământului; dar nimeni, într-o clipă a vieţii sale, nu se poate să nu fie.<br>
+<br>
+15. Să se aprindă lumina unei lămpi, chiar dacă niciun om nu o vede. Dumnezeu o s-o vadă.<br>
+<br>
+16. Nu există poruncă ce nu poate fi călcată, şi am în vedere şi poruncile pe care le dau eu şi pe acelea date de profeţi.<br>
+<br>
+17. Cel ce ucide pentru dreptate sau pentru o cauză pe care el o crede dreaptă nu este vinovat.<br>
+<br>
+18. Faptele oamnilor nu sunt vrednice nici de focul gheenei, nici de împărăţia cerurilor.<br>
+<br>
+19. Să nu-l urăşti pe duşmanul tău, fiindcă, dacă o faci, eşti într-un anumit fel, robul lui. Ura ta nu va fi niciodată mai bună decât pacea ta.<br>
+<br>
+20. Dacă mâna ta dreaptă te sminteşte, iart-o; eşti trupul tău şi sufletul tău, şi este greu, dacă nu chiar cu neputiinţă, să stabileşti hotarul care le desparte...<br>
+<br>
+24. Nu întrece măsura în arătarea adevărului, fiindcă nu este om care l-a sfârşitul zilei să nu fi fost nevoit să mintă cu îndreptăţire.<br>
+<br>
+25. Nu jura, fiindcă orice jurământ este o afectare.<br>
+<br>
+26. Ţine piept răului, dar fără uimire şi fără mânie. Celui care îţi dă o palmă pe obrazul drept, întoarce-i şi celălalt obraz, dar niciodată să nu o faci de frică.<br>
+<br>
+27. Eu nu vorbesc de răzbunări, nici despre iertare; uitarea este singura răzbunare şi singura iertare.<br>
+<br>
+28. Să faci bine duşmanului tău poate fi lucrarea dreptăţii şi nu e greu să o faci; să-l iubeşti stă în puterea îngerilor, nu a oamenilor.<br>
+<br>
+29. Să faci bine duşmanului tău este cel mai bun chip de a-ţi satisface trufia.<br>
+<br>
+30. Nu strânge aur pe pământ, fiindcă aurul este pricina lenei, iar din lene se trage întristarea şi plictisul.<br>
+<br>
+31. Gândeşte-te că ceilalţi sunt drepţi sau vor fi, sau dacă nu este aşa, atunci greşeala nu este a ta.<br>
+<br>
+32. Dumnezeu este mai milostiv decât oamenii şi le va măsura faptele cu altă măsură.<br>
+<br>
+33. Dă cele sfinte câinilor şi azvârle mărgăritare porcilor; lucru important este să dai.<br>
+<br>
+34. Caută penttru plăcerea de a căuta, nu de a găsi.<br>
+<br>
+39. Poarta alege, nu omul.<br>
+<br>
+40. Nu judec pomul după roadele lui, nici omul după fapte; acestea pot fi mai bune sau mai rele.<br>
+<br>
+41.Nimic nu se clădeşte pe piatră, totul se înalţă pe nisip, dar noi avem datoria să construim ca şi cum nisipul ar fi de piatră...<br>
+<br>
+47. Fericit săracul fără amărăciune sau bogatul fără trufie.<br>
+<br>
+48. Fericiţi cei curajoşi, cei ce primesc cu bărbăţie înfrângerea şi laurii biruinţei.<br>
+<br>
+49. Fericiţi cei ce păstrează în amintire cuvintele lui Virgiliu ori ale lui Hristos, fiindcă acestea le vor lumina zilele.<br>
+<br>
+50. Fericiţi cei ce sunt iubiţi şi cei ce iubesc, precum şi cei care se pot lipsi de iubire.<br>
+<br>
+51. Fericiţi cei fericiţi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Jorge Luis Borges
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

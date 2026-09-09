@@ -1,0 +1,88 @@
+---
+title: "Marea"
+subtitle: "Jorge Luis Borges"
+author: "Doctor Shrink"
+date: "2026-09-10"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xMgMO3UC7eY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+*cu un scurt comentariu al autorului*<br>
+<br>
+Marea<br>
+<br>
+Inainte ca visul (sau teama) să ţeasă<br>
+<br>
+Mitologii şi cosmogonii,<br>
+<br>
+Înainte ca timpul să se transforme-n zile,<br>
+<br>
+Marea, marea veşnică, exista deja, era.<br>
+<br>
+Cine este marea? Cine este acea violentă<br>
+<br>
+Şi străveche fiinţă care roade pilonii<br>
+<br>
+Pământului şi este una singură şi mai multe mări în acelaşi timp?<br>
+<br>
+Cine-o priveşte o vede pentru prima dată<br>
+<br>
+Mereu. Cu uimirea pe care-o trezesc<br>
+<br>
+Lucrurile elementare, frumoasele<br>
+<br>
+Seri, luna, focul aprins într-un cămin.<br>
+<br>
+Cine este marea, cine sunt eu? Ziua care va urma<br>
+<br>
+Agoniei mi-o va dezvălui.<br>
+<br>
+El Mar<br>
+<br>
+Antes que el sueno (o el terror) tejiera<br>
+<br>
+Mitologias y cosmogonias,<br>
+<br>
+Antes que el tiempo se acunara en dias,<br>
+<br>
+El mar, el siempre mar, ya estaba y era.<br>
+<br>
+Quien es el mar? Quien es aquel violento<br>
+<br>
+Y antigua ser que roe los pilares<br>
+<br>
+De la tierra y es una y muchos mares?<br>
+<br>
+Quien lo mira lo ve por vez primera,<br>
+<br>
+Siempre. Con el asombro que las cosas<br>
+<br>
+Elementales dejan, las hermosas<br>
+<br>
+Tardes, la luna, el fuego de una hoguera<br>
+<br>
+Quien es mar, quien soy? La sabre el dia<br>
+<br>
+Ulterior que sucede a la agonia.<br>
+<br>
+Borges despre El Mar:<br>
+<br>
+&quot;Cred că acest poem trebuie să fie bun, din moment ce are ca subiect marea. (...) Marea a fost totdeauna cu noi. Ea este mult mai misterioasă decât pământul. Şi nu cred că poţi vorbi despre mare fără să te gândeşti imediat la primul capitol din Moby Dick. Scriitorul a simţit misterul mării. Ce am făcut eu? Am încercat doar să rescriu vechile poeme despre mare. Desigur mă gândesc la Camoes - &quot;Por mares nunca de antes navegades&quot; (&quot;pe mări ce n-au mai fost vreodată navigate&quot;), la Odiseea, la multe alte mări (...) Nu este vorba de un poem intelectual. Asta din fericire. Probabil că nu este prea rău, din moment ce-şi are sursa în emoţii.&quot;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Jorge Luis Borges
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

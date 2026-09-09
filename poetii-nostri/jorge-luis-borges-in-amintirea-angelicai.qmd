@@ -1,0 +1,54 @@
+---
+title: "În amintirea Angelicăi"
+subtitle: "Jorge Luis Borges"
+author: "Doctor Shrink"
+date: "2026-09-10"
+categories: [poezie, spoken-word, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nots0P0BPgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cum s-au topit atâtea vieți precare<br>
+<br>
+În biata, neștiuta noastră moarte!<br>
+<br>
+Atâtea stinse vieți a căror soarte<br>
+<br>
+De amintire ține ori uitare!<br>
+<br>
+Cu moartea mea, se-ngroapă-n timp oprit.<br>
+<br>
+Prezentul piere cu această floare.<br>
+<br>
+Se stinge un dor în ape schimbătoare.<br>
+<br>
+De astre viitoru-i pustiit.<br>
+<br>
+Asemeni ei, mă sting de infinite<br>
+<br>
+Destine nesortite de noroc.<br>
+<br>
+Iar umbra-mi câtă-n mit tocit soroc<br>
+<br>
+Al îndrăgitei patrii răscolite.<br>
+<br>
+Sub lespezi amintirea-i viu tresare.<br>
+<br>
+Povestea-i crește-n urmă-ngrozitoare.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Jorge Luis Borges
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
