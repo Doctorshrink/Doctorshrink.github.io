@@ -1,0 +1,102 @@
+---
+title: "Pagină în amintirea colonelului Suarez, biruitor la Junin"
+subtitle: "Jorge Luis Borges"
+author: "Doctor Shrink"
+date: "2026-09-11"
+categories: [poezie, spoken-word, amintire, razboi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/miI07vHHZ4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ce importanță au lipsurile, surghiunul,<br>
+<br>
+umilința de a îmbătrâni, umbra dictatorului ce se-ntinde<br>
+<br>
+acoperind patria, casa din cartierul de Sud<br>
+<br>
+pe care i-au vândut-o frații când el era la război, zilele searbede<br>
+<br>
+(zilele pe care vrei să le dai uitării, zilele pe care știi că le vei uita),<br>
+<br>
+dacă a trăit un ceas înălțător, călare,<br>
+<br>
+pe câmpul de luptă de la Junin, ca pe o scenă a viitorului,<br>
+<br>
+de parcă amfiteatrul dintre munți ar fi viitorul.<br>
+<br>
+Ce importanță are timpul ce se scurge necontenit,<br>
+<br>
+dacă a existat o clipă de împlinire, de fericire, de farmec în asfințit!<br>
+<br>
+A slujit treisprezece ani în războaiele Americii. Soarta l-a purtat<br>
+<br>
+în Statul Oriental al Uruguayului, la Rio Negro.<br>
+<br>
+În ceasul înserării își va fi spus<br>
+<br>
+că pentru el înflorise trandafirul acesta:<br>
+<br>
+însângerata bătălie de la Junin, clipa nesfârșită<br>
+<br>
+în care lăncile s-au încleștat, ordinul de atac,<br>
+<br>
+înfrângerea de la început și, în larma bătăliei,<br>
+<br>
+glasul lui, (nu mai puțin pătrunzător pentru el decât pentru soldați)<br>
+<br>
+strigând către peruvieni să pornească atacul,<br>
+<br>
+lumina, năvala și vitejia cavaleriei de neoprit,<br>
+<br>
+și labirintul clocotitor al oștilor,<br>
+<br>
+înfruntarea lăncierilor în care n-a răsunat nici un foc de armă,<br>
+<br>
+grumazul spaniolului pe care l-a străpuns cu tăișul spadei,<br>
+<br>
+biruința, fericirea, oboseala, toropeala somnului,<br>
+<br>
+și oamenii zăcând în mlaștini,<br>
+<br>
+și Bolivar pronunțând cuvinte fără îndoială istorice,<br>
+<br>
+și soarele în asfințit și redescoperitul gust al apei și al vinului,<br>
+<br>
+și mortul acela fără chip, fiindcă i l-a strivit și șters bătălia...<br>
+<br>
+Strănepotul lui scrie aceste versuri și un glas tăcut<br>
+<br>
+din depărtarea sângelui ajunge până la el:<br>
+<br>
+– Ce importanță are bătălia mea de la Junin, care-i o amintire<br>
+<br>
+glorioasă,<br>
+<br>
+o dată istorică pe care o înveți pentru examen ori<br>
+<br>
+o localitate pe hartă!<br>
+<br>
+Bătălia e veșnică și se poate lipsi de strălucirea<br>
+<br>
+unor oștiri cu surle și cu tobe;<br>
+<br>
+Junin înseamnă doi civili ce-l blestemă pe tiran în colțul străzii,<br>
+<br>
+ori un bărbat necunoscut ce piere-n închisoare.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Jorge Luis Borges
+* **Temă:** amintire, razboi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

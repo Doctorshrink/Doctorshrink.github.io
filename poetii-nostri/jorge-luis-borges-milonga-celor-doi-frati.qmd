@@ -1,0 +1,102 @@
+---
+title: "Milonga celor doi frați"
+subtitle: "Jorge Luis Borges"
+author: "Doctor Shrink"
+date: "2026-09-11"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BzMxTf9vfPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Hai să închinăm zăbava<br>
+<br>
+Vremurilor de demult<br>
+<br>
+Cu pumnale și tumult<br>
+<br>
+Joc de cărți și de arșice,<br>
+<br>
+Întâmplări din Costa Brava.<br>
+<br>
+Înainte zi-i, voinice.<br>
+<br>
+Să vă spun ce s-a-ntâmplat<br>
+<br>
+Nu mai mult decât aseară.<br>
+<br>
+Mocofanii o să sară<br>
+<br>
+Că ei știu, dar eu îndat&#x27;<br>
+<br>
+Mă aștern pe colindat,<br>
+<br>
+Nimeni nu mă dă afară.<br>
+<br>
+Domnii mei, astă poveste<br>
+<br>
+Despre frații Iberra este,<br>
+<br>
+Oameni iuți la-ncăierare,<br>
+<br>
+Curajoși nevoie mare.<br>
+<br>
+Azi țărâna-i învelește.<br>
+<br>
+Pe bărbați ori lăcomia,<br>
+<br>
+Ori trufia-i prăpădește.<br>
+<br>
+Dar pe unii îi smintește<br>
+<br>
+Cutezanța, bat-o vina,<br>
+<br>
+Când își caută pricina<br>
+<br>
+De gâlceavă, mișelește.<br>
+<br>
+Fratele cel mic mai multe<br>
+<br>
+Omucideri săvârșise.<br>
+<br>
+Nen&#x27; su seama că-și dădea<br>
+<br>
+Că cel mic îl întrecea<br>
+<br>
+Făr&#x27; să știe că „greșise”<br>
+<br>
+Capăt vieții îi punea.<br>
+<br>
+Fără grabă, nici zăbavă,<br>
+<br>
+El pe șine-l întindea,<br>
+<br>
+Trenul peste el trecea,<br>
+<br>
+Capul că i-l reteza.<br>
+<br>
+Era pofta ce-o poftea.<br>
+<br>
+Ce v-am spus e-adevărat.<br>
+<br>
+Chiar așa s-a întâmplat.<br>
+<br>
+Frații când s-au învrăjbit<br>
+<br>
+Crud omor s-a săvârșit.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Jorge Luis Borges
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

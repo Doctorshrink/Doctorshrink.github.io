@@ -1,0 +1,52 @@
+---
+title: "Trandafirul"
+subtitle: "Jorge Luis Borges"
+author: "Doctor Shrink"
+date: "2026-09-11"
+categories: [poezie, spoken-word, flori]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VDhqXml3MZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Trandafirul,<br>
+<br>
+nepieritorul trandafir pe care nu-l cânt,<br>
+<br>
+greu de miresme,<br>
+<br>
+trandafirul din grădina neagră în puterea nopţii,<br>
+<br>
+cel din orice grădină şi orice înserare,<br>
+<br>
+trandafirul ce renaşte din uşoara<br>
+<br>
+cenuşă prin arta alchimiei,<br>
+<br>
+trandafirul persanilor şi al lui Ariosto,<br>
+<br>
+cel întotdeauna singur,<br>
+<br>
+întotdeauna trandafirul trandafirilor,<br>
+<br>
+tânără floare platonică,<br>
+<br>
+arzătorul şi orbul trandafir pe care nu-l cânt,<br>
+<br>
+trandafirul de neatins.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Jorge Luis Borges
+* **Temă:** flori
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

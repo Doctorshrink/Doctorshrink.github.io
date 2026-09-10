@@ -1,0 +1,196 @@
+---
+title: "Scrisoare de ploaie"
+subtitle: "Jorge Teillier"
+author: "Doctor Shrink"
+date: "2026-09-11"
+categories: [poezie, spoken-word, casa, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hkKwAU424c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dacă vei traversa anotimpurile<br>
+<br>
+conservând în mâinile tale modelate ulcior<br>
+<br>
+ploaia copilăriei pe care trebuia s-o-mpărtășim,<br>
+<br>
+ne vom întâlni în locul<br>
+<br>
+în care visele aleargă bucuroase<br>
+<br>
+precum oile eliberate din țarc<br>
+<br>
+și unde va străluci deasupra noastră<br>
+<br>
+steaua care ne-a fost promisă.<br>
+<br>
+Dar acum îți trimit această scrisoare de ploaie<br>
+<br>
+pe care ți-o va aduce un călăreț de ploaie<br>
+<br>
+pe drumuri obișnuite cu ploaia.<br>
+<br>
+Roagă-te pentru mine, ceas,<br>
+<br>
+în aceste ore monotone, precum torsul pisicii.<br>
+<br>
+M-am întors în casa păstrătoare-a cenușilor<br>
+<br>
+ce fac să renască fantomele pe care le urăsc.<br>
+<br>
+Odată am ieșit în curte să le spun iepurilor<br>
+<br>
+că dragostea murise.<br>
+<br>
+Aici nu trebuie să-mi amintesc de nimeni,<br>
+<br>
+aici trebuie să uit dealul florilor<br>
+<br>
+pentru că mâna ce-a retezat miresme<br>
+<br>
+acum sapă o groapă.<br>
+<br>
+Iarba a crescut prea mult pentru a o smulge.<br>
+<br>
+Pe acoperișul casei vecine<br>
+<br>
+putrezește o minge de cârpă,<br>
+<br>
+lăsată acolo de un copil ce-a murit.<br>
+<br>
+Printre șipcile gardului, mă privesc chipuri<br>
+<br>
+pe care le credeam uitate,<br>
+<br>
+iar prietenul meu așteaptă-n zadar, ca-n pârâu<br>
+<br>
+să strălucească steaua lui norocoasă.<br>
+<br>
+Tu, ca și-n visele mele, pășești prin anotimpuri<br>
+<br>
+cu ploaia copilăriei<br>
+<br>
+în mâinile tale modelate ulcior.<br>
+<br>
+La iarnă, ne va reuni focul<br>
+<br>
+pe care-l vom reaprinde împreună<br>
+<br>
+Trupurile noastre vor face nopțile calde<br>
+<br>
+aidoma respirației taurilor,<br>
+<br>
+și trezindu-mă voi vedea că pâinea de pe masă<br>
+<br>
+are o strălucire mai intensă decât cea a planetelor inamice,<br>
+<br>
+când mâinile tale adolescentine o frâng în bucăți.<br>
+<br>
+Dar acum îți trimit această scrisoare de ploaie<br>
+<br>
+pe care ți-o va aduce un călăreț de ploaie<br>
+<br>
+pe drumuri obișnuite cu ploaia.<br>
+<br>
+Carta de lluvia<br>
+<br>
+Si atraviesas las estaciones<br>
+<br>
+conservando en tus manos hechas cántaro<br>
+<br>
+la lluvia de la infancia que debíamos compartir,<br>
+<br>
+nos reuniremos en el lugar<br>
+<br>
+en donde los sueños corren jubilosos<br>
+<br>
+como ovejas liberadas del corral<br>
+<br>
+y en donde brillará sobre nosotros<br>
+<br>
+la estrella que nos fuera prometida.<br>
+<br>
+Pero ahora te envío esta carta de lluvia<br>
+<br>
+que te lleva un jinete de lluvia<br>
+<br>
+por caminos acostumbrados a la lluvia.<br>
+<br>
+Ruega por mí, reloj,<br>
+<br>
+en estas horas monótonas como ronroneos de gato.<br>
+<br>
+He vuelto a la casa que conserva las cenizas<br>
+<br>
+que hacen renacer a los fantasmas que odio.<br>
+<br>
+Alguna vez salí al patio a decirles a los conejos<br>
+<br>
+que el amor había muerto.<br>
+<br>
+Aquí no debo recordar a nadie,<br>
+<br>
+aquí debo olvidar la colina de los aromos<br>
+<br>
+porque la mano que cortó aromos<br>
+<br>
+ahora cava una fosa.<br>
+<br>
+El pasto ha crecido demasiado como para arrancarlo.<br>
+<br>
+En el techo de la casa vecina<br>
+<br>
+se pudre una pelota de trapo<br>
+<br>
+dejada allí por un niño muerto.<br>
+<br>
+Entre las tablas del cerco me miran rostros<br>
+<br>
+que creía olvidados,<br>
+<br>
+y mi amigo espera en vano que en el río<br>
+<br>
+centellee su buena estrella.<br>
+<br>
+Tú, como en mis sueños, vienes atravesando las estaciones<br>
+<br>
+con la lluvia de la infancia<br>
+<br>
+en tus manos hechas cántaro<br>
+<br>
+En el invierno nos reunirá el fuego<br>
+<br>
+que encenderemos juntos.<br>
+<br>
+Nuestros cuerpos harán las noches tibias<br>
+<br>
+como el aliento de los bueyes,<br>
+<br>
+y al despertar veré que el pan sobre la mesa<br>
+<br>
+tiene un resplandor más grande que el de los planetas enemigos<br>
+<br>
+cuando lo partan tus manos de adolescente.<br>
+<br>
+Pero ahora te envío una carta de lluvia<br>
+<br>
+que te lleva un jinete de lluvia<br>
+<br>
+por caminos acostumbrados a la lluvia.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Jorge Teillier
+* **Temă:** casa, ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

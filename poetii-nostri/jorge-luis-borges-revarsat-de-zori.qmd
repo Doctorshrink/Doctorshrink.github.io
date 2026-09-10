@@ -1,0 +1,126 @@
+---
+title: "Revărsat de zori"
+subtitle: "Jorge Luis Borges"
+author: "Doctor Shrink"
+date: "2026-09-11"
+categories: [poezie, spoken-word, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iP9PICyST64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În profunda noapte universală,<br>
+<br>
+pe care felinarele încearcă s-o contrazică,<br>
+<br>
+o rafală rătăcită<br>
+<br>
+a jignit străzile taciturne<br>
+<br>
+ca un presentiment înfiorat<br>
+<br>
+al revărsatului de zori îngrozitor ce dă tîrcoale<br>
+<br>
+dărăpănatelor suburbii ale lumii.<br>
+<br>
+Atras de umbră<br>
+<br>
+şi speriat de ameninţarea dimineţii,<br>
+<br>
+am retrăit cumplita ipoteză,<br>
+<br>
+de Schopenhauer şi de Berkeley avansată,<br>
+<br>
+precum că lumea este<br>
+<br>
+o activitate a minţii,<br>
+<br>
+un vis al sufletelor,<br>
+<br>
+fără temei, nici scop, nici consistenţă.<br>
+<br>
+Şi cum ideile<br>
+<br>
+nu-s veşnice ca marmura,<br>
+<br>
+ci nemuritoare ca o pădure ori un rîu,<br>
+<br>
+doctrina anterioară<br>
+<br>
+şi-a asumat altă formă în zori,<br>
+<br>
+iar superstiţia acestui ceas<br>
+<br>
+cînd lumina, asemeni iederei,<br>
+<br>
+implică pereţii umbrei,<br>
+<br>
+mi-a supus raţiunea<br>
+<br>
+şi a trasat următorul capriciu:<br>
+<br>
+dacă lucrurile sînt lipsite de substanţă<br>
+<br>
+şi acest forfotitor Buenos Aires<br>
+<br>
+nu este altceva decît un vis<br>
+<br>
+pe care-l făuresc cu-mpărtăşită magie sufletele,<br>
+<br>
+atunci există o clipă<br>
+<br>
+în care, din nefericire, fiinţa lor e în primejdie,<br>
+<br>
+şi aceasta e clipa înfiorată a zorilor,<br>
+<br>
+cînd sînt puţini cei ce visează lumea<br>
+<br>
+şi doar cîţiva noctambuli păstrează,<br>
+<br>
+cenuşie şi abia schiţată,<br>
+<br>
+imaginea străzilor<br>
+<br>
+pe care le vor defini apoi cu ceilalţi împreună.<br>
+<br>
+O, ceas în care visul îndîrjit al vieţii<br>
+<br>
+e pîndit de primejdia destrămării,<br>
+<br>
+ceas în care i-ar fi uşor lui Dumnezeu<br>
+<br>
+să-şi năruie cu totul lucrarea!<br>
+<br>
+Dar lumea s-a mîntuit din nou.<br>
+<br>
+Lumina se împrăştie inventînd culori spălăcite,<br>
+<br>
+iar eu, nu fără o uşoară remuşcare<br>
+<br>
+pentru complicitatea la renaşterea zilei,<br>
+<br>
+mă îndrept spre casă şi o găsesc<br>
+<br>
+buimacă şi îngheţată în lumina albă,<br>
+<br>
+pe cînd o pasăre rupe tăcerea<br>
+<br>
+şi noaptea ostenită<br>
+<br>
+rămîne doar în ochii orbilor.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Jorge Luis Borges
+* **Temă:** soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

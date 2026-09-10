@@ -1,0 +1,72 @@
+---
+title: "Pustiul"
+subtitle: "Jorge Luis Borges"
+author: "Doctor Shrink"
+date: "2026-09-11"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W-TyjVkZsZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Înainte de a intra în pustiu<br>
+<br>
+soldații au băut cu nesaț apa din heleșteu.<br>
+<br>
+Hierocles a vărsat pe jos<br>
+<br>
+apa din urcior și a spus:<br>
+<br>
+Dacă trebuie să întrăm în pustiu,<br>
+<br>
+atunci am și intrat în pustiu.<br>
+<br>
+Dacă setea mă va arde,<br>
+<br>
+atunci a și început să mă ardă.<br>
+<br>
+Aceasta e pilda.<br>
+<br>
+Înainte de a mă prăbuși în iad,<br>
+<br>
+lictorii zeului mi-au îngăduit<br>
+<br>
+să privesc un trandafir.<br>
+<br>
+Acest trandafir este acum canonul meu<br>
+<br>
+în regatul întunericului.<br>
+<br>
+Un bărbat a fost părăsit de o femeie.<br>
+<br>
+Au hotărât să joace minciuna ultimei întâlniri.<br>
+<br>
+Bărbatul a spus:<br>
+<br>
+Dacă trebuie să întru în singurătate,<br>
+<br>
+atunci am și intrat.<br>
+<br>
+Dacă setea mă va arde,<br>
+<br>
+atunci să mă ardă.<br>
+<br>
+Aceasta e altă pildă.<br>
+<br>
+Nimeni pe pământ n-are curajul să fie bărbatul acela.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Jorge Luis Borges
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
