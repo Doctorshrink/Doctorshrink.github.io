@@ -1,0 +1,60 @@
+---
+title: "Becuri ard în fiecare casă"
+subtitle: "Kabir"
+author: "Doctor Shrink"
+date: "2026-09-12"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7UGckCOn81A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Becurile ard în fiecare casă,<br>
+<br>
+O, orbilor! și nu le puteți vedea.<br>
+<br>
+Într-o zi ochii voștri se vor deschide brusc,<br>
+<br>
+și veți vedea, și cătușele morții vor cădea de la voi.<br>
+<br>
+Nu este nimic de spus sau de auzit,<br>
+<br>
+nu e nimic de făcut:<br>
+<br>
+este cel care trăiește, dar mort, care nu va muri niciodată.<br>
+<br>
+Pentru că trăiește în singurătate,<br>
+<br>
+prin urmare, Yogi spune că este departe casa lui.<br>
+<br>
+Domnul tău este aproape; totuși tu urci palmierul să-L cauți.<br>
+<br>
+Preotul Brahman merge de la casă la casă<br>
+<br>
+și inițiază oameni în credință:<br>
+<br>
+Vai! adevărata fântână a vieții este lângă tine,<br>
+<br>
+și tu ai întemeiat o piatră la care să te închini.<br>
+<br>
+Kabir spune: &quot;Nu pot să-mi exprim cât de dulce este Domnul meu.<br>
+<br>
+Yoga și povestirea mărgelelor,<br>
+<br>
+virtutea și locțiitoarele-acestea nu sunt nimic pentru El. &quot;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Kabir
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

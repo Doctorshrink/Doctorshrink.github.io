@@ -1,0 +1,52 @@
+---
+title: "Ard lămpi în fiecare casă, orbule! Şi tu nu le poţi vedea"
+subtitle: "Kabir"
+author: "Doctor Shrink"
+date: "2026-09-12"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0gHJDgmC55E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ard lămpi în fiecare casă, orbule! Şi tu nu le poţi vedea<br>
+<br>
+Într-o bună zi ţi se vor deschide ochii deodată, şi ai să vezi:<br>
+<br>
+Şi cătuşele morţii îţi vor cădea de la încheieturi.<br>
+<br>
+Nu e nimic de spus sau de auzit, nu e nimic de făcut:<br>
+<br>
+Cel care e în viaţă, dar mort, e cel care nu va mai muri nicicând.<br>
+<br>
+Pentru că trăieşte în singurătate, yoghinul spune că sălaşul lui e departe.<br>
+<br>
+Domnul tău este aproape: dar tu te caţeri în palmier să-l cauţi.<br>
+<br>
+Brahmanul trece din casă în casă şi iniţiază oamenii întru credinţă:<br>
+<br>
+Vai! Adevărata fântână a vieţii e lângă tine, iar tu ai ridicat un bolovan<br>
+<br>
+La care te închini. Kabir spune:<br>
+<br>
+&quot;N-am să pot spune niciodată ce dulce e Domnul meu. Yoga,<br>
+<br>
+Şiragurile de mătănii, virtutea şi viciul<br>
+<br>
+toate astea nu sunt nimic pentru El.&quot;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Kabir
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

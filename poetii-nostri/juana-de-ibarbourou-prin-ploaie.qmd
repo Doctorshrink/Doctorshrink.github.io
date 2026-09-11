@@ -1,0 +1,132 @@
+---
+title: "Prin ploaie"
+subtitle: "Juana de Ibarbourou"
+author: "Doctor Shrink"
+date: "2026-09-12"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yPwKUNjAtV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cum lunecă ploaia pe spate!<br>
+<br>
+Cum înmoaie veșmintele toate,<br>
+<br>
+și-mi cade-n obraji răcoare de rouă!<br>
+<br>
+Plouă, plouă, plouă,<br>
+<br>
+și merg încet pe cărare,<br>
+<br>
+cu suflet zburând, surâzătoare,<br>
+<br>
+fără-a visa, fără-a simți,<br>
+<br>
+plină de voluptatea uitării de-a gândi.<br>
+<br>
+O pasăre se bălăcește<br>
+<br>
+într-o băltoacă.Prezența mea o năucește<br>
+<br>
+se-adună... se uită la mine..nu suntem străine...<br>
+<br>
+Iubim amândouă văzduhul, câmpiile cu grâne pline!<br>
+<br>
+Apoi, este uimirea<br>
+<br>
+țăranului cu sapa-n spate, ce mă petrece cu privirea,<br>
+<br>
+iar ploaia mă cuprinde, ca un dar, cu-aromele<br>
+<br>
+pădurii lui Brumar.<br>
+<br>
+Și este, apa pe trupu-mi îmbibat<br>
+<br>
+o mângâiere fantastică, un tremurat<br>
+<br>
+de picuri cristalini, de flori fără petale<br>
+<br>
+înfiorând sub pasul meu covorul moale.<br>
+<br>
+Și simt, serenitatea<br>
+<br>
+din mintea-mi fără vise, voluptatea<br>
+<br>
+plăcerii infinite, dulceag-necunoscută,<br>
+<br>
+într-o fărâmă de uitare mută.<br>
+<br>
+Plouă, plouă, plouă,<br>
+<br>
+și sufletul îmi este esență de zăpadă nouă.<br>
+<br>
+Bajo la lluvia<br>
+<br>
+¡Cómo resbala el agua  por mi espalda!<br>
+<br>
+¡Cómo moja mi falda,<br>
+<br>
+y pone  en mis mejillas su frescura de nieve!<br>
+<br>
+Llueve, llueve, llueve,<br>
+<br>
+y voy,  senda adelante,<br>
+<br>
+con el alma ligera y la cara radiante,<br>
+<br>
+sin sentir, sin soñar,<br>
+<br>
+llena de la voluptuosidad de no pensar.<br>
+<br>
+Un pájaro se baña<br>
+<br>
+en una charca turbia. Mi presencia le extraña,<br>
+<br>
+se detiene... me mira... nos sentimos amigos...<br>
+<br>
+¡Los dos amamos muchos cielos, campos y trigos!<br>
+<br>
+Después es el asombro<br>
+<br>
+de un labriego que pasa con su azada al hombro<br>
+<br>
+y la lluvia me cubre de todas las fragancias<br>
+<br>
+de los setos de octubre.<br>
+<br>
+Y es, sobre mi cuerpo por el agua empapado<br>
+<br>
+como un maravilloso y estupendo tocado<br>
+<br>
+de gotas cristalinas, de flores deshojadas<br>
+<br>
+que vuelcan a mi paso las plantas asombradas.<br>
+<br>
+Y siento, en la vacuidad<br>
+<br>
+del cerebro sin sueño, la voluptuosidad<br>
+<br>
+del placer infinito, dulce y desconocido,<br>
+<br>
+de un minuto de olvido.<br>
+<br>
+Llueve, llueve, llueve,<br>
+<br>
+y tengo en alma y carne, como un frescor de nieve.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Juana de Ibarbourou
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

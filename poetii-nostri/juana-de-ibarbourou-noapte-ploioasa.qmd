@@ -1,0 +1,124 @@
+---
+title: "Noapte ploioasă"
+subtitle: "Juana de Ibarbourou"
+author: "Doctor Shrink"
+date: "2026-09-12"
+categories: [poezie, spoken-word, ploaie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pxcxA3Fod_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Plouă...Aşteptă, nu dormi,<br>
+<br>
+fii atent la ce şopteşte vântul<br>
+<br>
+și la ce zice apa care lovește<br>
+<br>
+cu buricele degetelor în geamuri.<br>
+<br>
+Cât de fericit va fi grâul unduitor!<br>
+<br>
+Cu ce aviditate se va îngrășa iarba!<br>
+<br>
+Câte diamante vor atârna, acum,<br>
+<br>
+pe ramurile largi ale pinilor!<br>
+<br>
+Așteaptă, nu adormi. Să ascultăm<br>
+<br>
+ritmul ploii.<br>
+<br>
+Spijină-ți între sânii mei<br>
+<br>
+fruntea taciturnă.<br>
+<br>
+Voi simți zbaterea tâmplelor tale<br>
+<br>
+pulsânde și calde,<br>
+<br>
+ca și cum ar fi două ciocane vii<br>
+<br>
+care-mi lovesc trupul.<br>
+<br>
+Așteptă, nu adormi. Noaptea asta<br>
+<br>
+suntem amândoi o lume<br>
+<br>
+ascunsă de vânt și ploaie<br>
+<br>
+în căușul călduț al budoarului.<br>
+<br>
+Așteptă, nu adormi. Noaptea asta<br>
+<br>
+suntem poate rădăcina supremă,<br>
+<br>
+de unde trebuie să germineze, mâine,<br>
+<br>
+tulpina frumoasă a unei rase noi.<br>
+<br>
+Noche de lluvia<br>
+<br>
+Llueve... Espera, no duermas,<br>
+<br>
+estáte atento a lo que dice el viento<br>
+<br>
+y a lo que dice el agua que golpea<br>
+<br>
+con sus dedos menudos en los vidrios.<br>
+<br>
+¡Cómo estará de alegre el trigo ondeante!<br>
+<br>
+¡Con qué avidez se esponjará la hierba!<br>
+<br>
+¡Cuántos diamantes colgarán ahora<br>
+<br>
+del ramaje profundo de los pinos!<br>
+<br>
+Espera, no te duermas. Escuchemos<br>
+<br>
+el ritmo de la lluvia.<br>
+<br>
+Apoya entre mis senos<br>
+<br>
+tu frente taciturna.<br>
+<br>
+Yo sentiré el latir de tus dos sienes<br>
+<br>
+palpitantes y tibias,<br>
+<br>
+como si fueran dos martillos vivos<br>
+<br>
+que golpearan mi carne.<br>
+<br>
+Espera, no te duermas. Esta noche<br>
+<br>
+somos los dos un mundo,<br>
+<br>
+aislado por el viento y por la lluvia<br>
+<br>
+entre la cuenca tibia de una alcoba.<br>
+<br>
+Espera, no te duermas. Esta noche<br>
+<br>
+somos acaso la raíz suprema<br>
+<br>
+de donde debe germinar mañana<br>
+<br>
+el tronco bello de una raza nueva.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Juana de Ibarbourou
+* **Temă:** ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

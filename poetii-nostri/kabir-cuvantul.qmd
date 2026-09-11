@@ -1,0 +1,60 @@
+---
+title: "Cuvântul"
+subtitle: "Kabir"
+author: "Doctor Shrink"
+date: "2026-09-12"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TzxuV34jGoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Găsiți cuvântul, înțelegeți cuvântul,<br>
+<br>
+Depindeți de cuvânt;<br>
+<br>
+Cuvântul este cerul și spațiul, cuvântul pământul,<br>
+<br>
+Cuvântul universul.<br>
+<br>
+Cuvântul este în urechile noastre, cuvântul este în limbile noastre,<br>
+<br>
+Cuvântul idol.<br>
+<br>
+Cuvântul este cartea sfântă, cuvântul este armonie,<br>
+<br>
+Cuvântul este muzică.<br>
+<br>
+Cuvântul este magic, cuvântul Guru.<br>
+<br>
+Cuvântul este trupul, cuvântul este spiritul, cuvântul este,<br>
+<br>
+Cuvântul Nefiind.<br>
+<br>
+Cuvântul este om, cuvântul este femeie,<br>
+<br>
+Veneratul Mare.<br>
+<br>
+Cuvântul este văzut și nevăzut, cuvântul este existent<br>
+<br>
+Și inexistent.<br>
+<br>
+Cunoașteți cuvântul, spune Kabir,<br>
+<br>
+Cuvântul este atotputernic.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Kabir
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

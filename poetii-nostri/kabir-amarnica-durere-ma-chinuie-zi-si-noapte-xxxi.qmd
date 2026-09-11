@@ -1,0 +1,42 @@
+---
+title: "Amarnică durere mă chinuie zi și noapte, XXXI"
+subtitle: "Kabir"
+author: "Doctor Shrink"
+date: "2026-09-12"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xfg1tOfNzSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+XXXI AMARNICĂ durere mă chinuie zi și noapte,<br>
+<br>
+și nu pot dormi.<br>
+<br>
+Tânjesc după întâlnirea cu Iubitul meu și casa<br>
+<br>
+tatălui meu nu îmi mai face plăcere.<br>
+<br>
+Porțile cerului sunt deschise, se dezvăluie<br>
+<br>
+templul:<br>
+<br>
+Soțul mi-l întâlnesc și-I aștern la picioare ofrandă<br>
+<br>
+trupul și mintea mea.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Kabir
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
