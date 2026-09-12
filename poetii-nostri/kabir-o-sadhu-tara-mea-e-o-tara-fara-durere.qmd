@@ -1,0 +1,52 @@
+---
+title: "O, Sadhu! Țara mea e o țară fără durere"
+subtitle: "Kabir"
+author: "Doctor Shrink"
+date: "2026-09-13"
+categories: [poezie, spoken-word, durere, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g0DaJBUATCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O, Sadhu! Țara mea e o țară fără durere.<br>
+<br>
+Eu le strig tuturor, regelui și cerșetorului,<br>
+<br>
+împăratului și fachirului:<br>
+<br>
+Oricine caută adăpost în Cel mai înalt, să vină<br>
+<br>
+să se-așeze în țara mea!<br>
+<br>
+Să vină osteniții și să-și lase poverile aici!<br>
+<br>
+Hai, vino să trăiești aici, frate, să poți trece lesne<br>
+<br>
+pe tărâmul celălalt.<br>
+<br>
+E o țară fără pământ sau cer, fără lună sau stele;<br>
+<br>
+Doar strălucirea Adevărului luminează în<br>
+<br>
+palatul Domnului meu.<br>
+<br>
+Kabir spune: „O, iubite, frate! Nimic nu este esențial,<br>
+<br>
+în afară de adevăr.”
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Kabir
+* **Temă:** durere, tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

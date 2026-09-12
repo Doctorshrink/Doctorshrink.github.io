@@ -1,0 +1,64 @@
+---
+title: "Fiinţă liberă"
+subtitle: "Kabir"
+author: "Doctor Shrink"
+date: "2026-09-13"
+categories: [poezie, spoken-word, libertate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S9PtzHPKSYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Fiinţă liberă, cerul e acoperit şi se-ntunecă,<br>
+<br>
+Revin dinspre norii musonului,<br>
+<br>
+Pică stropi de ploaie.<br>
+<br>
+Hai sus, învăţatule, îngrijeşte-ţi gospodăria,<br>
+<br>
+Apa se va duce curând.<br>
+<br>
+Fă-ţi araci din văzduhul şi auzul lăuntric<br>
+<br>
+Seamănă bobul de grâu al sinelui<br>
+<br>
+Nu lăsa raza îndoielii să se strecoare-năuntru<br>
+<br>
+Seamănă bobul de Naam*.<br>
+<br>
+Patru paznici în fiecare în cele patru direcţii<br>
+<br>
+Să nu lase cerul la bob<br>
+<br>
+Du roada la conacul stăpânului<br>
+<br>
+Cedând toată truda muncii.<br>
+<br>
+Împreună, cei cinci prieteni pregătesc prânzul<br>
+<br>
+Muni şi Gyani urmează să fie mâncaţi.<br>
+<br>
+Ascultă căutătorule, spune Kabir,<br>
+<br>
+Seamănă bobul de Naam.<br>
+<br>
+(Poeme - XXIII)<br>
+<br>
+*Sunetul fără sunet dinlăuntrul fiecărui om
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Kabir
+* **Temă:** libertate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

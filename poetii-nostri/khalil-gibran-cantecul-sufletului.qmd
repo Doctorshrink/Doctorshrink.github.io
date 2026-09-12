@@ -1,0 +1,69 @@
+---
+title: "Cântecul sufletului"
+subtitle: "Khalil Gibran"
+author: "Doctor Shrink"
+date: "2026-09-13"
+categories: [poezie, spoken-word, cantec, suflet]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Slca-n3UkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În adâncul inimii mele<br>
+Se-aude un cântec fără versuri –<br>
+Un cântec ce trăieşte<br>
+În sămânţa inimii mele.<br>
+Refuză să se amestece cu cerneala pe pergament;<br>
+Îmi învăluie dragostea într-o mantie diafană<br>
+Şi zboară, dar nu peste buzele mele.<br>
+Cum să îl cânt?<br>
+Mi-e teamă să nu se amestece cu eternul pământesc;<br>
+Cui să îl cânt?<br>
+Căci locuieşte în casa sufletului meu<br>
+De teama urechilor pline de sensibilitate.<br>
+Când privesc în mine,<br>
+Văd umbra umbrei sale;<br>
+Când îmi ating vârful degetelor<br>
+Îi simt vibraţiile.<br>
+Faptele mâinilor mele îi oglindesc prezenţa,<br>
+Aşa cum un lac reflectă stelele strălucitoare;<br>
+Lacrimile mele îl dezvăluie,<br>
+Aşa cum picăturile strălucitoare de rouă<br>
+Dezvăluie taina unui trandafir veştejit.<br>
+Este un cântec ce s-a născut din contemplaţie<br>
+Şi adus la suprafaţă de către linişte,<br>
+Evitat de larmă,<br>
+Îmbrăţişat de adevăr,<br>
+Repetat de vise,<br>
+Înţeles de dragoste,<br>
+Ascuns de trezire<br>
+Şi cântat de sufleteste cântecul dragostei.<br>
+Ce Cain sau Esaul ar putea să-l cânte?<br>
+Este cu mult mai parfumat decât iasomia;<br>
+Ce voce l-ar putea înrobi?<br>
+Este pecetluit la inimă, ca taina unei fecioare;<br>
+Ce coardă l-ar putea face să vibreze?<br>
+Cine îndrăzneşte să uneasă urletul mării<br>
+Cu ciripitul unei privighetori?<br>
+Cine îndrăzneşte să asemuiască strigătele unei furtuni<br>
+Cu suspinul unui copil?<br>
+Cine îndrăzneşte să spună cu voce tare<br>
+Cuvintele pe care numai inima le poate rosti?<br>
+Ce fiinţă omenească îndrăzneşte să cânte<br>
+Cântecul lui Dumnezeu?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Khalil Gibran
+* **Temă:** cantec, suflet
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

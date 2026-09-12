@@ -1,0 +1,46 @@
+---
+title: "Hei, frate, de ce mă vrei să vorbesc?"
+subtitle: "Kabir"
+author: "Doctor Shrink"
+date: "2026-09-13"
+categories: [poezie, spoken-word, frate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eu95g4plk1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Frate frate, de ce vrei să vorbesc?<br>
+<br>
+Discutați și discutați și lucrurile reale se pierd.<br>
+<br>
+Vorbește și vorbește și lucrurile ies din mână.<br>
+<br>
+De ce să nu mai vorbiți și să gândiți?<br>
+<br>
+Dacă întâlnești pe cineva bun, ascultă puțin, vorbește;<br>
+<br>
+Dacă întâlnești pe cineva rău, strânge-te ca un pumn.<br>
+<br>
+Vorbind cu un om înțelept este o mare răsplată.<br>
+<br>
+Vorbind cu un nebun? O risipă.<br>
+<br>
+Kabir spune: O oală face zgomot dacă este pe jumătate plină,<br>
+<br>
+Dar umple-o până la margine - fără sunet va fi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Kabir
+* **Temă:** frate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

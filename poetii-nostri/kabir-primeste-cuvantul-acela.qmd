@@ -1,0 +1,62 @@
+---
+title: "Primește Cuvântul acela"
+subtitle: "Kabir"
+author: "Doctor Shrink"
+date: "2026-09-13"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-kxT4aCsA6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Primește Cuvântul acela din care<br>
+<br>
+purcede Universul!<br>
+<br>
+Cuvântul e Maestrul; eu l-am auzit și<br>
+<br>
+am devenit ucenicul lui.<br>
+<br>
+Câți sunt cei care cunosc înțelesul<br>
+<br>
+acelui cuvânt?<br>
+<br>
+O, Sadhu! Practică acel Cuvânt!<br>
+<br>
+Vedele și Puranele îl proclamă,<br>
+<br>
+Lumea se întemeiază pe el,<br>
+<br>
+Înțelepții și credincioșii vorbesc despre el:<br>
+<br>
+Dar nimeni nu cunoaște taina Cuvântului.<br>
+<br>
+Gospodarul își lasă gospodăria când îl aude,<br>
+<br>
+Ascetul se întoarce la iubire când îl aude,<br>
+<br>
+Cele șase Învățături îl înfățișează,<br>
+<br>
+Spiritul renunțării arată spre acel Cuvânt,<br>
+<br>
+Din Cuvântul acela a purces forma lumii,<br>
+<br>
+Acel Cuvânt dezvăluie tot,<br>
+<br>
+Kabir spune: „Dar cine știe oare de unde vine Cuvântul?”
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Kabir
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

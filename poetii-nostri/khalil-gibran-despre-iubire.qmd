@@ -1,0 +1,108 @@
+---
+title: "Despre iubire"
+subtitle: "Khalil Gibran"
+author: "Doctor Shrink"
+date: "2026-09-13"
+categories: [poezie, spoken-word, inima, iubire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/REfrOIMUNTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Când iubirea copleşitoare vă face semn, urmaţi-i îndemnul,<br>
+Chiar dacă drumurile ei sunt aparent grele şi prăpăstioase,<br>
+Şi când vraja paradisiacă vă cuprinde cu aripile ei angelice,<br>
+supuneţi-vă misterului ei,<br>
+Chiar dacă sabia ascunsă-n penaju-i v-ar putea răni,<br>
+Iar când iubirea transfiguratoare vă vorbeşte şi o<br>
+simţiţi profundă şi divină, daţi-i crezare,<br>
+Chiar dacă vocea ei ar putea să vă sfărâme visurile himerice,<br>
+asemenea vântului din miază-noapte care vă pustieşte grădinile.<br>
+<br>
+Fiindcă, precum iubirea vă încunună,<br>
+adeseori tot ea trebuie să vă şi crucifice.<br>
+Precum vă face să creşteţi mult mai repede şi îmbătaţi de fericire,<br>
+Tot ea trebuie să vă şi reteze uscăciunile<br>
+şi să vă distrugă cât mai repede răutăţile şi egoismul.<br>
+<br>
+Precum ea vă ridică îmbătaţi de bucurie,<br>
+până la înălţimea voastră ideală,<br>
+alintându-vă cu o dumnezeiască gingăşie<br>
+ramurile cele mai fragile care freamătă<br>
+în lumina soarelui infinit al iubirii,<br>
+Tot la fel ea va răzbate ca o miraculoasă<br>
+forţă purificatoare până în adâncul rădăcinilor voastre,<br>
+zdruncinând încleştarea lor cu pământul.<br>
+<br>
+Asemeni snopilor de grâu, ea vă seceră, niciodată întâmplător.<br>
+Vă treieră pentru a vă decoji.<br>
+Vă vântură spre a vă curăţa de pleavă.<br>
+Vă macină până la înălbirea făinii voastre.<br>
+Vă frământă până ajungeţi foarte supuşi, divini şi puri.<br>
+Ca apoi să vă hărăzească focului său<br>
+şi să puteţi deveni pâinea cea sfântă<br>
+a nemuririi la ospăţul divin.<br>
+<br>
+Toate aceste şi multe altele vi le va da cu prisosinţă iubirea,<br>
+pentru ca, astfel, să vă puteţi cunoaşte pe deplin tainele inimii<br>
+şi să deveniţi o parte din inima Vieţii Eterne<br>
+din care izvorăşte nesfârşită IUBIREA.<br>
+<br>
+Dar dacă, stăpâniţi de îndoială, egoism, meschinărie,<br>
+suspiciune sau de teamă,<br>
+veţi căuta doar tihna şi plăcerea dragostei<br>
+care permanent vi se dăruie fără ca voi să iubiţi,<br>
+Atunci e mai bine să vă acoperiţi, fiind înfrânţi,<br>
+goliciunea şi să ieşiţi din treierişul iubirii,<br>
+Spre a vă întoarce, rămânând închistaţi şi singuri,<br>
+în lumea fără de anotimpuri,<br>
+unde veţi râde dar nu cu întreaga voastră bucurie,<br>
+unde veţi plânge<br>
+dar nu în toate lacrimile voastre pe care vi le-ar fi putut<br>
+smulge extazul iubirii.<br>
+<br>
+Iubirea nu se dăruie decât pe sine şi nu ia energia sa atotputernică,<br>
+divină şi misterioasă decât de la sine.<br>
+Iubirea nu stăpâneşte şi nu vrea să fie stăpânită<br>
+de cel sau cea căruia i se dăruie;<br>
+Fiindcă iubirii adevarate îi este de-ajuns iubirea infinită,<br>
+sublimă şi transfiguratoare.<br>
+<br>
+Când iubiţi nu trebuie să spuneţi &quot;Creatorul e in inima mea&quot;,<br>
+ci mai degrabă &quot;eu sunt acum topit de iubire în inima Creatorului&quot;,<br>
+Şi să nu credeţi că puteţi croi singuri drumul iubirii,<br>
+fiindcă iubirea, dacă cu adevărat o meritaţi,<br>
+vă va arăta cu siguranţă drumul ea însăşi.<br>
+Iubirea nu are nici o altă dorinţă<br>
+decât aceea de a se împlini prin totală iubire.<br>
+Dar dacă iubeşti şi trebuie să ai dorinţe,<br>
+fie ca ele acestea să fie:<br>
+<br>
+Să te topeşti de iubire în tot şi<br>
+să devii izvor de iubire divină ce susurul în noapte-şi cântă;<br>
+Să cunoşti adesea durerea prea marii duioşii;<br>
+Să fii rănit şi îmbătat de înţelegerea iubirii;<br>
+Să sângerezi de bunăvoie şi bucurându-te;<br>
+Să te trezeşti în zori, cu inima mereu înaripată şi să înalţi,<br>
+plin de recunoştinţă, mulţumire pentru încă o zi de iubire;<br>
+Să te odihneşti, copleşit de beatitudine,<br>
+la ceasul amiezii şi să cugeţi la extazul iubirii;<br>
+Să te întorci împăcat şi debordând de fericire acasă la ora amurgului,<br>
+Şi apoi, să dormi înălţând în inimă o rugă pentru fiinţa iubită,<br>
+iar pe buze să ai un cântec de laudă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Khalil Gibran
+* **Temă:** inima, iubire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
