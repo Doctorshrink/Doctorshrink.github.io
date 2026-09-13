@@ -1,0 +1,66 @@
+---
+title: "La citirea acestor amintiri..."
+subtitle: "Leo Butnaru"
+author: "Doctor Shrink"
+date: "2026-09-14"
+categories: [poezie, spoken-word, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_fnYBTV9dX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Studenția presupunea și mici distracții printre munți de carte<br>
+<br>
+unde mai pui că mișunau fete atrăgătoare la orice facultate<br>
+<br>
+iar printre cele mai ademenitoare erai și tu, rod copt din sud<br>
+<br>
+cu sânii ca pâinile rotunde și calde de un kil și jumătate.<br>
+<br>
+(Dar totuși, nu-mi amintesc limpede, dacă acea greutate<br>
+<br>
+revenea ambilor sâni dolofani sau fiecăruia în parte... Însă<br>
+<br>
+minunate, superbe erau acele globuri, parcă nițel exagerate<br>
+<br>
+întru ațâțarea voluptății și a... silinței la carte, necondiționate!)<br>
+<br>
+Iertare pentru această comparație ușor ne la locul ei, se pare,<br>
+<br>
+dar studenția e și ușor acidă, ușor parșivă, nu doar studioasă,<br>
+<br>
+încât era atâta ingeniozitate în căminele universitare, Doamne,<br>
+<br>
+cu domnișoare și doamne (astea cam... clandestine) frumoase.<br>
+<br>
+Mă gândesc că ai alăptat prunci dolofani cu minunații tăi sâni<br>
+<br>
+cândva mângâiați, jucați în palme și de mine, mai mult amical<br>
+<br>
+pentru că nu ne permiteam îndrăzneli prea de tot, hiriș păgâne,<br>
+<br>
+fiind la asiduă învățătură, nu la vreun festival neoliberal.<br>
+<br>
+Azi, presupun că la citirea acestor amintiri oarecum îndrăznețe<br>
+<br>
+unele din studentele de-atunci, azi bunici nostalgice, dar fidele<br>
+<br>
+vor merge la oglindă, dezvelindu-și încă frumoșii, dolofanii sâni<br>
+<br>
+cântărindu-i în palme, surâzând dulce-amar... Ce vremuri vremurele...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Leo Butnaru
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

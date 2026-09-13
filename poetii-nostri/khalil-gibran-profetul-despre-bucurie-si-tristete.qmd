@@ -1,0 +1,90 @@
+---
+title: "Profetul - Despre Bucurie și Tristețe"
+subtitle: "Khalil Gibran"
+author: "Doctor Shrink"
+date: "2026-09-14"
+categories: [poezie, spoken-word, fericire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R6pY9W7VBAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Și o femeie a zis, Vorbește-ne despre Bucurie și Tristețe.<br>
+<br>
+Și el a răspuns:<br>
+<br>
+Bucuria voastră este tristețea demascată.<br>
+<br>
+Și aceeași fântână în care se arată surâsul vostru<br>
+<br>
+de multe ori inundat de propriile lacrimi.<br>
+<br>
+Și cum ar fi putut fi altfel?<br>
+<br>
+Pe cât mai adânc sapă suferința în ființa voastră<br>
+<br>
+pe atât mai mult vă umpleți voi de bucurie.<br>
+<br>
+Nu este cana în care vă turnați vinul<br>
+<br>
+același vas ars în cuptorul olarului?<br>
+<br>
+Și nu e lăuta care vă alină sufletul același lemn<br>
+<br>
+pe care l-ați scobit cu brișcile voastre?<br>
+<br>
+Când sunteți bucuroși priviți adânc în inima voastră<br>
+<br>
+și veți găsi că numai ceea ce vă aduce întristarea<br>
+<br>
+aceea vă umple și inima de bucurie.<br>
+<br>
+Când vă cuprinde tristețea priviți din nou<br>
+<br>
+în inima voastră și veți descoperi că întradevăr<br>
+<br>
+lacrimile voastre au fost cândva de bucurie.<br>
+<br>
+Unii dintre voi spun, “Bucuria este mai de preț decât tristețea”,<br>
+<br>
+iar alții zic, “Nu, tristețea este mai prețioasă decât bucuria.”<br>
+<br>
+Dar eu vă asigur că sunt de nedespărțit.<br>
+<br>
+Împreună sosesc în lăcașul vostru, luați aminte,<br>
+<br>
+când una se așează cu voi la masă<br>
+<br>
+cealaltă se cuibărește în patul vostru.<br>
+<br>
+Întradevăr voi vă cumpăniți precum talerele<br>
+<br>
+balanței între bucuriile și tristețile voastre.<br>
+<br>
+Numai când uitați de voi înșivă<br>
+<br>
+vă puteți liniști și cumpăni.<br>
+<br>
+Precum vistierul comorii se învoiește<br>
+<br>
+cu voi cât aur și cât argint îi datorați<br>
+<br>
+tot astfel trebuie ca bucuria și tristețea voastră<br>
+<br>
+să vă exalte deopotrivă și să vă smerească.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Khalil Gibran
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

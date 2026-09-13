@@ -1,0 +1,66 @@
+---
+title: "Cuvântul și tăcerea"
+subtitle: "Konstantinos Kavafis"
+author: "Doctor Shrink"
+date: "2026-09-14"
+categories: [poezie, spoken-word, cuvant, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qBLz36PFN8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+„De aur e tăcerea și de de argint Cuvântul.”<br>
+<br>
+Care profan rostit-a astfel de blasfemie?<br>
+<br>
+Ce asiat zânatic, orb și mut, sfidând la fel destinul orb și mut,<br>
+<br>
+care nebun, străin de lume, dușman<br>
+<br>
+virtuții, numit-a sufletul – himeră, cuvântul – de argint?<br>
+<br>
+Singurul dar al nostru, atotcuprinzător,<br>
+<br>
+tristeți și avânt, iubire, bucurie,<br>
+<br>
+singurul fapt uman, în tot ce-avem sălbatic!<br>
+<br>
+Tu, care îl numești de-argint, nu crezi<br>
+<br>
+în viitorul dezlegând tăcerea, în tot ce-ar însemna cuvânt de taină.<br>
+<br>
+Tu înțelepciunea n-o guști, mersul ‚nainte nu te încântă,<br>
+<br>
+cu ignoranță – tăcerea de aur – te hrănești.<br>
+<br>
+Ești bolnav – căci tăcerea neștiutoare-i boală,<br>
+<br>
+iar sănătate-i Vorba caldă și-atrăgătoare.<br>
+<br>
+Tăcerea-i umbră, noapte; Cuvântul – plină zi.<br>
+<br>
+Cuvântul adevăr e, viață sau nemurire.<br>
+<br>
+Să cuvântăm întruna, tăcerea nu ni se potrivește,<br>
+<br>
+de vreme ce ni-e chipul după al Cuvântului chip.<br>
+<br>
+Să cuvântăm întruna, căci gândul sfânt din noi e<br>
+<br>
+vorbirea cea de abur a sufletului mut.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Konstantinos Kavafis
+* **Temă:** cuvant, singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,50 @@
+---
+title: "Vreme buna, vreme rea"
+subtitle: "Konstantinos Kavafis"
+author: "Doctor Shrink"
+date: "2026-09-14"
+categories: [poezie, spoken-word, timp]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxPb-9-Ge10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nu-mi pasă cât de puțin dacă-afară<br>
+<br>
+iarbă-și împarte neaua, norii, răceală.<br>
+<br>
+Arde în sufletul meu primăvara, bucurie adevărată.<br>
+<br>
+Raza de soare e râsul, toată numai văpaie;<br>
+<br>
+grădina că iubirea nu există.<br>
+<br>
+Căldura cântului zăpada topește.<br>
+<br>
+Ce folos însă dac-afară<br>
+<br>
+primăvara din belșug risipește flori și verdeață?<br>
+<br>
+Port iarna în suflet când inima doare.<br>
+<br>
+Oftatul înnegurează și cel mai lucitor soare.<br>
+<br>
+Când ești trist, în mai e la fel ca-n decembrie.<br>
+<br>
+Lacrimile sunt mai reci ca zăpada-nghețată.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Konstantinos Kavafis
+* **Temă:** timp
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

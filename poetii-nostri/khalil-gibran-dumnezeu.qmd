@@ -1,0 +1,76 @@
+---
+title: "Dumnezeu"
+subtitle: "Khalil Gibran"
+author: "Doctor Shrink"
+date: "2026-09-14"
+categories: [poezie, spoken-word, dumnezeu]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lWb3TNmiunk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În zilele îndepărtate, pe când întâiul freamăt al vorbirii îmi atinse buzele, am urcat muntele sfânt şi I-am vorbit lui Dumnezeu spunându-I:<br>
+<br>
+„Stăpâne, eu sunt robul Tău.<br>
+<br>
+Voinţa Ta ascunsă e lege pentru mine<br>
+<br>
+şi îţi voi fi supus în veci.&quot;<br>
+<br>
+Dar Dumnezeu nu îmi răspunse, ci se îndepărtă ca o furtună puternică.<br>
+<br>
+Şi după o mie de ani am urcat din nou pe muntele cel sfânt şi I-am vorbit lui Dumnezeu încă o dată, şi I-am zis:<br>
+<br>
+„Creatorule, eu sunt creaţia Ta.<br>
+<br>
+Din lut m-ai plămădit şi Ţie îţi datorez fiinţa.&quot;<br>
+<br>
+Dar El nu îmi răspunse ci se îndepărta cu freamătul a o mie de aripi mlădioase.<br>
+<br>
+Şi după încă o mie de ani m-am urcat pe muntele sfânt şi iarăşi I-am vorbit lui Dumnezeu, zicându-I:<br>
+<br>
+„Tată, eu sunt fiul Tău.<br>
+<br>
+Cu milostenie şi cu iubire Tu m-ai zămislit,<br>
+<br>
+şi prin iubire şi-nchinare voi moşteni împărăţia Ta.&quot;<br>
+<br>
+Dar Dumnezeu nu îmi răspunse şi, precum ceaţa care învăluia piscurile îndepărtate, El se risipi.<br>
+<br>
+O mie de ani mai târziu, când am urcat din nou pe muntele cel sfânt, şi iarăşi I-am vorbit lui Dumnezeu, I-am spus:<br>
+<br>
+„Dumnezeul meu, menirea şi împlinirea mea,<br>
+<br>
+eu îţi sunt ieri, iar Tu-mi eşti mâine;<br>
+<br>
+eu îţi sunt rădăcina din ţărână, iar tu eşti înflorirea mea în ceruri,<br>
+<br>
+şi împreună creştem dinaintea soarelui.&quot;<br>
+<br>
+Iar Dumnezeu se aplecă atunci deasupra-mi<br>
+<br>
+şi îmi şopti-n ureche dulci cuvinte,<br>
+<br>
+şi-asemeni mării care primeşte râuleţul ce aleargă către ea,<br>
+<br>
+El m-a primit în Sine.<br>
+<br>
+Am coborât apoi spre văi şi spre câmpii,<br>
+<br>
+iar Dumnezeu era şi-acolo.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Khalil Gibran
+* **Temă:** dumnezeu
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
