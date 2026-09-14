@@ -1,0 +1,144 @@
+---
+title: "Singurul lucru care contează"
+subtitle: "Lucian Avramescu"
+author: "Doctor Shrink"
+date: "2026-09-15"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/asHpOFG3iU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+femeia este singurul lucru care contează<br>
+<br>
+și afirm asta știind că destui<br>
+<br>
+vor strâmba din nas...<br>
+<br>
+pielea ei știe toate limbile fericirii universale,<br>
+<br>
+lipit de ea, ca de țărână,<br>
+<br>
+înțeleg constelațiile, raiul și iadul,<br>
+<br>
+bucuria și nefericirea;<br>
+<br>
+mersul pe jos prin mine însumi<br>
+<br>
+îmi face din ce în ce mai bine<br>
+<br>
+pentru a nu mai vorbi<br>
+<br>
+de arhitectura sinelui său<br>
+<br>
+care face să pălească marile catedrale ale lumii-<br>
+<br>
+San Piedro, Domul din Milano...<br>
+<br>
+femeia este singurul lucru care contează<br>
+<br>
+cu trupul ei în brațe<br>
+<br>
+poți traversa un ocean<br>
+<br>
+chiar dacă nu știi să înoți<br>
+<br>
+decât în apele ochilor ei<br>
+<br>
+fără femeie<br>
+<br>
+limuzina noastră este o căruță hodorogită<br>
+<br>
+contul la bancă scade chiar dacă este în creștere<br>
+<br>
+prietenii sunt<br>
+<br>
+plini de pojarul trădării,<br>
+<br>
+în vinul scump mișcă mormolocii<br>
+<br>
+o ai<br>
+<br>
+îți cântă privighetoarea în coșul pieptului<br>
+<br>
+te îmbraci în haine de pușcărie fericit<br>
+<br>
+cum ai pleca la nuntă,<br>
+<br>
+faci monetarul stelelor pe cer<br>
+<br>
+ca un nabab universal<br>
+<br>
+chiar dacă-ți fluieră vântul prin gaicile sociale:<br>
+<br>
+te calcă trenul<br>
+<br>
+și o șoaptă dacă ți-a rămas întreagă<br>
+<br>
+parcurgi literele numelui ei<br>
+<br>
+gata să urzești planuri de viitor<br>
+<br>
+când de aproape te pândește o morgă de lux<br>
+<br>
+femeia, domnilor, este singurul lucru<br>
+<br>
+care nu poate fi înlocui decât de sinele său<br>
+<br>
+pielea ei știe toate graiurile<br>
+<br>
+fericiri universale,<br>
+<br>
+cecul iluziilor<br>
+<br>
+este valuta ei<br>
+<br>
+prin care noi învingem crizele mondiale<br>
+<br>
+iată de ce cred că<br>
+<br>
+știința ei<br>
+<br>
+de-a ne face fericiți sau nefericiți<br>
+<br>
+îi dă dreptul la titlul de<br>
+<br>
+doctor honoris cauza<br>
+<br>
+al complicatei noastre algebre sufletești<br>
+<br>
+femeia, domnilor- pentru a nu vă plictisi-<br>
+<br>
+femeia cu pielea ei<br>
+<br>
+care ne învață alfabetul orbilor,<br>
+<br>
+cu mereu întoarsele cești ale sânilor<br>
+<br>
+în care noi nu ghicim niciodată, nimic,<br>
+<br>
+femeia<br>
+<br>
+cu toată argintăria surâsului său<br>
+<br>
+cu goliciunea ei care umple universul<br>
+<br>
+este singurul lucru care contează<br>
+<br>
+domnilor
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Lucian Avramescu
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,57 @@
+---
+title: "Lauda suferinţei"
+subtitle: "Lucian Blaga"
+author: "Doctor Shrink"
+date: "2026-09-15"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T_nBzmpzNCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Atâţia dintre semeni nu prea ştiu<br>
+ce să înceapă-n zori cu suferinţa.<br>
+Ei nu-şi dau seama nici spre seară de prilejul<br>
+chemat să-nalţe mersul, cunoştinţa.<br>
+<br>
+Suferinţa poate fi întuneric, tăciune în inimă,<br>
+pe frunţi albastru ger,<br>
+pe coapsă ea poate fi pecete arsă cu fier,<br>
+în bulgăre de ţărână<br>
+o lacrimă sau sâmbure de cer.<br>
+<br>
+Nu mai calcă pe pământ<br>
+cine calcă-n suferinţă.<br>
+Ea schimbă la faţă argila, o schimbă în duh<br>
+ce poate fi pipăit, duios, cu stiinţă.<br>
+<br>
+Tată, carele eşti şi vei fi,<br>
+nu ne despoia, nu ne sărăci,<br>
+nu alunga de pe tărâmuri orice suferinţă.<br>
+Alungă pe aceea doar care destramă,<br>
+dar nu pe-aceea care întăreşte<br>
+fiinţa-ntru fiinţă.<br>
+<br>
+Fă ca semenii noştri,<br>
+de la oameni la albine,<br>
+de la-nvingători la biruiţi,<br>
+de la-ncoronaţi la răstigniţi, să ia aminte<br>
+că există pretutindeni şi această suferinţă,<br>
+până astăzi şi de-acum înainte<br>
+singura legătură între noi şi tine.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Lucian Blaga
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,42 @@
+---
+title: "Lumină din lumină"
+subtitle: "Lucian Blaga"
+author: "Doctor Shrink"
+date: "2026-09-15"
+categories: [poezie, spoken-word, lumina, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7AU_EARw7Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În mijlocul dimineţii stă taurul neînjugat.<br>
+<br>
+Stăpâneşte un câmp. Luceşte ca o castană<br>
+<br>
+proaspăt cojită.<br>
+<br>
+Printre coarnele lui soarele vine în sat.<br>
+<br>
+Lângă apă lină stă în puterea zorilor taurul<br>
+<br>
+nemişcat. Înălţat şi frumos.<br>
+<br>
+E ca Isus Christos:<br>
+<br>
+lumină din lumină, Dumnezeu adevărat.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Lucian Blaga
+* **Temă:** lumina, soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

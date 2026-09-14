@@ -1,0 +1,76 @@
+---
+title: "Catrenele dragostei"
+subtitle: "Lucian Blaga"
+author: "Doctor Shrink"
+date: "2026-09-15"
+categories: [poezie, spoken-word, iubire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cn9scg2EZbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dragă-mi este dragostea<br>
+bântuită de sprâncene,<br>
+de sprâncene pământene,<br>
+lungi, pieziş-răsăritene.<br>
+<br>
+Dragă-mi este dragostea,<br>
+soarele din an în veac,<br>
+dragostea ce poartă-n ea<br>
+moarte-ades şi-ades un leac.<br>
+<br>
+Spune-se că-n holdă coaptă<br>
+macul îl dezbraci c-o şoaptă.<br>
+Dragă-mi este dragostea<br>
+care zice: nu şi da.<br>
+<br>
+Dragă-mi este dragostea,<br>
+mare face inima,<br>
+mare pe cât lumea-zare,<br>
+mică pe cât lacrima.<br>
+<br>
+Dragă-mi este dragostea<br>
+care face stea şi stea<br>
+din pământurile noastre -<br>
+prin poienile albastre.<br>
+<br>
+Sângele îşi ştie visul.<br>
+Dragă-mi este dragostea<br>
+cu-nălţimile şi-abisul<br>
+şi cu ce mai are-n ea.<br>
+<br>
+Dragă-mi este dragostea -<br>
+locului nu pot s-o ţin,<br>
+căci frumseţea ei dispare<br>
+în frumseţile-i ce vin.<br>
+<br>
+Dragă-mi este dragostea,<br>
+dragă uneori furtuna<br>
+şi-un păcat pe care-l arde<br>
+pe la miezul nopţii luna.<br>
+<br>
+Din aleanul trupului<br>
+sufletul se naşte.<br>
+Dragă-mi este dragostea<br>
+ce de ani mă paşte.<br>
+<br>
+Dragostea ne-o ţină zeii,<br>
+să ne-ncânte funigeii<br>
+ca urzeala inului<br>
+firele destinului.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Lucian Blaga
+* **Temă:** iubire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
