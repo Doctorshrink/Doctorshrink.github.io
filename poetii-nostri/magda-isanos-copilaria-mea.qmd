@@ -1,0 +1,100 @@
+---
+title: "Copilăria mea"
+subtitle: "Magda Isanos"
+author: "Doctor Shrink"
+date: "2026-09-16"
+categories: [poezie, spoken-word, copilarie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n3IOIzTMQjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Mi-i fraged sufletul, până pe buze mi-i fraged,<br>
+<br>
+poate de iarba ce crește acuma la noi;<br>
+<br>
+cu bice de aur trec sub fereastra mea ploi –<br>
+<br>
+stau singură și-mi aduc aminte de multe:<br>
+<br>
+Când eram mică legasem un leagăn de-o creangă.<br>
+<br>
+„Vreau s-ajung steaua de-acolo...” strigam bunicului.<br>
+<br>
+O, cât de sus s-au suit dușmănoasele stele...<br>
+<br>
+Nu le mai văd, le-am uitat lumina curată.<br>
+<br>
+Mi-i inima tristă. Mama mi-a scris c-au tăiat<br>
+<br>
+pomii din fundul grădinii, leagănul putred;<br>
+<br>
+odată cu dânsul, va fi căzut în buruieni<br>
+<br>
+copilăria mea – și o mănâncă furnicile...<br>
+<br>
+II<br>
+<br>
+Cine povestește în mine, cine<br>
+<br>
+mi-aduce aminte c-am trăit acolo,<br>
+<br>
+în țara dintre sobă și genunchii bunicului,<br>
+<br>
+întâia poveste cu zmei?<br>
+<br>
+Vă voi face să trăiți de-a pururi,<br>
+<br>
+ani duși, miraculoase răsărituri.<br>
+<br>
+Deasupra gardului unde lumea sfârșea,<br>
+<br>
+azi știu, de-acolo începea tărâmul zmeului.<br>
+<br>
+Însă toate s-au sfârșit odată,<br>
+<br>
+când ardeau lumânările ziua.<br>
+<br>
+Bunicul dormea într-o cutie frumoasă –<br>
+<br>
+și l-au luat și l-au dus pe sub marii castani.<br>
+<br>
+Toată noaptea m-am temut pentru dânsul.<br>
+<br>
+Văzând că nu se mai întoarce, ziceam:<br>
+<br>
+„Dacă se-ntâlnește cu scorpia? Haide,<br>
+<br>
+Azor, să ne ducem la el.”<br>
+<br>
+Și singură mai târziu am plecat.<br>
+<br>
+Pe tărâmul zmeului mișună oameni.<br>
+<br>
+În jurul inimilor lor un șarpe mic<br>
+<br>
+se-ncolăcește; ei sunt triști și răi.<br>
+<br>
+Dar pentru dânșii scriu poemele mele,<br>
+<br>
+scutur deasupra lor copacii de-atunci și ploile:<br>
+<br>
+amintiți-vă că sunt copii pe lume,<br>
+<br>
+și plante albastre, și duioșii câni.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Magda Isanos
+* **Temă:** copilarie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

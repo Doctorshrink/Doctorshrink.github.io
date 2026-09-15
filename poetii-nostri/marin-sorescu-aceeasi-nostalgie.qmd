@@ -1,0 +1,68 @@
+---
+title: "Aceeasi nostalgie"
+subtitle: "Marin Sorescu"
+author: "Doctor Shrink"
+date: "2026-09-16"
+categories: [poezie, spoken-word, amintire, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R-SzJia4ObE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pachetul de tigari gol<br>
+<br>
+are o nostalgie<br>
+<br>
+pe care numai vidul cosmic o-ntelege<br>
+<br>
+se simte absolut parasit<br>
+<br>
+ca o rampa de lansare<br>
+<br>
+dupa ce toate rachetele trimise in stele<br>
+<br>
+n-au facut decat fum<br>
+<br>
+flori frumoase<br>
+<br>
+nu intalnesti decat toamna foarte tarziu<br>
+<br>
+dupa ce vanturile rasucite ca otgonul<br>
+<br>
+si-au facut toate mendrele, au batut furnicile<br>
+<br>
+si doar albastrelele de camp<br>
+<br>
+au rezistat in vaza lor de loess<br>
+<br>
+deschizandu-si multiplele lor pleoape<br>
+<br>
+casca niste priviri<br>
+<br>
+pline de uimire<br>
+<br>
+se aceeasi nostalgie le uneste<br>
+<br>
+pe masa mea<br>
+<br>
+cu pachetul de tigari gol<br>
+<br>
+si cu mine care nu stiu de ce<br>
+<br>
+ma tot uit pe fereastra.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Marin Sorescu
+* **Temă:** amintire, dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

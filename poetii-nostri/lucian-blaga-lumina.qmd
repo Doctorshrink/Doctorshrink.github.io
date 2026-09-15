@@ -1,0 +1,66 @@
+---
+title: "Lumina"
+subtitle: "Lucian Blaga"
+author: "Doctor Shrink"
+date: "2026-09-16"
+categories: [poezie, spoken-word, lumina, soare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DpCc4dcrCrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Lumina ce-o simt<br>
+<br>
+năvălindu-mi în piept cînd te văd,<br>
+<br>
+oare nu e un strop din lumina<br>
+<br>
+creată în ziua dintîi,<br>
+<br>
+din lumina aceea-nsetată adînc de vieață?<br>
+<br>
+Nimicul zăcea-n agonie,<br>
+<br>
+cînd singur plutea-n întuneric și dat-a<br>
+<br>
+un semn Nepătrunsul:<br>
+<br>
+&quot;Să fie lumină!&quot;<br>
+<br>
+O mare<br>
+<br>
+și-un vifor nebun de lumină<br>
+<br>
+făcutu-s-a-n clipă :<br>
+<br>
+o sete era de păcate, de doruri, de-avînturi, de patimi,<br>
+<br>
+o sete de lume și de soare.<br>
+<br>
+Dar unde-a pierit orbitoarea<br>
+<br>
+lumină de-atunci-cine știe?<br>
+<br>
+Lumina, ce-o simt năvălindu-mi<br>
+<br>
+în piept cînd te văd-minunato,<br>
+<br>
+e poate ca ultimul strop<br>
+<br>
+din lumina creată în ziua dintîi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Lucian Blaga
+* **Temă:** lumina, soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

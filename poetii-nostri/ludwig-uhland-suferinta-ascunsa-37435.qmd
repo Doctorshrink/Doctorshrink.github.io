@@ -1,0 +1,50 @@
+---
+title: "Suferință ascunsă"
+subtitle: "Ludwig Uhland"
+author: "Doctor Shrink"
+date: "2026-09-16"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XLkZUBqy4F0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Durerea mea trăiește în pădure<br>
+<br>
+Dar nu spun nimănui ce simt,<br>
+<br>
+O port prin văile obscure<br>
+<br>
+Prea singuratic și mă mint.<br>
+<br>
+Pe-acolo când va trece cineva<br>
+<br>
+Îmi va găsi nătânga mea durere<br>
+<br>
+Împrăștiată, știu eu, undeva<br>
+<br>
+Timidă și ascunsă de vedere.<br>
+<br>
+De veți vedea odată-n luminiș<br>
+<br>
+Ceva întins și fără pace,<br>
+<br>
+În cel mai nebulos desiș<br>
+<br>
+E suferința mea ce zace.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ludwig Uhland
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

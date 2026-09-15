@@ -1,0 +1,50 @@
+---
+title: "Timp fără patrie"
+subtitle: "Lucian Blaga"
+author: "Doctor Shrink"
+date: "2026-09-16"
+categories: [poezie, spoken-word, tara, timp]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KfzoKafiw2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Timp fără patrie: rîu fără ape,<br>
+<br>
+secetă-n albie și subt pleoape.<br>
+<br>
+Timp fără patrie: inimi învinse,<br>
+<br>
+vîrste nerodnice, cugete stinse.<br>
+<br>
+Timp fără patrie: sură poveste,<br>
+<br>
+vuiet de cetină neagră pe creste.<br>
+<br>
+Timp fără patrie: țărîni nentoarse,<br>
+<br>
+zboruri defuncte și suflete arse.<br>
+<br>
+Timp fără patrie: stingere-a torței,<br>
+<br>
+boltă neprietenă, clopot al sorții.<br>
+<br>
+Timp fără patrie: dragoste-amară,<br>
+<br>
+roiri tînjind după raiuri și ceară.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Lucian Blaga
+* **Temă:** tara, timp
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
