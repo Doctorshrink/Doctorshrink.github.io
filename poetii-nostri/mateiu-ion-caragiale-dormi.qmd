@@ -1,0 +1,41 @@
+---
+title: "Dormi"
+subtitle: "Mateiu Ion Caragiale"
+author: "Doctor Shrink"
+date: "2026-09-17"
+categories: [poezie, spoken-word, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zJ-l5QpQ6k8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dormi dulce somn netulburat<br>
+În flori şi în dantele,<br>
+Dormi că ţi-au pălit mâinile<br>
+În grelele inele.<br>
+<br>
+Dormi rece somn ne&#x27;nfiorat<br>
+De gânduri, nici de vise,<br>
+Dormi că ţi-au rănit pleoapele<br>
+Făcliile aprinse.<br>
+<br>
+Dormi veşnic somn îmbălsămat<br>
+În beznă şi-n uitare,<br>
+Dormi că ţi-a muşcat buzele<br>
+A Morţii sărutare.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Mateiu Ion Caragiale
+* **Temă:** dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

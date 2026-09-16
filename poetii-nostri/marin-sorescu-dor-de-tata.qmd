@@ -1,0 +1,82 @@
+---
+title: "Dor de tata..."
+subtitle: "Traian Calancia"
+author: "Doctor Shrink"
+date: "2026-09-17"
+categories: [poezie, spoken-word, dor, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mbD4SUk5l4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Când sunt copiii noştri mici<br>
+<br>
+Noi pentru ei suntem TĂTICI<br>
+<br>
+Ce gingaş e, şi sună bine<br>
+<br>
+TĂTICULE, mi-e dor de tine!<br>
+<br>
+Dar cresc, nu le mai eşti pe plac<br>
+<br>
+Din TATA tu devii BABAC<br>
+<br>
+Şi vorba sună trist şi gol<br>
+<br>
+BABACULE, mai dă-mi un pol!<br>
+<br>
+Dar viaţa e un foc de paie<br>
+<br>
+Şi vrei nu vrei, ajungi TATAIE<br>
+<br>
+Iar vorba ta, în râs e luată<br>
+<br>
+TATAIE, ia mai las-o baltă!<br>
+<br>
+Şi-n anii care-ţi mai rămân<br>
+<br>
+Te vor numi doar ĂL BĂTRÂN<br>
+<br>
+Ţi vorba lor te năuceşte<br>
+<br>
+BĂTRÂNE, ce-ţi mai trebuieşte?<br>
+<br>
+Copile, tu să ai ştiinţă<br>
+<br>
+Am fost un tată cu credinţă<br>
+<br>
+Şi din puţin, de-a fost să fie<br>
+<br>
+Eu am răbdat, şi ţi-am dat ţie<br>
+<br>
+Dar fă-mi, te rog, o bucurie<br>
+<br>
+La cimitir, de vii la mine<br>
+<br>
+Să-mi zici ca în copilărie<br>
+<br>
+TĂTICULE, mi-e dor de tine!<br>
+<br>
+Când sunt copiii noştri mici<br>
+<br>
+Noi pentru ei suntem TĂTICI<br>
+<br>
+Ce gingaş e, şi sună bine<br>
+<br>
+TĂTICULE, mi-e dor de tine!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Traian Calancia
+* **Temă:** dor, tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

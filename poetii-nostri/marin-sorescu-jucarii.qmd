@@ -1,0 +1,92 @@
+---
+title: "Jucării"
+subtitle: "Marin Sorescu"
+author: "Doctor Shrink"
+date: "2026-09-17"
+categories: [poezie, spoken-word, copilarie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7j66THBp380" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Noi, care suntem îngrozitor de mari,<br>
+<br>
+Care n-am mai căzut pe gheaţă<br>
+<br>
+Dintre cele două războaie,<br>
+<br>
+Ori dacă din greşeală am alunecat vreodată,<br>
+<br>
+Ne-am şi fracturat un an,<br>
+<br>
+Unul din anii noştri importanţi şi ţepeni<br>
+<br>
+De gips...<br>
+<br>
+O, noi, cei îngrozitor de mari<br>
+<br>
+Simţim câteodată<br>
+<br>
+Că ne lipsesc jucăriile.<br>
+<br>
+Avem tot ce ne trebuie,<br>
+<br>
+Dar ne lipsesc jucăriile.<br>
+<br>
+Ne e dor de optimismul<br>
+<br>
+Inimii de vată a păpuşilor<br>
+<br>
+Şi de corabia noastră<br>
+<br>
+Cu trei rânduri de pânze,<br>
+<br>
+Care merge la fel de bine pe apă,<br>
+<br>
+Ca şi pe uscat.<br>
+<br>
+Am vrea să încălecăm pe un cal de lemn<br>
+<br>
+Şi calul să necheze o dată cu tot lemnul,<br>
+<br>
+Iar noi să-i spunem: Du-ne undeva,<br>
+<br>
+Nu ne interesează locul,<br>
+<br>
+Pentru că oriunde în viaţă<br>
+<br>
+Noi avem de gând să facem<br>
+<br>
+Nişte fapte grozave.<br>
+<br>
+O, cât ne lipsesc uneori jucăriile!<br>
+<br>
+Dar nu putem nici măcar să fim trişti<br>
+<br>
+Din cauza asta<br>
+<br>
+Şi să plângem din tot sufletul,<br>
+<br>
+Ţinându-ne cu mâna de piciorul scaunului,<br>
+<br>
+Pentru că noi suntem nişte oameni foarte mari<br>
+<br>
+Şi nu mai e nimeni mai mare ca noi<br>
+<br>
+Care să ne mângâie.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Marin Sorescu
+* **Temă:** copilarie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

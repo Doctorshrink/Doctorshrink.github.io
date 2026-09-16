@@ -1,0 +1,116 @@
+---
+title: "Singurătatea"
+subtitle: "Mateiu Ion Caragiale"
+author: "Doctor Shrink"
+date: "2026-09-17"
+categories: [poezie, spoken-word, amintire, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/00FkeMGvbLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+E-aşa de greu amurgul cu zarea-nsângerată,<br>
+Că-n parc sub teii-n floare ce gem înnăbuşit<br>
+Se-ncheagă unde groase de miere-mbălsămată,<br>
+Şi-atât de-apăsătoare tăcerea-mpurpurată<br>
+Că simt cum plânge-n mine ceva nedesluşit.<br>
+<br>
+Melancolia face în pieptu-mi să tresalte<br>
+Neînţelese doruri, în vreme ce-aţipind<br>
+Fiinţa mea de astăzi, în locu-i răsar alte<br>
+Vechi suflete apuse, mult mândre, mult înalte,<br>
+Zguduitoare patimi cu foc mărturisind.<br>
+<br>
+Umbroasa-le poveste măreaţă se-mpleteşte<br>
+La murmurul ei sumbru plutind în depărtări,<br>
+Nostalgică gândirea în voie-mi pribegeşte<br>
+Şi nesfârşit de tristă, se pierde, se topeşte<br>
+Într-un noian albastru de mistice visări...<br>
+<br>
+Din crudele cătuşe, ce încă mă mai leagă,<br>
+De omeneasca fire treptat mă dezrobesc,<br>
+Înseninată mintea-mi începe să-nţeleagă,<br>
+Cu-amar dezgust, a vieţii zădărnicie-ntreagă<br>
+Şi, liberă, străină de tot ce-i pământesc,<br>
+<br>
+Se-nvoaltă, se-ntraripă, spre slăvi semeţ se-avântă<br>
+Cutezătoare, gravă, mai sus, mereu mai sus,<br>
+În prada-nfrigurării ce aprig mă frământă<br>
+Renasc cel de-altădată, acel ce nu-l încântă<br>
+Decât singurătatea, dar singur, totuşi, nu-s.<br>
+<br>
+Căci dacă, dus pe gânduri, m-asez lângă fântână<br>
+Privind cum apa doarme pe netedul nisip,<br>
+Cu tâmplele în palme şi-adăst în umbră până<br>
+Când lin şi molcom ziua cu noaptea se îngână<br>
+În fluida oglindă, alături de-al meu chip,<br>
+<br>
+În străveziu zăbranic aievea se iveşte<br>
+O tainică-arătare... Adâncele-i priviri<br>
+Ce se resfrâng prin lacrimi spre mine-şi aţinteşte<br>
+Iar glasu-i ca-ntr-o rugă, tremurător, şopteşte.<br>
+De mult cunosc ispita acestei năluciri...<br>
+<br>
+Întotdeauna dânsa mă mustră cu blândeţe:<br>
+- De ce-mpotriva firii hain te răzvrăteşti;<br>
+Tot ce-i frumos în suflet de ce laşi să îngheţe<br>
+Jertfind trufiei sterpe senina tinereţe?<br>
+Ia seama că ea trece şi n-o mai regăseşti.<br>
+<br>
+A-ţi înfrâna încearcă sălbatica pornire,<br>
+Cât mai e timp, te-ntoarce din drum, nu şovăi!<br>
+Scăparea e-n credinţă, nădejde şi iubire,<br>
+Prin ele doar s-atinge fugara fericire,<br>
+Urmează-le deci legea şi nu te vei căi...<br>
+<br>
+- Taci, îi răspund, mai scumpă îmi e a mea durere,<br>
+Prin ea spre-nţelepciune eu cugetu-mi ridic,<br>
+Ce-mi pasă dacă sufer, când sufer în tăcere,<br>
+Când nu cârtesc, nu blestem şi nu cer mângâiere,<br>
+Când nu mă-ncred în nimeni şi nu cred în nimic!<br>
+<br>
+Iubirea e robie; trădarea - umilinţă;<br>
+Nădejdea? ce-mi rămâne a mai nădăjdui?<br>
+Precum în nepăsare trăiesc fără credinţă<br>
+Voi şti deopotrivă să mor fără căinţă,<br>
+Chiar clipa ce-a din urmă o voi dispreţui.<br>
+<br>
+Cât mai curând ea vie, aducă-mi alinarea<br>
+De veci şi voi primi-o netulburat şi mut -<br>
+Spre a putea respinge şi-atunci înduioşarea<br>
+Goni-voi amintirea şi voi chema uitarea<br>
+Să-mi legene sfârşitul, al liniştii-nceput.<br>
+<br>
+Că margini nu cunoaşte păgâna-mi semeţie,<br>
+Afară de trufie nimic n-avut-am sfânt,<br>
+Mi-am răzbunat printr-însa întreaga seminţie,<br>
+Şi sub călăuzirea-i păşesc cu bărbăţie<br>
+Pe-atât de aspra cale a negrului mormânt...<br>
+<br>
+Cu amăgiri deşarte şi seci seninătatea<br>
+De tinzi să mi-o mai turburi, de-acum e în zadar...<br>
+Piei dar şi-n pacea nopţii îmi lasă voluptatea<br>
+De-a fi cu totul singur, redă-mi singurătatea...<br>
+Târziu uşoara şoaptă, încet se stinge, iar.<br>
+<br>
+Din ce în ce mai ştearsă, ciudata arătare<br>
+Pe nesimţite piere din undele-argintii,<br>
+Când spelb şi searbăd cerul iar sângeră la zare<br>
+Şi, deşteptând frunzişul, a dimineţii boare<br>
+Îmi spulberă-ncântarea grădinilor pustii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Mateiu Ion Caragiale
+* **Temă:** amintire, singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

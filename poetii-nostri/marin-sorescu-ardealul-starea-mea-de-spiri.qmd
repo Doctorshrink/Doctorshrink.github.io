@@ -1,0 +1,50 @@
+---
+title: "Ardealul, starea mea de spiri"
+subtitle: "Marin Sorescu"
+author: "Doctor Shrink"
+date: "2026-09-17"
+categories: [poezie, spoken-word, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mq3d96ijHo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ardealul, starea mea de spirit<br>
+<br>
+Cu care mă gândesc la ţară,<br>
+<br>
+De parc-aş respira lumină<br>
+<br>
+Şi existenţă milenară.<br>
+<br>
+La orice pas îţi râde-o floare,<br>
+<br>
+Sub orice pas e un mormânt,<br>
+<br>
+Ardealul întregind o roată<br>
+<br>
+Sub care Horia s-a frânt.<br>
+<br>
+Aud un clopot sus pe-o cruce,<br>
+<br>
+Bătând cu limba-n ideal,<br>
+<br>
+Ca-ntr-o Duminică a ţării<br>
+<br>
+Vin la biserică-n Ardeal.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Marin Sorescu
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,47 @@
+---
+title: "Sarpele casei"
+subtitle: "Marin Sorescu"
+author: "Doctor Shrink"
+date: "2026-09-17"
+categories: [poezie, spoken-word, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m5V6d7H5he4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Venea din curte si intra intr-o gaura<br>
+Din beciul casei.<br>
+Era un sarpe gulerat, mai mult alb, alburiu.<br>
+George era copil: - Uite sarpele, uite sarpele!<br>
+<br>
+Si baba: Nu da în el,<br>
+Ca asta e sarpele casei.<br>
+Nu face nimic.<br>
+Deocamdata nu i-a făcut nimic.<br>
+<br>
+Dar peste o jumatate de an, ori un an,<br>
+lar l-a văzut. Si l-a lovit c-o maciuca.<br>
+Se incolacise pe ciomag si el a ridicat<br>
+Ciomagul în sus, si era să-i cada în cap.<br>
+<br>
+Se zvarcolea să moara.<br>
+Si la urma i-a parut rău.<br>
+Da&#x27; ce s-a suparat mama când a aflat!<br>
+Si când ne-a ars, mai tarziu, casa<br>
+Zicea: ,,Vezi? Ai omorat sarpele casei...&quot;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Marin Sorescu
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
