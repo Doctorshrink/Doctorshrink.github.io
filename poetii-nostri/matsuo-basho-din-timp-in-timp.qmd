@@ -1,0 +1,32 @@
+---
+title: "Din timp în timp"
+subtitle: "Matsuo Basho"
+author: "Doctor Shrink"
+date: "2026-09-18"
+categories: [poezie, spoken-word, timp]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NiPwkUWEmYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Din când în când<br>
+<br>
+Norii emană odihnă<br>
+<br>
+Pentru luna viitoare ...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Matsuo Basho
+* **Temă:** timp
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

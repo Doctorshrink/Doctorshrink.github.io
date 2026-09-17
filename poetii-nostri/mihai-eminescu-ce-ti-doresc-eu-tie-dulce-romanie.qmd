@@ -1,0 +1,62 @@
+---
+title: "Ce-ţi doresc eu ţie, dulce Românie"
+subtitle: "Mihai Eminescu"
+author: "Doctor Shrink"
+date: "2026-09-18"
+categories: [poezie, spoken-word, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omtZMKWfjVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ce-ţi doresc eu ţie, dulce Românie,<br>
+Ţara mea de glorii, ţara mea de dor?<br>
+Braţele nervoase, arma de tărie,<br>
+La trecutu-ţi mare, mare viitor!<br>
+Fiarbă vinu-n cupe, spumege pocalul,<br>
+Dacă fiii-ţi mândri aste le nutresc;<br>
+Căci rămâne stânca, deşi moare valul,<br>
+Dulce Românie, asta ţi-o doresc.<br>
+<br>
+Vis de răzbunare negru ca mormântul<br>
+Spada ta de sânge duşman fumegând,<br>
+Şi deasupra idrei fluture cu vântul<br>
+Visul tău de glorii falnic triumfând,<br>
+Spună lumii large steaguri tricoloare,<br>
+Spună ce-i poporul mare, românesc,<br>
+Când s-aprinde sacru candida-i vâlvoare,<br>
+Dulce Românie, asta ţi-o doresc.<br>
+<br>
+Îngerul iubirii, îngerul de pace,<br>
+Pe altarul Vestei tainic surâzând,<br>
+Ce pe Marte-n glorii să orbească-l face,<br>
+Când cu lampa-i zboară lumea luminând,<br>
+El pe sânu-ţi vergin încă să coboare,<br>
+Guste fericirea raiului ceresc,<br>
+Tu îl strânge-n braţe, tu îi fă altare,<br>
+Dulce Românie, asta ţi-o doresc.<br>
+<br>
+Ce-ţi doresc eu ţie, dulce Românie,<br>
+Tânără mireasă, mamă cu amor!<br>
+Fiii tăi trăiască numai în frăţie<br>
+Ca a nopţii stele, ca a zilei zori,<br>
+Viaţa în vecie, glorii, bucurie,<br>
+Arme cu tărie, suflet românesc,<br>
+Vis de vitejie, fală şi mândrie,<br>
+Dulce Românie, asta ţi-o doresc!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Mihai Eminescu
+* **Temă:** dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

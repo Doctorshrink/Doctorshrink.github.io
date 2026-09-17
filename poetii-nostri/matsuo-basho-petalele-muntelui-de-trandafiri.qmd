@@ -1,0 +1,32 @@
+---
+title: "Petalele muntelui de trandafiri"
+subtitle: "Matsuo Basho"
+author: "Doctor Shrink"
+date: "2026-09-18"
+categories: [poezie, spoken-word, flori, munte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PdOFzg1yfc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Petalele muntelui au crescut<br>
+<br>
+Încă o dată,<br>
+<br>
+La sunetul cascadei?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Matsuo Basho
+* **Temă:** flori, munte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

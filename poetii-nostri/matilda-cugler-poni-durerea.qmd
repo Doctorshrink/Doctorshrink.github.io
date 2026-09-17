@@ -1,0 +1,66 @@
+---
+title: "Durerea"
+subtitle: "Matilda Cugler-Poni"
+author: "Doctor Shrink"
+date: "2026-09-18"
+categories: [poezie, spoken-word, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lMSJtTW5J3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Îţi mai aduci aminte de-un timp, ce nu mai este?<br>
+<br>
+Mai ştii acele locuri, unde ne întâlneam?<br>
+<br>
+Şi n-ai uitat-o încă acea dragă poveste<br>
+<br>
+De vecinică iubire, ce-n taină ne spuneam?<br>
+<br>
+Poveste-aşa de dulce, şoptită în deseară,<br>
+<br>
+Când păsările cântă c-un glas fermecător,<br>
+<br>
+Când toate-ţi par eterne, şi flori, şi primăvară<br>
+<br>
+Şi scumpa ta speranţă şi junul tău amor!<br>
+<br>
+Cu inima ferbinte şi plină de credinţă<br>
+<br>
+Te-arunci în  lume-atuncea şi speri că-i birui<br>
+<br>
+Şi crezi că pentru tine, prin slaba ta voinţă,<br>
+<br>
+Chiar legile naturii în cale s-or opri.<br>
+<br>
+O, amăgiri nebune! Când vine toamna rece<br>
+<br>
+Şi frunzele pe arbori încet îngălbenesc,<br>
+<br>
+Cum plec atunce toate ca visul care trece<br>
+<br>
+Lăsând numai durere în pieptul omenesc.<br>
+<br>
+Căci numai ea-i eternă; durerea nu se stinge,<br>
+<br>
+Durerea ne petrece prin viaţă la mormânt,<br>
+<br>
+Purtând pe cap coroana-i de lacrimi şi de sânge,<br>
+<br>
+Ca semn al stăpânirii ce are pe pământ.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Matilda Cugler-Poni
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

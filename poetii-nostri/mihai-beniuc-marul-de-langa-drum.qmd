@@ -1,0 +1,110 @@
+---
+title: "Mărul de lângă drum"
+subtitle: "Mihai Beniuc"
+author: "Doctor Shrink"
+date: "2026-09-18"
+categories: [poezie, spoken-word, drum]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WJWT6d3Z1F8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Sunt măr de lângă drum şi fără gard.<br>
+<br>
+La mine-n ramuri poame roşii ard.<br>
+<br>
+Drumeţule, să iei fără sfială,<br>
+<br>
+Că n-ai să dai la nimeni socoteală.<br>
+<br>
+Iar dacă vrei s-aduci cuiva mulţam,<br>
+<br>
+Adu-l ţărânei ce sub mine-o am.<br>
+<br>
+E ţara ce la sânul ei ne ţine,<br>
+<br>
+Hrănindu-ne pe tine şi pe mine.<br>
+<br>
+Când se-ncălzeşte-n primăveri sub soare,<br>
+<br>
+În mine sunt puzderie de floare,<br>
+<br>
+Iar vara, adăpat din sucu-i sfânt,<br>
+<br>
+Cu crengile mă-ndoi până-n pământ,<br>
+<br>
+În semn de prea adâncă plecăciune,<br>
+<br>
+De tot ce-aş vrea să spun şi nu ştiu spune.<br>
+<br>
+În toamnă, când pe creangă măr de măru-i,<br>
+<br>
+La pământeni cu dragoste mă dărui.<br>
+<br>
+Când au pornit podoabele-mi să cadă<br>
+<br>
+Şi vine blana groasă de zăpadă,<br>
+<br>
+Eu strâng vârtos în rădăcini pământul<br>
+<br>
+Să nu mă smulgă din temeiuri vântul.<br>
+<br>
+Şi an de an mi-i rodul mai bogat<br>
+<br>
+Şi an de an mai gata sunt de dat.<br>
+<br>
+Mi-s dragi copiii legănaţi în ramuri,<br>
+<br>
+La gât cu mici bucăţi din sfinte flamuri.<br>
+<br>
+Şi dragi îmi sunt şi fetele fecioare<br>
+<br>
+Umblând prin crengi cu dalbele picioare,<br>
+<br>
+Cu poala şi cu sânul plin de mere,<br>
+<br>
+Râzând îmbujorate de plăcere.<br>
+<br>
+Atunci mai uit pe-aceia care-au dat<br>
+<br>
+Cu pietre-n rămurişul meu rotat,<br>
+<br>
+Şi-mi amintesc cum astă-primăvară<br>
+<br>
+Lângă tulpină-mi doi se sărutară,<br>
+<br>
+Iar la plecare, el cu bucurie<br>
+<br>
+Şi-a pus cântând o floare-n pălărie.<br>
+<br>
+Sunt măr de lângă drum si fără gard,<br>
+<br>
+La mine-n ramuri poame roşii ard.<br>
+<br>
+Drumeţule, să iei fără sfială,<br>
+<br>
+Că n-ai să dai la nimeni socoteală.<br>
+<br>
+Iar dacă vrei s-aduci cuiva mulţam,<br>
+<br>
+Adu-l ţărânei ce sub mine-o am.<br>
+<br>
+E ţara ce la sânul ei ne ţine,<br>
+<br>
+Hrănindu-ne, pe tine şi pe mine.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Mihai Beniuc
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

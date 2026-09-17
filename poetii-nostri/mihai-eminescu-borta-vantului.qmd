@@ -1,0 +1,120 @@
+---
+title: "Borta-vântului"
+subtitle: "Mihai Eminescu"
+author: "Doctor Shrink"
+date: "2026-09-18"
+categories: [poezie, spoken-word, casa, vant]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B6kFX6FyXAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Era un om sărac - sărac , ş-avea o mulţime de copii. Acu era-n vremea foametii şi el a muncit v-o săptămână pe un căuş de grăunţe. Acu s-a dus la râşniţă cu dânsele. După ce le-o râşnit, a eşit afară cu căuşul cu făină şi s-a pornit o furtună mare şi i-a luat toată făina din căuş.<br>
+<br>
+Da&#x27; el straşnic s-o mâniat. „Nu mă las eu aşa cu una cu două”, şi face un şumuiag de paie şi porneşte.<br>
+<br>
+Îl întreabă un om:<br>
+<br>
+— Unde te duci, cumătre?<br>
+<br>
+— Mă duc s&#x27;astup borta vântului, că mi-a luat făina din căuş.<br>
+<br>
+— Da unde-i nimeri-o?<br>
+<br>
+— Unde-a fi acolo mă duc.<br>
+<br>
+Mergând el loc depărtat a ajuns pe Dzeu şi sf. Petrea (erau pe pământ pe-atunci).<br>
+<br>
+— Unde te duci omule?<br>
+<br>
+— Mă duc s&#x27;astup borta vântului, că mi-o luat făina din căuş.<br>
+<br>
+Da D-zeu i-o zis aşa:<br>
+<br>
+— Omule, nu te mai duce. Na-ţi o nucă ... da pân a casă să nu zici: &quot;nucă, deschide-te&quot;.<br>
+<br>
+Întorcându-se el înnapoi, a-nnoptat ş-a ajuns la un om şi s-a rugat să-l primească să doarmă acolo peste noapte.<br>
+<br>
+— De unde vii bade? Întreabă omul cela.<br>
+<br>
+— Mă duceam s&#x27;astup borta vântului ş-am întâlnit un nebun pe drum şi mi-o dat o nucă şi-a zis să nu zic pân&#x27; acasă &quot;nucă, deschide-te&quot;. Ce-a mai fi şi asta?<br>
+<br>
+Femeea omului vicleană. Ia o nucă &#x27;n mână şi zice:<br>
+<br>
+— Ia să-ţi văd nuca.<br>
+<br>
+Îi schimbă nuca omului. Şi pe urmă se duce &#x27;ntr-un ocol şi zice: &quot;nucă deschide-te&quot;.<br>
+<br>
+Dac-o zis — atâte vite ce-o ieşit, oi, cai, hei, o bogăţie &#x27;ntreagă . Ştii mata, putere dumnezeiască!<br>
+<br>
+Se duce a doua zi acasă &quot;Nucă deschide-te&quot;. Nuca, de unde să se deschidă.<br>
+<br>
+— Hai bată-mi-l Dumnezeu vânt şi moşneagul lua-l-ar dracu. Mă duc s&#x27;astup borta vântului şi să bat pe moşneag de ce m-o viclenit.<br>
+<br>
+Ajunge iar pe Dumnezeu.<br>
+<br>
+Da D-zeu, ştii, putere dumnezeiască, acu era altfel la faţă... nu l-o cunoscut.<br>
+<br>
+— Unde te duci, bade?<br>
+<br>
+— S&#x27;astup borta vântului şi să ucid moşneagul, la ce m-o viclenit.<br>
+<br>
+— Na-ţi, bade, un măgar. Da să nu zici pân&#x27; acasă: &quot;măgar baligă-te.&quot;<br>
+<br>
+— N-oi zice.<br>
+<br>
+Se-ntoarce el iar pe la omul cela. Da omul cela-l ospătează şi-i dă vin să bee, şi omul s-o chefăluit şi-a adormit pe laiţă. Da erau nişte ţigani cu şatra acolo ş-avea măgar şi omul s-o dus ş-o cumpărat ş-a schimbat măgarul.<br>
+<br>
+Omul a doua zi se scoală, ia măgarul şi se duce acasă şi-i zice: &quot;măgar, fa bani!&quot;<br>
+<br>
+Măgarul, de unde? El apuc&#x27; un druc şi &#x27;ncepe a dişăla măgarul.<br>
+<br>
+— Acu nu-l mai iert eu!<br>
+<br>
+Se porneşte să &#x27;ntâlnească pe moşneag şi s&#x27;astupe borta vântului. Întâlneşte pe D-zeu.<br>
+<br>
+— Na-ţi bade, o cârjă, da să nu zici pân a casă: &quot;cârje &#x27;ncârjeşte-te&quot;.<br>
+<br>
+Ia cârja, vine pe la omul cela. Acu omul i-a dat şi mai straşnic ospăţ şi s-a sfătuit că dac&#x27; or vede ce-a mai da şi cârja, pe urmă să-l omoare, ca să nu prepue că el i-o luat. Acu zice omul femeii:<br>
+<br>
+— Măi, femee, noi hai cu cârja &#x27;n zămnic (beciu) şi să &#x27;nchidem uşa ş-a să zicem: &quot;cârjă&#x27;ncârjeşte-te&quot;.<br>
+<br>
+Se vâră. Cârja unde &#x27;ncepe a bate ş-a sdrobi. Până omul era cu chef, până s-a trezit, ei erau ucişi ca merele.<br>
+<br>
+— Bade ţi-om da şi măgar şi nuca, numa mă rog, scoate-ne.<br>
+<br>
+Acu omul i-o lăsat de i-o bătut şi mai bine. A luat măgarul, cârja şi nuca şi s-o pornit acasă.<br>
+<br>
+Aşa s-a făcut de bogat acu, de-a ajuns veste pân la &#x27;mpăratul . Atâţia bani avea el, de-o semănat ş-o crescut grâu de aur. Acu &#x27;mpăratul a auzit că are un lan de aur ş-o trimis doi sufragii să-i dee sămânţă, să semene şi-mpăratul.<br>
+<br>
+— Să spui împăratului că nu vreau să-i dau, să văd ce mi-a face.<br>
+<br>
+Împăratul când a auzit aşa, straşnic s-o mâniat ş-o gătit oştire, să se ducă cu răsboi asupra lui.<br>
+<br>
+Împăratul era frunte, ştii, mai mare. Ş-a venit pân la uşa lui ş-o strigat să iasă afară. Da el ave bani, da tot cu straie de-a noastre, nu cu straie leşeşti. El pune cârja sub suman şi ese afară. Acu &#x27;mpăratul cu atâtea mii de oameni i-a fost ruşine singur lui să se ducă el numa cu unul să se lupte. A zis:<br>
+<br>
+— Omule, arată-ţi tu întâi puterea.<br>
+<br>
+— Bine, măi împărate. &quot;Cârje&#x27;ncârjeşte-te&quot;, la tot soldatul câte două şi la împăratul nouă. (Cârja era dumnezeiască, tot în cap pâcâia).<br>
+<br>
+O nebunit şi pe soldaţi şi pe-mpăratul. S-o dus împăratul, ş-o rămas pace ş-o trăit bine.<br>
+<br>
+Să dea D-zeu să trăiască şi copiii mei aşa.<br>
+<br>
+Mihai Eminescu - Literatură populară, Ediţie îngrijită şi prefaţată de Perpessicius, Bucureşti, 1965.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Mihai Eminescu
+* **Temă:** casa, vant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
