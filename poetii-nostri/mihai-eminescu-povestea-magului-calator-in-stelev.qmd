@@ -1,0 +1,180 @@
+---
+title: "Povestea magului călător în stele[V]"
+subtitle: "Mihai Eminescu"
+author: "Doctor Shrink"
+date: "2026-09-19"
+categories: [poezie, spoken-word, luna_stele]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RW4lNfRxvtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cad pletele, blonde și lungi spice de - aur ,<br>
+<br>
+Închisă &#x27;n lungi gene privirea lui stă;<br>
+<br>
+O cupă cu versuri, cu cifre de maur<br>
+<br>
+I-a &#x27;n mână Bătrânul — ca sânge de taur<br>
+<br>
+Un vin roșu toarnă și regelui dă.<br>
+<br>
+Văzând umbra albă pe negrul părete<br>
+<br>
+Din tron împăratul genunchie uimit,<br>
+<br>
+În vis umbra râde — și lungile-i plete<br>
+<br>
+Ca aurul blonde se las răschiete<br>
+<br>
+Pe netezii umeri, pe albul ei gât.<br>
+<br>
+« E somnul, bătrânu &#x27;n ureche îi spune —<br>
+<br>
+O vorbă să nu spui, căci dacă nu taci<br>
+<br>
+Ca visul el piere — cu greu se supune<br>
+<br>
+La magica-mi vorbă — las stele să sune,<br>
+<br>
+Ca &#x27;n tabla cea neagră să-l prind — Tu să faci<br>
+<br>
+«Ce-oiu spune». O cupă pe margini cu aur<br>
+<br>
+El ia și &#x27;n ea varsă cristalicul vin.<br>
+<br>
+Stau în jurul cupei cu cifre de maur<br>
+<br>
+Obscunse vrăji scrise... Ca sânge de taur<br>
+<br>
+E vinul și totuși e clar ca rubin.<br>
+<br>
+«Bea—zice—atunci somnul din muri se coboară<br>
+<br>
+Și ochii-ți sărută cu dulce surâs;<br>
+<br>
+Atunci tu grumazu-i cu brațu &#x27;nconjoară ,<br>
+<br>
+El aripa lui și-o ridică și sboară,<br>
+<br>
+Te duce cu dânsul în lumea de vis».<br>
+<br>
+Și Junele bea și adoarme. De-odată<br>
+<br>
+Pe ochi buze calde și moi a simțit.<br>
+<br>
+El brațul și &#x27;ntinde și &#x27;nlănțue &#x27;ndată<br>
+<br>
+A umbrei dulci umeri și netezi... Umflată<br>
+<br>
+El simte aripa că &#x27;n sus a pornit.<br>
+<br>
+Pe umerii umbrei el fruntea și-o lasă<br>
+<br>
+Și - aude suflarea-i cea caldă bătând<br>
+<br>
+Și dus el se simte în lumi luminoase,<br>
+<br>
+În corure sfinte, prin stele - auroase<br>
+<br>
+Aude cum sună aripa de-argint.<br>
+<br>
+El ochi-și deschide, de-asupra lui vede<br>
+<br>
+Doi ochi mari albaștri, adânci visători.<br>
+<br>
+A lui fericire el mai că n&#x27;o crede,<br>
+<br>
+El gura și - apasă pe blondele-i plete<br>
+<br>
+Și fața cea pală i-o mângâie &#x27;n dor.<br>
+<br>
+E beat de a visului lungă magie,<br>
+<br>
+În brațe-i pe înger mai tare-a cuprins<br>
+<br>
+Și umbra surâde, cu - aripa -l mângâie<br>
+<br>
+Și gura-și apleacă în dulce beție,<br>
+<br>
+I-apasă pe buze-i sărutu-i aprins.<br>
+<br>
+«Vezi tu, zice umbra, pe-a hăului vale:<br>
+<br>
+Pământul cu munți-i ce fumegă stins,<br>
+<br>
+Cu mări adormite ce murmură &#x27;n jale;<br>
+<br>
+Dorm populii, țări și cetățile sale.<br>
+<br>
+De-asupră-ți oceanul de stele întins.<br>
+<br>
+«Pământul departe &#x27;ntr&#x27;un punct s&#x27;a contrage<br>
+<br>
+Căci lumi de departe în puncte se schimb,<br>
+<br>
+Dispar a pământului visiune vage,<br>
+<br>
+A stelelor țară curată se trage,<br>
+<br>
+Aleargă, trăiește a aștrilor timp.<br>
+<br>
+« O stea, un imperiu întins e și mare,<br>
+<br>
+Cu sute de țări și cu mii de ființi.<br>
+<br>
+Cetățile mari răspândite-s în soare,<br>
+<br>
+Palate de-argint se ridic gânditoare<br>
+<br>
+Și regii sunt îngeri cu aripi de arginți ».<br>
+<br>
+Și sufletul liber privirea-i sânțită<br>
+<br>
+O nalță pe stelnicul, marele plaiu:<br>
+<br>
+O patrie nouă sublimă, iubită,<br>
+<br>
+De cântece plină din veacuri fugite —<br>
+<br>
+Aici lumea - antică urmează-a ei traiu.<br>
+<br>
+«Vezi steaua că munții și &#x27;ntoarse și marea<br>
+<br>
+Îmblând neclintită în vecinicu-i mers.<br>
+<br>
+A anilor spaț le destină un soare:<br>
+<br>
+La una-i mai mic și la alta mai mare<br>
+<br>
+Căci sorii scriu timpu &#x27;n acest univers.<br>
+<br>
+«Curând vom ajunge pe steaua senină,<br>
+<br>
+Pe care în ceriuri numesc-o a mea.<br>
+<br>
+De visuri, de umbre, de cântec e plină.<br>
+<br>
+Curând vom intra în câmpia ei lină<br>
+<br>
+Și &#x27;n urmă-ți pământul rămâne — o stea.<br>
+<br>
+[Partea a V-a]<br>
+<br>
+©Mihail Eminovici(Eminescu)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Mihai Eminescu
+* **Temă:** luna_stele
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

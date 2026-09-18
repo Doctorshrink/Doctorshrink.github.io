@@ -1,0 +1,156 @@
+---
+title: "Iubitei"
+subtitle: "Mihai Eminescu"
+author: "Doctor Shrink"
+date: "2026-09-19"
+categories: [poezie, spoken-word, iubire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d7sOAe2hKtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O, îndulcește-ți ochii tăi, iubită,<br>
+<br>
+O, însenină fața ta de nea.<br>
+<br>
+Nu știi că-n piept inima mea rănită<br>
+<br>
+Tresare-adânc la întristarea ta?<br>
+<br>
+Tresare-adânc, tresare-adânc, iubită ­<br>
+<br>
+Oh, în zadar mi-ncreți tu fruntea ta.<br>
+<br>
+Durerea chiar de-o simulezi ­ eu simt<br>
+<br>
+Fiori adânci în pieptul meu trezind.<br>
+<br>
+Ah! cât ești tu de mândră și frumoasă<br>
+<br>
+Când râzi, când plângi, când mă săruți, când ­ ah!<br>
+<br>
+Cuprind în mâni eu capul tău ­ geloasă!<br>
+<br>
+Și sărut ochii-ți plini de lacrimi, ah!<br>
+<br>
+Ei strălucesc ca stelele focoase<br>
+<br>
+Ce-ntr-a junie-mi noapte lumina!<br>
+<br>
+Și te iubesc, și te sărut, te-ador,<br>
+<br>
+Amorul meu, nespusul meu amor!<br>
+<br>
+O, nu-mi muri, o, nu-mi muri, iubită,<br>
+<br>
+C-atunci în veci prin noapte-aș rătăci ­<br>
+<br>
+Mi-aș sfărma viața-n jalea cea cumplită<br>
+<br>
+Și de durere n-aș putea muri.<br>
+<br>
+Aș purta-n timp inima-ncremenită,<br>
+<br>
+Cu ochii stinși, și gura-ar amuți.<br>
+<br>
+Durerea ta m-ar face să trăiesc,<br>
+<br>
+Ca să trăiesc, ca să înnebunesc.<br>
+<br>
+Așteaptă dar cu moartea ta, iubită,<br>
+<br>
+Pân-ce de fericire-oi muri eu.<br>
+<br>
+Cu roze să-ncununi fruntea-mi pălită,<br>
+<br>
+Zâmbind să mă săruți, amorul meu;<br>
+<br>
+De-oi învia, să știi, dumnezeită,<br>
+<br>
+Că-un somn a fost angelic, deși greu.<br>
+<br>
+De nu mă voi trezi, să știi, să știi ­<br>
+<br>
+Că-n veci visez la ochii tăi cei vii.<br>
+<br>
+Cum va fi acel vis eu nu-ți pot spune ­<br>
+<br>
+Eu numai îl gândesc când mă cufund<br>
+<br>
+În ochii tăi. ­ Neclare sunt, nebune,<br>
+<br>
+Acele-nchipuiri ce mă pătrund.<br>
+<br>
+Privește tu în ochii mei și-mi spune<br>
+<br>
+Ce vezi în ei, în dorul lor profund.<br>
+<br>
+Tot ce-ai văzut eu n-am văzut n-al tău ­<br>
+<br>
+Nici în mormânt nu pot ca să-i uit eu.<br>
+<br>
+Ei sunt minuni ce-a muri nu mă lasă,<br>
+<br>
+În somnul morții m-or neliniști,<br>
+<br>
+Pătrunde-vor cu raza lor focoasă<br>
+<br>
+Chiar în sicriul unde voi dormi.<br>
+<br>
+Ei au pătruns prin pături neguroase,<br>
+<br>
+Ce viața mi-a urzit până aci ­<br>
+<br>
+De-ați putut sparge negurile-acele,<br>
+<br>
+Veți lumina în veci, iubite stele!<br>
+<br>
+Oh, nu-mi muri, te rog! Căci tot ce-n lume<br>
+<br>
+Eu am iubit murit-au prea curând ­<br>
+<br>
+Orice amor ce n-a luat drept glume<br>
+<br>
+Al meu amor e astăzi în mormânt. ­<br>
+<br>
+Dar astăzi văd c-am pierdut num-un nume:<br>
+<br>
+Căci ea ești tu ­ tu ea ­ într-un cuvânt<br>
+<br>
+Tu mi-ai murit o dată. ­ Să nu-mi mori<br>
+<br>
+De-a doua oară, înger de amor.<br>
+<br>
+Căci de-ai muri ce-aș face eu în lume ­<br>
+<br>
+N-aș regăsi în veci chipu-ți ușor<br>
+<br>
+Și osândit aș fi să stau în lume ­<br>
+<br>
+De jalea ta eu n-aș putea să mor.<br>
+<br>
+Acum ­ acum n-aș plânge al tău nume<br>
+<br>
+Ci chiar pe tine, vecinice amor:<br>
+<br>
+Mort, aș trăi eu; viu, eu aș fi mort.<br>
+<br>
+Trăiește-mi dar ­ c-adânc în piept te port!<br>
+<br>
+©Mihail Eminovici(Eminescu)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Mihai Eminescu
+* **Temă:** iubire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,114 @@
+---
+title: "Mortua est!"
+subtitle: "Mihai Eminescu"
+author: "Doctor Shrink"
+date: "2026-09-19"
+categories: [poezie, spoken-word, moarte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qGkrC-Ar5Zs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Făclie de veghe pe umezi morminte,<br>
+Un sunet de clopot în orele sfinte,<br>
+Un vis ce îşi moaie aripa-n amar,<br>
+Astfel ai trecut de al lumii hotar.<br>
+<br>
+Trecut-ai când ceru-i câmpie senină,<br>
+Cu râuri de lapte şi flori de lumină,<br>
+Când norii cei negri par sombre palate,<br>
+De luna regină pe rând vizitate.<br>
+<br>
+Te văd ca o umbră de-argint strălucită,<br>
+Cu-aripi ridicate la ceruri pornită,<br>
+Suind, palid suflet, a norilor schele,<br>
+Prin ploaie de raze, ninsoare de stele.<br>
+<br>
+O rază te-nalţă, un cântec te duce,<br>
+Cu braţele albe pe piept puse cruce,<br>
+Când torsul s-aude l-al vrăjilor caier<br>
+Argint e pe ape şi aur în aer.<br>
+<br>
+Văd sufletu-ţi candid prin spaţiu cum trece;<br>
+Privesc apoi lutul rămas... alb şi rece,<br>
+Cu haina lui lungă culcat în sicriu,<br>
+Privesc la surâsu-ţi rămas încă viu -<br>
+<br>
+Şi-ntreb al meu suflet rănit de-ndoială,<br>
+De ce-ai murit, înger cu faţa cea pală?<br>
+Au nu ai fost jună, n-ai fost tu frumoasă?<br>
+Te-ai dus spre a stinge o stea radioasă?<br>
+<br>
+Dar poate acolo să fie castele<br>
+Cu arcuri de aur zidite din stele,<br>
+Cu râuri de foc şi cu poduri de-argint,<br>
+Cu ţărmuri de smirnă, cu flori care cânt;<br>
+<br>
+Să treci tu prin ele, o sfântă regină,<br>
+Cu păr lung de raze, cu ochi de lumină,<br>
+În haină albastră stropită cu aur,<br>
+Pe fruntea ta pală cunună de laur.<br>
+<br>
+O, moartea e-un chaos, o mare de stele,<br>
+Când viaţa-i o baltă de vise rebele;<br>
+O, moartea-i un secol cu sori înflorit,<br>
+Când viaţa-i un basmu pustiu şi urât. -<br>
+<br>
+Dar poate... o! capu-mi pustiu cu furtune,<br>
+Gândirile-mi rele sugrum&#x27; cele bune...<br>
+Când sorii se sting şi când stelele pică,<br>
+Îmi vine a crede că toate-s nimică.<br>
+<br>
+Se poate ca bolta de sus să se spargă,<br>
+Să cadă nimicul cu noaptea lui largă,<br>
+Să văd cerul negru că lumile-şi cerne<br>
+Ca prăzi trecătoare a morţii eterne...<br>
+<br>
+Ş-atunci de-a fi astfel... atunci în vecie<br>
+Suflarea ta caldă ea n-o să învie,<br>
+Atunci graiu-ţi dulce în veci este mut...<br>
+Atunci acest înger n-a fost decât lut.<br>
+<br>
+Şi totuşi, ţărână frumoasă şi moartă,<br>
+De racla ta razim eu harfa mea spartă<br>
+Şi moartea ta n-o plâng, ci mai fericesc<br>
+O rază fugită din chaos lumesc.<br>
+<br>
+Ş-apoi... cine ştie de este mai bine<br>
+A fi sau a nu fi... dar ştie oricine<br>
+Că ceea ce nu e, nu simte dureri,<br>
+Şi multe dureri-s, puţine plăceri.<br>
+<br>
+A fi? Nebunie şi tristă şi goală;<br>
+Urechea te minte şi ochiul te-nşală;<br>
+Ce-un secol ne zice ceilalţi o deszic.<br>
+Decât un vis sarbăd, mai bine nimic.<br>
+<br>
+Văd vise-ntrupate gonind după vise,<br>
+Pân&#x27; dau în morminte ce-aşteaptă deschise,<br>
+Şi nu ştiu gândirea-mi în ce o să stâng:<br>
+Să râd ca nebunii? Să-i blestem? Să-i plâng?<br>
+<br>
+La ce?... Oare totul nu e nebunie?<br>
+Au moartea ta, înger, de ce fu să fie?<br>
+Au e sens în lume? Tu chip zâmbitor,<br>
+Trăit-ai anume ca astfel să mori?<br>
+<br>
+De e sens într-asta, e-ntors şi ateu,<br>
+Pe palida-ţi frunte nu-i scris Dumnezeu.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Mihai Eminescu
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

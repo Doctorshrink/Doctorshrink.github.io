@@ -1,0 +1,84 @@
+---
+title: "Dormi!"
+subtitle: "Mihai Eminescu"
+author: "Doctor Shrink"
+date: "2026-09-19"
+categories: [poezie, spoken-word, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V_OWT3BV4w0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+De ce te temi? au nu ești tu cu mine?<br>
+<br>
+Las- ploaia doar să bată în ferești ­<br>
+<br>
+Las- vântul trist prin arbori să suspine,<br>
+<br>
+Fii liniștită tu! Cu mine ești.<br>
+<br>
+Ce te-ai sculat și te uiți în podele?<br>
+<br>
+Uimită pari și pari a aștepta.<br>
+<br>
+Nu poți vedea cu ochii printre ele ­<br>
+<br>
+Vrei să-ți aduci aminte de ceva?<br>
+<br>
+Lasă-te-n perini ­ eu îți voi da pace.<br>
+<br>
+Dormi tu ­ și lasă să rămân deștept.<br>
+<br>
+Pe când citesc, întotdeuna-mi place,<br>
+<br>
+Din când în când să cat la tine drept,<br>
+<br>
+Să văd cum dormi... să te admir cu drag...<br>
+<br>
+Cu gura-abia deschisă-ncet respiri,<br>
+<br>
+De pe condei eu mân-atunci retrag.<br>
+<br>
+Pătrunde pacea tristele-mi gândiri.<br>
+<br>
+Frumoasă ești... o prea frumoasă fată.<br>
+<br>
+Ca marmura de albă-i a ta față.<br>
+<br>
+Îmi vine să alerg la tine-ndată<br>
+<br>
+Ș-astfel cum dormi să te cuprind în brață.<br>
+<br>
+Dar te-ai trezit... păcat! și nu mă-ndur.<br>
+<br>
+Dormi liniștit c-un braț pe după cap.<br>
+<br>
+Din când în când cu ochiul eu te fur,<br>
+<br>
+Din când în când din mână cartea scap.<br>
+<br>
+Și-s fericit... Pulsează lunga vreme<br>
+<br>
+În orologi cu pașii uniformi...<br>
+<br>
+De ce te temi? Cu mine nu te teme!<br>
+<br>
+De nu te culci, te culc cu sila... Dormi!<br>
+<br>
+©Mihail Eminovici(Eminescu)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Mihai Eminescu
+* **Temă:** dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

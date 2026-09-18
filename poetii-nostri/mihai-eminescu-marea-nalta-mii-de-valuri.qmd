@@ -1,0 +1,42 @@
+---
+title: "Marea-nalță mii de valuri"
+subtitle: "Mihai Eminescu"
+author: "Doctor Shrink"
+date: "2026-09-19"
+categories: [poezie, spoken-word, mare]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dPv0ZsYDwGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Marea-nalță mii de valuri, mii de brațe-albe de spume<br>
+<br>
+Spre a se spânzura de stele ș-a scăpa din astă lume,<br>
+<br>
+Din pământul ce de rane și de moarte e cuprins<br>
+<br>
+Și pământu-ntreg e-o rană de jăratic - un vulcan.<br>
+<br>
+Detunată, cu turbare ea în pat se tologește.<br>
+<br>
+Mișcă valurile-i negre și espiră.<br>
+<br>
+[1871-1872]<br>
+<br>
+versuri inedite
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Mihai Eminescu
+* **Temă:** mare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
