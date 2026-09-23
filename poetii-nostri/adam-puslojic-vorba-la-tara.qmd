@@ -1,0 +1,64 @@
+---
+title: "Vorba la ţară"
+subtitle: "Adam Puslojić"
+author: "Doctor Shrink"
+date: "2026-09-24"
+categories: [poezie, spoken-word, _emotional, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6prGvAvJ_-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Şi tu, moş-Sandule,<br>
+<br>
+când ai de gând<br>
+<br>
+să mori?<br>
+<br>
+Eu n-am de gând<br>
+<br>
+să mor!<br>
+<br>
+Eu sunt soldat.<br>
+<br>
+Îmi port groapa<br>
+<br>
+cu mine, la brâu<br>
+<br>
+şi beau apă din ea<br>
+<br>
+de câte ori îmi vine<br>
+<br>
+setea mortală...<br>
+<br>
+Brusc îmi pun mâna<br>
+<br>
+la gură, la ochi<br>
+<br>
+şi la creier. Încep<br>
+<br>
+uşor să-nţeleg<br>
+<br>
+toate crăpăturile cerului<br>
+<br>
+din care se începe<br>
+<br>
+o ploaie măruntă<br>
+<br>
+şi dureroasă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adam Puslojić
+* **Temă:** _emotional, tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

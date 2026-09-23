@@ -1,0 +1,66 @@
+---
+title: "Crucea mea din Maramureş"
+subtitle: "Adam Puslojić"
+author: "Doctor Shrink"
+date: "2026-09-24"
+categories: [poezie, spoken-word, _emotional, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oRUIXCiuHic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Poetului Gheorghe Pârja<br>
+<br>
+Proaspăt ajuns pe-aici, în<br>
+<br>
+spaţiul acesta de om pregătit,<br>
+<br>
+atunci când am întâlnit un om<br>
+<br>
+cu doi bivoli la Deseşti, eu<br>
+<br>
+m-am decis să ordon morţii mele<br>
+<br>
+aşa: Hai, vino, fata mea, tu,<br>
+<br>
+copilaşul meu definitiv, tu,<br>
+<br>
+frunză verde de cer uscat,<br>
+<br>
+pentru că şi eu am devenit foarte<br>
+<br>
+pregătit, cum dorea bunicul meu<br>
+<br>
+şi tatăl meu - mi-am pregătit crucea,<br>
+<br>
+iar acum ninge pe Golgota...<br>
+<br>
+Ce bine, Doamne, că nu m-ai uitat!<br>
+<br>
+Aşa cum nici eu nu te voi uita niciodată<br>
+<br>
+pe tine, Tată, Fiule şi Sfântul Duh<br>
+<br>
+al meu! Abia aştept urcarea!<br>
+<br>
+În zăpada Ta neagră eu, acum,<br>
+<br>
+îmi voi spăla chipul şi destinul.<br>
+<br>
+În fulgii Tăi eu mă oglindesc bine.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adam Puslojić
+* **Temă:** _emotional, tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

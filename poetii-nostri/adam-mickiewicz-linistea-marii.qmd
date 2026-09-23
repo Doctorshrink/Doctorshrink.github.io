@@ -1,0 +1,56 @@
+---
+title: "Liniştea mării"
+subtitle: "Adam Mickiewicz"
+author: "Doctor Shrink"
+date: "2026-09-24"
+categories: [poezie, spoken-word, _emotional, amintire, pace]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jti8g4xL60M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pe înălţimile de la Turkankut<br>
+<br>
+Vântul de-abia atinge-a catargului vântrea;<br>
+<br>
+Lin, unda clară, pieptul a prins să şi-l ridice<br>
+<br>
+Ca tânăra mireasă purtată-n vis ferice,<br>
+<br>
+Când, de-un suspin trezită, în somn iar va cădea.<br>
+<br>
+Iar pînzele, ca steaguri la cap de bătălie,<br>
+<br>
+Mai picotesc în vârfuri; uşor de tot împinsă,<br>
+<br>
+Corabia se-nclină, în lanţuri parcă prinsă;<br>
+<br>
+Matrozii dorm; drumeţii sunt plini de veselie.<br>
+<br>
+O, cuget! în adâncu-ţi e-o hidră: amintirea,<br>
+<br>
+E un polip ce-ţi doarme-n adânc, de-i cer noros,<br>
+<br>
+Iar când se-nseninează, lungi braţe-ntinde fiara.<br>
+<br>
+O, cuget! în adâncu-ţi e-o hidră: amintirea,<br>
+<br>
+Ce doarme când destinul e crunt şi furtunos,<br>
+<br>
+Iar când e pace-n suflet înfige-ntr-însul gheara.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adam Mickiewicz
+* **Temă:** _emotional, amintire, pace
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

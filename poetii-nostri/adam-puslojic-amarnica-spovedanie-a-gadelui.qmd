@@ -1,0 +1,56 @@
+---
+title: "Amarnica spovedanie a gâdelui..."
+subtitle: "Adam Puslojić"
+author: "Doctor Shrink"
+date: "2026-09-24"
+categories: [poezie, spoken-word, _emotional, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7KOg-4GCmm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nu-i aşa că şi pe voi<br>
+<br>
+v-a izgonit din împărăţie împăratul<br>
+<br>
+cel ce jumătate nebun?<br>
+<br>
+Mult m-am ţinut<br>
+<br>
+de dragostea împăratului<br>
+<br>
+şi a nebunului lui.<br>
+<br>
+Cu mine au fost surghiuniţi<br>
+<br>
+şi maica împăratului, oarbă,<br>
+<br>
+şi fratele lui, mezinul.<br>
+<br>
+Lângă el au rămas<br>
+<br>
+numai tătâne-su, mort,<br>
+<br>
+şi nebunul.<br>
+<br>
+Lângă el au rămas<br>
+<br>
+rămăşiţele tuturor<br>
+<br>
+morţilor.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adam Puslojić
+* **Temă:** _emotional, durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

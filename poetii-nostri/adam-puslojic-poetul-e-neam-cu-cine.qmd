@@ -1,0 +1,74 @@
+---
+title: "Poetul e neam cu cine?"
+subtitle: "Adam Puslojić"
+author: "Doctor Shrink"
+date: "2026-09-24"
+categories: [poezie, spoken-word, _emotional, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U2gauorAeRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+&quot;Mama ta de valah&quot;<br>
+<br>
+(Un prieten de-al meu, nu de mult)<br>
+<br>
+Adineauri am scăpat ca prin urechile acului.<br>
+<br>
+Nu mă refer la mine, fraţilor.<br>
+<br>
+Fraţilor, nu mă gândesc la scăfârlia mea.<br>
+<br>
+Ea-i în siguranţă.<br>
+<br>
+În traista<br>
+<br>
+pe care-o poartă, mîndru,<br>
+<br>
+călăul familiei noastre.<br>
+<br>
+Ci, poetul e neam cu cine?<br>
+<br>
+E-adevărat, eu cresc cu capul în jos.<br>
+<br>
+Dar eu şi dorm între tatăl meu mort<br>
+<br>
+Şi vie mama mea care nu există.<br>
+<br>
+Poetul e neam cu cine?<br>
+<br>
+Dacă inima ţi se zbate în piept şi vrea să iasă,<br>
+<br>
+lasă-l, câinele, lătrând, lasă-l<br>
+<br>
+printre stele.<br>
+<br>
+Şi aşteaptă liniştit<br>
+<br>
+reîntoarcerea Faraonului de prin vecini,<br>
+<br>
+din Osiris.<br>
+<br>
+Căci poetul e neam cu cine?<br>
+<br>
+Poetul e neam cu cine?<br>
+<br>
+Nu ştiu. Şi eu deabia scăpai adineauri.<br>
+<br>
+Din &quot;APĂ DE BĂUT&quot; în româneşte de Nichita Stănescu şi Ioan Flora, Postfaţă de Mircea Tomuş, selecţie şi note de Ioan Flora, Coperta şi ilustraţii de Mircea Dumitrescu
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adam Puslojić
+* **Temă:** _emotional, tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
