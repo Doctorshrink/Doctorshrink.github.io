@@ -1,0 +1,106 @@
+---
+title: "Cea din urmă primăvară"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-26"
+categories: [poezie, spoken-word, primavara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5gC5KsZV-Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Adie-a primăvară dinspre stele<br>
+<br>
+și dinspre mugurii conspirativi<br>
+<br>
+pe care tu, cu lacrimile mele,<br>
+<br>
+sub viforele iernii îi cultivi.<br>
+<br>
+Și mirosim a mugure perpetuu,<br>
+<br>
+a mugure strivit de capre-n dinți,<br>
+<br>
+a mugure ce vine pe afetul<br>
+<br>
+pe care tu te afli și mă minți.<br>
+<br>
+E primăvară-n nasturul de haină<br>
+<br>
+care-a căzut și-a-nmugurit în ger,<br>
+<br>
+pământul însuși, mugure de taină,<br>
+<br>
+se-ascunde-aici și izbucnește-n cer.<br>
+<br>
+Te chem să stai cu mine, că fac febră,<br>
+<br>
+de-atâta magnetism de muguri verzi,<br>
+<br>
+că dacă nu, prin moartea mea celebră<br>
+<br>
+și tu ai să apui și-ai să te pierzi.<br>
+<br>
+Poți să rămâi aici și-ai să te bucuri,<br>
+<br>
+cu ochii mari la tine-n palme plâng<br>
+<br>
+să ai destule lacrimi pentru muguri<br>
+<br>
+și pentru cel de sub blazonul stâng.<br>
+<br>
+Adie-a primăvară dinspre toate,<br>
+<br>
+viorile asudă în concert,<br>
+<br>
+cu muguri în fereastra ta aș bate:<br>
+<br>
+„Hai, vino jos, să-ți spun că nu te iert!&quot;<br>
+<br>
+Nu vom mai fi de-a pururi împreună,<br>
+<br>
+ia-ți mugurii, ascunde-te și taci,<br>
+<br>
+miroase-a primăvară și-a minciună,<br>
+<br>
+pe mine nu, înșală alți copaci.<br>
+<br>
+Și totuși, câtă magică poveste<br>
+<br>
+în focul fiecărei primăveri,<br>
+<br>
+subversiunea ta cu muguri este<br>
+<br>
+un salt, încă un salt spre nicăieri.<br>
+<br>
+Și, vai, e cea din urmă primăvară<br>
+<br>
+în care ți-e îngăduit să minți,<br>
+<br>
+miroase-a clorofilă dulce-amară<br>
+<br>
+când caprele iau mugurii în dinți.<br>
+<br>
+Adie-a primăvară dinspre stele<br>
+<br>
+și dinspre mugurii conspirativi<br>
+<br>
+pe care tu cu lacrimile mele<br>
+<br>
+îi scoți de sub zăpadă și-i cultivi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** primavara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

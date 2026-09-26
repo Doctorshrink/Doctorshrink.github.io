@@ -1,0 +1,74 @@
+---
+title: "Ca un fum de ţigară, sufletul"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-26"
+categories: [poezie, spoken-word, _emotional2, suflet]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NbFXU6RPWh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Am să-ţi spun „bună seara” şi-am să plec undeva,<br>
+<br>
+Unde nu e nimic, numai scrum, numai zaţ,<br>
+<br>
+Am să-ţi spun uşurat, am să-ţi spun cu nesaţ,<br>
+<br>
+Ce departe vă simt eu de inima mea.<br>
+<br>
+Uşa-n loc va-ngheţa şi nimic nu va fi,<br>
+<br>
+Ca un fum de ţigară, voi trece în sus,<br>
+<br>
+Unde stelele sunt, unde oamenii nu-s,<br>
+<br>
+Am să-ţi spun „bună seara”, deşi va fi zi.<br>
+<br>
+„Nu serviţi o cafea, nu doriţi un fistic?&quot;<br>
+<br>
+Nu doresc decât drumul spre cer, fară voi,<br>
+<br>
+Şi să nu mă mai trageţi nicicând înapoi.<br>
+<br>
+„Bună seara pe veci”, cred c-aşa am să zic.<br>
+<br>
+„Bună seara din nou, bună seara adânc,<br>
+<br>
+Doamne dragi, domni stimaţi, eu am treabă, eu plec<br>
+<br>
+Şi pe urmă aici e un fum de mă-nec,<br>
+<br>
+Nu-nţeleg de ce parcă îmi vine să plâng.<br>
+<br>
+Bună seara, am timp doar atât să mă sui<br>
+<br>
+Spre tavanul ceţos al odăii de danţ,<br>
+<br>
+Unde-i zgomot de lanţ peste paşi de amanţi,<br>
+<br>
+Bună seara la toţi şi, de fapt, nimănui”.<br>
+<br>
+Doar atât am rămas, o vuire şi-atât,<br>
+<br>
+Şi plămânii de-atâta strigare se rup,<br>
+<br>
+Bună seara frumos, bună seara urât,<br>
+<br>
+Ca un fum de ţigară mi-e sufletu-n trup.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** _emotional2, suflet
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

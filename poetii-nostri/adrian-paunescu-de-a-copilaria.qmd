@@ -1,0 +1,98 @@
+---
+title: "De-a Copilăria"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-26"
+categories: [poezie, spoken-word, _emotional, copilarie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jdHy65QWPAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Când dulci colinde cad<br>
+<br>
+Simţim nevoia vie<br>
+<br>
+De-o casă, de un brad<br>
+<br>
+Şi de copilărie.<br>
+<br>
+Afară-i iarnă grea,<br>
+<br>
+Ninsoarea e albastră,<br>
+<br>
+Iar noi ne vom juca<br>
+<br>
+De-a toată viaţa noastră.<br>
+<br>
+Pe geamuri mâini de sloi<br>
+<br>
+Îşi ţes în gheaţă ia,<br>
+<br>
+Noi ne jucăm de-a noi<br>
+<br>
+Şi de-a copilăria.<br>
+<br>
+Ninsori pe care bat<br>
+<br>
+Şi focul mai tresare,<br>
+<br>
+Şi am adus un brad,<br>
+<br>
+Şi i-am cerut iertare.<br>
+<br>
+Ne aşezăm pe jos,<br>
+<br>
+Un fel de plâns ne pierde,<br>
+<br>
+O, brad, o, brad frumos,<br>
+<br>
+Cu cetina tot verde.<br>
+<br>
+Atâtea-nstrăinări,<br>
+<br>
+Şi inutile toate,<br>
+<br>
+Ni-i dor de adevăr<br>
+<br>
+Şi de intimitate.<br>
+<br>
+Copii, copii frumoşi,<br>
+<br>
+Prefaceţi-vă bine<br>
+<br>
+Că-l aşteptaţi pe Moş<br>
+<br>
+Şi credeţi că şi vine.<br>
+<br>
+Hai, Moşule, apari<br>
+<br>
+Să-ţi cânte vechiul nume<br>
+<br>
+Copii cu ochii mari<br>
+<br>
+Privind în altă lume.<br>
+<br>
+Se-arată timpul când<br>
+<br>
+Din epoca săracă<br>
+<br>
+Un om pe Moş jucând<br>
+<br>
+Devine ce se joacă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** _emotional, copilarie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

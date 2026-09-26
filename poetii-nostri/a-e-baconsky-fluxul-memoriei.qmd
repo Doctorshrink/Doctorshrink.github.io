@@ -1,0 +1,164 @@
+---
+title: "Fluxul memoriei"
+subtitle: "A. E. Baconsky"
+author: "Doctor Shrink"
+date: "2026-09-26"
+categories: [poezie, spoken-word, _emotional, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nceATBNjsbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+I<br>
+<br>
+Din câte se-ntâmplarã, nu pot sã uit nimic,<br>
+<br>
+Chiar dacã ochiul palid al lunii mã îmbie;<br>
+<br>
+Ca arborii din iarna cetoasă mă ridic<br>
+<br>
+Și-mi scutur amintirea - zăpada mea târzie.<br>
+<br>
+II<br>
+<br>
+Cu zbor de pãsãri, anii se reîntorc din zare.<br>
+<br>
+Îi recunosc - și totuși, ce mulți sunt anii mei,<br>
+<br>
+Sau poate cã sunt anii pierduți de fiecare,<br>
+<br>
+Care-mi apar în preajmã, obositori și grei...<br>
+<br>
+Eu nu gonesc pe nimeni, ci-mi clatin umbra doar,<br>
+<br>
+Și-ascult, ascult o voce din timp, care-mi tot spune<br>
+<br>
+Cã anii mei, cu fructul lor amar,<br>
+<br>
+Au ars pe câmpuri goale și s-au făcut cărbune.<br>
+<br>
+Au fost incendii, sânge - și dacă azi mai sunt,<br>
+<br>
+E că sub cerul țării ursit am fost sã stărui<br>
+<br>
+Și să colind pe drumuri și să trezesc cântând<br>
+<br>
+Mareea amintirii spre țărmul fiecărui.<br>
+<br>
+III<br>
+<br>
+Timpul trecut nu-i nimeni să-l poată învia,<br>
+<br>
+Chiar dacă-mi vine poate să strig în gura mare:<br>
+<br>
+- Ani rătăciți, eu nu v-am trăit!<br>
+<br>
+Prin viața mea<br>
+<br>
+Parcă ați trecut odată ca ploile cu soare.<br>
+<br>
+Ieșiți din ceața mării pustii - ieșiți din ceață<br>
+<br>
+Ca niște porturi albe din Sudul însorit!<br>
+<br>
+Ieșiți din ceață, nu v-am trăit, ieșiți din ceață,<br>
+<br>
+Ani rătăciți!<br>
+<br>
+Dar anii s-au stins, s-au risipit,<br>
+<br>
+S-au dus cu glasul frunzei, cu apele, cu iarba...<br>
+<br>
+Aceste păsări sure sunt numai amintiri -<br>
+<br>
+În pieptul toamnei, codrul roșcat își lasă barba<br>
+<br>
+Și semne-mi fac din zare mestecenii subțiri.<br>
+<br>
+IV<br>
+<br>
+Dar strigătul rămâne înăbușit în piept.<br>
+<br>
+Nu chem pe nimeni - toate așa au fost să fie -<br>
+<br>
+Nu mi-a fost scris să caut, să cer și să aștept<br>
+<br>
+Și-oricât de mare-i, timpul nu mi-e icoană mie.<br>
+<br>
+V<br>
+<br>
+Ard gândurile-n febra acestor amintiri<br>
+<br>
+Și-n piept acum zvâcnește-o vârstă nouă.<br>
+<br>
+Stau ca un paratrăsnet pe marile clădiri,<br>
+<br>
+Spre fulgerele nopții cu brațele-amândouă.<br>
+<br>
+Stau și rostesc din când în când, târziu:<br>
+<br>
+- Orașe mari și câmpuri tăcute, noapte bunã!<br>
+<br>
+S-a desfrunzit copacul mare-al nopții,<br>
+<br>
+Frunze de aur - stelele<br>
+<br>
+Dorm legănându-se lin<br>
+<br>
+Pe fața lucie<br>
+<br>
+A marilor lacuri vulcanice.<br>
+<br>
+VI<br>
+<br>
+Din câte se-ntâmplară nu pot să uit nimic -<br>
+<br>
+Dar drumul duce, poate, departe, înainte.<br>
+<br>
+Păsări de miazăzi, cu voi despic<br>
+<br>
+Și eu văzduhul.<br>
+<br>
+Iată, nu-mi mai aduc aminte.<br>
+<br>
+Dormiți în suflet, glasuri de demult,<br>
+<br>
+Imagini dureroase, dormiți ca-n templul mării<br>
+<br>
+Epavele de fosfor.<br>
+<br>
+Nu vreau să vă ascult,<br>
+<br>
+Sus pe covertă-mi place s-ascult corăbierii.<br>
+<br>
+Dormiți în suflet, amintiri,<br>
+<br>
+Cum dorm în scoici marine furtuni și naufragii -<br>
+<br>
+Tu, vânt de primăvară ce-n pieptul meu respiri,<br>
+<br>
+Adu-mi din codri frunza ce stăpânește fagii,<br>
+<br>
+Adu-mi albastrul clopot al apelor ce cresc<br>
+<br>
+Și șoaptele din ierburi și tremurul luminii,<br>
+<br>
+Și-apoi, cândva-ntr-o noapte neștiută<br>
+<br>
+Dă-mi somnul alb pe care-l poartă crinii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** A. E. Baconsky
+* **Temă:** _emotional, amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,82 @@
+---
+title: "Ce faci la ora când mi-e dor de tine"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-26"
+categories: [poezie, spoken-word, _session, dor, dor.new]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GRVRaXw7VKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ce faci la ora când mi-e dor de tine<br>
+<br>
+și niciun fel de răni nu te opresc<br>
+<br>
+să-mi reconstitui trupul din ruine<br>
+<br>
+și să-mi refaci tot viciul omenesc?<br>
+<br>
+Mi-e teamă de o vârstă fără milă<br>
+<br>
+când am să cad la pragul tău, înfrânt,<br>
+<br>
+și-ai să-mi dedici tandrețea ta umilă<br>
+<br>
+să mă mai scol nebun de la pământ.<br>
+<br>
+Nu știu ce faci, când eu îți caut gura<br>
+<br>
+cu nebunia de soldat bătrân<br>
+<br>
+ce-și vindecă în cer harababura<br>
+<br>
+și-mi dai motiv în viață să rămân.<br>
+<br>
+Ce faci, adolescentă numai noapte?<br>
+<br>
+Din jaful care n-are nici un rost,<br>
+<br>
+te recompun cu gust de mere coapte<br>
+<br>
+și nici nu știu, de fapt, ce fruct ai fost.<br>
+<br>
+Eu te iubesc cu lipsa de rușine<br>
+<br>
+a unei făr&#x27;delegi cu chipul tău<br>
+<br>
+și-atât cât te blestem, îmi este bine,<br>
+<br>
+și-atunci când nu te simt, îmi este rău.<br>
+<br>
+Ce faci la ora când mi-e dor de ține?<br>
+<br>
+Iubirea mea, orgoliul meu e frânt,<br>
+<br>
+te gust pe nesimțite și mi-e bine<br>
+<br>
+și te găsesc intrată în pământ.<br>
+<br>
+Eu simt că mor păzindu-te de toate<br>
+<br>
+și n-am să mai rezist măcar un ceas<br>
+<br>
+să te culeg din tot ce nu se poate<br>
+<br>
+și să mă-nchin la tot ce mi-a rămas.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** _session, dor, dor.new
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
