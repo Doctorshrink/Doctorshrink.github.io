@@ -1,0 +1,58 @@
+---
+title: "Inimă cu impresii de toamnă"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-27"
+categories: [poezie, spoken-word, _emotional, inima]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LtdBpAGgwro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Impresii de toamnă în inima mea<br>
+<br>
+și nu știu nici numele munților care<br>
+<br>
+mi-arată vecia în calcar distant<br>
+<br>
+şi-mi lasă în pleoape un pic de-nnorare.<br>
+<br>
+Şi vântul agită semințe de flori<br>
+<br>
+pe-ntregul podiș, într-un straniu amestic,<br>
+<br>
+și triburi barbare pun miei în frigări<br>
+<br>
+și astfel se învață cu gustul domestic.<br>
+<br>
+Impresii de toamnă, de nu ai fi tu,<br>
+<br>
+rămasă în vara ce n-o să mai vină,<br>
+<br>
+pe mare sunt nave din celălalt veac<br>
+<br>
+și-n nori se petrec bătălii de lumină.<br>
+<br>
+Curând ai să pleci și curând am să plec<br>
+<br>
+sub ploaia ce fără recurs ne condamnă<br>
+<br>
+și dacă dorești suvenirul final<br>
+<br>
+ia inima mea, cu impresii de toamnă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** _emotional, inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,114 @@
+---
+title: "Leagăn pentru toată copilăria"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-27"
+categories: [poezie, spoken-word, _emotional, copilarie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/52XJm28cR_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pune-ți, copile, capul pe pernă,<br>
+<br>
+Te-așteaptă vise, prunc adormit,<br>
+<br>
+În vise viața este eternă,<br>
+<br>
+Cu ceruri blânde și fără sfârșit.<br>
+<br>
+Ce știi tu-n lume câte se-ntâmplă,<br>
+<br>
+Nici nu e bine tu să le știi,<br>
+<br>
+Lumea-ngenunche la a ta tâmplă,<br>
+<br>
+Și lângă tine, suflet, cor de copii.<br>
+<br>
+Astăzi, copile, eu îți dau pâine,<br>
+<br>
+Tu pâinea asta o muști firesc,<br>
+<br>
+Ce-ți dau eu astăzi, tu-mi vei da mâine,<br>
+<br>
+Eu, legănându-te, îmbătrânesc.<br>
+<br>
+Trupul tău fraged ca un mesteacăn<br>
+<br>
+Să se îndoaie galeș în somn,<br>
+<br>
+Ca să crești mare, plâng și te leagăn,<br>
+<br>
+Copile dulce, prea tinere domn.<br>
+<br>
+La geam, lumina lunii ți-o scapăr<br>
+<br>
+Luminii tale să-i dau ecou,<br>
+<br>
+Dormi, fericitule, că eu te apăr,<br>
+<br>
+Că eu în tine mă nasc din nou.<br>
+<br>
+Capu-l pe pernă, pune-l, copile,<br>
+<br>
+Totul e bine, ai tăi sunt vii<br>
+<br>
+Și mai au viață, și mai au zile,<br>
+<br>
+Să crezi că pururea ei vor trăi.<br>
+<br>
+Mama și tata ție-ți vor face<br>
+<br>
+Leagăn de stele și de ninsori,<br>
+<br>
+Să-ți fie bine, să dormi în pace,<br>
+<br>
+Să ai lumină la ursitori.<br>
+<br>
+Pune-ți, copile, capul pe pernă,<br>
+<br>
+Dormi și visează bunul tău vis,<br>
+<br>
+Că-n vise viața este eternă,<br>
+<br>
+Visul e lumea ce eu ți-am promis.<br>
+<br>
+Pat de răchită mirositoare,<br>
+<br>
+Leagăn albastru și-ncondeiat,<br>
+<br>
+Pentru copilul care răsare<br>
+<br>
+Și-ai cărui ochi ritmul lumii îl bat.<br>
+<br>
+Mama te leagănă, veghează tata,<br>
+<br>
+Somnul ți-l apară ochi părintești,<br>
+<br>
+Dormi și visează că lumea-i gata<br>
+<br>
+Și te așteaptă numai să crești.<br>
+<br>
+Mie-mi trec anii, ție-ți vin anii,<br>
+<br>
+Poate că mâine îți va fi greu,<br>
+<br>
+S-accepți că astăzi eu ți-am spus nani,<br>
+<br>
+Dar nani-nani, frumosul meu.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** _emotional, copilarie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

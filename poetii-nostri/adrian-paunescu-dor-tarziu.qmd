@@ -1,0 +1,32 @@
+---
+title: "Dor târziu"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-27"
+categories: [poezie, spoken-word, _session, dor, dor.new]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b32zX3GceVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Mi-e dor de ea,<br>
+<br>
+Mi-e dor de ea,<br>
+<br>
+Ca de-o-ncercare-a morţii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** _session, dor, dor.new
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

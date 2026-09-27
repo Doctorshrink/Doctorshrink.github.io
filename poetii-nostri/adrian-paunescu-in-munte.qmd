@@ -1,0 +1,54 @@
+---
+title: "În munte"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-27"
+categories: [poezie, spoken-word, munte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bHM_WHWIVuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Să stăm în munte şi să fie seară,<br>
+<br>
+să ne străbată aer ca de templu,<br>
+<br>
+pe-un peisaj de verde să contemplu<br>
+<br>
+întunecimea ta elementară,<br>
+<br>
+să-mi fie foame şi să-mi fie sete,<br>
+<br>
+să-ţi fie cald, să-ţi fie sănătate,<br>
+<br>
+să stăm în munte, să vorbim de toate,<br>
+<br>
+pe relieful tragicei planete<br>
+<br>
+şi să plecăm aproape-n somn din viaţă<br>
+<br>
+pe-un drum fără lumină, peste munte,<br>
+<br>
+să-mi coşi cu tine aripile frânte,<br>
+<br>
+sângele tău să-mi fie fir şi aţă.<br>
+<br>
+Şi eu să cad când stele-ncep să cânte<br>
+<br>
+urlând de dor, în umbra ta măreaţă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** munte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

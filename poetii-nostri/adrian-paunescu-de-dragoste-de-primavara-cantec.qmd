@@ -1,0 +1,82 @@
+---
+title: "De dragoste, de primăvară (cântec)"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-27"
+categories: [poezie, spoken-word, primavara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vIpO2AEeJyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vine primăvara iarăşi peste noi,<br>
+<br>
+Vine de departe, vine de aproape,<br>
+<br>
+Oameni de zăpadă pleacă înapoi,<br>
+<br>
+Înapoi în lacrimi, înapoi în ape.<br>
+<br>
+Trec peste câmpie carele de flori,<br>
+<br>
+Urcă înspre munte verguri de lumină,<br>
+<br>
+Ne simţim deodată iar nemuritori,<br>
+<br>
+Poate orice boală peste noi să vină.<br>
+<br>
+Se aude plânsul mamelor din veac,<br>
+<br>
+Se aude brațul bărbătesc de tată<br>
+<br>
+Care dă cu barda iarăşi pe arac<br>
+<br>
+Ca să fie vița lumii luminată.<br>
+<br>
+Primăvara cade peste noi adânc,<br>
+<br>
+N-o vom duce-n braţe, o vom duce-n sânge,<br>
+<br>
+Mugurii pe ramuri au născut şi plâng,<br>
+<br>
+Un cocor deasupra revenirii plânge.<br>
+<br>
+Iarăși florăreasa, fac un cer curat<br>
+<br>
+Ghioceii, pomii tăi dă-i de vânzare,<br>
+<br>
+Ceasurile-n turnuri s-au iluminat,<br>
+<br>
+Bate câte-un clopot, un bătrân mai moare.<br>
+<br>
+Iar eu de mine însumi ce mai pot să spun,<br>
+<br>
+Te iubesc ca-n clipa întâlnirii noastre<br>
+<br>
+Cu banalitatea lucrului cel bun<br>
+<br>
+Care mișcă inimi și îngheață astre.<br>
+<br>
+Stau decantă lumii, creierului ei,<br>
+<br>
+Lampă se vede dreptul să-l las să moară<br>
+<br>
+Chiar iubindu-ți unchii, sfântu-ntre femei,<br>
+<br>
+Restul e tăcere, restu-i primăvară.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** primavara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

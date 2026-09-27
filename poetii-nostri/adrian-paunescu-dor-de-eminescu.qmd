@@ -1,0 +1,74 @@
+---
+title: "Dor de Eminescu"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-27"
+categories: [poezie, spoken-word, _emotional, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/904jAHghDCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Într-o lume relativă<br>
+<br>
+Ce-a făcut şi-a desfăcut,<br>
+<br>
+Eminescu-i remuşcarea<br>
+<br>
+Dorului de absolut.<br>
+<br>
+Dacă unu şi cu unu<br>
+<br>
+Nu mai vor să facă doi,<br>
+<br>
+Eminescu este chipul<br>
+<br>
+Infinitului din noi.<br>
+<br>
+Fără el oricare lucru<br>
+<br>
+Şi-ar urma cărarea sa,<br>
+<br>
+Fără el chiar steaua noastră<br>
+<br>
+Dintre stele ar cădea.<br>
+<br>
+Pe pământul vechii Dacii<br>
+<br>
+Când mai mare, când mai mic,<br>
+<br>
+Dacă n-ar fi Eminescu<br>
+<br>
+Viaţa nu ne-ar fi nimic.<br>
+<br>
+El Moldovei îi e fiul<br>
+<br>
+Şi Munteniei nepot,<br>
+<br>
+L-a-nfiat întreg Ardealul,<br>
+<br>
+Eminescu-i peste tot!<br>
+<br>
+Într-o lume relativă<br>
+<br>
+Mai avem un nume sfânt,<br>
+<br>
+Eminescu-i România<br>
+<br>
+Tăinuită în cuvânt.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** _emotional, dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
