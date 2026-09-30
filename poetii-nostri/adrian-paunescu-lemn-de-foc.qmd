@@ -1,0 +1,54 @@
+---
+title: "Lemn de foc"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-30"
+categories: [poezie, spoken-word, foc]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L9ZRlpWQJ3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Şi va veni o vreme, când toate se vor spune<br>
+<br>
+Şi ce-i banalitate, va deveni minune,<br>
+<br>
+Şi va urca iubirea la rangul ei cel mare<br>
+<br>
+Şi am să vin la tine, să cad de pe picioare.<br>
+<br>
+Şi ca să-mi fie bine, eu cred că e mai lesne,<br>
+<br>
+Să fiu copac în lume, să port pământ pe glezne<br>
+<br>
+Şi încă de cu toamnă, de toamna ce-o să vină<br>
+<br>
+Să pot intra sub iarbă, să capăt rădăcină...<br>
+<br>
+Şi când se lasă noaptea pe noi, ca o arsură,<br>
+<br>
+Cu florile nebune, să te sărut pe gură...<br>
+<br>
+Tu însuţi mă vei pune pe foc, cum se cuvine<br>
+<br>
+Dar când voi arde-n sobă, voi fi din nou cu tine.<br>
+<br>
+Şi n-ai să ştii, probabil, prin crivăţul de sânge,<br>
+<br>
+De ce se uită focul în ochii tăi şi plânge.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** foc
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

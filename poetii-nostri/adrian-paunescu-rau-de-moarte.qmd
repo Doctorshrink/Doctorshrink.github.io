@@ -1,0 +1,90 @@
+---
+title: "Rău de moarte"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-30"
+categories: [poezie, spoken-word, apa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bughWcEyk_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pierduta iubita de departe,<br>
+<br>
+In saptamana asta cat un veac,<br>
+<br>
+Vroiam sa imi fie rau, un rau de moarte,<br>
+<br>
+S-auzi si sa ma suni sa-ntrebi ce fac.<br>
+<br>
+Visam nenorocirea salvatoare<br>
+<br>
+Ce ar putea interveni-ntre noi,<br>
+<br>
+Visam sa auzi ca sunt acel ce moare<br>
+<br>
+Si tu sa incerci o cale inapoi.<br>
+<br>
+Ca tot ce-i rau si mi se intampla mie,<br>
+<br>
+Ajunge-n buletinele de stiri,<br>
+<br>
+Si orice om din zvonul public stie,<br>
+<br>
+Voiam sa cad, sa plangi si sa te miri.<br>
+<br>
+Nu mi-e prea clar daca doream chiar moartea<br>
+<br>
+Sau ma gandeam ca tu m-ai fi salvat,<br>
+<br>
+Asa precum ne inlantuieste cartea,<br>
+<br>
+Nevinovata si nevinovat.<br>
+<br>
+Stiind ca tot ce fac si spun se stie,<br>
+<br>
+As fi cazut pe o strada sau pe-un ring,<br>
+<br>
+De un infarct sau de-o lipotomie,<br>
+<br>
+Cu suferinta mea sa te conving.<br>
+<br>
+Dar daca dupa legile tacerii,<br>
+<br>
+Tu n-ai sa poti acest cosmar sa-l treci ?<br>
+<br>
+Mai bine ma opresc sa nu te sperii<br>
+<br>
+Si sa te pierd, iubita mea, pe veci.<br>
+<br>
+Tacuta mea iubita de departe,<br>
+<br>
+In mine insumi s-a-ntamplat ceva,<br>
+<br>
+Mi-a fost atat de rau, un rau de moarte,<br>
+<br>
+Dar nu m-am prabusit de grija ta.<br>
+<br>
+Din egoismul meu fara rusine,<br>
+<br>
+Ma-ntorc, iluminat si nefiresc,<br>
+<br>
+Mi-e rau, de-atata grija pentru tine,<br>
+<br>
+Si trebuie sa supravietuiesc.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** apa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

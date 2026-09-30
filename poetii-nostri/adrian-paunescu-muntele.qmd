@@ -1,0 +1,76 @@
+---
+title: "Muntele"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-30"
+categories: [poezie, spoken-word, munte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W1ogw7iZEzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Iubita mea, ți-am cumpărat un munte,<br>
+<br>
+Am fost la târg, dar nu l-am luat pe bani,<br>
+<br>
+Are păduri și râuri și o punte<br>
+<br>
+În vârstă de un milion de ani...<br>
+<br>
+Ți l-am adus în brațe pân&#x27; la poartă,<br>
+<br>
+E minunat și piatra lui e grea,<br>
+<br>
+Comerțul ambulant cu munți se poartă...<br>
+<br>
+Dar unde-ai să-l așezi, iubita mea?<br>
+<br>
+Ce munte colosal, un munte straniu,<br>
+<br>
+Cu porci mistreți ce cântă-n coruri: jir !!<br>
+<br>
+Iar în adânc sunt straturi de uraniu<br>
+<br>
+Și-am dat puțin pe el... un chilipir...<br>
+<br>
+Iubita mea, găsește marea vale<br>
+<br>
+În care să-l aduc și să-l răstorn<br>
+<br>
+Și-apoi la nunta regăsirii sale<br>
+<br>
+Să cânt ca vânător al lui, din corn...<br>
+<br>
+Iubita mea, ți-am cumpărat un munte,<br>
+<br>
+Să faci cu el ce-i ști și ce vei vrea,<br>
+<br>
+Eu mă retrag în peșteri muribunde<br>
+<br>
+Că am uitat să-ți mai șoptesc ceva:<br>
+<br>
+Am dat pe acest munte Viața mea.<br>
+<br>
+Din marele bazar cu amănunte<br>
+<br>
+Plătind cu viața tot ce scump era,<br>
+<br>
+Iubita mea, ți-am cumpărat un munte...<br>
+<br>
+Păcat că n-o să-ncapă-n lumea ta.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** munte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

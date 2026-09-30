@@ -1,0 +1,58 @@
+---
+title: "Să ne iubim"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-30"
+categories: [poezie, spoken-word, _session, iubire, iubire.new]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dUTY1uiQVuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dumneavoastră, dragi civili din lume,<br>
+<br>
+Urmăriţi de moarte unanim<br>
+<br>
+Vă propun o nouă strategie<br>
+<br>
+Să ne iubim.<br>
+<br>
+Dragostea e calea contra morţii<br>
+<br>
+Dragostea e un atac sublim<br>
+<br>
+Vă propun o nouă strategie<br>
+<br>
+Să ne iubim.<br>
+<br>
+Să ne iubim, să ne iubim<br>
+<br>
+Să terminăm al morţii haos<br>
+<br>
+Să ne iubim, să ne iubim<br>
+<br>
+Îndrăgostiţi pe loc repaos.<br>
+<br>
+Faceţi tunul cîine de ogradă<br>
+<br>
+Faceţi tancuri suvenire-n timp<br>
+<br>
+Vă propun un ordin nou de luptă<br>
+<br>
+Să ne iubïm.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** _session, iubire, iubire.new
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

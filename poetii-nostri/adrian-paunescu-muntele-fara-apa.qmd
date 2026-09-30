@@ -1,0 +1,98 @@
+---
+title: "Muntele fără apă"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-30"
+categories: [poezie, spoken-word, apa, munte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MpLHojozdTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Abia trăim în muntele fără apă,<br>
+<br>
+cu ochii căutând-o în zadar,<br>
+<br>
+mereu e-n preajmă şi mereu ne scapă,<br>
+<br>
+ascunsă de o umbră de stejar.<br>
+<br>
+Şi fagii o mai ţin în rădăcină<br>
+<br>
+şi se numeşte rouă-n zori de zi,<br>
+<br>
+de năucirea ei ni-i setea plină<br>
+<br>
+şi apă-n somn de frunţi vom regăsi.<br>
+<br>
+Nici nu mai ştim de unde-atâta verde<br>
+<br>
+când apa a fugit demult din munţi<br>
+<br>
+şi-ntreagă uneltirea ei se pierde<br>
+<br>
+sub scutul mort al brazilor cărunţi.<br>
+<br>
+Când vine întunericul, când luna<br>
+<br>
+pe toate pune tristul ei pustiu,<br>
+<br>
+în văi, amăgitoare totdeauna,<br>
+<br>
+ecourile dorul apei ştiu.<br>
+<br>
+Dar nu e apă, ci spre zori transpiră<br>
+<br>
+copacii tragici care o conţin,<br>
+<br>
+Orfeu deschidratat, pe-o moartă liră,<br>
+<br>
+Mai cântă despre ape care vin.<br>
+<br>
+Ca despre un eveniment cât cerul,<br>
+<br>
+şi ca despre un mit răzbunător,<br>
+<br>
+ca despre lună, unde stă oierul,<br>
+<br>
+aşa vorbim despre un biet izvor.<br>
+<br>
+L-au nimerit după un colţ de stâncă,<br>
+<br>
+se strecura aproape vinovat,<br>
+<br>
+voia răspuns la zestrea lui adâncă...<br>
+<br>
+Şi-astfel, cum l-au găsit, l-au şi captat.<br>
+<br>
+Şi muntele e tot fără de apă,<br>
+<br>
+deasupra, ochii cerului sunt mari,<br>
+<br>
+când văd cum piatra, de căldură, crapă,<br>
+<br>
+iar noi nu punem preţ pe fântânari.<br>
+<br>
+Aşa încât ni se usucă lancea<br>
+<br>
+şi câinii setoşi înnebunesc la stâni,<br>
+<br>
+aici la Tarniţa, în munţii Vrancea,<br>
+<br>
+de dor de apă, devenim fântâni.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** apa, munte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

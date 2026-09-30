@@ -1,0 +1,56 @@
+---
+title: "Mugur de nichel"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-09-30"
+categories: [poezie, spoken-word, primavara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xe0FndSESV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Primăvara în ţări dezvoltate<br>
+<br>
+Un mugur de nichel străbate<br>
+<br>
+şi-un verde ciudat, monoton,<br>
+<br>
+Livezi de săpun şi şampon,<br>
+<br>
+Primăvara în ţări dezvoltate.<br>
+<br>
+Primăvara, a câta putere?,<br>
+<br>
+La vamă nici acte nu-ţi cere,<br>
+<br>
+Duminica totu-i deschis,<br>
+<br>
+Ai lua-o încet spre Paris,<br>
+<br>
+Primăvara, doar ea, grănicer e.<br>
+<br>
+Primăvara pe-aici e o criză,<br>
+<br>
+Răspunde cu-o frunză şi-o fisă<br>
+<br>
+Şi oamenii-i sunt bieţii servi,<br>
+<br>
+Primăvara-i o criză de nervi,<br>
+<br>
+E o criză ea însăşi în criză.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** primavara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
