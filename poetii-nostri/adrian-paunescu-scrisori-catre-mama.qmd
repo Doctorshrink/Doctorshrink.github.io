@@ -1,0 +1,66 @@
+---
+title: "Scrisori către mama"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-10-01"
+categories: [poezie, spoken-word, _session, mama.new]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v68MtzLNtqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Să mai vii pe-acasă, mamă,<br>
+<br>
+Să mai vii de peste moarte,<br>
+<br>
+Uitătorii fii te cheamă<br>
+<br>
+De departe, prea departe.<br>
+<br>
+Scara podului se frânse,<br>
+<br>
+Scara pivniții e bună,<br>
+<br>
+Pe pereți un fel de plâns e,<br>
+<br>
+Om cu om nu e-mpreună.<br>
+<br>
+Apa din fântână are<br>
+<br>
+De la moartea ta încoace<br>
+<br>
+Gust de lacrimă și sare,<br>
+<br>
+Mamă, tata ce mai face?<br>
+<br>
+Prin comuna noastra oarbă<br>
+<br>
+Nu mai vine nicio veste.<br>
+<br>
+Tu, de dincolo de iarbă<br>
+<br>
+Știi mai bine ce mai este.<br>
+<br>
+Lemnul a-nceput să geamă<br>
+<br>
+Strâns de fier în trunchiul roții<br>
+<br>
+De pământ ești astăzi, mamă,<br>
+<br>
+De pământ vom fi cu toții.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** _session, mama.new
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,66 @@
+---
+title: "Cruce în pădure - (Krisztus-kereszt az erdőn)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-10-01"
+categories: [poezie, spoken-word, _emotional2, codru, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A1tuYpoPaSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cruce nămețită-n pădure,<br>
+<br>
+Iarna, în nocturn cu Lună:<br>
+<br>
+Basm ros. Odată cu sania<br>
+<br>
+Cu zurgălăi drept trecurăm,<br>
+<br>
+Iarna, în nocturn cu Lună.<br>
+<br>
+Tata încă fecior vesel,<br>
+<br>
+Văzând o cruce fredonase,<br>
+<br>
+Și eu fiul lui tata,<br>
+<br>
+Dezamăgit de icoane,<br>
+<br>
+Văzând o cruce fredonasem.<br>
+<br>
+Doi calviniști căpoși,<br>
+<br>
+Am zburat la fel ca și Timpul,<br>
+<br>
+Tată, fiu, un Da și un Nu,<br>
+<br>
+Acolo cântând ne-am ținut,<br>
+<br>
+Am zburat la fel ca și Timpul.<br>
+<br>
+Douzeci de ani trecând<br>
+<br>
+În gând, sania fuge-n nocturn,<br>
+<br>
+Și ce omisesem atunci,<br>
+<br>
+Îmi aplec și capul profund.<br>
+<br>
+În gând, sania fuge-n nocturn.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** _emotional2, codru, tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

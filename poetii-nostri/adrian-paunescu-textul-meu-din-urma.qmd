@@ -1,0 +1,202 @@
+---
+title: "Textul meu din urmă"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-10-01"
+categories: [poezie, spoken-word, apa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3GN4pLguh5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Aicea m-aş întoarce<br>
+<br>
+Odată îndărăt<br>
+<br>
+Ca să m-aplec sub piatră<br>
+<br>
+În râul care scurmă<br>
+<br>
+Să iau izvoru-n braţe<br>
+<br>
+Şi-apoi să vi-l arăt<br>
+<br>
+Spunându-vă: acesta<br>
+<br>
+E textul meu din urmă.<br>
+<br>
+După atâta viaţă<br>
+<br>
+Trăită-n manuscris<br>
+<br>
+Ca un agent al obştei<br>
+<br>
+Sau ca un alt sihastru<br>
+<br>
+Mi-nchipui că, probabil<br>
+<br>
+Nu-mi este interzis<br>
+<br>
+Să mor purtând în braţe<br>
+<br>
+Acest izvor albastru.<br>
+<br>
+Este izvorul Izei,<br>
+<br>
+O lacrimă din Nord<br>
+<br>
+Un arhetip ce-şi este<br>
+<br>
+Contemporan, amonte<br>
+<br>
+Stau muntele şi apa<br>
+<br>
+În dulce dezacord<br>
+<br>
+Şi-n orice întuneric<br>
+<br>
+Atâta orizont e.<br>
+<br>
+M-am adăpat în viaţă<br>
+<br>
+Din oale fel de fel<br>
+<br>
+Şi-am cunoscut cristale<br>
+<br>
+Cu buze de paradă,<br>
+<br>
+Am auzit pe limbă<br>
+<br>
+Ninsori de clopoţel<br>
+<br>
+Şi am simţit cu talpa<br>
+<br>
+Prinosul de zăpadă.<br>
+<br>
+Şi ape leşioase<br>
+<br>
+Şi puţ cu-accent acid<br>
+<br>
+Şi am pierdut şi gustul<br>
+<br>
+Fântânii de acasă,<br>
+<br>
+De la izvorul Izei<br>
+<br>
+Abia acum deschid<br>
+<br>
+Fiinţa mea mânată<br>
+<br>
+De-o sete leşioasă.<br>
+<br>
+De n-aş avea nevoie<br>
+<br>
+S-o simt pe-ntregul trunchi,<br>
+<br>
+Cu lacrimi aş sorbi-o,<br>
+<br>
+Nobiliara apă,<br>
+<br>
+Şi în izvor de-odată<br>
+<br>
+Cu stelele-ngenunchi<br>
+<br>
+Stau eu să-ncep izvorul<br>
+<br>
+Sau el să mă înceapă.<br>
+<br>
+Şi pentru clipa-n care<br>
+<br>
+Într-un final de foc<br>
+<br>
+O să se-arate moartea,<br>
+<br>
+La ea să mă înhaţe,<br>
+<br>
+Fac astăzi repetiţii<br>
+<br>
+Şi vin în acest loc,<br>
+<br>
+Să-nvăţ cum se ridică<br>
+<br>
+Izvoarele în braţe.<br>
+<br>
+Şi nu am nici un martor<br>
+<br>
+Să-mi spună bun şi rău,<br>
+<br>
+Să vină după mine<br>
+<br>
+Ca el să recunoască:<br>
+<br>
+,,Lăsaţi-i lui izvorul,<br>
+<br>
+A fost izvorul său!&#x27;&#x27;<br>
+<br>
+Şi alt izvor să sară<br>
+<br>
+Din scoarţa pământească.<br>
+<br>
+Albastru trece Iza<br>
+<br>
+Prin malurile verzi,<br>
+<br>
+Obârşia-n enigmă<br>
+<br>
+De veacuri plânsu-mi-s-a,<br>
+<br>
+Aici pe tine însuţi<br>
+<br>
+Întâi şi-ntâi te pierzi<br>
+<br>
+Ca să te redescoperi<br>
+<br>
+Purificat de Iza.<br>
+<br>
+Va fi călătoria<br>
+<br>
+Acestui râu în jos,<br>
+<br>
+Va trece printre pietre,<br>
+<br>
+Va lumina comune,<br>
+<br>
+Va adăpa şi oameni<br>
+<br>
+Şi vite cu folos,<br>
+<br>
+Când altă Iza-ncepe<br>
+<br>
+Pe cer să se adune.<br>
+<br>
+Şi când va fi momentul,<br>
+<br>
+Cu mâini pustii să mor,<br>
+<br>
+Să mi le-ncarc de-această<br>
+<br>
+Obârşie de ape<br>
+<br>
+Şi textul meu din urmă<br>
+<br>
+Să fie-acest izvor<br>
+<br>
+Pe care cu privirea<br>
+<br>
+L-am şi transcris aproape.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** apa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

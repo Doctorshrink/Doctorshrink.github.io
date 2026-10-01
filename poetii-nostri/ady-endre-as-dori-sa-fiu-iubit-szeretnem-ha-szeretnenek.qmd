@@ -1,0 +1,58 @@
+---
+title: "Aș dori să fiu iubit - (Szeretném, ha szeretnének)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-10-01"
+categories: [poezie, spoken-word, _session, dor, dor.new]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ozkEBl0O8hc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nici urmaș, nici străbunic,<br>
+<br>
+Nici rudă, nici bun amic<br>
+<br>
+Nu sunt cu nimeni,<br>
+<br>
+Nu sunt cu nimeni.<br>
+<br>
+Sunt ca tot omul: măreție,<br>
+<br>
+Îngheț, taină, pribegie,<br>
+<br>
+Lumină fantomă,<br>
+<br>
+Lumină fantomă.<br>
+<br>
+Oh, dar, nu pot rămâne așa,<br>
+<br>
+Aș dori a mă înfățișa,<br>
+<br>
+Să mă vadă privind,<br>
+<br>
+Să mă vadă privind.<br>
+<br>
+De asta-i: tortură, poem:<br>
+<br>
+Aș dori să fiu un boem,<br>
+<br>
+I-aș fi cuiva,<br>
+<br>
+I-aș fi cuiva.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** _session, dor, dor.new
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

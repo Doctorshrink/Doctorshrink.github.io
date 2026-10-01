@@ -1,0 +1,66 @@
+---
+title: "Caii morții - (A halál lovai)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-10-01"
+categories: [poezie, spoken-word, _emotional, moarte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jWOJd4vDIEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pe cale albă, cu Lună,<br>
+<br>
+Când păstorii astrali<br>
+<br>
+Mână turme cu norii,<br>
+<br>
+Nepotcoviți spre noi<br>
+<br>
+Gonesc caii morții.<br>
+<br>
+Cu calm, cai asasini,<br>
+<br>
+Valeți-umbre pe spate,<br>
+<br>
+Cavaleri triști, muți.<br>
+<br>
+Și Luna se va ascunde,<br>
+<br>
+Dacă vin pe alba cale.<br>
+<br>
+De unde vin, cine știe?<br>
+<br>
+Doarme lumea largă:<br>
+<br>
+Se opresc, se descalecă.<br>
+<br>
+Pururea e cal liber<br>
+<br>
+Și coamă fără gazdă.<br>
+<br>
+Și la cine se va opri,<br>
+<br>
+Va păli, va încăleca,<br>
+<br>
+Gonind cu el pe drumul alb<br>
+<br>
+În nopți cu Lună, după<br>
+<br>
+Noul client, Moartea.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** _emotional, moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
