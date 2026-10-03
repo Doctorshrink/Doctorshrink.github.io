@@ -1,0 +1,82 @@
+---
+title: "Rudă cu Moartea - (A Halál rokona)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-10-03"
+categories: [poezie, spoken-word, _emotional, moarte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MhUGinUKvVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Eu-s rudă cu Moartea,<br>
+<br>
+Ador amorul ce apune,<br>
+<br>
+Ador s-o sărut ceea<br>
+<br>
+Ce se duce.<br>
+<br>
+Ador rozele prăpădite,<br>
+<br>
+Cu dor, femeia fanată,<br>
+<br>
+Zile cu soare, triste,<br>
+<br>
+De toamnă.<br>
+<br>
+Ador chemarea orelor<br>
+<br>
+triste, cu simbol imaginar,<br>
+<br>
+Moartea Mare, Sfântă,<br>
+<br>
+Cu sosia.<br>
+<br>
+Ador, cei ce călătoresc,<br>
+<br>
+Plânsetele, deșteptările,<br>
+<br>
+În zori reci, cu brumă,<br>
+<br>
+Câmpiile.<br>
+<br>
+Ador abandonul obosit,<br>
+<br>
+Plânset fără lacrimi, calmul,<br>
+<br>
+La înțelept, poet, bolnav,<br>
+<br>
+Lor, azilul.<br>
+<br>
+Ador pe cel decepționat,<br>
+<br>
+Cel invalid, cel ce închide,<br>
+<br>
+Cel ce nu crede, este trist:<br>
+<br>
+Omenire.<br>
+<br>
+Eu-s rudă cu Moartea,<br>
+<br>
+Ador amorul ce apune,<br>
+<br>
+Ador s-o sărut ceea<br>
+<br>
+Ce se duce.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** _emotional, moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

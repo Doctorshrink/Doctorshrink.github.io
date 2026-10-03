@@ -1,0 +1,50 @@
+---
+title: "Flacăra galbenă - (A sárga láng)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-10-03"
+categories: [poezie, spoken-word, foc]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vESkAo44I0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+A aprins flacăra galbenă<br>
+<br>
+Visurile mele. Sunt spuză:<br>
+<br>
+Cufundați-mă-n val de aur,<br>
+<br>
+Dați-mi, dați-mi o pavăză.<br>
+<br>
+Un cânt crunt m-alungă, zăpăcind,<br>
+<br>
+Un cânt de aur zornăitor.<br>
+<br>
+S-o calmeze muzica asta<br>
+<br>
+Bastonul de aur fermecător.<br>
+<br>
+Să vină amurgul dulce, surd,<br>
+<br>
+Unde cântul e mut, n-arde foc:<br>
+<br>
+Doresc să dorm pe pat de aur<br>
+<br>
+Trândăvind, țeapăn, sătul de tot.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** foc
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

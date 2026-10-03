@@ -1,0 +1,50 @@
+---
+title: "Rană de jăratic sunt - (Tüzes seb vagyok)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-10-03"
+categories: [poezie, spoken-word, foc]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dsQko5Ipb9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Rană de jăratic sunt, pișc și ard,<br>
+<br>
+Sufăr de rouă și lumină,<br>
+<br>
+Pe tine te vreau, venit-am,<br>
+<br>
+Tare mie dor: chinul să vină.<br>
+<br>
+Albă, să-ți mocnească para,<br>
+<br>
+Sufăr de săruturi, dorințe,<br>
+<br>
+Mie, îmi ești chin, un tartar,<br>
+<br>
+Râvnesc foarte mult după tine.<br>
+<br>
+Dor m-a rupt, sărut m-a însângerat,<br>
+<br>
+Rană sunt, un jăratic chinuind,<br>
+<br>
+Dă-mi chin, celui înfometat:<br>
+<br>
+Rană sunt, sărută-mă, jăruind.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** foc
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

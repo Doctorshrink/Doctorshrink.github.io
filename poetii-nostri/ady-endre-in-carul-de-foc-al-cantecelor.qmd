@@ -1,0 +1,70 @@
+---
+title: "În carul de foc al cântecelor"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-10-03"
+categories: [poezie, spoken-word, cantec, foc]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SN0PcFHBi0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În carul de foc al cântecelor<br>
+<br>
+(Dalok tüzes szekerén)<br>
+<br>
+Dii, căluţii mei sălbatici.<br>
+<br>
+Azi crupa v-o bat până la sânge.<br>
+<br>
+Azi eu sunt tânărul Apollo.<br>
+<br>
+Ei, cine vine după noi?<br>
+<br>
+Carul de foc cine mi-l ajunge?<br>
+<br>
+Dii, pintenog: tânăr Păcat,<br>
+<br>
+Dii, cai buni: vise Întunecate,<br>
+<br>
+Noi vom răzbi, căluţi sălbatici,<br>
+<br>
+Prin viaţa asta gri,<br>
+<br>
+Prin moartea brună vom răzbate.<br>
+<br>
+Să n-ajungă noroiul la roţi,<br>
+<br>
+Murdăria la a&#x27; voastre copite.<br>
+<br>
+Pe drumul de lumină, dii căluţi,<br>
+<br>
+Nu ne-or întrece nicicând<br>
+<br>
+Bătrâni vizitii cu braţe ostenite.<br>
+<br>
+Mărunte telegi hurducate<br>
+<br>
+Blesteme-n urma noastră-or risipi,<br>
+<br>
+Dar ce ne pasă? Atunci unde vom fi,<br>
+<br>
+Cât de departe va ajunge<br>
+<br>
+Tânărul Apollo al noilor melodii?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** cantec, foc
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

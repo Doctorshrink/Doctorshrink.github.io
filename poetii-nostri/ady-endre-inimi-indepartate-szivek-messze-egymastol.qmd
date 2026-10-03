@@ -1,0 +1,58 @@
+---
+title: "Inimi îndepărtate - (Szívek messze egymástól)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-10-03"
+categories: [poezie, spoken-word, _emotional, inima]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Okiah3v0idM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Undeva un suspin trist a scăpat<br>
+<br>
+Ș-acum pe suflet îl am,<br>
+<br>
+Undeva un râset răsună<br>
+<br>
+Și-mi surâde inima.<br>
+<br>
+Undeva traiul e frumos,<br>
+<br>
+Că alerg după fete<br>
+<br>
+Și undeva blestemul e mare,<br>
+<br>
+Că nici plănsul nu-mi iese.<br>
+<br>
+Undeva ar fi o inimă,<br>
+<br>
+Slabă, bolnavă săraca,<br>
+<br>
+Moartă de dor și beție,<br>
+<br>
+Ca la mine, taman.<br>
+<br>
+Își aud reciproc ritmul,<br>
+<br>
+Până ce bezna se lasă<br>
+<br>
+Și-n bezna mare într-o clipă<br>
+<br>
+Ambele cedează.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** _emotional, inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

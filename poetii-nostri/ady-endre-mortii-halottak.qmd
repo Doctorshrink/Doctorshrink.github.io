@@ -1,0 +1,46 @@
+---
+title: "Morții - (Halottak)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-10-03"
+categories: [poezie, spoken-word, _emotional, moarte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cPsrfZv54kQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cei ce șed în tihnă undeva,<br>
+<br>
+Răchita peste care s-apleca,<br>
+<br>
+Pe mormânt o torță pâlpâie,<br>
+<br>
+Ei chinul, demult au uitat:<br>
+<br>
+Noi plângem, dar lor le e bine...<br>
+<br>
+Pe al căsuței micul geam<br>
+<br>
+Ați privi-o pe mama mea!...<br>
+<br>
+În jur torțele nu sunt aprinse...<br>
+<br>
+Oh, dar cele care își plâng mortul<br>
+<br>
+Lângă, de liniște sunt cuprinse...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** _emotional, moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
