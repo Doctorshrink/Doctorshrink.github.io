@@ -1,0 +1,156 @@
+---
+title: "Izvorul Traducere V.Bragagiu"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-10-06"
+categories: [poezie, spoken-word, apa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MgpmDIqjUJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Афанасий Фет<br>
+<br>
+«Ключ»<br>
+<br>
+Меж селеньем и рощей нагорной<br>
+<br>
+Вьется светлою лентой река,<br>
+<br>
+А на храме над озимью черной<br>
+<br>
+Яркий крест поднялся в облака.<br>
+<br>
+И толпой голосистой и жадной<br>
+<br>
+Все к заре набежит со степей,<br>
+<br>
+Точно весть над волною прохладной<br>
+<br>
+Пронеслась; освежись и испей!<br>
+<br>
+Но в шумящей толпе ни единый<br>
+<br>
+Не присмотрится к кущам дерев.<br>
+<br>
+И не слышен им зов соловьиный<br>
+<br>
+В реве стад и плесканье вальков.<br>
+<br>
+Лишь один в час вечерний, заветной,<br>
+<br>
+Я к журчащему сладко ключу<br>
+<br>
+По тропинке лесной, незаметной,<br>
+<br>
+Путь обычный во мраке сыщу.<br>
+<br>
+Дорожа соловьиным покоем,<br>
+<br>
+Я ночного певца не спугну<br>
+<br>
+И устами, спаленными зноем,<br>
+<br>
+К освежительной влаге прильну.<br>
+<br>
+Literal<br>
+<br>
+Izvorul<br>
+<br>
+Între localitate și păduricea pe munte(pe deal)<br>
+<br>
+Șerpuiește ca panglică strălucitoare râul,<br>
+<br>
+Iar pe templu de asupra semănăturilor de toamnă negre<br>
+<br>
+Luminoasa cruce s-a înălțat în nori.<br>
+<br>
+Ca o gloată vociferândă și lacomă<br>
+<br>
+Totul spre zare ar năvăli din stepă,<br>
+<br>
+Ca o veste peste valul rece<br>
+<br>
+A trecut:„Împrospătează-te și bea!”<br>
+<br>
+Dar în gloata gălăgioasă nici unul<br>
+<br>
+Nimeni nu dă atenția spre desișul copacilor,<br>
+<br>
+Și nu aud ei chemarea privighetorilor<br>
+<br>
+În răgetul cirezilor și pleoscăitul pranicelor.<br>
+<br>
+Numai singur în ora de seară, prețuită,<br>
+<br>
+Eu spre susurândul dulce izvor<br>
+<br>
+Pe cărarea de pădure neobservată<br>
+<br>
+Calea obișnuită în beznă voi găsi.<br>
+<br>
+Prețuind liniștea privighetorii<br>
+<br>
+Cântăreața de noapte nu voi speria<br>
+<br>
+Și cu buzele arse de arșiță<br>
+<br>
+De vlaga împrospătândă le voi lipi(uni).<br>
+<br>
+Izvorul<br>
+<br>
+Între sat și dumbrava de munte<br>
+<br>
+Râul panglica-și poartă curat,<br>
+<br>
+Iar pe dom peste grâne mărunte<br>
+<br>
+Crucea dalbă spre nori s-a-nălțat.<br>
+<br>
+În țipândă și lacomă gloată<br>
+<br>
+Toți spre zări cat din stepă și zi,<br>
+<br>
+Parcă-o veste pe apa înceată<br>
+<br>
+„Vino proaspăt să fii!” glăsui.<br>
+<br>
+Din zăduful încins al amiezii<br>
+<br>
+N-a tras nimeni spre arbori și flori<br>
+<br>
+Și din mugetul greu al cirezii<br>
+<br>
+N-aud cântul de privighetori.<br>
+<br>
+Singurel c-ora sfântă de seară<br>
+<br>
+Înspre glas susurând de izvor<br>
+<br>
+Pe-a pădurii potecă precară<br>
+<br>
+Calea-n beznă găsi-voi cu dor.<br>
+<br>
+Prețuind pacea privighetorii<br>
+<br>
+N-oi speria cântăreața deloc<br>
+<br>
+Voi uni doar cu vlaga licorii<br>
+<br>
+Cura-mi arsă de-al arșiței foc.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** apa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,50 @@
+---
+title: "Dormi, căci lângă zare - traducere V.Bragagiu"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-10-06"
+categories: [poezie, spoken-word, _emotional, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/br15v5i1sh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dormi, căci lângă zare<br>
+<br>
+Rece-i și devreme;<br>
+<br>
+Steaua-n tremurare<br>
+<br>
+Printre cețuri geme.<br>
+<br>
+Iată-a treia oară<br>
+<br>
+Cucuriguri cântă,<br>
+<br>
+Clopote oftară<br>
+<br>
+O sunare sfântă.<br>
+<br>
+Teiul îți așterne<br>
+<br>
+Boarea mătăsoasă,<br>
+<br>
+Marginile pernei -<br>
+<br>
+Vlaga răcoroasă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** _emotional, dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

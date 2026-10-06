@@ -1,0 +1,42 @@
+---
+title: "Nu pot să dorm și fac lumină. Dar să citesc?"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-10-06"
+categories: [poezie, spoken-word, _emotional, dor, lumina]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8hwfg_Dv-Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nu pot să dorm și fac lumină. Dar să citesc?<br>
+<br>
+Eu n-oi pricepe iarăși nici un rând.<br>
+<br>
+Clipiri de lumânare priviri îmi ostenesc,<br>
+<br>
+Năluci chinuitoare trec, șir, sub ochi și-n gând.<br>
+<br>
+De ce? Cu ce-am greșit? Făcutu-ți-am cât rău?<br>
+<br>
+Și oare pedepsit pot fi și c-am gândit?<br>
+<br>
+De ce așa tăios mi-a revenit surâsul tău<br>
+<br>
+Și ochiul tău mă cată așa de otrăvit?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** _emotional, dor, lumina
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

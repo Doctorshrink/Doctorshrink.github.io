@@ -1,0 +1,44 @@
+---
+title: "Trei lacrimi de toamnă - (Három őszi könnycsepp)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-10-06"
+categories: [poezie, spoken-word, _emotional, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xE3cjjpSb-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+La prânz tomniu, tomniu,<br>
+<br>
+Oh, ce greu<br>
+<br>
+E să râzi pentru fete.<br>
+<br>
+În beznă tomnie, tomnie,<br>
+<br>
+Oh, ce greu<br>
+<br>
+E să privești în stele.<br>
+<br>
+La prânz și-n beznă tomnie,<br>
+<br>
+Oh, ce ușor<br>
+<br>
+E s-apleci plângând, plângând.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** _emotional, lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

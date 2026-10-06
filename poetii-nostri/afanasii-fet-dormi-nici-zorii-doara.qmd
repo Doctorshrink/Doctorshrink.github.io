@@ -1,0 +1,50 @@
+---
+title: "Dormi, nici zorii doară"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-10-06"
+categories: [poezie, spoken-word, _emotional, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BT0qFh2QiL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dormi, nici zorii doară<br>
+<br>
+Nu-și arată fața;<br>
+<br>
+Stele ce-or să moară<br>
+<br>
+Lăcrămează ceața.<br>
+<br>
+Semn cocoșii dat-au,<br>
+<br>
+Lung, a treia dată,<br>
+<br>
+Clopote în sat au<br>
+<br>
+Prins domol să bată.<br>
+<br>
+Pe la margini are<br>
+<br>
+Perna locul rece,<br>
+<br>
+Trece dulce boare<br>
+<br>
+Vârf de tei s-aplece.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** _emotional, dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

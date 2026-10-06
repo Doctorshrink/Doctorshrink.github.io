@@ -1,0 +1,50 @@
+---
+title: "Departe, un foc prizărit peste râu"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-10-06"
+categories: [poezie, spoken-word, apa, foc]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yOzJXUAeIR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Departe, un foc prizărit peste râu.<br>
+<br>
+Tot valu-n arginturi clătit.<br>
+<br>
+De-i lotca la mal stăpânită în frâu,<br>
+<br>
+Cu lacăt nu-i lanțu-nrobit.<br>
+<br>
+Și nime-ntrebare nu-mi lepede<br>
+<br>
+Pe unde mă-ndrept, cu ce vis.<br>
+<br>
+Mai repede, vâslă, mai repede!<br>
+<br>
+Iar malul în pâcle s-a-nchis.<br>
+<br>
+Și ce-i? Pentru ce dară dreptul eu oare<br>
+<br>
+Să plec n-aș avea? De ce frâu –<br>
+<br>
+S-aștept iar chemări și-nnoptare,<br>
+<br>
+O barcă și vâsla, un foc peste râu?...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** apa, foc
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
