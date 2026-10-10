@@ -1,0 +1,82 @@
+---
+title: "Sufletul minunii - traducere V.Bragagiu"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-10-10"
+categories: [poezie, spoken-word, _emotional, suflet]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ExWuKuooS5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Чудная картина<br>
+<br>
+Чудная картина,<br>
+<br>
+Как ты мне родна:<br>
+<br>
+Белая равнина,<br>
+<br>
+Полная луна,<br>
+<br>
+Свет небес высоких,<br>
+<br>
+И блестящий снег,<br>
+<br>
+И саней далеких<br>
+<br>
+Одинокий бег.<br>
+<br>
+1842<br>
+<br>
+Literal<br>
+<br>
+Peisaj minunat<br>
+<br>
+Cât de scump mie:<br>
+<br>
+Câmpul alb,<br>
+<br>
+Luna plină,<br>
+<br>
+Lumina cerurilor înalte,<br>
+<br>
+Și zăpadă strălucitoare,<br>
+<br>
+Și săniilor depărtate<br>
+<br>
+Fuga singuratică.<br>
+<br>
+***<br>
+<br>
+Sufletul  minunii<br>
+<br>
+Scumpul meu meleag:<br>
+<br>
+Împlinitul Lunii,<br>
+<br>
+Argintiul larg,<br>
+<br>
+Luminări înalte,<br>
+<br>
+Câmp strălucitor,<br>
+<br>
+Sănii depărtate<br>
+<br>
+Cu pribeagul lor.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** _emotional, suflet
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

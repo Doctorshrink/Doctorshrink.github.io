@@ -1,0 +1,122 @@
+---
+title: "În această fundătură fără ieșire"
+subtitle: "Ahmad Shamlou"
+author: "Doctor Shrink"
+date: "2026-10-10"
+categories: [poezie, spoken-word, _emotional2, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/an77YDqfF-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Te caută-n gură dac-ai spus: te iubesc.<br>
+<br>
+Îți caută-n inimă,<br>
+<br>
+sunt timpuri ciudate, prietene.<br>
+<br>
+Iubirea le dă lovituri de bici<br>
+<br>
+alături de stâlpii drumului.<br>
+<br>
+Trebuie să-ți ascunzi dragostea în cel mai secret colț al casei.<br>
+<br>
+În această fundătură întortocheată și rece<br>
+<br>
+mențin focul cu lemnele poeziei și cântecului.<br>
+<br>
+Nu risca să gândești,<br>
+<br>
+sunt vremuri tulburi, prietene.<br>
+<br>
+Cel ce-ți bate noaptea în poartă<br>
+<br>
+a venit să ucidă înflăcărata lampă.<br>
+<br>
+Trebuie să-ți ascunzi lumina în cel mai obscur colț al casei.<br>
+<br>
+Sus, aici sunt măcelarii stăpânind drumurile,<br>
+<br>
+cu o buturugă și o machetă însângerate;<br>
+<br>
+Sunt timpuri bizare, prietene.<br>
+<br>
+Îți vor sluți zâmbetul de pe buze și doinele din voce.<br>
+<br>
+Trebuie să-ți ascunzi bucuria în cel mai trist colț al casei.<br>
+<br>
+O frigăruie din carne de canar pe focul crinului și zambilei.<br>
+<br>
+Sunt vremuri ciudate, prietene.<br>
+<br>
+Diavolul, amețit de victorie, sărbătorește-n capul mesei plânsul nostru.<br>
+<br>
+Trebuie să-l ascunzi pe Dumnezeu în cel mai neștiut colț al casei.<br>
+<br>
+En este callejón sin salida<br>
+<br>
+de Ahmad Shamlou<br>
+<br>
+Buscan en tu boca por si hubieras dicho: te amo.<br>
+<br>
+Buscan en tu corazón<br>
+<br>
+es un tiempo extraño, amigo mío.<br>
+<br>
+Al amor<br>
+<br>
+le dan latigazos<br>
+<br>
+junto a los postes del camino.<br>
+<br>
+Hay que esconder el amor en el rincón más oculto de la casa.<br>
+<br>
+En este callejón serpenteante y frío<br>
+<br>
+mantienen el fuego con los leños de la poesía y de la canción.<br>
+<br>
+No te arriesgues a pensar,<br>
+<br>
+es un tiempo extraño, amigo mío.<br>
+<br>
+El que de noche llama a la puerta<br>
+<br>
+ha venido a matar al farol en su llama.<br>
+<br>
+Hay que esconder la luz en el rincón más oculto de la casa.<br>
+<br>
+Alto, ahí están los carniceros dominando los caminos<br>
+<br>
+con una tabla y un machete ensangrentado;<br>
+<br>
+es un tiempo extraño, amigo mío.<br>
+<br>
+Van a cicatrizar la sonrisa de los labios y las canciones de la boca.<br>
+<br>
+Hay que esconder la alegría en el rincón más oculto de la casa.<br>
+<br>
+Un pincho de carne de canario sobre el fuego de azucena y jacinto.<br>
+<br>
+Es un tiempo extraño, amigo mío.<br>
+<br>
+Satán, ebrio de victoria, está celebrando en la mesa nuestro llanto.<br>
+<br>
+Hay que esconder a Dios en el rincón más oculto de la casa.<br>
+<br>
+Traducción deL persa -  Fariba Gurguin
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ahmad Shamlou
+* **Temă:** _emotional2, casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

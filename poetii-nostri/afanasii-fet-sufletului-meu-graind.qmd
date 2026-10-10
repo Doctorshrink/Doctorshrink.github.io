@@ -1,0 +1,34 @@
+---
+title: "Sufletului meu grăind"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-10-10"
+categories: [poezie, spoken-word, _emotional, suflet]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/layk0VTHJLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Sufletului meu grăind,<br>
+<br>
+Ia-mă-n visuri făr&#x27; de-ales<br>
+<br>
+Lui ce vorbele nu prind<br>
+<br>
+Va să fie pe-nțeles.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** _emotional, suflet
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

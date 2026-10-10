@@ -1,0 +1,96 @@
+---
+title: "Poate-s destule de inimă aproape"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-10-10"
+categories: [poezie, spoken-word, _emotional2, inima]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_gbIciywPDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Poate-s destule de inimă aproape,<br>
+<br>
+Doar că arar îndrăgesc…<br>
+<br>
+Mult și mai mult mi-I plăcut să alunec pe ape,<br>
+<br>
+De sine uitând<br>
+<br>
+În egală bătaie de vâslă<br>
+<br>
+Muiată în spumă și murmur<br>
+<br>
+Și-ntrebându-mă de mers-am destul<br>
+<br>
+Și cât a rămas<br>
+<br>
+Ori n-oi zări o lumină.<br>
+<br>
+Din atâtea ostroave<br>
+<br>
+Pe care pescari, înnoptând,<br>
+<br>
+Aprind, când și când, foc mărunt,<br>
+<br>
+Mai cu seamă de unul mi-I dor…<br>
+<br>
+Lebăda mândră de zbor, primăvara,<br>
+<br>
+Deasupra îi trece cu gâtul întins,<br>
+<br>
+Coborându-se iute<br>
+<br>
+La blândele unde.<br>
+<br>
+Pe tâmplă de stâncă<br>
+<br>
+Își clatină crengile vechi<br>
+<br>
+Stejarul în frunză bogat.<br>
+<br>
+Privighetoarea-I acolo din veac:<br>
+<br>
+Ea cântă în zori.<br>
+<br>
+Dară și-n noaptea târzie,<br>
+<br>
+Pe când, străvezie, a lunii beteală<br>
+<br>
+Frunzișuri și ape îmbracă-n argint;<br>
+<br>
+Ea cântă și cântă –<br>
+<br>
+Arzător și din ce tot mai dulce.<br>
+<br>
+Iată mi-i cugetul<br>
+<br>
+Bătut, răscolit de neliniști:<br>
+<br>
+Ce-i asta? Viață ori vis?<br>
+<br>
+Fericit sun tori sunt amăgit?<br>
+<br>
+Unde-i răspunsul?...<br>
+<br>
+Undele mângâie cârma oprită,<br>
+<br>
+Vâsla e moartă,<br>
+<br>
+În cerul curat, pe înalturi, o stea căzătoare.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** _emotional2, inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

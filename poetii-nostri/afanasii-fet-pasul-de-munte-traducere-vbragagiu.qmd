@@ -1,0 +1,52 @@
+---
+title: "Pasul de munte - traducere V.Bragagiu"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-10-10"
+categories: [poezie, spoken-word, munte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZVqvLYkGjTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Păduri după păduri și munții-s după munte,<br>
+<br>
+Un violet-albastru din sure-ntunecate<br>
+<br>
+Și alte lumi apar din lumile mărunte<br>
+<br>
+Privirea de ți-o lași plecată în departe.<br>
+<br>
+Ca-n pietre scumpe-aici stejaru-i și cu fagul<br>
+<br>
+Acolo gingășia de-azur este topită<br>
+<br>
+Și din prezentul strâmt simți de odată largul<br>
+<br>
+Să pleci fără de sine-n magia strălucită.<br>
+<br>
+Căci sufletul e gata în depărtări să zboare<br>
+<br>
+Nu cu prudentul tremur, ci plin de bucurie,<br>
+<br>
+Iar acest simț de parcă nu prima dată-l are<br>
+<br>
+Dar l-a avut și astăzi doar l-aștepta să vie.<br>
+<br>
+Octombrie 1856 Paris
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** munte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
