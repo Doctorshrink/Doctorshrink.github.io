@@ -1,0 +1,76 @@
+---
+title: "Amintire din Normadia"
+subtitle: "Alain Bosquet"
+author: "Doctor Shrink"
+date: "2026-10-12"
+categories: [poezie, spoken-word, _emotional, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l_Vvukqe2Dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Frecventam cândva, sub albele faleze<br>
+<br>
+din Normandia, un lupanar<br>
+<br>
+cu-acoperiș de paie și foarte curat,<br>
+<br>
+ce se numea „La rendez-vous-ul turturelelor”.<br>
+<br>
+Numai florile erau impudice<br>
+<br>
+căci fetele făceau pe inocentele,<br>
+<br>
+deși mâinile lor erau experte.<br>
+<br>
+Am întâlnit acolo armatori<br>
+<br>
+și oameni ai legii.<br>
+<br>
+Un specialist în lemn prețios<br>
+<br>
+avea mii de gingășii pentru mahon.<br>
+<br>
+Un zarzavagiu furniza legume<br>
+<br>
+la Curtea Vienei:<br>
+<br>
+„Franz Josef însuși”, adăuga el.<br>
+<br>
+Fifi citea un roman parfumat.<br>
+<br>
+Boule-sans-Suif visa un lung voiaj<br>
+<br>
+până la Constantinopole,<br>
+<br>
+până-n Siam.<br>
+<br>
+Clara zicea: Această Emma Bovary<br>
+<br>
+nu are clasă;<br>
+<br>
+femeile cumsecade nu se sinucid.”<br>
+<br>
+Mai există faleze,<br>
+<br>
+sau vreo Normandie,<br>
+<br>
+sau case unde se discută,<br>
+<br>
+până-n zori, despre dragoste?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alain Bosquet
+* **Temă:** _emotional, amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,66 @@
+---
+title: "Lanțul"
+subtitle: "Alain Bosquet"
+author: "Doctor Shrink"
+date: "2026-10-12"
+categories: [poezie, spoken-word, _emotional2, amintire, libertate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z76-F3Kl5s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nu pot spune cine-mi începe poemele:<br>
+<br>
+e oare vântul,<br>
+<br>
+e oare un fel de melodie,<br>
+<br>
+o amintire<br>
+<br>
+fără trup, fără formă?<br>
+<br>
+Știu că eu le continuu<br>
+<br>
+cu bucurie, cu chin:<br>
+<br>
+le aduc o silabă,<br>
+<br>
+le scot un verb prea greoi,<br>
+<br>
+le-aș vrea pline de mister.<br>
+<br>
+Sunt în slujba lor,<br>
+<br>
+atâta vreme cât ele-mi îngăduie.<br>
+<br>
+Au dreptul, desigur,<br>
+<br>
+când sunt în plină glorie,<br>
+<br>
+să murmure „mersi” ca eu să dispar.<br>
+<br>
+Nu pot spune cine-mi termină poemele:<br>
+<br>
+un alt vânt,<br>
+<br>
+o melodie,<br>
+<br>
+o amintire fără formă, fără chip,<br>
+<br>
+un nou poet, pe care nu-l cunosc.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alain Bosquet
+* **Temă:** _emotional2, amintire, libertate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

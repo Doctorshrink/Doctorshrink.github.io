@@ -1,0 +1,62 @@
+---
+title: "Durerea de-a fi"
+subtitle: "Alain Bosquet"
+author: "Doctor Shrink"
+date: "2026-10-12"
+categories: [poezie, spoken-word, _emotional, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yfFUVDLKRT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Plopul se zbate<br>
+<br>
+în vijelie: o să-și ia zborul?<br>
+<br>
+Zidul nu mai vrea să fie zid,<br>
+<br>
+de aceea se prăbușește<br>
+<br>
+pe marginea fluviului.<br>
+<br>
+Amurgul are, uneori, remușcări:<br>
+<br>
+nu merită ziua un alt noroc,<br>
+<br>
+alt privilegiu?<br>
+<br>
+Sub streșini, un motan foarte gri<br>
+<br>
+stă pe gânduri,<br>
+<br>
+în a doua sa viață<br>
+<br>
+ar fi un câine roz<br>
+<br>
+printre vase de onix și catifele.<br>
+<br>
+Numai negura își aprobă destinul<br>
+<br>
+când întunecă arborele,<br>
+<br>
+cerul și orizontul.<br>
+<br>
+Împrumut peisajului<br>
+<br>
+durerea de-a fi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alain Bosquet
+* **Temă:** _emotional, durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

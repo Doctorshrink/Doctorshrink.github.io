@@ -1,0 +1,36 @@
+---
+title: "În fiecare pasăre dormea un munte..."
+subtitle: "Alain Bosquet"
+author: "Doctor Shrink"
+date: "2026-10-12"
+categories: [poezie, spoken-word, _emotional, dor, munte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wY3U-3e9MaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În fiecare pasăre dormea un munte.<br>
+Din fiecare mână şarpele sfânt<br>
+mânca sare. Şi-n fiecare uliţă din port<br>
+un bătrân episcop punea-ntrebări unui copac.<br>
+Gol, goluţ era vinul şi aproape de fluviu,<br>
+jelite, savanele dispărute<br>
+din timpul când întâlniseră zăpada.<br>
+Nu era pic de foc, şi vrăjitorul<br>
+şi-a luat nevastă, -atunci, oraşu-n flăcări.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alain Bosquet
+* **Temă:** _emotional, dor, munte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

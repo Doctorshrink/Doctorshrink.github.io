@@ -1,0 +1,37 @@
+---
+title: "Camera suspinelor"
+subtitle: "Alain Bosquet"
+author: "Doctor Shrink"
+date: "2026-10-12"
+categories: [poezie, spoken-word, _emotional, lacrimi]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eydeJEahdjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Camera suspinelor.<br>
+Câinele care-şi roade vechile visuri.<br>
+Un zid în noi<br>
+între inimă şi cealaltă inimă.<br>
+Toate lucrurile astea<br>
+care-au luat locul copiilor !<br>
+Dragostea ca un rechizitoriu.<br>
+Lumânarea aprinsă<br>
+de cuvintele moarte.<br>
+Privelişte inexpugnabilă spre îndoială.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alain Bosquet
+* **Temă:** _emotional, lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

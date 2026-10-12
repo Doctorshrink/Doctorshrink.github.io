@@ -1,0 +1,38 @@
+---
+title: "În numele dorurilor"
+subtitle: "Alain Bosquet"
+author: "Doctor Shrink"
+date: "2026-10-12"
+categories: [poezie, spoken-word, _emotional, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ToBig5DltrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În numele dorurilor<br>
+din care se naşte cristalul.<br>
+În numele verbelor masacrate<br>
+din care se iscă berzele.<br>
+În numele tainei bătrâne<br>
+care uneşte muntele<br>
+cu cetaceele-amurgului.<br>
+În numele gustului pentru dezgust<br>
+care veghează-n adâncul nevinovăţiei.<br>
+În numele infirmităţii noastre<br>
+care se dă drept slavă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alain Bosquet
+* **Temă:** _emotional, dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
