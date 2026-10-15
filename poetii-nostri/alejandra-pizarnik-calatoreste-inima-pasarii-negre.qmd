@@ -1,0 +1,38 @@
+---
+title: "* * * călătorește inima păsării negre"
+subtitle: "Alejandra Pizarnik"
+author: "Doctor Shrink"
+date: "2026-10-15"
+categories: [poezie, spoken-word, _emotional, inima]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/owXYNdoV_NU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+*     *     *<br>
+<br>
+călătorește inima păsării negre<br>
+<br>
+a ta este singurătatea miezului de noapte<br>
+<br>
+ale tale înțeleptele animale care îți populează visul<br>
+<br>
+în așteptarea cuvântului străvechi<br>
+<br>
+a ta dragostea și sunetul vântului frânt
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alejandra Pizarnik
+* **Temă:** _emotional, inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,62 @@
+---
+title: "Muntele"
+subtitle: "Alecu Donici"
+author: "Doctor Shrink"
+date: "2026-10-15"
+categories: [poezie, spoken-word, munte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0R63c2dzFik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Un munte se trudea de facere cumplit.<br>
+<br>
+Trei zile au vuit,<br>
+<br>
+Încât se clătina pământul de sub el;<br>
+<br>
+Dar în sfârşit s-au desfăcut<br>
+<br>
+Şi au născut:<br>
+<br>
+Un şoricel!<br>
+<br>
+Această fabulă ca muntele e veche;<br>
+<br>
+Eu însă să vă spun secretu-i la ureche:<br>
+<br>
+Sunt oameni de la care-aştepţi<br>
+<br>
+Minuni să vezi;<br>
+<br>
+Aşa vuiesc de tare<br>
+<br>
+Când ei se socotesc că au vro treabă mare;<br>
+<br>
+Iar cercetând în faptă,<br>
+<br>
+Găseşti isprava lor deşartă.<br>
+<br>
+Spre pildă, eu ades scriu, şterg şi iar gândesc,<br>
+<br>
+Ca când o epică piimă născocesc;<br>
+<br>
+Iar după trudă multă<br>
+<br>
+În faptă mă trezesc cu o făbuliţă scurtă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alecu Donici
+* **Temă:** munte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

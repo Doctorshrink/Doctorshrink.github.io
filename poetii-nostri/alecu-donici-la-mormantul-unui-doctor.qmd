@@ -1,0 +1,30 @@
+---
+title: "La mormântul unui doctor"
+subtitle: "Alecu Donici"
+author: "Doctor Shrink"
+date: "2026-10-15"
+categories: [poezie, spoken-word, _emotional, moarte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RNi-xgIWGJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Sub astă piatră zace un doctor învăţat;<br>
+<br>
+Cu moartea lui de moarte pe mulţi el a scăpat.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alecu Donici
+* **Temă:** _emotional, moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

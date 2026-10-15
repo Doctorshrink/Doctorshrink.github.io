@@ -1,0 +1,40 @@
+---
+title: "~ IV Copila ce-am fost"
+subtitle: "Alejandra Pizarnik"
+author: "Doctor Shrink"
+date: "2026-10-15"
+categories: [poezie, spoken-word, _emotional, copilarie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QfG3KxTSFLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+~<br>
+<br>
+IV<br>
+<br>
+Copila ce-am fost<br>
+<br>
+acum în amintirea mea<br>
+<br>
+printre morții mei.<br>
+<br>
+Lacrimi se vor prelinge mii de ani.<br>
+<br>
+Dezrădăcinarea sunetului din vocea lui.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alejandra Pizarnik
+* **Temă:** _emotional, copilarie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,40 @@
+---
+title: "Copilărie"
+subtitle: "Alejandra Pizarnik"
+author: "Doctor Shrink"
+date: "2026-10-15"
+categories: [poezie, spoken-word, _emotional2, copilarie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gjT1-ZjdmCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Timp în care iarba crește<br>
+<br>
+în memoria calului.<br>
+<br>
+Vântul rostește discursuri naive<br>
+<br>
+în onoarea liliacului<br>
+<br>
+și cineva intră în moarte<br>
+<br>
+cu ochii mari deschiși<br>
+<br>
+ca Alice în țara deja văzută.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alejandra Pizarnik
+* **Temă:** _emotional2, copilarie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
