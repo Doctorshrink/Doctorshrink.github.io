@@ -1,0 +1,54 @@
+---
+title: "Amarul l-am spart nemilos"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-10-18"
+categories: [poezie, spoken-word, _emotional, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R5mfttHtOKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Amarul l-am spart nemilos,<br>
+<br>
+Poveri am răpit tâlhăreste.<br>
+<br>
+Dar, Doamne! n-ascult bucuros<br>
+<br>
+Cum patima altuia crește.<br>
+<br>
+Tot vine mereu câte-un val<br>
+<br>
+Aproape, de stânci se zdrobește<br>
+<br>
+Și trupul meu firav, brutal,<br>
+<br>
+Cu spumă de gheață-l stropește.<br>
+<br>
+Nu știu dacă pot aștepta<br>
+<br>
+Acolo-n azur fericire.<br>
+<br>
+Străină, o patimă grea<br>
+<br>
+Ascult cum tot crește-n neștire.<br>
+<br>
+14 octombrie 1901<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** _emotional, durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

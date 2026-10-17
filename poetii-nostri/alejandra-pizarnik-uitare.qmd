@@ -1,0 +1,36 @@
+---
+title: "Uitare"
+subtitle: "Alejandra Pizarnik"
+author: "Doctor Shrink"
+date: "2026-10-18"
+categories: [poezie, spoken-word, _emotional, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wlmLxpSfBqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+de cealaltă parte a nopții<br>
+<br>
+iubirea e posibilă<br>
+<br>
+– ia-mă –<br>
+<br>
+ia-mă între dulci substanțe<br>
+<br>
+care mor în fiece zi în memoria ta
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alejandra Pizarnik
+* **Temă:** _emotional, amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

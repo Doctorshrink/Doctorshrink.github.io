@@ -1,0 +1,74 @@
+---
+title: "Ale-amurgului umbre, să știi"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-10-18"
+categories: [poezie, spoken-word, _emotional2, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c2VDiCsiw5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ale-amurgului umbre, să știi,<br>
+<br>
+Mi-amintiră răspunsul șoptit.<br>
+<br>
+Cred - prin ușa deschisă-n tării<br>
+<br>
+Va irumpe lumina murind.<br>
+<br>
+Precum palidul vis de-altădat&#x27;,<br>
+<br>
+Chipul meu a rămas neschimbat,<br>
+<br>
+Iar din tainice vorbe - tăciuni<br>
+<br>
+Ca ecou dinspre fostele lumi,<br>
+<br>
+Unde, palidă, tu te plimbai<br>
+<br>
+Și-amurgul în ochi l-ascundeai,<br>
+<br>
+Și în urma-ți o barcă plutea,<br>
+<br>
+Ca o lebădă albă, de nea;<br>
+<br>
+După barcă, văpăi vălurind -<br>
+<br>
+Zbuciumatele-mi câturi plutind...<br>
+<br>
+Tu urechea la ele-ți plecai,<br>
+<br>
+Chipul meu neschimbat îl vedeai,<br>
+<br>
+Ți-aminteai cerul palid de sus,<br>
+<br>
+Unde visele toate s-au dus.<br>
+<br>
+În înalt îmi aduc viața, să știi,<br>
+<br>
+Amintindu-mi un vag asfințit,<br>
+<br>
+Parcă știu - printr-o ușă-n tării<br>
+<br>
+Va irumpe lumina murind.<br>
+<br>
+20 decembrie 1901<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** _emotional2, amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

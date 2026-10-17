@@ -1,0 +1,70 @@
+---
+title: "Acolo-n stradă-o casă se-nălța"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-10-18"
+categories: [poezie, spoken-word, _emotional, casa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I3pd2gveG4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Acolo-n stradă-o casă se-nălța<br>
+<br>
+Și-n întuneric conducea o scară.<br>
+<br>
+Fugeau lumini când ușa scârțâia,<br>
+<br>
+Se-nstăpânea pe urmă bezna iară.<br>
+<br>
+Sub firma &#x27;&#x27;Flori&#x27;&#x27;, acolo-n asfințit<br>
+<br>
+Puteai zări închisă ușa albă.<br>
+<br>
+Acolo pași stingându-se-au muțit<br>
+<br>
+Pe trepte, în lumina-aceea slabă.<br>
+<br>
+Un stor lăsat pe-un geam de la etaj<br>
+<br>
+Împiedica privirile să vadă<br>
+<br>
+Și, ca un rid pe frunte,-acel pervaz<br>
+<br>
+Închipuia grimase pe fațadă.<br>
+<br>
+Ferestrele-n amurg se luminau,<br>
+<br>
+Erau cântări și dansuri, veselie,<br>
+<br>
+Dar de afară nu se auzeau...<br>
+<br>
+Doar sticla-n geamuri fulgera pustie.<br>
+<br>
+Sub lampa care-abia mai pâlpâia<br>
+<br>
+O umbră se vedea pășind pe scară.<br>
+<br>
+Fugeau lumini când ușa scârțâia,<br>
+<br>
+Se-nstăpânea pe urmă bezna iară.<br>
+<br>
+1 mai 1902<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** _emotional, casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

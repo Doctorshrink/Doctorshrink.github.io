@@ -1,0 +1,58 @@
+---
+title: "Poezie pentru tată"
+subtitle: "Alejandra Pizarnik"
+author: "Doctor Shrink"
+date: "2026-10-18"
+categories: [poezie, spoken-word, _emotional, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uEa2VYbtGR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Și atunci a fost<br>
+<br>
+cu o limbă moartă și rece în gură<br>
+<br>
+el a cântat cântecul pe care la lăsat să cânte<br>
+<br>
+în această lume a grădinilor obscene și a umbrelor<br>
+<br>
+care a venit într-o mișcare pentru al aminti<br>
+<br>
+din cântecele timpului când era băiat<br>
+<br>
+în care nu putea să cânte cântecul pe care dorea să-l cânte<br>
+<br>
+cântecul l-au lăsat să cânte<br>
+<br>
+altfel decât prin ochii absenți și absenți<br>
+<br>
+prin gura absentă<br>
+<br>
+prin vocea sa absentă.<br>
+<br>
+Apoi, de la cel mai înalt turn al absenței<br>
+<br>
+cântatul său a răsunat în opacitatea a ceea ce este ascuns<br>
+<br>
+în extensia tăcută<br>
+<br>
+plin de goluri mobile cum ar fi cuvintele<br>
+<br>
+pe care o scriu.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alejandra Pizarnik
+* **Temă:** _emotional, tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
