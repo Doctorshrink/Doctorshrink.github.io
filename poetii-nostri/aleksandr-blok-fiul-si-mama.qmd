@@ -1,0 +1,98 @@
+---
+title: "Fiul și mama"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-10-22"
+categories: [poezie, spoken-word, _session, mama, mama.new]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JkbLjHSbSfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Feciorul cruce-și face-n prag.<br>
+<br>
+Feciorul-și lasa cuibul drag.<br>
+<br>
+Mama cântă singuratică,<br>
+<br>
+Bucuria-i n-area frâu:<br>
+<br>
+Încărcat de glorii,poate că<br>
+<br>
+Va veni iubitu-i fiu !<br>
+<br>
+Iată-l, iată-l în armura lui<br>
+<br>
+Neguri grele străbătând,<br>
+<br>
+Sufletu-și închină cerului,<br>
+<br>
+Vlaga-bunului pământ.<br>
+<br>
+Cântă vestitorii zorilor,<br>
+<br>
+Noaptea fuge pe cărări.<br>
+<br>
+Sunetul de corn al norilor<br>
+<br>
+O gonește-n depărtări.<br>
+<br>
+Mușchi zbârliți de vânt și burnițe<br>
+<br>
+De pe câmpuri de mohor<br>
+<br>
+Țintuiesc cu ochi de bufnițe<br>
+<br>
+Norii albi ce trec în zbor...<br>
+<br>
+El e : Poartă-n goana norului<br>
+<br>
+Coiful noii dimineți,<br>
+<br>
+Săgetând din-naltul zborului<br>
+<br>
+Câmpurile de scaieți !<br>
+<br>
+Iară soarele când scapătă<br>
+<br>
+Bate vânt primenitor -<br>
+<br>
+Fiul paloșul și-l leapădă,<br>
+<br>
+Scoate coifu-i lucitor.<br>
+<br>
+Pieptul e străpuns și sângeră<br>
+<br>
+Și-l dor rănile cumplit :<br>
+<br>
+Bun noroc tu zare libera,<br>
+<br>
+Lan de neguri izbăvit !<br>
+<br>
+Mama așteaptă singurateca.<br>
+<br>
+Bucuria-i n-are frâu :<br>
+<br>
+S-a întors rănit dar poate că<br>
+<br>
+Va trăi iubitu-i fiu.<br>
+<br>
+Nu, n-a uitat-o fiu-i drag :<br>
+<br>
+S-a-ntors la ea să moară-n prag.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** _session, mama, mama.new
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

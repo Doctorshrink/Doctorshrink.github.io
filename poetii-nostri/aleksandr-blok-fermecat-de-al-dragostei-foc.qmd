@@ -1,0 +1,54 @@
+---
+title: "Fermecat de al dragostei foc"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-10-22"
+categories: [poezie, spoken-word, foc]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nBO7BjkRj0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Fermecat de al dragostei foc,<br>
+<br>
+Singuratic, la tine-aș zbura.<br>
+<br>
+Tu ghicești. - Însă nu mă chema.-<br>
+<br>
+Sânt și eu ghicitor de noroc.<br>
+<br>
+Până-acum doar ghicind am scăpat<br>
+<br>
+De-ale anilor grele poveri.<br>
+<br>
+Azi destinu-mi încerc, ca și ieri,<br>
+<br>
+Dar prea vag este tot ce-am aflat.<br>
+<br>
+Nu chema. Zile-ntregi de ghiciri<br>
+<br>
+Ani mei îi răsfață-a noroc.<br>
+<br>
+Dar curând se va șterge-acel foc<br>
+<br>
+Al vrăjitei, obscurei iubiri?<br>
+<br>
+1 iunie 1901 Șahmatovo<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** foc
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

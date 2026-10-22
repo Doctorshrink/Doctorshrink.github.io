@@ -1,0 +1,54 @@
+---
+title: "Clopotu-acela cu jale"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-10-22"
+categories: [poezie, spoken-word, _emotional, durere]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7PXTm6ryIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Clopotu-acela cu jale<br>
+<br>
+Gânduri târzii proslăvea.<br>
+<br>
+Zarea vedeniei tale<br>
+<br>
+Loc de-nchinare mi-era.<br>
+<br>
+Ruga străinei credințe<br>
+<br>
+Inima nu-mi tulbura,<br>
+<br>
+Nu fremăta de căințe,<br>
+<br>
+Sufletu-mi pur rămânea.<br>
+<br>
+Toate-au trecut altădată,<br>
+<br>
+Toate prin inima mea...<br>
+<br>
+Tu doar păstrezi ne-ntinată<br>
+<br>
+Taina străveche a Ta.<br>
+<br>
+15 septembrie 1902<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** _emotional, durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

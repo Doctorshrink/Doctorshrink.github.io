@@ -1,0 +1,64 @@
+---
+title: "Ea a trecut în munți, în depărtare"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-10-22"
+categories: [poezie, spoken-word, munte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RNbpgLH4Ahg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Lui S. Soloviov<br>
+<br>
+Ea a trecut în munți, în depărtare,<br>
+<br>
+Meleagul ei natal, e o vâlcea.<br>
+<br>
+Și voi nici cu-o privire arzătoare<br>
+<br>
+Nu ați ajuns nicicând până la ea.<br>
+<br>
+Ci numai ochiul veșnicului soare<br>
+<br>
+Virgina înflorire o vedea<br>
+<br>
+Și,fir plăpând, ea, recunăscătoare,<br>
+<br>
+Căldura lui în trupu-i o păstra.<br>
+<br>
+Tănjind, ea a murit tot iubitoare,<br>
+<br>
+Dar trupu-i mort nu-i om să-l fi zărit.<br>
+<br>
+Pe culmi cerești, în altă depărtare,<br>
+<br>
+Azuru-nnobilându-l, a-nflorit.<br>
+<br>
+O-mbrățișează-acum zăpezi ușoare,<br>
+<br>
+Cum spuneți că ați fost în albul schit?!<br>
+<br>
+Ea a-nflorit în munți, în depărtare,<br>
+<br>
+Ea doar cu aștrii-acum s-a însoțit<br>
+<br>
+26 iunie 1901<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** munte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

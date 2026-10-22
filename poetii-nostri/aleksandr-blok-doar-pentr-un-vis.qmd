@@ -1,0 +1,52 @@
+---
+title: "Doar pentr-un vis"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-10-22"
+categories: [poezie, spoken-word, vis]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pb1peecHNx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Doar pentr-un vis ce-n zori apune,<br>
+<br>
+Un vis fugar,<br>
+<br>
+Poetul tânăr se supune<br>
+<br>
+Și Morții chiar.<br>
+<br>
+Eu nu-s așa, chiar dacă vise<br>
+<br>
+M-ar fermeca,<br>
+<br>
+Rebel, cu-aripile deschise<br>
+<br>
+Le-aș alunga.<br>
+<br>
+Iar năzuiesca,iar mă frământă<br>
+<br>
+Și gata sunt<br>
+<br>
+Sa-scult cum lupta vieții cântă,<br>
+<br>
+Noi vise vrând!<br>
+<br>
+25 decembrie1889- 18 ianuarie 1919
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** vis
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

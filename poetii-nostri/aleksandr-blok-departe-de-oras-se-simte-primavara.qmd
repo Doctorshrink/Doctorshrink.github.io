@@ -1,0 +1,58 @@
+---
+title: "Departe de oraș se simte primăvara"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-10-22"
+categories: [poezie, spoken-word, primavara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hOehEPUA-tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Departe de oraș se simte primăvara.<br>
+<br>
+Văpaia o presimt din mers și-aștept mereu.<br>
+<br>
+Acolo suflă-amurgul și încrețește marea<br>
+<br>
+Și-această răsuflare mi-e chinul cel mai greu.<br>
+<br>
+Știu: capitala-i plină de vuiet și-i departe,<br>
+<br>
+Dogoritor, amurgul o asuprește iar.<br>
+<br>
+O, inimi sărăcite! O, chipuri disperate!<br>
+<br>
+Nu știți că-i primăvară, vi-i sufletul amar.<br>
+<br>
+Și-aici, ca amintirea de caste vremi trecute<br>
+<br>
+Din zariște se-arată figuri necunoscute,<br>
+<br>
+Văpaia veșniciei și viața prorocind.<br>
+<br>
+Uita-vom larma vană. Ci vino blând, ușoară,<br>
+<br>
+Crepusculară, Tainică Fecioară<br>
+<br>
+Pe veci mâine și ieri cu flacăra-Ți uninnd.<br>
+<br>
+12 iulie 1901<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** primavara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
