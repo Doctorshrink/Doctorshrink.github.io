@@ -1,0 +1,194 @@
+---
+title: "Rătăcind prin stele... visuri"
+subtitle: "Alexandru Bogdanovici"
+author: "Doctor Shrink"
+date: "2026-10-24"
+categories: [poezie, spoken-word, luna_stele, noapte, vis]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_WCvzPZWXCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Umblă vântul prin reţele, noaptea-i veac fără sfârşit.<br>
+<br>
+Sboară gândurile mele şi se pierd în infinit...<br>
+<br>
+Cine-s eu? mă-ntreb adesea, gând mistuitor şi greu:<br>
+<br>
+Dintre câţi trăiesc în mine, cine sunt – ştiu numai eu.<br>
+<br>
+Luni<br>
+<br>
+...Se rotesc fulgi de zăpadă<br>
+<br>
+Şi se pierd în noaptea grea.<br>
+<br>
+Luna mare stă să cadă<br>
+<br>
+Peste câmpul alb de nea.<br>
+<br>
+I<br>
+<br>
+Cine sunt? Simt în străfunduri răzvrătire de haiduc<br>
+<br>
+Hăituit mereu de poteri, rătăcind prin câmpi, năuc.<br>
+<br>
+Cruntă-mi este răzbunarea, sângeroasă spada grea –<br>
+<br>
+Nu ştiu mila şi iertarea când mă lupt cu cineva.<br>
+<br>
+Marţi<br>
+<br>
+Nistrul spumegă în praguri<br>
+<br>
+Vânăt, rece, ‘nvolburat,<br>
+<br>
+Se opreşte-apoi în vaduri,<br>
+<br>
+Loc de veci netulburat...<br>
+<br>
+II<br>
+<br>
+Cine sunt? O balalaică plânge dragostea de ieri;<br>
+<br>
+Suspinând dup-o rusoaică, -n  vis mă pierd seri după seri.<br>
+<br>
+Mi-a rămas inima frântă, peste Nistru, undeva –<br>
+<br>
+Numai visul mă alintă şi-mi descântă dragostea.<br>
+<br>
+Miercuri<br>
+<br>
+Sboară caii vultureşte,<br>
+<br>
+Ceru-i boltă de topaz,<br>
+<br>
+Acolo-unde-nfloreşte<br>
+<br>
+Trandafirul de Şiraz.<br>
+<br>
+III<br>
+<br>
+Cine sunt? Prin stepa largă călăresc aripi de vânt –<br>
+<br>
+Soră-mi este iapa şargă: lupt mereu, petrec şi cânt.<br>
+<br>
+Numai “Bir Nimrud”-ul ştie cine-s eu, de unde vin...<br>
+<br>
+Mă desparte-o veşnicie de Ceahlăul Carpatin.<br>
+<br>
+Joi<br>
+<br>
+Lin adie briza mării<br>
+<br>
+Duh de vis peste Bosfor:<br>
+<br>
+În azurul înserării<br>
+<br>
+Sângerează-un colţ de nor...<br>
+<br>
+IV<br>
+<br>
+Cine sunt? Pe puntea mare, sprijinit de balustradă,<br>
+<br>
+Cânt pierdut în depărtare, mării dragi, o serenadă.<br>
+<br>
+Stropi de spumă  diamante – irizează curcubee,<br>
+<br>
+Vin sirene şi bachante în adâncuri să mă ieie.<br>
+<br>
+Vineri<br>
+<br>
+...Clocoteşte în baloane<br>
+<br>
+Elixirul veşniciei –<br>
+<br>
+În bordeie şi saloane, toţi sunt<br>
+<br>
+Robi nimicniciei...<br>
+<br>
+V<br>
+<br>
+Cine sunt? În eprubete se-nfiripă altă lume:<br>
+<br>
+Doar formulele discrete cunosc taina fără nume.<br>
+<br>
+Despre viaţă, despre moarte, nici o lacună nu am –<br>
+<br>
+În borcane şi retorte, eu creez “Noul Adam”.<br>
+<br>
+Sâmbătă<br>
+<br>
+...Peste dune luna plânge<br>
+<br>
+Şi-n amurgul african<br>
+<br>
+Nilul pare râu de sânge,<br>
+<br>
+Sfinxul – stâncă de mărgean...<br>
+<br>
+VI<br>
+<br>
+Cine sunt? O dulce fată, în decor de feerie<br>
+<br>
+Din ghitara fermecată lăcrimează nostalgie.<br>
+<br>
+Fluiere şi tamburine plâng poveşti orientale.<br>
+<br>
+Doruri noi aprinde-n mine cântul vrăjilor fatale.<br>
+<br>
+Duminică<br>
+<br>
+Vântul încreţeşte marea,<br>
+<br>
+Spuma valul încunună<br>
+<br>
+Şi-ntr-o clipă frământarea<br>
+<br>
+Se preface în furtună...<br>
+<br>
+VII<br>
+<br>
+Cine sunt? Pe baricade flutur steagul răzvrătirii –<br>
+<br>
+În vârtej ridic noroade pentru ceasul izbăvirii.<br>
+<br>
+Cade ‘lutul’ de pe mine şi, văpaie de credinţă,<br>
+<br>
+Mă avânt spre noi destine de calvar sau biruinţă.<br>
+<br>
+Cine sunt? În nopţi de veghe, caut să dezleg misterul:<br>
+<br>
+Sboară gândul mii de leghe, ocolind pământul, cerul...<br>
+<br>
+Gânduri, vise, frământare, în zadar mă-ntreb mereu<br>
+<br>
+Căci răspunsul la-ntrebare-l ştie unul Dumnezeu.<br>
+<br>
+Simt în orice strop de sânge altă viaţă şi chemare.<br>
+<br>
+Sufletul sărman se frânge zbuciumat fără-ncetare.<br>
+<br>
+Toţi strămoşii sunt în mine: mii de vieţi înverigate<br>
+<br>
+În acelaşi lanţ ce ţine suflete încătuşate.<br>
+<br>
+Cine sunt? În lumi de stele rătăcesc mereu pribeag<br>
+<br>
+Şi în visurile mele caut un prieten drag...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Bogdanovici
+* **Temă:** luna_stele, noapte, vis
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

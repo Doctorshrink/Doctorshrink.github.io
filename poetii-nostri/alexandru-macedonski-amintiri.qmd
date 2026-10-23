@@ -1,0 +1,74 @@
+---
+title: "Amintiri"
+subtitle: "Alexandru Macedonski"
+author: "Doctor Shrink"
+date: "2026-10-24"
+categories: [poezie, spoken-word, _emotional, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kJ953M3cYz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În mintea omului rămâne<br>
+<br>
+Tabloul fericirii stinse...<br>
+<br>
+Astfel tresar şi-n al meu suflet<br>
+<br>
+Reamintirile întinse;<br>
+<br>
+Aci revad o albă casă...<br>
+<br>
+O horă, fete, fluturi, salbe,<br>
+<br>
+Frunzişuri vii şi flori pe câmpuri<br>
+<br>
+Şi porumbei cu aripi albe!<br>
+<br>
+Aci mă văd pe alte ţărmuri<br>
+<br>
+Pribeag prin ţările străine,<br>
+<br>
+Pe margine de-albastre lacuri<br>
+<br>
+Cu negre stânci şi vechi ruine!<br>
+<br>
+Aci revăd, revăd un tânăr...<br>
+<br>
+La braţ el poartă o femeie...<br>
+<br>
+Le bate inima-n unire<br>
+<br>
+Şi află-a raiurilor cheie!<br>
+<br>
+Pădurea-n umbră le-nfăşoară<br>
+<br>
+Amorul lor ca un tezaur<br>
+<br>
+Şi soarele prin frunze-apune<br>
+<br>
+În fundul unui cer de aur!<br>
+<br>
+Dar, Doamne, pentru ce pe lume<br>
+<br>
+Când verşi atâta fericire<br>
+<br>
+Ne-o iei îndată ce ne-ai dat-o<br>
+<br>
+Şi-abia ne laşi o suvenire?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Macedonski
+* **Temă:** _emotional, amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

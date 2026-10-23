@@ -1,0 +1,50 @@
+---
+title: "Apoteoză"
+subtitle: "Alexandru Colorian"
+author: "Doctor Shrink"
+date: "2026-10-24"
+categories: [poezie, spoken-word, _emotional2, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K-cp8kvyBFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Se vor aşterne umbre tot mai multe<br>
+<br>
+Şi tot mai singuri, vom vorbi cu noi;<br>
+<br>
+O, suflete, amintirile s-asculte<br>
+<br>
+Veni-vor, cum prin noapte trec strigoi.<br>
+<br>
+Amurgul fi-va umbră şi uitare<br>
+<br>
+Pe-a zilelor senină primăvară,<br>
+<br>
+În noi cânta-va bucuria clară<br>
+<br>
+Că am învins fatidica visare...<br>
+<br>
+Şi tot mai singuri risipi-vom flori,<br>
+<br>
+Surâzători că am strivit robia —<br>
+<br>
+Şi-ncrezători în drumul spre noi zori<br>
+<br>
+În suflet vom culege veşnicia.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Colorian
+* **Temă:** _emotional2, amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
