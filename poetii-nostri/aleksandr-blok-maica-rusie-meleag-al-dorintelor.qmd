@@ -1,0 +1,68 @@
+---
+title: "Maică Rusie, meleag al dorințelor"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-10-23"
+categories: [poezie, spoken-word, _emotional, dor, mama]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5bM-mGrc-Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Maică Rusie, meleag al dorințelor !<br>
+<br>
+Ocne... Siberia... Țarul... Ermark...<br>
+<br>
+Haide, cu bine ! E vremea căințelor !<br>
+<br>
+Inimii slobode - bezna-i pe plac ?<br>
+<br>
+Poate credeai în puterea preasfântului,<br>
+<br>
+Ce mai răsună prin cântec și anii?<br>
+<br>
+Drumuri și drumuri pe-ntinsul pământului,<br>
+<br>
+Mal de minuni, străbătut de meriani.<br>
+<br>
+Nave, cetăți făurit-ai cu miile,<br>
+<br>
+Știu :Țarigradul tu nu l-ai supus.<br>
+<br>
+Lebede, șoimi poartă-n stepă soliile,<br>
+<br>
+Pâcla din stepă e grea de nespus...<br>
+<br>
+Albe ori negre, întinse ți-s mările,<br>
+<br>
+Ziua și noaptea în zare privești,<br>
+<br>
+Stâna de piatră, scrutezi depărtările,<br>
+<br>
+Fulgrere scapără-n ochi tătărești.<br>
+<br>
+Tabăra-ți doarme-n adâncă smerenie,<br>
+<br>
+Noapte-i și flăcări pe cer se aprind...<br>
+<br>
+Iarăși coboară, cețoasă vedenie,<br>
+<br>
+Sufletu-mi slobod amar hărțuind !<br>
+<br>
+28 febroarie 1910
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** _emotional, dor, mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,78 @@
+---
+title: "Primăvara"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-10-23"
+categories: [poezie, spoken-word, primavara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnVphwu1tik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În zi de primăvară timpurie,<br>
+<br>
+Când stopi de iarbă-n rouă strălucesc,<br>
+<br>
+Când pare că o pânză alburie<br>
+<br>
+Îmbracă zările înaltului ceresc,<br>
+<br>
+Când gâzele se urcă pe tulpină,<br>
+<br>
+Ecoul poartă tril de zburătoare<br>
+<br>
+Și botul din adâncai vizuină<br>
+<br>
+Și-l scoate cârtița -  bătrână truditoare -<br>
+<br>
+Simți viață-n jur, un proaspăt iz de vlagă<br>
+<br>
+Desprinzi din foi, din iarba-nrourată,<br>
+<br>
+Vezi c-a-nflorit natura-ntreagă<br>
+<br>
+Și roiul de albine se arată -<br>
+<br>
+Din floare-n floare rătăcesc în zbor,<br>
+<br>
+Vin fluturi minunați în urma lor,<br>
+<br>
+Din aripi bat pe foarea de mălin,<br>
+<br>
+Văzduhu-ntreg de sunete e plin,<br>
+<br>
+Albinele roiesc și păsări zboară:<br>
+<br>
+&#x27;&#x27;E primăvară, primăvară&#x27;&#x27;<br>
+<br>
+Și primăvara vine minunată<br>
+<br>
+Zvârlind pe câmp în treacăt mii de flori,<br>
+<br>
+Când iarba e de rouă argintată<br>
+<br>
+Se-aude &#x27;&#x27;cu-cu&#x27;&#x27;! - colo-n crâng, în zori,<br>
+<br>
+Și-al ciocârliei cântec  în risipă,<br>
+<br>
+Și clopotul bătând nedeslușit,<br>
+<br>
+E-un singur cor ce cântă-n acea clipă,<br>
+<br>
+&#x27;&#x27;Da! Primăvara a venit!&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** primavara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

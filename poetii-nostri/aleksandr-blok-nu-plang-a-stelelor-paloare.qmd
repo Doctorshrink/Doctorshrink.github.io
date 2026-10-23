@@ -1,0 +1,58 @@
+---
+title: "Nu plâng a stelelor paloare"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-10-23"
+categories: [poezie, spoken-word, _emotional, lacrimi, luna_stele]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4AxmVWEY6Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Soarele nu se întoarce<br>
+<br>
+&#x27;&#x27;SNEGUROCIKA&#x27;&#x27; LUI OSTROVSKI<br>
+<br>
+Nu plâng a stelelor paloare,<br>
+<br>
+Mi-s visele-un noian obscur.<br>
+<br>
+Alintă razele de soare<br>
+<br>
+Severa cruce în azur.<br>
+<br>
+Și ei alintul serii-i place<br>
+<br>
+Și-n brațe-i cade, ca și noi.<br>
+<br>
+Căci Soarele nu se întoarce<br>
+<br>
+Din bezna neagră înapoi.<br>
+<br>
+El va pleca, va fi tăcere<br>
+<br>
+Când crucea nu s-o mai vedea -<br>
+<br>
+Și-n frigul palidelor stele<br>
+<br>
+Noi iarăși ne vom resemna.<br>
+<br>
+12 februarie 1902<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** _emotional, lacrimi, luna_stele
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

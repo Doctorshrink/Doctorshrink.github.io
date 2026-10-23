@@ -1,0 +1,68 @@
+---
+title: "Arta poetică"
+subtitle: "Alexandru Andriţoiu"
+author: "Doctor Shrink"
+date: "2026-10-23"
+categories: [poezie, spoken-word, _emotional2, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d4F1KVaQOR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cea mai frumoasă lună e în lac,<br>
+<br>
+cel mai frumos luceafăr e pe mare<br>
+<br>
+și cântă cel mai sincer pitpalac<br>
+<br>
+nu-n pomi, ci-n amintiri și în uitare.<br>
+<br>
+Cea mai frumoasă lună e în lac.<br>
+<br>
+Cea mai frumoasă floare e pe sâni,<br>
+<br>
+sau în surpate plete de femeie –<br>
+<br>
+și nu lucesc, pe cer, ca în fântâni<br>
+<br>
+fantomele de lux din curcubeie.<br>
+<br>
+Cea mai frumoasă floare e pe sâni.<br>
+<br>
+E aurul mai cald în inelar<br>
+<br>
+și șoldul mai cu linii sub mătasă,<br>
+<br>
+în nuntă-i vinul cel mai plin de har<br>
+<br>
+și-n rouă raza cea mai languroasă.<br>
+<br>
+E aurul mai cald în inelar.<br>
+<br>
+Culori și mirodenii cercuri fac<br>
+<br>
+în jurul meu. Argila mea tresare<br>
+<br>
+și cu cămașa cerului mă-mbrac.<br>
+<br>
+Și iată-mă-s, deodată, cer și zare.<br>
+<br>
+...................................<br>
+<br>
+Cea mai frumoasă lună e în lac.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Andriţoiu
+* **Temă:** _emotional2, amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

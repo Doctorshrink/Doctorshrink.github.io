@@ -1,0 +1,42 @@
+---
+title: "Dorința-mi sângele-mi dogoare"
+subtitle: "Aleksandr Puşkin"
+author: "Doctor Shrink"
+date: "2026-10-23"
+categories: [poezie, spoken-word, _emotional, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3zKv0BUrtBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dorința sângele-mi dogoare<br>
+<br>
+O rană-n suflet mi-ai făcut.<br>
+<br>
+Sărută-mă: mai dulce-mi pare,<br>
+<br>
+Ca vinul dulce,– al tău sărut.<br>
+<br>
+Apleacă fruntea ta, ușor,<br>
+<br>
+S-adorm, de griji neștiutor,<br>
+<br>
+Pân-o s-alunge alibi zori<br>
+<br>
+Întunecații noștri nori.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Puşkin
+* **Temă:** _emotional, dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
