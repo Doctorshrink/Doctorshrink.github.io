@@ -1,0 +1,116 @@
+---
+title: "Cu morţii"
+subtitle: "Alexandru Macedonski"
+author: "Doctor Shrink"
+date: "2026-10-25"
+categories: [poezie, spoken-word, _emotional, moarte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m-5nFx4Wc1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cu viii nu mai am de-a face<br>
+<br>
+De mult,<br>
+<br>
+Şi foarte des, când totul tace,<br>
+<br>
+Chemând pe morţi, ce dorm în pace,<br>
+<br>
+I-ascult.<br>
+<br>
+Din gropi ei vin şi mă-nconjoară,<br>
+<br>
+Ei vin.<br>
+<br>
+Când liliacu-n noapte zboară,<br>
+<br>
+Când dealu-n umbră se-nfăsoară<br>
+<br>
+Deplin.<br>
+<br>
+Din lumea lor necunoscută,<br>
+<br>
+Răsar,<br>
+<br>
+Şi când şoptesc cu voce mută<br>
+<br>
+Poema cea nepricepută<br>
+<br>
+Tresar.<br>
+<br>
+Îi simt pe loc ce au să vie,<br>
+<br>
+Căci sunt<br>
+<br>
+Ca un parfum de vecinicie<br>
+<br>
+Sau ca o flacăre-albăstrie<br>
+<br>
+În vânt.<br>
+<br>
+Pe zidul alb de la odaie,<br>
+<br>
+Urcând,<br>
+<br>
+Zăresc uşoara lor văpaie<br>
+<br>
+Verzuie, oacheşă, bălaie,<br>
+<br>
+Pe rând.<br>
+<br>
+Cu totul osebiţi de lume,<br>
+<br>
+Uşori,<br>
+<br>
+Dorinţi, nici griji, n-au să-i consume,<br>
+<br>
+Suavi ca nişte dulci parfume<br>
+<br>
+De flori.<br>
+<br>
+Sunt din atome nevăzute<br>
+<br>
+Ţesuţi,<br>
+<br>
+Ş-amestecaţi pe întrecute,<br>
+<br>
+Resimt plăceri necunoscute,<br>
+<br>
+Tăcuţi.<br>
+<br>
+Iubind simţirea ce mă poartă<br>
+<br>
+Spre ei,<br>
+<br>
+Sunt însetat de-aceeaşi soartă,<br>
+<br>
+Căci nu se află-n lumea moartă<br>
+<br>
+Mişei.<br>
+<br>
+O! morţi frumoşi, veniţi într-una...<br>
+<br>
+Cu voi<br>
+<br>
+Nu vine ura, nici minciuna<br>
+<br>
+Să răscolească iar furtuna<br>
+<br>
+Din noi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Macedonski
+* **Temă:** _emotional, moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,66 @@
+---
+title: "Fântâna"
+subtitle: "Alexandru Macedonski"
+author: "Doctor Shrink"
+date: "2026-10-25"
+categories: [poezie, spoken-word, apa]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xORx8HbHodo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+I<br>
+<br>
+Cunosc o fântână pe valea umbrită<br>
+<br>
+Un grangur de aur cântând m-a-ndemnat<br>
+<br>
+S-adorm între frunze de plopi şi răchită,<br>
+<br>
+Să uit de oraşul în care-am oftat.<br>
+<br>
+Pe valea umbrită cunosc o fântână<br>
+<br>
+O mierlă cu care de vorbă am stat,<br>
+<br>
+Aflând că durerea o sufăr stăpână,<br>
+<br>
+A râs cât se poate, iar eu am oftat...<br>
+<br>
+Pe valea umbrită cunosc o fântână.<br>
+<br>
+II<br>
+<br>
+Prin frunze ascunsă albeşte pe vale<br>
+<br>
+În lume ce caut şi ce-am căutat?<br>
+<br>
+De mine mi-e jale, de alţii mi-e jale...<br>
+<br>
+Oh! grangur de aur cu viers neuitat!<br>
+<br>
+Albeşte pe vale prin frunze ascunsă<br>
+<br>
+Izvorul ei curge de zori sărutat,<br>
+<br>
+Dar e a mea soartă la culme ajunsă...<br>
+<br>
+Oh! tainică mierlă cu râs neuitat!<br>
+<br>
+Fântâna sub frunze albeşte ascunsă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Macedonski
+* **Temă:** apa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

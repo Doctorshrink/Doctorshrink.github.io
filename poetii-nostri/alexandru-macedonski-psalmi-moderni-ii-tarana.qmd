@@ -1,0 +1,52 @@
+---
+title: "Psalmi moderni II - Ţărână"
+subtitle: "Alexandru Macedonski"
+author: "Doctor Shrink"
+date: "2026-10-25"
+categories: [poezie, spoken-word, _emotional, sat, tara]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R5zimq-wlso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ţărână — suntem toţi ţărână,<br>
+<br>
+E de prisos orice trufie...<br>
+<br>
+Ce-a fost, în veci are să fie...<br>
+<br>
+Din noi nimic n-o să rămână.<br>
+<br>
+Zadarnic falnice palate<br>
+<br>
+Sunt în pământ rădăcinate<br>
+<br>
+Nici o pieire nu s-amână.<br>
+<br>
+Despoţi, cu frunţi încoronate,<br>
+<br>
+Poeţi, cu harpe coronate,<br>
+<br>
+Filozofi, oameni de ştiinţă,<br>
+<br>
+Păgâni, vestiţi prin necredinţă,<br>
+<br>
+Nici o pieire nu s-amână...<br>
+<br>
+Ţărână, suntem toţi ţărână.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Macedonski
+* **Temă:** _emotional, sat, tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

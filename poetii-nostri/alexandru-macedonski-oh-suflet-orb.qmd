@@ -1,0 +1,58 @@
+---
+title: "Oh! suflet orb"
+subtitle: "Alexandru Macedonski"
+author: "Doctor Shrink"
+date: "2026-10-25"
+categories: [poezie, spoken-word, _emotional, suflet]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lUCqL8zLU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Oh! suflet orb m-absorbi întruna<br>
+<br>
+Şi nu mă vezi, nici nu m-auzi,<br>
+<br>
+Rămâi, cu ochii morţi şi cruzi,<br>
+<br>
+Şi reci, mai reci de cum e luna.<br>
+<br>
+Veghez asupră-ţi totdeauna...<br>
+<br>
+Visez, vibrez şi nu m-auzi,<br>
+<br>
+Rămâi cu ochii morţi şi cruzi,<br>
+<br>
+Şi sunt arcuş, — şi nu eşti struna.<br>
+<br>
+Şi reci, mai reci de cum e luna<br>
+<br>
+Sunt ochii tăi şi morţi şi cruzi,<br>
+<br>
+Şi nu mă vezi, nici nu m-auzi,<br>
+<br>
+Şi sunt arcuş, — şi nu eşti struna.<br>
+<br>
+Iar suflet orb m-absorbi întruna,<br>
+<br>
+Te simt, te-aud, şi nu m-auzi,<br>
+<br>
+Şi ochii tăi sunt stinşi — şi cruzi,<br>
+<br>
+Şi reci, — mai reci de cum e luna.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Macedonski
+* **Temă:** _emotional, suflet
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,52 @@
+---
+title: "Bătrâna stâncă"
+subtitle: "Alexandru Macedonski"
+author: "Doctor Shrink"
+date: "2026-10-25"
+categories: [poezie, spoken-word, munte]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c7z6Rl5pyA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Bătrâna stâncă uriaşă e neclintită de pe loc<br>
+<br>
+O sapă apele să scape de ea, şi-n veci o pizmuieşte<br>
+<br>
+Ţăranul prost, zicând c-ar face ogor din locul ce robeşte<br>
+<br>
+C-un ceas-nainte ca s-o surpe de-ar fi să afle vreun mijloc.<br>
+<br>
+Bătrâna stâncă simte gândul ce împrejurul ei rânjeşte,<br>
+<br>
+Dar tace, şi când suflă crivăţ ea sfarmă viforul tăios,<br>
+<br>
+Şi ocrotită valea-ntreagă dă roade spornice voios,<br>
+<br>
+Pe când chiar apa care-o sapă din sânul ei se limpezeşte.<br>
+<br>
+Bătrâna stâncă e zadarnic de ani luată la mijloc…<br>
+<br>
+În umbra ei pasc încă mieii ş-ajung vlăstarii brazi puternici,<br>
+<br>
+Şi fie-n mare sau mic număr, neputincioşi sunt cei<br>
+<br>
+nemernici —<br>
+<br>
+Bătrâna stâncă uriaşă e neclintită de pe loc.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Macedonski
+* **Temă:** munte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
