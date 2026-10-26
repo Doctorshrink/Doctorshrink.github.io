@@ -1,0 +1,54 @@
+---
+title: "M-am regăsit. Ce dor mi-era de mine"
+subtitle: "Alexandru Vlahuţă"
+author: "Doctor Shrink"
+date: "2026-10-27"
+categories: [poezie, spoken-word, _emotional, dor]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h6-n2HhuV0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+M-am regăsit. Ce dor mi-era de mine,<br>
+<br>
+Copilul visător de altădată!<br>
+<br>
+Mă simt plutind – privirea mea-nsetată<br>
+<br>
+Se pierde-n orizonturi largi, senine.<br>
+<br>
+De-acum, ispititori, în van mai cată<br>
+<br>
+Viclenii ochi ... îi ştiu atât de bine!<br>
+<br>
+O, nu mai tremur când mă uit la tine,<br>
+<br>
+Şi azi te iert, căci rana-i vindecată.<br>
+<br>
+Iar visul tău – ca pânza Penelopii –<br>
+<br>
+Se ţese ziua, noaptea se destramă ...<br>
+<br>
+Noian de întuneric ne desparte !<br>
+<br>
+Zadarnic zâmbitoare te apropii,<br>
+<br>
+Şi glasul tău tremurător mă cheamă –<br>
+<br>
+Tot mai străină-mi eşti, tot mai departe ...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Vlahuţă
+* **Temă:** _emotional, dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,96 @@
+---
+title: "Miraj"
+subtitle: "Alexandru Philippide"
+author: "Doctor Shrink"
+date: "2026-10-27"
+categories: [poezie, spoken-word, _emotional2, amintire]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ZiWunJoBIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ce dup-amiezi ciudate învăluite-n vis !<br>
+<br>
+Izvoarele amintirii în suflet s-au deschis,<br>
+<br>
+Răni vechi cu sânge proaspăt mocnind sub clipă, treze.<br>
+<br>
+Şi doruri ruginite prind iarăşi să vibreze<br>
+<br>
+Când vremea-ncetinita şi-ntinde apă grea.<br>
+<br>
+Simt cum întreagă-mi viaţă alunecă în ea<br>
+<br>
+Şi cum eu însumi vreme mă fac, magie rară !<br>
+<br>
+În mine-atunci o lume vrăjită se coboară :<br>
+<br>
+Amestec de anotimpuri, de dimineţi şi seri.<br>
+<br>
+Alcătuind o lume găsită nicăieri,<br>
+<br>
+În care se-ntretaie că nişte zvonuri line<br>
+<br>
+Atâtea visuri toate câte-au trecut prin mine<br>
+<br>
+De la-nceputul celei mai vechi copilării.<br>
+<br>
+Prin vinete meleaguri cu ceruri brumării,<br>
+<br>
+Pe-un drum mereu acelaşi şi altu-ntotdeauna<br>
+<br>
+Pornesc cu<br>
+<br>
+Păsărilă să strâng în braţe luna<br>
+<br>
+Dar mult nu stau în ţară poveştilor, şi-acum<br>
+<br>
+Mă-ntampina o toamna cu despletiri de fum .-<br>
+<br>
+Vazduhu-ngalbeneste că o mătase veche,<br>
+<br>
+Flaşnete ofilite îmi ţiuie-n ureche<br>
+<br>
+Şi simt miros de frunze ce ard, grămezi, prin *ţi<br>
+<br>
+Durata mea de astăzi cu anii tot mai scurţi<br>
+<br>
+Mă-ndeamnă-n amintire să fac mai lungi popasuri ;<br>
+<br>
+Şi vremea n-o mai masur cu clipe şi cu ceasuri,<br>
+<br>
+Căci hronos mie însumi sunt şi, mag subtil,<br>
+<br>
+Schimb timpul meu de-acuma cu timpu-mi de copil.<br>
+<br>
+O, farmec fără nume, feerică năframă,<br>
+<br>
+Pe care-o ridicare de gene o destramă,<br>
+<br>
+Răscruce-a zilei între amiază şi-nserat,<br>
+<br>
+Gând în aceeaşi clipă rostit şi spulberat !<br>
+<br>
+Aiunge-voi vreodată pe cai nemijlocite<br>
+<br>
+Să aflu tâlcul nouă cuvintelor tocite<br>
+<br>
+Şi să cuprind statornic cu tainice dovezi<br>
+<br>
+Miracolul acestor ciudate dup-amiezi ?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Philippide
+* **Temă:** _emotional2, amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

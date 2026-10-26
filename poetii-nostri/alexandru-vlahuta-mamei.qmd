@@ -1,0 +1,146 @@
+---
+title: "Mamei"
+subtitle: "Alexandru Vlahuţă"
+author: "Doctor Shrink"
+date: "2026-10-27"
+categories: [poezie, spoken-word, _session, mama, mama.new]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g1Rdq8vp2AU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Din vremile apuse ş-atât de fericite,<br>
+<br>
+Aducerile-aminte adesea mă-mpresoară.<br>
+<br>
+Ce de viaţă-n urmă!… Ca un potop mă-nghite<br>
+<br>
+Comoara mea de visuri, pierduta mea comoară<br>
+<br>
+Din vremile apuse ş-atât de fericite!<br>
+<br>
+Cum se desfac, din noapte, icoane vechi şi sfinte!<br>
+<br>
+Şi ca din cărţi, trecutul fantastic mi s-aşterne;<br>
+<br>
+Atâtea dulci vedenii îmi picură în minte,<br>
+<br>
+Cu durerosul farmec al pierderei eterne!…<br>
+<br>
+Cum se desfac, din noapte, icoane vechi şi sfinte!<br>
+<br>
+Figura ta cuminte, duioasă şi senină,<br>
+<br>
+Răsare, scumpă mamă, din vremile acele,<br>
+<br>
+Ca o madonă sfântă, scăldată în lumină.<br>
+<br>
+Ce clară stă-n pervazul copilăriei mele<br>
+<br>
+Figura ta cuminte, duioasă şi senină!<br>
+<br>
+O lene grea se lasă din cerul cald de vară.<br>
+<br>
+De soare-i plină casa. Tu-ncet, păşind pe scânduri,<br>
+<br>
+Laşi storurile groase şi dai muştele-afară.<br>
+<br>
+Apoi, prostii de-a mele asculţi şi cazi pe gânduri.<br>
+<br>
+O lene grea se lasă din cerul cald de vară.<br>
+<br>
+Curg valuri mari de umbră şi se-mpânzesc pe vale.<br>
+<br>
+Din şes, privim spre codru, cum soarele se-neacă.<br>
+<br>
+În mirosul de iarbă, tăcuţi păşim agale,<br>
+<br>
+Şi bolta răcorită mai jos parcă s-apleacă,<br>
+<br>
+Curg valuri mari de umbră şi se-mpânzesc pe vale.<br>
+<br>
+Stai dreaptă-n strana vechii biserici de la ţară;<br>
+<br>
+Eu bat la sfinţi mătănii, şi-i pup, şi-i rog cuminte,<br>
+<br>
+Cum blândele-ţi poveţe de mic mă învăţară.<br>
+<br>
+Tu, palidă-n extazul înduioşării sfinte,<br>
+<br>
+Stai dreaptă-n strana vechii biserici de la ţară.<br>
+<br>
+Din cărţi cu slovă veche şi cu figuri frumoase,<br>
+<br>
+O lume ca de visuri, cu totul minunată,<br>
+<br>
+Mi-o scoţi, şi pe-ndelete începi a mi-o descoase.<br>
+<br>
+Cât farmec e-n această viaţă, adunată<br>
+<br>
+Din cărţi cu slovă veche şi cu figuri frumoase!<br>
+<br>
+La patul meu, tăcută, veghind neadormită,<br>
+<br>
+Încet pe fruntea-mi arsă de friguri, mâna-ţi luneci,<br>
+<br>
+În mine-ţi stă viaţa… întreaga ta ursită;<br>
+<br>
+Şi după cum mi-s ochii, te bucuri sau te-ntuneci,<br>
+<br>
+La patul meu, tăcută, veghind neadormită.<br>
+<br>
+Din câţi copii pe lume-s, nici unul nu-i ca mine.<br>
+<br>
+Şi cât mă vezi de mare în planurile tale!…<br>
+<br>
+La zodii chiar s-arată cum am s-ajung de bine,<br>
+<br>
+Şi ce măriri m-aşteaptă în norocoasa-mi cale!<br>
+<br>
+Din câţi copii pe lume-s, nici unul nu-i ca mine…<br>
+<br>
+Ce dureros se stinse deşarta-ţi aşteptare!<br>
+<br>
+Pierdut, te văd, din cruda vieţii vijelie,<br>
+<br>
+Nenorocită mamă, şi plâng că nu-s în stare<br>
+<br>
+O slabă mângâiere să-ţi dau, cât de târzie,<br>
+<br>
+Ce dureros se stinse deşarta-ţi aşteptare!<br>
+<br>
+De fiul tău departe, stingheră şi trudită,<br>
+<br>
+Nemaiavând puterea de-a te ruga şi plânge,<br>
+<br>
+Azi îţi priveşti, cu silă, viaţa amăgită,<br>
+<br>
+Cum a rămas pustie şi cât de trist se stânge,<br>
+<br>
+De fiul tău departe, stingheră şi trudită.<br>
+<br>
+Ca pete mari de umbră pe-o mirişte uscată,<br>
+<br>
+Aşa, pe-a noastră urmă, trec stoluri lungi de gânduri.<br>
+<br>
+Nimic nu mai există din câte-au fost odată,<br>
+<br>
+Ş-asupra noastră anii pustii trec, rânduri-rânduri,<br>
+<br>
+Ca pete mari de umbră pe-o mirişte uscată.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Vlahuţă
+* **Temă:** _session, mama, mama.new
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
