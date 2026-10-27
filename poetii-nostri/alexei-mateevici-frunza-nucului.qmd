@@ -1,0 +1,102 @@
+---
+title: "Frunza Nucului"
+subtitle: "Alexei Mateevici"
+author: "Doctor Shrink"
+date: "2026-10-28"
+categories: [poezie, spoken-word, _emotional2, tata, toamna]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J0mwq3KKDiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+FRUNZA NUCULUI<br>
+<br>
+Frunza nucului tresare,<br>
+<br>
+Oglindindu-se în lac;<br>
+<br>
+Vântul un miros de floare<br>
+<br>
+Îmi aduce din Bugeac.<br>
+<br>
+De ce tremuri, frunzuleană, --<br>
+<br>
+Fiica nucului rotat, --<br>
+<br>
+Ce fior de prin poiană<br>
+<br>
+Firea ţi-a cutremurat?<br>
+<br>
+Eu cu ierbile poienii<br>
+<br>
+N-am nimic de împărţit,<br>
+<br>
+Jale mi-i că moldovenii<br>
+<br>
+Încă nu s-au înfrăţit.<br>
+<br>
+Vântul şuieră prin creste,<br>
+<br>
+Vine zburător prin văi<br>
+<br>
+Şi-mi şopteşte trista veste<br>
+<br>
+Din Bugeac de la ai tăi.<br>
+<br>
+Doarme tata somnul morţii,<br>
+<br>
+Şi buneii-s în mormânt, --<br>
+<br>
+Iar cei vii, prin voia sorţii,<br>
+<br>
+Duşi din cele locuri sânt.<br>
+<br>
+De la morţi aduce ştirea<br>
+<br>
+Vântul veşnic zburător:<br>
+<br>
+El din flori a prins şoptirea,<br>
+<br>
+Flori de la mormântul lor.<br>
+<br>
+Fie-aşa, dar nu mi-i teamă<br>
+<br>
+Despre soarta celor părţi!<br>
+<br>
+Dragostea ades mi-o cheamă<br>
+<br>
+Fala câmpurilor verzi.<br>
+<br>
+Mare-i fala din câmpie,<br>
+<br>
+Dar bătrânii ţi-s mâhniţi.<br>
+<br>
+Dragostea de unde-ţi ştie,<br>
+<br>
+Că vor fi toţi înfrăţiţi?<br>
+<br>
+Dragostea adânc mă leagă<br>
+<br>
+Cu părinţii răposaţi.<br>
+<br>
+Ştiu: din liniştea lor dragă<br>
+<br>
+Răsări-vor numai fraţi.<br>
+<br>
+Adaugata de catre Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexei Mateevici
+* **Temă:** _emotional2, tata, toamna
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

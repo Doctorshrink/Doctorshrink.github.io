@@ -1,0 +1,86 @@
+---
+title: "Cântec De Leagăn"
+subtitle: "Alexei Mateevici"
+author: "Doctor Shrink"
+date: "2026-10-28"
+categories: [poezie, spoken-word, _emotional, copilarie, mama]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xCKp3U_YwAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+CANTEC DE LEAGAN<br>
+<br>
+Stele-n Nistru, stele sus,<br>
+<br>
+Dormi: povestea mi ţi-am spus,<br>
+<br>
+Stele-n Nistru-mpădurit,<br>
+<br>
+Dormi, odorule iubit.<br>
+<br>
+Fie-ţi somnul uşurel,<br>
+<br>
+Dragul mamei frumuşel,<br>
+<br>
+Te păzească îngeraşi,<br>
+<br>
+Puiul mamei drăgălaş;<br>
+<br>
+Ca să creşti un moldovean<br>
+<br>
+Mândru, falnic, năzdrăvan,<br>
+<br>
+Să-nverzeşti, ca un stejar,<br>
+<br>
+Paza vechiului hotar.<br>
+<br>
+Să-ţi lucească-n frunte-o stea<br>
+<br>
+Doar ne-a lumina şi ea,<br>
+<br>
+Şi cu codrul să te-ntreci,<br>
+<br>
+Şi dumbrăvile să-i treci;<br>
+<br>
+Şi să-i baţi cărările,<br>
+<br>
+Să ne sorbi durerile,<br>
+<br>
+Şi să treci la cela mal,<br>
+<br>
+Ţara să ţi-o scoţi din hal.<br>
+<br>
+De ocară apele,<br>
+<br>
+Puiul mamei, scapă-le,<br>
+<br>
+Să ne cânte zânele,<br>
+<br>
+Răsunând fântânile,<br>
+<br>
+Să ne râdă zorile,<br>
+<br>
+Să ne-mbete florile...<br>
+<br>
+Stele-n Nistru-mpădurit,<br>
+<br>
+Dormi: povestea s-a sfârşit...<br>
+<br>
+Adaugata de catre Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexei Mateevici
+* **Temă:** _emotional, copilarie, mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

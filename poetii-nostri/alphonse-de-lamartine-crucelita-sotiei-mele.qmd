@@ -1,0 +1,186 @@
+---
+title: "Crucelița soției mele"
+subtitle: "Alphonse de Lamartine"
+author: "Doctor Shrink"
+date: "2026-10-28"
+categories: [poezie, spoken-word, _emotional2, suflet]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8BN_LdmP0rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O, cruceliță sântă! eu plângând te-am luat<br>
+<br>
+De pe-a ei buze arse la cea de-apoi suflare;<br>
+<br>
+Simbol dumnezeirei, de ea mie lăsat,<br>
+<br>
+Să-mi fie mângâietoare.<br>
+<br>
+Cu câte fierbinți lacrimi te spăl, o, cruceliță,<br>
+<br>
+De când mi te-au dat mie, ca să te port la sân,<br>
+<br>
+Așa cum te purtară amata muceniță<br>
+<br>
+A boalelor cu chin!<br>
+<br>
+O, Doamne, ce durere simți sufletul meu<br>
+<br>
+Când preotul rostiră molitva de iertare,<br>
+<br>
+Întocmai ca și maica cântând pruncului său,<br>
+<br>
+Cântec de dormitare!<br>
+<br>
+Atunci pe a ei frunte speranța se iviră,<br>
+<br>
+Pe a soției față grații au seninat,<br>
+<br>
+Și pare că și moartea ceva îngăduiră,<br>
+<br>
+Al său lacom vânat.<br>
+<br>
+Vântul îi clătea părul lung pân’ la pământ,<br>
+<br>
+Aruncând câte o viță pe palida ei față,<br>
+<br>
+Precum și chiparosul își mută pe mormânt<br>
+<br>
+A sa umbră măreață.<br>
+<br>
+Din patul ei căzuse una din mânușițe,<br>
+<br>
+Iar cealaltă gingaș pe piept o îndoia,<br>
+<br>
+Și ridicând la gură draga sa cruceliță,<br>
+<br>
+S-o sărute vroia.<br>
+<br>
+Ea buzele gătise pentru acel sărutat...<br>
+<br>
+Dar cu-acea sărutare sufletul ei zburară,<br>
+<br>
+Și tocmai ca tămâia către Cel Preaînalt<br>
+<br>
+La cer se ridicară.<br>
+<br>
+Atunci toate tăcură... iar pe a sa gură rece<br>
+<br>
+Suflarea contenise, și-n pieptul amorțit,<br>
+<br>
+Și pe ochii săi galeși geana vru să se plece,<br>
+<br>
+Însă au țepenit...<br>
+<br>
+Și eu stam lângă dânsa, de moarte îngrozit,<br>
+<br>
+Nu-ndrăzneam să pun mâna pe trupul mult scump mie,<br>
+<br>
+Căci cuvioasa moarte îndată s-au gătit<br>
+<br>
+Lumei ce va să fie.<br>
+<br>
+Eu nu-ndrăzneam, o, Doamne, dar preotul de față,<br>
+<br>
+Dezlegând crucelița de la grumazul ei:<br>
+<br>
+„O, fiule! îmi zice, iată a ta speranță,<br>
+<br>
+Te sfătuiesc s-o iei.”<br>
+<br>
+O, cruceliță sântă, tu prea duios dar ești,<br>
+<br>
+Dar ca să mângâi dorul, acest dar îi dat ție,<br>
+<br>
+Deci un etern amor în mine întărește<br>
+<br>
+Către a mea soție.<br>
+<br>
+Purtându-te la pieptu-mi, la inima ce arde,<br>
+<br>
+Pe dânsa eu aievea și treaz, și-n somn privesc;<br>
+<br>
+A mele lacrimi, însă, cu vreme te vor roade<br>
+<br>
+Cu care te stropesc.<br>
+<br>
+O, simbol de credință, acei ce am iubit<br>
+<br>
+Pe pieptul meu ți-i locul... Deci spune-mi, cruceliță,<br>
+<br>
+Ce-ți șoptea ea atuncea când te ținea lipit<br>
+<br>
+La recea ei guriță?<br>
+<br>
+În ore de pe urmă, când sufletul se stinse,<br>
+<br>
+Când ochii ca de gheață nu mă vedeau plângând,<br>
+<br>
+Și când a ei viață ca zorile se stinse,<br>
+<br>
+Pe fața ei pierind.<br>
+<br>
+Când moartea pe viață zbuciumă ne-ndurată,<br>
+<br>
+Precum zbuciumă vântul un pom până ce-l rumpe,<br>
+<br>
+Crăbindu-se cumplita, soția mea amată,<br>
+<br>
+În mormânt să o surpe...<br>
+<br>
+Dar, cruceliță, nu-mi spui ceea ce ți-au șoptit?<br>
+<br>
+Au doar pe al său înger ruga să mijlocească,<br>
+<br>
+Ca Domnul să-i primească sufletul pocăit<br>
+<br>
+Și-n cer să-l locuiască?<br>
+<br>
+Au doar că pentru mine atunci se ruga poate?<br>
+<br>
+Acelui pus pe cruce între doi aprigi hoți<br>
+<br>
+Să ierte cu-ndurare și grelele păcate<br>
+<br>
+A văduvului soț:<br>
+<br>
+Deci la sfârșitul vieții voi săruta și eu<br>
+<br>
+Locul pe cruceliță unde-au fost a ei guriță,<br>
+<br>
+Ca să se întorloace și suflețelul său<br>
+<br>
+Cu-al meu din împreună.<br>
+<br>
+Ah! de ar fi atuncea de patul meu aproape,<br>
+<br>
+O rudă, un amic să-mi facă jurământ<br>
+<br>
+Că luând de la gură-mi crucea să o îngroape<br>
+<br>
+Cu mine în mormânt.<br>
+<br>
+Pân’ când îngerul morței, morții va învia,<br>
+<br>
+Atunci eu cu copiii, cu soața mult iubită<br>
+<br>
+Vom sta la judecată, fiind umbriți de ea,<br>
+<br>
+De crucelița sântă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alphonse de Lamartine
+* **Temă:** _emotional2, suflet
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

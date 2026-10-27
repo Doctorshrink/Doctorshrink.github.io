@@ -1,0 +1,130 @@
+---
+title: "Singurătatea"
+subtitle: "Alphonse de Lamartine"
+author: "Doctor Shrink"
+date: "2026-10-28"
+categories: [poezie, spoken-word, _emotional, singuratate]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a8Rh0NqFqzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Adeseori pe munte, când soarele apune,<br>
+<br>
+Eu, obosit de gânduri, la umbră rezemat,<br>
+<br>
+În jos peste cămpie vederea-mi se repune,<br>
+<br>
+Privind cum se destinde cu-ncetul și treptat.<br>
+<br>
+Aici spumegă râul în undele-i muginde<br>
+<br>
+Și șerpuind se pierde în depărtat ascuns;<br>
+<br>
+Lacul colo-și revarsă apele lui dorminde,<br>
+<br>
+Pe care steaua serii ivită le-a pătruns.<br>
+<br>
+Seara-și aruncă încă o rază rubinoasă<br>
+<br>
+P-al munților nalt vârf de brazi încoronat;<br>
+<br>
+Ș-a umbrelor stăpână în caru-i rourat<br>
+<br>
+Pășaște, și albește o pânză fumegoasă.<br>
+<br>
+Religiosul sunet, curmând astă tăcere,<br>
+<br>
+În aer se revarsă din turnul goticesc;<br>
+<br>
+Pe călător oprește; și luciul câmpenesc<br>
+<br>
+Ne-nsuflă-n locul zilei o sfântă mângâiere.<br>
+<br>
+Dar sufletu-mi, l-această vedere felurită,<br>
+<br>
+Rece, nimic nu simte plăcere pe pământ;<br>
+<br>
+El înainte-mi este o umbră rătăcită:<br>
+<br>
+Soarele nu-ncălzește pe cei ce nu mai sânt.<br>
+<br>
+Stânce, colnice, dealuri, d-a rând le iau pe toate,<br>
+<br>
+Din margine la alta, d-apus la răsărit,<br>
+<br>
+Nimic nu las din lume, și văz că nu se poate<br>
+<br>
+Ferice eu în vruna mai mult a fi ursit.<br>
+<br>
+Ce pot afla în aste livezi, lacuri, câmpie,<br>
+<br>
+A cărora plăcere odată mi-a zburat?<br>
+<br>
+Râuri, fântâni, dumbrave, colibă sau palat;<br>
+<br>
+Lipsește o ființă, și toate sunt pustie.<br>
+<br>
+Facă-se zi sau noapte, răsare și sfințește<br>
+<br>
+Soarele, eu la dânsul mă uit c-un ochi străin!<br>
+<br>
+Fie liniște, vifor, negură sau senin,<br>
+<br>
+Zile n-aștept d-aicea, — soare ce-mi folosește?<br>
+<br>
+Când aș putea în drumu-i să-l însoțesc vrodată,<br>
+<br>
+Ai mei ochi pretutindeni deșertul ar privi;<br>
+<br>
+Aici îns-a mea râvnă la toate e-ncuiată:<br>
+<br>
+Nimic nu cer din lume, nimic n-am a dori.<br>
+<br>
+Dar dincolo d-aceste înflăcărate sfere,<br>
+<br>
+Loc unde luminează soarele-adevărat,<br>
+<br>
+Când mi-aș lăsa aicea lutoasa despuiere,<br>
+<br>
+Acolo-mi va fi față ce-atâta am visat!<br>
+<br>
+Acolo și nădejde, ș-amor, și-ncredințare.<br>
+<br>
+Voi reafla-n izvorul d-atâta prea dorit,<br>
+<br>
+Ș-acel ideal bine de toți nădăjduit<br>
+<br>
+Și care-aici vrun nume el pe pământ nu are.<br>
+<br>
+Pe carul aurorei să zbor până la tine<br>
+<br>
+De ce nu pot, o, scumpe locuitor ceresc?!<br>
+<br>
+În locul osândirii ce mă mai zăbovesc?<br>
+<br>
+Nu e nimic d-amestec între pământ și mine.<br>
+<br>
+Jos pe livezi când cade frunza cea-ngălbenită,<br>
+<br>
+Vântul de seară suflă, o zboară, ș-a pierit...<br>
+<br>
+Și eu sunt ca această frunză prea veștezită;<br>
+<br>
+Crivețe viforoase, ce m-ați deosebit?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alphonse de Lamartine
+* **Temă:** _emotional, singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

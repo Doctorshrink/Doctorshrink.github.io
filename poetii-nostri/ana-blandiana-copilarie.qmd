@@ -1,0 +1,41 @@
+---
+title: "Copilărie"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-10-28"
+categories: [poezie, spoken-word, _emotional2, copilarie]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LcM0OvNy1xE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Din oglindă mă privea un trup firav<br>
+Cu claviatura coastelor distinctă,<br>
+Inima-apăsa pe clape grav<br>
+Şi-ncerca să-apară în oglindă.<br>
+<br>
+N-am văzut-o niciodată, dar ştiam,<br>
+Ca-ntr-un joc de-a baba-oarba, că-i ascunsă<br>
+(Precum inima salcâmului din geam<br>
+Coşul pieptului de crengi o face frunză).<br>
+<br>
+Mă-ntrebam de unde l-a-nvăţat şi dacă<br>
+E aievea cântu-i uniform,<br>
+Şi ca nu cumva în somn să tacă,<br>
+Mi-era frică seara să adorm.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** _emotional2, copilarie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

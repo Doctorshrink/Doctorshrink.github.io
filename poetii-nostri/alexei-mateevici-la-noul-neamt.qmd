@@ -1,0 +1,148 @@
+---
+title: "La noul-Neamţ"
+subtitle: "Alexei Mateevici"
+author: "Doctor Shrink"
+date: "2026-10-28"
+categories: [poezie, spoken-word, _emotional, tara, tata]
+image: "../images/tds-logo-150px.png"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JoHH7URQxOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+(Clipe trăite)<br>
+<br>
+Clopotniţa înaltă domneşte-mprejurimea<br>
+<br>
+Tihnitei mănăstiri,<br>
+<br>
+Şi plopii de la Nistru privesc în adâncimea<br>
+<br>
+Măreţei oglindiri.<br>
+<br>
+Intrăm. Portarul-frate ne-arată găzduirea,<br>
+<br>
+Înalt şi somnoros...<br>
+<br>
+Răcoarea ne cuprinde, şi toată mănăstirea<br>
+<br>
+Ne pare-un rai frumos.<br>
+<br>
+Ne hodinim. Dar somnul nu poate să mă fure<br>
+<br>
+Şi mă mai duc prin vii.<br>
+<br>
+Se coace poama. Cântec răsună prin pădure,<br>
+<br>
+Şi ziua-i la chindii.<br>
+<br>
+Mă-ntorc. Aproape-i slujba şi fraţii se adună<br>
+<br>
+De prin chilii ieşind.<br>
+<br>
+Chemarea îşi îndeamnă a clopotului strună...<br>
+<br>
+Lumini în hram s-aprind.<br>
+<br>
+Mă duc pe la egumen. La slujbă se găteşte<br>
+<br>
+După un somn uşor...<br>
+<br>
+Dar bucurie mare că ştiu moldoveneşte: —<br>
+<br>
+Bătrânu-i vorbitor.<br>
+<br>
+Frumos moşneag bătrânul. Ştiut-a şi pe tata<br>
+<br>
+Şi pe bunelul meu.<br>
+<br>
+Biblioteca? Veche-i. (El totdeauna-i gata<br>
+<br>
+Cu ajutorul său.)<br>
+<br>
+Destul îi de bogată... A fost şi mai avută,<br>
+<br>
+Dar cărţi s-au mai furat;<br>
+<br>
+I-i jale de-un Apostol făcut cu mare trudă,<br>
+<br>
+Dar şters de-un învăţat.<br>
+<br>
+Era nerânduială. Acuma-i mai cuminte<br>
+<br>
+Monahul pus la cărţi.<br>
+<br>
+Ar&#x27; să-mi arate mâine cucernicul părinte<br>
+<br>
+Din amândouă părţi.<br>
+<br>
+Grăbim la slujbă. Mare-i biserica de vară,<br>
+<br>
+Frumoase zugrăveli.<br>
+<br>
+Urmează proslăvirea cântărilor de seară<br>
+<br>
+În cin şi rânduieli.<br>
+<br>
+În două străni frăţimea călugărilor cântă,<br>
+<br>
+Şi ruşi şi moldoveni.<br>
+<br>
+Şi parcă-i nesfârşită caftisma slujbei sfântă,<br>
+<br>
+Cântată-n două străni.<br>
+<br>
+La uşă se îndeasă tot lume ţărănească,<br>
+<br>
+Tot babe şi femei.<br>
+<br>
+Şi nu-s prea de departe: din partea părintească<br>
+<br>
+Opaci şi Plopi-Ştiubei.<br>
+<br>
+Dar vine şi sfârşitul. Se grămădesc la masă<br>
+<br>
+Şi oaspeţii veniţi.<br>
+<br>
+Un negustor de-aproape, bolnava preoteasă,<br>
+<br>
+Vreo câţiva poftiţi.<br>
+<br>
+Afară amurgit-a, ferestrele-s deschise,<br>
+<br>
+Un dulce ţârâit.<br>
+<br>
+Ceasornic de perete şi două chipuri, scrise,<br>
+<br>
+De-un frate iscusit:<br>
+<br>
+Din umbră blând priveşte al mănăstirii stareţ,<br>
+<br>
+Cinstitul Theofan,<br>
+<br>
+Ş-Andronic cuviosul, un cronicar vorbareţ,<br>
+<br>
+Şi bunul moldovean.<br>
+<br>
+Blagosloveşte masa părintele egumen;<br>
+<br>
+Cu toţii îşi fac cruce.<br>
+<br>
+La masă — peşte, vin din pivniţe se-aduce.<br>
+<br>
+E postul Adormirii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexei Mateevici
+* **Temă:** _emotional, tara, tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
