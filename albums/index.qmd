@@ -22,7 +22,8 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 :::
 
 <!-- Poeții Noștri cross-promo banner -->
-::: {.poetii-banner}
+```{=html}
+<div class="poetii-banner">
 <a href="/poetii-nostri/" aria-label="Explore Poeții Noștri — poetry put to music">
 <div class="pb-icon">📜</div>
 <div class="pb-text">
@@ -30,7 +31,8 @@ include-after-body: js/songs.js  # Also fix JS path if needed
 <p>Marea poezie a lumii — românească și universală — pusă pe muzică și imagine. Descoperă colecția →</p>
 </div>
 </a>
-:::
+</div>
+```
 
 ```{=html}
 <style>
