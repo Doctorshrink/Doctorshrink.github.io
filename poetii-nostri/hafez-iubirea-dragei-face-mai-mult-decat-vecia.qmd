@@ -4,7 +4,7 @@ subtitle: "Hafez"
 author: "Doctor Shrink"
 date: "2026-08-26"
 categories: [poezie, spoken-word, iubire]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/iubire.jpg"
 format:
   html:
     toc: false

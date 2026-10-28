@@ -4,7 +4,7 @@ subtitle: "Ludwig Uhland"
 author: "Doctor Shrink"
 date: "2026-09-16"
 categories: [poezie, spoken-word, durere]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/durere.jpg"
 format:
   html:
     toc: false

@@ -3,8 +3,8 @@ title: "~ IV Copila ce-am fost"
 subtitle: "Alejandra Pizarnik"
 author: "Doctor Shrink"
 date: "2026-10-15"
-categories: [poezie, spoken-word, _emotional, copilarie]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, copilarie]
+image: "../images/themes/copilarie.jpg"
 format:
   html:
     toc: false
@@ -35,6 +35,6 @@ Dezrădăcinarea sunetului din vocea lui.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alejandra Pizarnik
-* **Temă:** _emotional, copilarie
+* **Temă:** copilarie
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

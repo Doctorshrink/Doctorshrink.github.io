@@ -3,8 +3,8 @@ title: "Poezie pentru tată"
 subtitle: "Alejandra Pizarnik"
 author: "Doctor Shrink"
 date: "2026-10-18"
-categories: [poezie, spoken-word, _emotional, tata]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, tata]
+image: "../images/themes/tata.jpg"
 format:
   html:
     toc: false
@@ -53,6 +53,6 @@ pe care o scriu.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alejandra Pizarnik
-* **Temă:** _emotional, tata
+* **Temă:** tata
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

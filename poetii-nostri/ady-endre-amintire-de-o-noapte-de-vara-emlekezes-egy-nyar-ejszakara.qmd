@@ -4,7 +4,7 @@ subtitle: "Ady Endre"
 author: "Doctor Shrink"
 date: "2026-06-24"
 categories: [poezie, spoken-word, amintire, caldura, noapte]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/amintire.jpg"
 format:
   html:
     toc: false

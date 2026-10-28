@@ -4,7 +4,7 @@ subtitle: "Adrian Păunescu"
 author: "Doctor Shrink"
 date: "2026-09-30"
 categories: [poezie, spoken-word, apa, munte]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/apa.jpg"
 format:
   html:
     toc: false

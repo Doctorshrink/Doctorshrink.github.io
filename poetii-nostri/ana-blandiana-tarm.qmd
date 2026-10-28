@@ -4,7 +4,7 @@ subtitle: "Ana Blandiana"
 author: "Doctor Shrink"
 date: "2026-07-13"
 categories: [poezie, spoken-word, mare]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/mare.jpg"
 format:
   html:
     toc: false

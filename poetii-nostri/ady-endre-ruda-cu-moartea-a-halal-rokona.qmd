@@ -3,8 +3,8 @@ title: "Rudă cu Moartea - (A Halál rokona)"
 subtitle: "Ady Endre"
 author: "Doctor Shrink"
 date: "2026-10-03"
-categories: [poezie, spoken-word, _emotional, moarte]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, moarte]
+image: "../images/themes/moarte.jpg"
 format:
   html:
     toc: false
@@ -77,6 +77,6 @@ Ce se duce.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Ady Endre
-* **Temă:** _emotional, moarte
+* **Temă:** moarte
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

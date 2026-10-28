@@ -4,7 +4,7 @@ subtitle: "Jorge Luis Borges"
 author: "Doctor Shrink"
 date: "2026-09-11"
 categories: [poezie, spoken-word, amintire, razboi]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/amintire.jpg"
 format:
   html:
     toc: false

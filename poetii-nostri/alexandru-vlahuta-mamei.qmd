@@ -3,8 +3,8 @@ title: "Mamei"
 subtitle: "Alexandru Vlahuţă"
 author: "Doctor Shrink"
 date: "2026-10-27"
-categories: [poezie, spoken-word, _session, mama, mama.new]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, mama]
+image: "../images/themes/mama.jpg"
 format:
   html:
     toc: false
@@ -141,6 +141,6 @@ Ca pete mari de umbră pe-o mirişte uscată.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alexandru Vlahuţă
-* **Temă:** _session, mama, mama.new
+* **Temă:** mama
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

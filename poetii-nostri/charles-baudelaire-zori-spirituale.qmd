@@ -4,7 +4,7 @@ subtitle: "Charles Baudelaire"
 author: "Doctor Shrink"
 date: "2026-07-21"
 categories: [poezie, spoken-word, soare]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/soare.jpg"
 format:
   html:
     toc: false

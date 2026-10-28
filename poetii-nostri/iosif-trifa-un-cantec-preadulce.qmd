@@ -4,7 +4,7 @@ subtitle: "Iosif Trifa"
 author: "Doctor Shrink"
 date: "2026-09-06"
 categories: [poezie, spoken-word, cantec]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/cantec.jpg"
 format:
   html:
     toc: false

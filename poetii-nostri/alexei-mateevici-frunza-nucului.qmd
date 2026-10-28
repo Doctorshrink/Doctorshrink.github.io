@@ -3,8 +3,8 @@ title: "Frunza Nucului"
 subtitle: "Alexei Mateevici"
 author: "Doctor Shrink"
 date: "2026-10-28"
-categories: [poezie, spoken-word, _emotional2, tata, toamna]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, tata, toamna]
+image: "../images/themes/tata.jpg"
 format:
   html:
     toc: false
@@ -97,6 +97,6 @@ Adaugata de catre Radu Dan Alexandru
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alexei Mateevici
-* **Temă:** _emotional2, tata, toamna
+* **Temă:** tata, toamna
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

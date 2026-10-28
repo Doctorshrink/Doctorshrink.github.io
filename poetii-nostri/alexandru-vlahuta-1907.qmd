@@ -3,8 +3,8 @@ title: "1907"
 subtitle: "Alexandru Vlahuţă"
 author: "Doctor Shrink"
 date: "2026-10-27"
-categories: [poezie, spoken-word, _emotional2, tara]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, tara]
+image: "../images/themes/tara.jpg"
 format:
   html:
     toc: false
@@ -289,6 +289,6 @@ Au cine liniştea lui scumpă-i strică?<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alexandru Vlahuţă
-* **Temă:** _emotional2, tara
+* **Temă:** tara
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

@@ -4,7 +4,7 @@ subtitle: "Adam Puslojić"
 author: "Doctor Shrink"
 date: "2026-06-20"
 categories: [poezie, spoken-word, drum]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/drum.jpg"
 format:
   html:
     toc: false

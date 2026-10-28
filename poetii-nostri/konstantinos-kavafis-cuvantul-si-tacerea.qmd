@@ -4,7 +4,7 @@ subtitle: "Konstantinos Kavafis"
 author: "Doctor Shrink"
 date: "2026-09-14"
 categories: [poezie, spoken-word, cuvant, singuratate]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/cuvant.jpg"
 format:
   html:
     toc: false

@@ -4,7 +4,7 @@ subtitle: "Ioan Alexandru"
 author: "Doctor Shrink"
 date: "2026-08-31"
 categories: [poezie, spoken-word, lumina]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/lumina.jpg"
 format:
   html:
     toc: false

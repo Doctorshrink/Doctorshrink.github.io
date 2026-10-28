@@ -3,8 +3,8 @@ title: "Fluxul memoriei"
 subtitle: "A. E. Baconsky"
 author: "Doctor Shrink"
 date: "2026-09-26"
-categories: [poezie, spoken-word, _emotional, amintire]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
 format:
   html:
     toc: false
@@ -159,6 +159,6 @@ Dă-mi somnul alb pe care-l poartă crinii.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** A. E. Baconsky
-* **Temă:** _emotional, amintire
+* **Temă:** amintire
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

@@ -3,8 +3,8 @@ title: "Singurătatea"
 subtitle: "Alphonse de Lamartine"
 author: "Doctor Shrink"
 date: "2026-10-28"
-categories: [poezie, spoken-word, _emotional, singuratate]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/themes/singuratate.jpg"
 format:
   html:
     toc: false
@@ -125,6 +125,6 @@ Crivețe viforoase, ce m-ați deosebit?
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alphonse de Lamartine
-* **Temă:** _emotional, singuratate
+* **Temă:** singuratate
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

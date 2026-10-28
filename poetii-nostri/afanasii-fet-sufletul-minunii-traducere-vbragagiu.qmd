@@ -3,8 +3,8 @@ title: "Sufletul minunii - traducere V.Bragagiu"
 subtitle: "Afanasii Fet"
 author: "Doctor Shrink"
 date: "2026-10-10"
-categories: [poezie, spoken-word, _emotional, suflet]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, suflet]
+image: "../images/themes/suflet.jpg"
 format:
   html:
     toc: false
@@ -77,6 +77,6 @@ Cu pribeagul lor.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Afanasii Fet
-* **Temă:** _emotional, suflet
+* **Temă:** suflet
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

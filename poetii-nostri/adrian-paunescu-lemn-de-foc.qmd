@@ -4,7 +4,7 @@ subtitle: "Adrian Păunescu"
 author: "Doctor Shrink"
 date: "2026-09-30"
 categories: [poezie, spoken-word, foc]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/foc.jpg"
 format:
   html:
     toc: false

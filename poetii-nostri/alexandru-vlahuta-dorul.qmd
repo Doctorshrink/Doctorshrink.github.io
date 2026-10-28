@@ -3,8 +3,8 @@ title: "Dorul"
 subtitle: "Alexandru Vlahuţă"
 author: "Doctor Shrink"
 date: "2026-10-27"
-categories: [poezie, spoken-word, _session, dor, dor.new]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, dor]
+image: "../images/themes/dor.jpg"
 format:
   html:
     toc: false
@@ -53,6 +53,6 @@ Iar eu suspin şi plîng de dor<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alexandru Vlahuţă
-* **Temă:** _session, dor, dor.new
+* **Temă:** dor
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

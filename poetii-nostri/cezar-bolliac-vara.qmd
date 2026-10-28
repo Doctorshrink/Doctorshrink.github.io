@@ -4,7 +4,7 @@ subtitle: "Cezar Bolliac"
 author: "Doctor Shrink"
 date: "2026-07-20"
 categories: [poezie, spoken-word, caldura]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/caldura.jpg"
 format:
   html:
     toc: false

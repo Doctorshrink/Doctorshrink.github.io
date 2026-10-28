@@ -4,7 +4,7 @@ subtitle: "Alice Călugăru"
 author: "Doctor Shrink"
 date: "2026-07-10"
 categories: [poezie, spoken-word, ploaie]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/ploaie.jpg"
 format:
   html:
     toc: false

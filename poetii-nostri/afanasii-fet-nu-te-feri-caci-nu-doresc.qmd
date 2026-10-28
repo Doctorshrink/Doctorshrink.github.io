@@ -3,8 +3,8 @@ title: "Nu te feri, căci nu doresc"
 subtitle: "Afanasii Fet"
 author: "Doctor Shrink"
 date: "2026-10-10"
-categories: [poezie, spoken-word, _emotional, dor]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, dor]
+image: "../images/themes/dor.jpg"
 format:
   html:
     toc: false
@@ -37,6 +37,6 @@ Granitul rece. Și să mor!
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Afanasii Fet
-* **Temă:** _emotional, dor
+* **Temă:** dor
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

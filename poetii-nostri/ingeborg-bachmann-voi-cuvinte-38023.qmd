@@ -4,7 +4,7 @@ subtitle: "Ingeborg Bachmann"
 author: "Doctor Shrink"
 date: "2026-08-31"
 categories: [poezie, spoken-word, cuvant]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/cuvant.jpg"
 format:
   html:
     toc: false

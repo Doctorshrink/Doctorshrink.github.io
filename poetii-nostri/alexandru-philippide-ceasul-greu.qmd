@@ -4,7 +4,7 @@ subtitle: "Alexandru Philippide"
 author: "Doctor Shrink"
 date: "2026-07-08"
 categories: [poezie, spoken-word, suflet, timp]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/suflet.jpg"
 format:
   html:
     toc: false

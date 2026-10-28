@@ -4,7 +4,7 @@ subtitle: "Ion Pillat"
 author: "Doctor Shrink"
 date: "2026-09-06"
 categories: [poezie, spoken-word, casa]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/casa.jpg"
 format:
   html:
     toc: false

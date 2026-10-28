@@ -3,8 +3,8 @@ title: "Aș dori să fiu iubit - (Szeretném, ha szeretnének)"
 subtitle: "Ady Endre"
 author: "Doctor Shrink"
 date: "2026-10-01"
-categories: [poezie, spoken-word, _session, dor, dor.new]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, dor]
+image: "../images/themes/dor.jpg"
 format:
   html:
     toc: false
@@ -53,6 +53,6 @@ I-aș fi cuiva.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Ady Endre
-* **Temă:** _session, dor, dor.new
+* **Temă:** dor
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

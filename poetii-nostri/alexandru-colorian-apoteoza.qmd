@@ -3,8 +3,8 @@ title: "Apoteoză"
 subtitle: "Alexandru Colorian"
 author: "Doctor Shrink"
 date: "2026-10-24"
-categories: [poezie, spoken-word, _emotional2, amintire]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
 format:
   html:
     toc: false
@@ -45,6 +45,6 @@ Surâzători că am strivit robia —<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alexandru Colorian
-* **Temă:** _emotional2, amintire
+* **Temă:** amintire
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

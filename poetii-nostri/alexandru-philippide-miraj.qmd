@@ -3,8 +3,8 @@ title: "Miraj"
 subtitle: "Alexandru Philippide"
 author: "Doctor Shrink"
 date: "2026-10-27"
-categories: [poezie, spoken-word, _emotional2, amintire]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
 format:
   html:
     toc: false
@@ -91,6 +91,6 @@ Miracolul acestor ciudate dup-amiezi ?
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alexandru Philippide
-* **Temă:** _emotional2, amintire
+* **Temă:** amintire
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

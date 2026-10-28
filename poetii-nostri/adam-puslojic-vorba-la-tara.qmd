@@ -3,8 +3,8 @@ title: "Vorba la ţară"
 subtitle: "Adam Puslojić"
 author: "Doctor Shrink"
 date: "2026-09-24"
-categories: [poezie, spoken-word, _emotional, tara]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, tara]
+image: "../images/themes/tara.jpg"
 format:
   html:
     toc: false
@@ -59,6 +59,6 @@ o ploaie măruntă<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Adam Puslojić
-* **Temă:** _emotional, tara
+* **Temă:** tara
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

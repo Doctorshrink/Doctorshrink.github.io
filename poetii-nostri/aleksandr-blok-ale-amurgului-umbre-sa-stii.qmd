@@ -3,8 +3,8 @@ title: "Ale-amurgului umbre, să știi"
 subtitle: "Aleksandr Blok"
 author: "Doctor Shrink"
 date: "2026-10-18"
-categories: [poezie, spoken-word, _emotional2, amintire]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
 format:
   html:
     toc: false
@@ -69,6 +69,6 @@ Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Aleksandr Blok
-* **Temă:** _emotional2, amintire
+* **Temă:** amintire
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

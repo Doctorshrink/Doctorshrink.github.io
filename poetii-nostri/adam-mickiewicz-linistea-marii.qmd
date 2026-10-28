@@ -3,8 +3,8 @@ title: "Liniştea mării"
 subtitle: "Adam Mickiewicz"
 author: "Doctor Shrink"
 date: "2026-09-24"
-categories: [poezie, spoken-word, _emotional, amintire, pace]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, amintire, pace]
+image: "../images/themes/amintire.jpg"
 format:
   html:
     toc: false
@@ -51,6 +51,6 @@ Iar când e pace-n suflet înfige-ntr-însul gheara.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Adam Mickiewicz
-* **Temă:** _emotional, amintire, pace
+* **Temă:** amintire, pace
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

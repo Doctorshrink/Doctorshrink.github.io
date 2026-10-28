@@ -3,8 +3,8 @@ title: "La noul-Neamţ"
 subtitle: "Alexei Mateevici"
 author: "Doctor Shrink"
 date: "2026-10-28"
-categories: [poezie, spoken-word, _emotional, tara, tata]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, tara, tata]
+image: "../images/themes/tara.jpg"
 format:
   html:
     toc: false
@@ -143,6 +143,6 @@ E postul Adormirii.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alexei Mateevici
-* **Temă:** _emotional, tara, tata
+* **Temă:** tara, tata
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

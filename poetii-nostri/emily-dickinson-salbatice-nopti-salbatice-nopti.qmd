@@ -4,7 +4,7 @@ subtitle: "Emily Dickinson"
 author: "Doctor Shrink"
 date: "2026-08-01"
 categories: [poezie, spoken-word, noapte]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/noapte.jpg"
 format:
   html:
     toc: false

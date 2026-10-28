@@ -3,8 +3,8 @@ title: "Psalmi moderni II - Ţărână"
 subtitle: "Alexandru Macedonski"
 author: "Doctor Shrink"
 date: "2026-10-25"
-categories: [poezie, spoken-word, _emotional, sat, tara]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, sat, tara]
+image: "../images/themes/sat.jpg"
 format:
   html:
     toc: false
@@ -47,6 +47,6 @@ Nici o pieire nu s-amână...<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alexandru Macedonski
-* **Temă:** _emotional, sat, tara
+* **Temă:** sat, tara
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

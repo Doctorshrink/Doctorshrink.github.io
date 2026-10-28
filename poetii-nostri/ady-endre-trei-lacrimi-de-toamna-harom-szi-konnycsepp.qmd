@@ -3,8 +3,8 @@ title: "Trei lacrimi de toamnă - (Három őszi könnycsepp)"
 subtitle: "Ady Endre"
 author: "Doctor Shrink"
 date: "2026-10-06"
-categories: [poezie, spoken-word, _emotional, lacrimi]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/themes/lacrimi.jpg"
 format:
   html:
     toc: false
@@ -39,6 +39,6 @@ E s-apleci plângând, plângând.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Ady Endre
-* **Temă:** _emotional, lacrimi
+* **Temă:** lacrimi
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

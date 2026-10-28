@@ -4,7 +4,7 @@ subtitle: "Carlos Drummond de Andrade"
 author: "Doctor Shrink"
 date: "2026-07-18"
 categories: [poezie, spoken-word, copilarie, tata]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/copilarie.jpg"
 format:
   html:
     toc: false

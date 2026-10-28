@@ -3,8 +3,8 @@ title: "Inimi îndepărtate - (Szívek messze egymástól)"
 subtitle: "Ady Endre"
 author: "Doctor Shrink"
 date: "2026-10-03"
-categories: [poezie, spoken-word, _emotional, inima]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, inima]
+image: "../images/themes/inima.jpg"
 format:
   html:
     toc: false
@@ -53,6 +53,6 @@ Ambele cedează.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Ady Endre
-* **Temă:** _emotional, inima
+* **Temă:** inima
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

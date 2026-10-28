@@ -3,8 +3,8 @@ title: "Amarnica spovedanie a gâdelui..."
 subtitle: "Adam Puslojić"
 author: "Doctor Shrink"
 date: "2026-09-24"
-categories: [poezie, spoken-word, _emotional, durere]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, durere]
+image: "../images/themes/durere.jpg"
 format:
   html:
     toc: false
@@ -51,6 +51,6 @@ morţilor.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Adam Puslojić
-* **Temă:** _emotional, durere
+* **Temă:** durere
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

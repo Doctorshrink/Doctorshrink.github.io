@@ -3,8 +3,8 @@ title: "Inimă cu impresii de toamnă"
 subtitle: "Adrian Păunescu"
 author: "Doctor Shrink"
 date: "2026-09-27"
-categories: [poezie, spoken-word, _emotional, inima]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, inima]
+image: "../images/themes/inima.jpg"
 format:
   html:
     toc: false
@@ -53,6 +53,6 @@ ia inima mea, cu impresii de toamnă.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Adrian Păunescu
-* **Temă:** _emotional, inima
+* **Temă:** inima
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

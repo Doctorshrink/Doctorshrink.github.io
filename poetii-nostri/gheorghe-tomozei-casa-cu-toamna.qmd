@@ -4,7 +4,7 @@ subtitle: "Gheorghe Tomozei"
 author: "Doctor Shrink"
 date: "2026-08-17"
 categories: [poezie, spoken-word, casa, toamna]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/casa.jpg"
 format:
   html:
     toc: false

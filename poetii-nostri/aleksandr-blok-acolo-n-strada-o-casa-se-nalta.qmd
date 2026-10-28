@@ -3,8 +3,8 @@ title: "Acolo-n stradă-o casă se-nălța"
 subtitle: "Aleksandr Blok"
 author: "Doctor Shrink"
 date: "2026-10-18"
-categories: [poezie, spoken-word, _emotional, casa]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, casa]
+image: "../images/themes/casa.jpg"
 format:
   html:
     toc: false
@@ -65,6 +65,6 @@ Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Aleksandr Blok
-* **Temă:** _emotional, casa
+* **Temă:** casa
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

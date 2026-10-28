@@ -4,7 +4,7 @@ subtitle: "Jacques Prevert"
 author: "Doctor Shrink"
 date: "2026-09-08"
 categories: [poezie, spoken-word, caldura]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/caldura.jpg"
 format:
   html:
     toc: false

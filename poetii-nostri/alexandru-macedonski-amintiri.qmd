@@ -3,8 +3,8 @@ title: "Amintiri"
 subtitle: "Alexandru Macedonski"
 author: "Doctor Shrink"
 date: "2026-10-24"
-categories: [poezie, spoken-word, _emotional, amintire]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
 format:
   html:
     toc: false
@@ -69,6 +69,6 @@ Ne-o iei îndată ce ne-ai dat-o<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alexandru Macedonski
-* **Temă:** _emotional, amintire
+* **Temă:** amintire
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

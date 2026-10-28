@@ -3,8 +3,8 @@ title: "În fiecare pasăre dormea un munte..."
 subtitle: "Alain Bosquet"
 author: "Doctor Shrink"
 date: "2026-10-12"
-categories: [poezie, spoken-word, _emotional, dor, munte]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, dor, munte]
+image: "../images/themes/dor.jpg"
 format:
   html:
     toc: false
@@ -31,6 +31,6 @@ Nu era pic de foc, şi vrăjitorul<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alain Bosquet
-* **Temă:** _emotional, dor, munte
+* **Temă:** dor, munte
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

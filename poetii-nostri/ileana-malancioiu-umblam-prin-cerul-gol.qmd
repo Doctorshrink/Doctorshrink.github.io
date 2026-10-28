@@ -4,7 +4,7 @@ subtitle: "Ileana Mălăncioiu"
 author: "Doctor Shrink"
 date: "2026-08-30"
 categories: [poezie, spoken-word, cer]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/cer.jpg"
 format:
   html:
     toc: false

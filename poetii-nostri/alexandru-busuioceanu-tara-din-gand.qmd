@@ -3,8 +3,8 @@ title: "Țara din gând"
 subtitle: "Alexandru Busuioceanu"
 author: "Doctor Shrink"
 date: "2026-10-24"
-categories: [poezie, spoken-word, _emotional, tara]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, tara]
+image: "../images/themes/tara.jpg"
 format:
   html:
     toc: false
@@ -57,6 +57,6 @@ unde omul căde-alături de umbră
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alexandru Busuioceanu
-* **Temă:** _emotional, tara
+* **Temă:** tara
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

@@ -3,8 +3,8 @@ title: "Nu pot să dorm și fac lumină. Dar să citesc?"
 subtitle: "Afanasii Fet"
 author: "Doctor Shrink"
 date: "2026-10-06"
-categories: [poezie, spoken-word, _emotional, dor, lumina]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, dor, lumina]
+image: "../images/themes/dor.jpg"
 format:
   html:
     toc: false
@@ -37,6 +37,6 @@ De ce așa tăios mi-a revenit surâsul tău<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Afanasii Fet
-* **Temă:** _emotional, dor, lumina
+* **Temă:** dor, lumina
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

@@ -3,8 +3,8 @@ title: "* * * călătorește inima păsării negre"
 subtitle: "Alejandra Pizarnik"
 author: "Doctor Shrink"
 date: "2026-10-15"
-categories: [poezie, spoken-word, _emotional, inima]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, inima]
+image: "../images/themes/inima.jpg"
 format:
   html:
     toc: false
@@ -33,6 +33,6 @@ a ta dragostea și sunetul vântului frânt
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alejandra Pizarnik
-* **Temă:** _emotional, inima
+* **Temă:** inima
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

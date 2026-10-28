@@ -3,8 +3,8 @@ title: "Clopotu-acela cu jale"
 subtitle: "Aleksandr Blok"
 author: "Doctor Shrink"
 date: "2026-10-22"
-categories: [poezie, spoken-word, _emotional, durere]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, durere]
+image: "../images/themes/durere.jpg"
 format:
   html:
     toc: false
@@ -49,6 +49,6 @@ Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Aleksandr Blok
-* **Temă:** _emotional, durere
+* **Temă:** durere
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

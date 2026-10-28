@@ -4,7 +4,7 @@ subtitle: "Attila József"
 author: "Doctor Shrink"
 date: "2026-07-16"
 categories: [poezie, spoken-word, lacrimi]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/lacrimi.jpg"
 format:
   html:
     toc: false

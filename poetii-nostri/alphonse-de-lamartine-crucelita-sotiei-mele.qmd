@@ -3,8 +3,8 @@ title: "Crucelița soției mele"
 subtitle: "Alphonse de Lamartine"
 author: "Doctor Shrink"
 date: "2026-10-28"
-categories: [poezie, spoken-word, _emotional2, suflet]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, suflet]
+image: "../images/themes/suflet.jpg"
 format:
   html:
     toc: false
@@ -181,6 +181,6 @@ De crucelița sântă.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alphonse de Lamartine
-* **Temă:** _emotional2, suflet
+* **Temă:** suflet
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

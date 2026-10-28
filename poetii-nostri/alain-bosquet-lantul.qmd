@@ -3,8 +3,8 @@ title: "Lanțul"
 subtitle: "Alain Bosquet"
 author: "Doctor Shrink"
 date: "2026-10-12"
-categories: [poezie, spoken-word, _emotional2, amintire, libertate]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, amintire, libertate]
+image: "../images/themes/amintire.jpg"
 format:
   html:
     toc: false
@@ -61,6 +61,6 @@ un nou poet, pe care nu-l cunosc.
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alain Bosquet
-* **Temă:** _emotional2, amintire, libertate
+* **Temă:** amintire, libertate
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

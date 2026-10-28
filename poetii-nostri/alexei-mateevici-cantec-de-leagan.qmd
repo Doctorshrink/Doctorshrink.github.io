@@ -3,8 +3,8 @@ title: "Cântec De Leagăn"
 subtitle: "Alexei Mateevici"
 author: "Doctor Shrink"
 date: "2026-10-28"
-categories: [poezie, spoken-word, _emotional, copilarie, mama]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, copilarie, mama]
+image: "../images/themes/copilarie.jpg"
 format:
   html:
     toc: false
@@ -81,6 +81,6 @@ Adaugata de catre Radu Dan Alexandru
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alexei Mateevici
-* **Temă:** _emotional, copilarie, mama
+* **Temă:** copilarie, mama
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

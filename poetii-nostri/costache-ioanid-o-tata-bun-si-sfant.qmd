@@ -4,7 +4,7 @@ subtitle: "Costache Ioanid"
 author: "Doctor Shrink"
 date: "2026-07-26"
 categories: [poezie, spoken-word, tata]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/tata.jpg"
 format:
   html:
     toc: false

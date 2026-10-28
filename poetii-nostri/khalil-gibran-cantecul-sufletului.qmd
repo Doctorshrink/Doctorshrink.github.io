@@ -4,7 +4,7 @@ subtitle: "Khalil Gibran"
 author: "Doctor Shrink"
 date: "2026-09-13"
 categories: [poezie, spoken-word, cantec, suflet]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/cantec.jpg"
 format:
   html:
     toc: false

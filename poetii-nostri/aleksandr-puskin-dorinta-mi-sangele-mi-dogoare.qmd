@@ -3,8 +3,8 @@ title: "Dorința-mi sângele-mi dogoare"
 subtitle: "Aleksandr Puşkin"
 author: "Doctor Shrink"
 date: "2026-10-23"
-categories: [poezie, spoken-word, _emotional, dor]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, dor]
+image: "../images/themes/dor.jpg"
 format:
   html:
     toc: false
@@ -37,6 +37,6 @@ Pân-o s-alunge alibi zori<br>
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Aleksandr Puşkin
-* **Temă:** _emotional, dor
+* **Temă:** dor
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

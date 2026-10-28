@@ -4,7 +4,7 @@ subtitle: "Adrian Păunescu"
 author: "Doctor Shrink"
 date: "2026-06-21"
 categories: [poezie, spoken-word, amintire]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/amintire.jpg"
 format:
   html:
     toc: false

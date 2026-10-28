@@ -4,7 +4,7 @@ subtitle: "Gheorghe Pituţ"
 author: "Doctor Shrink"
 date: "2026-08-17"
 categories: [poezie, spoken-word, frate]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/frate.jpg"
 format:
   html:
     toc: false

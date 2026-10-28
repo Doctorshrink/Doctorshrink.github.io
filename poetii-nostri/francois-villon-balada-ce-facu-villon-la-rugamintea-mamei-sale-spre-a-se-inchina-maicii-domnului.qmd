@@ -4,7 +4,7 @@ subtitle: "Francois Villon"
 author: "Doctor Shrink"
 date: "2026-08-07"
 categories: [poezie, spoken-word, mama]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/mama.jpg"
 format:
   html:
     toc: false

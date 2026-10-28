@@ -3,8 +3,8 @@ title: "Uitare"
 subtitle: "Alejandra Pizarnik"
 author: "Doctor Shrink"
 date: "2026-10-18"
-categories: [poezie, spoken-word, _emotional, amintire]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
 format:
   html:
     toc: false
@@ -31,6 +31,6 @@ care mor în fiece zi în memoria ta
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alejandra Pizarnik
-* **Temă:** _emotional, amintire
+* **Temă:** amintire
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

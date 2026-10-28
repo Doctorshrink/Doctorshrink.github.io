@@ -3,8 +3,8 @@ title: "Amintire din Normadia"
 subtitle: "Alain Bosquet"
 author: "Doctor Shrink"
 date: "2026-10-12"
-categories: [poezie, spoken-word, _emotional, amintire]
-image: "../images/tds-logo-150px.png"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
 format:
   html:
     toc: false
@@ -71,6 +71,6 @@ până-n zori, despre dragoste?
 ## 🖋️ Despre {.unnumbered}
 
 * **Poet:** Alain Bosquet
-* **Temă:** _emotional, amintire
+* **Temă:** amintire
 * **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
 

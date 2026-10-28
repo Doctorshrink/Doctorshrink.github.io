@@ -4,7 +4,7 @@ subtitle: "Aurel Rău"
 author: "Doctor Shrink"
 date: "2026-07-17"
 categories: [poezie, spoken-word, hora, luna_stele, noapte]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/hora.jpg"
 format:
   html:
     toc: false

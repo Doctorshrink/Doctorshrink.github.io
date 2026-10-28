@@ -4,7 +4,7 @@ subtitle: "Adrian Păunescu"
 author: "Doctor Shrink"
 date: "2026-06-22"
 categories: [poezie, spoken-word, sat, tara]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/sat.jpg"
 format:
   html:
     toc: false

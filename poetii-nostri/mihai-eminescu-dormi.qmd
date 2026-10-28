@@ -4,7 +4,7 @@ subtitle: "Mihai Eminescu"
 author: "Doctor Shrink"
 date: "2026-09-19"
 categories: [poezie, spoken-word, dor]
-image: "../images/tds-logo-150px.png"
+image: "../images/themes/dor.jpg"
 format:
   html:
     toc: false
