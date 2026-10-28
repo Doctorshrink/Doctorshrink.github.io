@@ -1,0 +1,98 @@
+---
+title: "Nu-s vinovat față de țara mea"
+subtitle: "Andrei Ciurunga"
+author: "Doctor Shrink"
+date: "2026-10-29"
+categories: [poezie, spoken-word, tara]
+image: "../images/themes/tara.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jQ0pixEWyH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+La ora când cobor, legat în fiare,<br>
+<br>
+să-mi ispășesc osânda cea mai grea,<br>
+<br>
+cu fruntea-n slavă strig din închisoare:<br>
+<br>
+– Nu-s vinovat față de țara mea.<br>
+<br>
+Nu-s vinovat că mai păstrez acasă<br>
+<br>
+pe-un raft, întâiul meu abecedar<br>
+<br>
+și că mă-nchin când mă așez la masă,<br>
+<br>
+cuviincios ca preotu-n altar.<br>
+<br>
+Nu-s vinovat că i-am iubit lumina<br>
+<br>
+curată cum în suflet mi-a pătruns,<br>
+<br>
+din via dată-n pârg sau din grădina<br>
+<br>
+în care-atâția șerpi i s-au ascuns.<br>
+<br>
+Nu-s vinovat că-mi place să se prindă,<br>
+<br>
+rotundă ca o țară, hora-n prag,<br>
+<br>
+sau c-am primit colindători în tindă,<br>
+<br>
+cum din bunic în tată ne-a fost drag.<br>
+<br>
+Nu-s vinovat că toamnele mi-s pline<br>
+<br>
+cu tot belșugul, de la vin la grâu,<br>
+<br>
+și c-am chemat la praznic pe oricine,<br>
+<br>
+cât m-am știut cu cheile la brâu.<br>
+<br>
+Dac-am strigat că haitele ne fură<br>
+<br>
+adâncul, codrii, cerul, stea cu stea,<br>
+<br>
+și sfânta noastră pâine de la gură –<br>
+<br>
+nu-s vinovat față de țara mea.<br>
+<br>
+Nu-s vinovat c-am îndârjit șacalii<br>
+<br>
+când am răcnit cu sufletul durut<br>
+<br>
+că nu dau un Ceahlău pe toți Uralii<br>
+<br>
+și că urăsc hotarul de la Prut.<br>
+<br>
+Pământul meu, cum spune și-n izvoade,<br>
+<br>
+l-a scris pe harta lumii Dumnezeu,<br>
+<br>
+și câți prin veacuri au venit să-l prade<br>
+<br>
+îl simt și-acum pe piept cât e de greu.<br>
+<br>
+De-aceea când cobor legat în fiare,<br>
+<br>
+împovărat de vina cea mai grea,<br>
+<br>
+cu fruntea-n slavă gem din închisoare:<br>
+<br>
+– Nu-s vinovat față de țara mea.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Andrei Ciurunga
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

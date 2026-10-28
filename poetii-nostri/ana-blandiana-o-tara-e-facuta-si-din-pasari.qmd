@@ -1,0 +1,52 @@
+---
+title: "O ţară e făcută şi din păsări"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-10-29"
+categories: [poezie, spoken-word, pasari, tara]
+image: "../images/themes/pasari.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N1aeUHLaImY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O ţară e făcută şi din păsări,<br>
+<br>
+Din V-urile mari căzând spre sud<br>
+<br>
+Rănite, alungate de frig<br>
+<br>
+Şi de trădare,<br>
+<br>
+Venind înapoi<br>
+<br>
+Umilite de dor,<br>
+<br>
+Lunecând pe toboganul cerului<br>
+<br>
+Recunoscătoare<br>
+<br>
+Streaşinei că nu s-a mutat<br>
+<br>
+De pe vechiul pridvor.<br>
+<br>
+O ţară e făcută şi din păsări,<br>
+<br>
+Cum o biserica e făcută<br>
+<br>
+Şi din viaţa de apoi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** pasari, tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

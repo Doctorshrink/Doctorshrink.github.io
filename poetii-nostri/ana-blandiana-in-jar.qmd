@@ -1,0 +1,45 @@
+---
+title: "În jar"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-10-29"
+categories: [poezie, spoken-word, foc, sat]
+image: "../images/themes/foc.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S5Ha1F92TNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ardeţi satele, strigă Crişan,<br>
+Ardeţi satele care nu se ridică,<br>
+Faceţi-le holde mănoase de foc<br>
+Să rodească neascultarea prin vreme,<br>
+Să se stârpească ultimul sâmbur de frică,<br>
+Înălţaţi biserici de flăcări în loc<br>
+Şi cântaţi în ele blesteme!<br>
+<br>
+Ardeţi satele, strigă Cloşca,<br>
+Ardeţi satele care nu se răscoală,<br>
+Să se mistuie toată răbdarea din ele,<br>
+Nici un fir de umilinţă să nu mai poată-ncolţi,<br>
+Înălţaţi din flăcări până la nouri castele<br>
+Şi locuiţi-le cu îndrăzneală<br>
+În veacul veacurilor vii!<br>
+<br>
+Numai Horia tace şi se uită în jar:<br>
+Nu poate fi în zadar, în zadar, în zadar...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** foc, sat
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

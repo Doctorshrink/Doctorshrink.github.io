@@ -1,0 +1,43 @@
+---
+title: "Mamă"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-10-29"
+categories: [poezie, spoken-word, mama]
+image: "../images/themes/mama.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JYeDY5h9cM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Mamă, întâiul meu mormânt,<br>
+Beznă fierbinte,<br>
+Cu-atâta nerăbdare prostească părăsită,<br>
+În timp ce fiecare bulgăr<br>
+Al ţărânei sale<br>
+Se-mpotrivea plecării fără rost.<br>
+Îmi vei ierta vreodată învierea,<br>
+Grăbita înviere ce mă rupea de tine<br>
+Pentru ca, din lumină în lumină,<br>
+Să mă apropie de-o altă moarte?<br>
+E tot mai frig,<br>
+Străinătatea mă pătrunde,<br>
+Pe cum mă urc se şterge drumul înapoi.<br>
+E-atâta depărtare pân&#x27; la tine,<br>
+Că s-ar putea-nălţa biserici<br>
+Să mijlocească rugile-ntre noi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

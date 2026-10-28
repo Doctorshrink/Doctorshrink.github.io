@@ -1,0 +1,46 @@
+---
+title: "Despre ţara din care venim"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-10-29"
+categories: [poezie, spoken-word, tara]
+image: "../images/themes/tara.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1-HLPpfU_CI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Hai să vorbim<br>
+Despre ţara din care venim.<br>
+Eu vin din vară,<br>
+E o patrie fragilă<br>
+Pe care orice frunză,<br>
+Căzând, o poate stinge,<br>
+Dar cerul e atât de greu de stele<br>
+C-atârnă uneori pân&#x27; la pământ<br>
+Şi dacă te apropii-auzi cum iarba<br>
+Gâdilă stelele râzând,<br>
+Şi florile-s atât de multe<br>
+Că te dor<br>
+Orbitele uscate ca de soare,<br>
+Şi sori rotunzi atârnă<br>
+Din fiecare pom;<br>
+De unde vin eu<br>
+Nu lipseşte decât moartea,<br>
+E-atâta fericire<br>
+C-aproape că ţi-e somn.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

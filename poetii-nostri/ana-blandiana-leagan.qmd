@@ -1,0 +1,61 @@
+---
+title: "Leagăn"
+subtitle: "Ana Blandiana"
+author: "Doctor Shrink"
+date: "2026-10-29"
+categories: [poezie, spoken-word, copilarie]
+image: "../images/themes/copilarie.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/brl3S-EFFdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Coboară verdele în galben<br>
+Ca într-un leagăn mai blând<br>
+În care îngeri se dezbracă şi-şi aruncă<br>
+Hainele mototolite pe pământ,<br>
+Pământul tot se-ascunde în odăjdii,<br>
+Sub care firul nopţii dă colţ<br>
+Şi creşte pur,<br>
+O, numai în octombrie poţi să întâlneşti<br>
+Îngeri goi râzând prin păduri.<br>
+Mânjiţi de rouă pe obraz<br>
+Cu dinţii negri de afine,<br>
+Cu spini şi frunze agăţate-n pene,<br>
+Ne fac cu mâna<br>
+Fără să te recunoască<br>
+Şi fără să le fie<br>
+Nici frică, nici ruşine.<br>
+Pe unde calcă,<br>
+Talpa striveşte fruct<br>
+Şi-nseamnă<br>
+Sămânţa destinată nerodirii,<br>
+Ne pierdem printre ei -<br>
+Acestei lumi<br>
+Crepusculare<br>
+Noi îi suntem mirii.<br>
+O, mirii norocoşi ce niciodată<br>
+Sortiţi au fost să nu închege rod.<br>
+Se miră îngerii că nu port aripi<br>
+În felul lor stângaci, puţin nerod;<br>
+Copilăroşi, încearcă să-şi descheie<br>
+Însemnele puterii de pe omoplaţi.<br>
+Nereuşind,<br>
+Se-apleacă supăraţi<br>
+Şi-ncep s-arunce-n mine<br>
+Cu fructe şi seminţe...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ana Blandiana
+* **Temă:** copilarie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
