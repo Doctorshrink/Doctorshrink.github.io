@@ -1,0 +1,40 @@
+---
+title: "Nu, să mă plângă cineva"
+subtitle: "Anna Ahmatova"
+author: "Doctor Shrink"
+date: "2026-10-30"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/themes/lacrimi.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Syhq5mQ-hno" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nu, să mă plângă cineva<br>
+<br>
+Nu sufăr, de copilă,<br>
+<br>
+Dar merg precum în trup c-o stea,<br>
+<br>
+Cu stropul tău de milă.<br>
+<br>
+Deci iată pașii mei nebuni,<br>
+<br>
+De ce mă-mbie la minuni,<br>
+<br>
+Deci iată!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Anna Ahmatova
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

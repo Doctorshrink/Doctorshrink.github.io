@@ -1,0 +1,60 @@
+---
+title: "Ca pe-un leac îmi beai sufletul meu"
+subtitle: "Anna Ahmatova"
+author: "Doctor Shrink"
+date: "2026-10-30"
+categories: [poezie, spoken-word, suflet]
+image: "../images/themes/suflet.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9LG-ig5CJUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ca pe-un leac îmi beai sufletul meu.<br>
+<br>
+Ştiu, e gustu-i amar şi mă doare,<br>
+<br>
+Dar nu vreau ca pe o resemnare<br>
+<br>
+Să-ncalc ruga-nţelesului greu.<br>
+<br>
+Cînd sfîrşi-vei să-mi spui. Nu sînt tristă,<br>
+<br>
+Că e sufletu-mi lipsă în lume.<br>
+<br>
+Voi pleca drum aproape, anume<br>
+<br>
+Să văd prunci cum se joacă. Insistă<br>
+<br>
+Trupul meu să-i sorbi clipa din ornic,<br>
+<br>
+Vecinii descarcă averi în fiece joie.<br>
+<br>
+Cine eşti? Frate bun sau ibovnic?<br>
+<br>
+Eu nu ştiu şi să ştiu n-am nevoie.<br>
+<br>
+Ce plăcut e aici şi ce bine<br>
+<br>
+Trupul mort de-oboseli odihneşte..,<br>
+<br>
+Iar drumeţii gîndesc despre mine:<br>
+<br>
+“Despărţită-i de-o noapte, fireşte”.<br>
+<br>
+Versuri tălmăcite de Traianus
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Anna Ahmatova
+* **Temă:** suflet
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

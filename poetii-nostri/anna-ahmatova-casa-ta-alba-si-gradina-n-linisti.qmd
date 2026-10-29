@@ -1,0 +1,44 @@
+---
+title: "Casa ta albă şi grădina-n linişti"
+subtitle: "Anna Ahmatova"
+author: "Doctor Shrink"
+date: "2026-10-30"
+categories: [poezie, spoken-word, casa]
+image: "../images/themes/casa.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bdqzrv0SFec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Casa ta albă şi grădina-n linişti<br>
+<br>
+Le părăsesc. Viaţa fie pustie.<br>
+<br>
+Pe tine-n versuri te slăvesc cum altă<br>
+<br>
+Femeie n-a putut nicicînd să scrie.<br>
+<br>
+Şi tu de draga dragă-ţi aminteşti<br>
+<br>
+În raiuri pentru ochii ei, pe cînd<br>
+<br>
+Eu ca pe mărfuri rare pămînteşti<br>
+<br>
+Iubirea ta şi gingăşia vînd.<br>
+<br>
+Versuri tălmăcite de Traianus
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Anna Ahmatova
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,66 @@
+---
+title: "Nu-mi vorbi de destinul amar"
+subtitle: "Anna Ahmatova"
+author: "Doctor Shrink"
+date: "2026-10-30"
+categories: [poezie, spoken-word, durere]
+image: "../images/themes/durere.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yiKRco-Kl-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nu-mi vorbi de destinul amar,<br>
+<br>
+De urâtul din Nord, -- nu mi-e frică.<br>
+<br>
+Asta-i prima petrecere, dar<br>
+<br>
+Despărțire cu toții-or să-i zică.<br>
+<br>
+Nu-i nimic că departe vom fi<br>
+<br>
+De luceafărul zilei, nebunul,<br>
+<br>
+De la mine, în schimb, vei primi<br>
+<br>
+Zeci de daruri, tot unul și unul:<br>
+<br>
+Chipul meu în adânc oglindit<br>
+<br>
+Când e râul cu apele șuie,<br>
+<br>
+Ochii-acei, ce-napoi n-au slujit<br>
+<br>
+Căzătoarelor stele să suie,<br>
+<br>
+Fără vlagă, ecou unui glas<br>
+<br>
+Care proaspăt era, și văratic, --<br>
+<br>
+Ca, făcând printre corbi un popas,<br>
+<br>
+Să fii lesne bârfelii ostatec,<br>
+<br>
+Ca-n octombrie jilav de ploi<br>
+<br>
+Maiul dulce privirea-ți să vadă…<br>
+<br>
+Amintește-ți, iubite, de noi,<br>
+<br>
+Fie doar pân-la prima zăpadă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Anna Ahmatova
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

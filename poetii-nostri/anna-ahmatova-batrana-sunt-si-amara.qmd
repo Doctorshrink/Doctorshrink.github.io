@@ -1,0 +1,68 @@
+---
+title: "Bătrână sunt şi-amară."
+subtitle: "Anna Ahmatova"
+author: "Doctor Shrink"
+date: "2026-10-30"
+categories: [poezie, spoken-word, durere]
+image: "../images/themes/durere.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P-4q6fRZhPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Bătrână sunt şi-amară. Cute reci<br>
+<br>
+Vor să-mi ascundă chipul întomnat,<br>
+<br>
+Spinarea s-a-ndoit, am grele mîini,<br>
+<br>
+Iar sfîntul meu se uită-nveselit,<br>
+<br>
+Se laudă cu trudă iscusită,<br>
+<br>
+Văzînd pe-ntinsul pielii învechite<br>
+<br>
+Urme de lovituri. O, Doamne, iartă!<br>
+<br>
+* * *<br>
+<br>
+Spune: “Nu regret, că pleci,<br>
+<br>
+Chiar şi că astfel iubesc,<br>
+<br>
+Sau vei fi a mea pe veci<br>
+<br>
+Sau te-omor şi te zidesc”.<br>
+<br>
+Peste mine ca tăunii,<br>
+<br>
+Ne-ntrerupt, de zile mii<br>
+<br>
+Sună clopotul minciunii,<br>
+<br>
+Negrei tale gelozii.<br>
+<br>
+Răul n-o să mă seducă,<br>
+<br>
+Liber vînt lacrimi usucă,<br>
+<br>
+Veselia-ntruna cată<br>
+<br>
+Peste inima-mi înceată.<br>
+<br>
+Versuri tălmăcite de Traianus
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Anna Ahmatova
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

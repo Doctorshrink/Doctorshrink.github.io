@@ -1,0 +1,48 @@
+---
+title: "Crucificarea"
+subtitle: "Anna Ahmatova"
+author: "Doctor Shrink"
+date: "2026-10-30"
+categories: [poezie, spoken-word, tata]
+image: "../images/themes/tata.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LgnuVNBTu-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nu mă plînge, Mamă,<br>
+<br>
+eu şi-n mormînt trăiesc.<br>
+<br>
+1.<br>
+<br>
+Slăviră îngeri ceasu-acesta, iată,<br>
+<br>
+Şi cerul carse, focului dînd vamă.<br>
+<br>
+Spre Tată-a zis: „De ce M-ai lăsat, Tată?“<br>
+<br>
+2.<br>
+<br>
+Magdalena-n plîns şi-n sfîrşiere,<br>
+<br>
+Sta-mpietrit discipolul iubit,<br>
+<br>
+Dar spre Mama mută de durere<br>
+<br>
+Nimeni să privească n-a-ndrăznit.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Anna Ahmatova
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
