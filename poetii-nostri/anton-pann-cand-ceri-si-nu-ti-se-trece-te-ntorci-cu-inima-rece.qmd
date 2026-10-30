@@ -1,0 +1,42 @@
+---
+title: "Când ceri și nu ți se trece, te-ntorci cu inima rece"
+subtitle: "Anton Pann"
+author: "Doctor Shrink"
+date: "2026-10-31"
+categories: [poezie, spoken-word, inima]
+image: "../images/themes/inima.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4OmQvXBUv9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Într-o zi viind la Hogea un prieten i-a cerut<br>
+<br>
+Să-i dea frânghia de rufe, numai pentru un minut;<br>
+<br>
+- De n-aş avea, Hoge zise, vreo trebuinţă de ea,<br>
+<br>
+Ţ-aş fi zis cu toată voia: poftim, frate, de o ia;<br>
+<br>
+Dar am să întinz pe dânsa, să usuc nişte pospai2<br>
+<br>
+- Nu-mi spui – acela răspunse – că nu vrei să mi-o dai?<br>
+<br>
+- Bine vezi tu – Hogea zise – că e vorba cam aci<br>
+<br>
+Şi mai mult nu e de lipsă să stau a ţi-o tălmăci.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Anton Pann
+* **Temă:** inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

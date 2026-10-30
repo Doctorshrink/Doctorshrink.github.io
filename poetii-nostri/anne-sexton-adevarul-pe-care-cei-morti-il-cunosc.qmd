@@ -1,0 +1,62 @@
+---
+title: "Adevărul pe care cei morţi îl cunosc"
+subtitle: "Anne Sexton"
+author: "Doctor Shrink"
+date: "2026-10-31"
+categories: [poezie, spoken-word, moarte]
+image: "../images/themes/moarte.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dLu2w7in2_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pentru mama mea, născută martie 1902, moartă martie 1959<br>
+<br>
+şi tatăl meu, născut februarie 1900, mort iunie 1959<br>
+<br>
+De ajuns, am spus – şi am părăsit biserica,<br>
+<br>
+refuzând acea procesiune ţeapănă spre cavou,<br>
+<br>
+lăsând mortul din sicriu să meargă-acolo singur.<br>
+<br>
+Iunie. M-am săturat să fiu bravă, iarăşi şi din nou.<br>
+<br>
+Am călătorit spre Cape. Mi-am rotunjit cultura<br>
+<br>
+sub cerul brăzdat de soare, diurnul călător,<br>
+<br>
+acolo unde marea pivotează ca o uşă de fier.<br>
+<br>
+Şi ne-am mângâiat. În altă ţară oamenii mor.<br>
+<br>
+Dragul meu, vântul se năpusteşte ca un balaur<br>
+<br>
+dinspre marea-n spume, iar noi astfel ne-atingem, încât<br>
+<br>
+ne pierdem unul în celălalt. Nimeni nu rămâne singur.<br>
+<br>
+Unii oamenii ucid pentru asta – sau pentru atât.<br>
+<br>
+Ce se poate spune despre morţi? Ei zac fără pantofi<br>
+<br>
+În bărci de beton. Ei sunt deja asemeni pietrelor<br>
+<br>
+Sau mării, dacă aceasta s-ar opri din mişcare. Ei refuză<br>
+<br>
+Binecuvântarea – gâtlejul, ochii şi încheieturile lor.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Anne Sexton
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

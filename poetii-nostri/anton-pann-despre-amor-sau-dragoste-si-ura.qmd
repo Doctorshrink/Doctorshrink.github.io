@@ -1,0 +1,54 @@
+---
+title: "Despre amor sau dragoste şi ură"
+subtitle: "Anton Pann"
+author: "Doctor Shrink"
+date: "2026-10-31"
+categories: [poezie, spoken-word, iubire]
+image: "../images/themes/iubire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5MX-qubdJrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Un strein prost într-o vreme în România viind,<br>
+<br>
+Şi două-trei româneste ca să înveţe dorind,<br>
+<br>
+Cătă şi îşi tocmi slugă din sate pe un român,<br>
+<br>
+De calul lui să-ngrijească, fiind el tare bătrîn;<br>
+<br>
+Ş-ntr-o zi sluga văzându-l neîncetând de oftat:<br>
+<br>
+- Pentru ce oftezi, stăpâne? îndrăznind l-a întrebat.<br>
+<br>
+Streinul oftând răspunse: - Ah, nu ştii tu, be Ivan,<br>
+<br>
+Era să spunem la tine de mult, e! încă de an,<br>
+<br>
+Este una Măriuţa, dincolo de Vladu-Lat,<br>
+<br>
+Eu mult iubeşte la dânsa şi me ranit na ficat;<br>
+<br>
+- Dar ea te iubeşte oare? l-a-ntrebat sluga cel prost.<br>
+<br>
+El, oftând iar, îi răspunse: - Ama eu-ncolo n-a fost,<br>
+<br>
+Tovaroş a spus la mine că este pre mult frumos,<br>
+<br>
+Eu n-am văzut, dar văz poate, dacă este sănătos.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Anton Pann
+* **Temă:** iubire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

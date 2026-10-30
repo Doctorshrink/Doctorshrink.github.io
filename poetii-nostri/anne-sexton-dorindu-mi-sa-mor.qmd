@@ -1,0 +1,92 @@
+---
+title: "Dorindu-mi să mor"
+subtitle: "Anne Sexton"
+author: "Doctor Shrink"
+date: "2026-10-31"
+categories: [poezie, spoken-word, dor]
+image: "../images/themes/dor.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KPuiTCXTrqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Deoarece mă întrebi, cele mai multe zile mi-au dispărut din memorie.<br>
+<br>
+Merg în hainele mele, nemarcată de realitatea plimbării.<br>
+<br>
+Apoi, acea de nerostit dorinţa carnală se întoarce.<br>
+<br>
+Chiar şi astfel, nu am ceva împotriva vieţii.<br>
+<br>
+Ştiu bine săbiile ierbii despre care faci vorbire,<br>
+<br>
+textura pe care ai plasat-o sub soare.<br>
+<br>
+Dar sinucigaşii au un limbaj propriu,<br>
+<br>
+asemeni tâmplarilor, ei vor să ştie ce unelte vor folosi.<br>
+<br>
+Ei nu întreaba niciodată de ce construieşti.<br>
+<br>
+Atât de simplu am recunoscut de două ori,<br>
+<br>
+am posedat inamicul, am mâncat inamicul,<br>
+<br>
+i-am confiscat arta, magia lui.<br>
+<br>
+În acest mod, densă şi gânditoare,<br>
+<br>
+mai caldă decât uleiul sau apa,<br>
+<br>
+mi-am tras sufletul, salivând cu gura deschisă.<br>
+<br>
+Nu mă gândesc în mod deosebit la trupul meu.<br>
+<br>
+Chiar corneea dilatată şi excesul de urină sunt uitate.<br>
+<br>
+Sinucigaşii au trădat deja corpul.<br>
+<br>
+Încă născânu-se, ei nu mor întotdeauna,<br>
+<br>
+dar intraţi într-o stranie confuzie, nu pot uita un drog atât de dulce,<br>
+<br>
+pe care până şi copii l-ar privi zâmbind.<br>
+<br>
+Să-ţi împingi întrega viaţă sub limbă! –<br>
+<br>
+asta, chiar şi numai de dragul artei, devine obsesie.<br>
+<br>
+Moartea este un os amar; zgâriat, vei zice,<br>
+<br>
+şi totuşi ea mă aşteaptă, an dupa an,<br>
+<br>
+pentru a vindeca cu delicateţe o rană veche,<br>
+<br>
+Pentru a îmi elibera respiraţia din închisoarea ei sordidă.<br>
+<br>
+Balansând încă în fragil echilibru, sinucigaşii uneori se întâlnesc,<br>
+<br>
+năpustindu-se la fructele unei luni balonate,<br>
+<br>
+părăsind pâinea de dragul unui sărut,<br>
+<br>
+părăsind nepăsători paginile cărţii deschise la întâmplare,<br>
+<br>
+ceva nespus, receptorul telefonului spânzurat în aer –<br>
+<br>
+şi dragostea sau ceea ce va fi fost ea, o infecţie.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Anne Sexton
+* **Temă:** dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

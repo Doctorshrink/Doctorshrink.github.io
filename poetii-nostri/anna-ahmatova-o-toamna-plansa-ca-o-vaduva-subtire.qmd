@@ -1,0 +1,42 @@
+---
+title: "O toamnă plânsă ca o văduvă subţire"
+subtitle: "Anna Ahmatova"
+author: "Doctor Shrink"
+date: "2026-10-31"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/themes/lacrimi.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OvJ4mBnu9PQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O toamnă plânsă ca o văduvă subţire<br>
+<br>
+În haine negre, `nvăluind în ceaţă inimi...<br>
+<br>
+Să plângă ea nicicând nu va-nceta<br>
+<br>
+Cuvintele bărbatului, de viaţă pline.<br>
+<br>
+Aşa va fi până zăpada moale<br>
+<br>
+Se va-ndura de obositu-i chin...<br>
+<br>
+Pentru durere şi pentru uitare<br>
+<br>
+Să-ţi dai viaţa nu e deloc puţin.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Anna Ahmatova
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
