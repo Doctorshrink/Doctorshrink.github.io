@@ -1,0 +1,68 @@
+---
+title: "Munții"
+subtitle: "Aron Cotruș"
+author: "Doctor Shrink"
+date: "2026-11-01"
+categories: [poezie, spoken-word, munte]
+image: "../images/themes/munte.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yqC7wJCjoQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În frământări aprinse, în lupte uriașe,<br>
+<br>
+Unind într-o sforțare puterea voastră toată,<br>
+<br>
+Cotropitori, odată,<br>
+<br>
+Ați spart pământul aspru ce v-a ținut în fașe,<br>
+<br>
+În coaja lui tirană, în carnea-i milenară<br>
+<br>
+Și ați țâșnit spre cer — revolte uimitoare —<br>
+<br>
+Să împietriți pe veci, în drumul către soare.<br>
+<br>
+Ca voi, o munții mei,<br>
+<br>
+Am sângerat zadarnic, m-am opintit mereu,<br>
+<br>
+Ca dintr-o strâmtă ocnă să scap odat&#x27; din mine:<br>
+<br>
+Să ies, să scap, să fug,<br>
+<br>
+De piedica-mi de humă, de-al cărnii mele jug<br>
+<br>
+Despotic, zilnic, slut și-omorâtor de greu<br>
+<br>
+Și străbătând, în voie, nemărginirea oarbă<br>
+<br>
+Cu sufletu-mi ce totul râvnește să absoarbă,<br>
+<br>
+Să mă înalț — sălbatic, statornic curcubeu —<br>
+<br>
+În setea-mi de lumină,<br>
+<br>
+Cu creștetul în nouri, »<br>
+<br>
+Ca voi,<br>
+<br>
+Dușmani și prieteni,<br>
+<br>
+Munții mei!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aron Cotruș
+* **Temă:** munte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

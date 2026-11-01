@@ -1,0 +1,64 @@
+---
+title: "Copacul singuratic"
+subtitle: "Aron Cotruș"
+author: "Doctor Shrink"
+date: "2026-11-01"
+categories: [poezie, spoken-word, codru, singuratate]
+image: "../images/themes/codru.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLeioLZpyXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În rătăcirile-mi prin lume am văzut odată-un arbore colos.<br>
+<br>
+Singur pe podeiul nesfârșit<br>
+<br>
+înfruntă furtunile năprasnice și gerurile blestemate<br>
+<br>
+Trunchiu-i gâlgâia de seva tânără<br>
+<br>
+Părea bolnav de prea enormul lui belșug de sănătate<br>
+<br>
+Tufe doar creșteau la umbra lui<br>
+<br>
+Părea că-ntreg podeiul stors și ostenit<br>
+<br>
+Abia mai ajungea să-l sature<br>
+<br>
+Ca pe-un boier sălbatic robii-i chinuiți de foame<br>
+<br>
+Neclintit și singuratic,<br>
+<br>
+Ca un tiran creștea, veghea cuprinsul<br>
+<br>
+Drumeții s-odihneau la umbra lui<br>
+<br>
+Și porneau apoi mai tari să-nfrunte viața<br>
+<br>
+M-am odihnit și eu la umbra lui o clipă,<br>
+<br>
+Cu tolba-mi de revolte, cu merindea mea de vise<br>
+<br>
+Și clipa ceea<br>
+<br>
+M-a oțelit ca ani și ani de somnuri sterpe<br>
+<br>
+Și m-am simțit din nou stăpân deplin pe mine<br>
+<br>
+Ca titanicul copac pe vastul lui podei, sub cerurile reci
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aron Cotruș
+* **Temă:** codru, singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,76 @@
+---
+title: "O, inimă"
+subtitle: "Arthur Rimbaud"
+author: "Doctor Shrink"
+date: "2026-11-01"
+categories: [poezie, spoken-word, inima]
+image: "../images/themes/inima.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/usVz2CzYq4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O, inimă, ce-s pentru noi bălţile de singe<br>
+<br>
+Şi jar, şi mii de-omoruri, şi furia ţipînd,<br>
+<br>
+Suspinde ale unui întreg inferc ce fringe<br>
+<br>
+Oricare ordini şi pe ruine apring Vînt,<br>
+<br>
+Şi toată răzbunarea ? Nimic !...  Dar dacă-aşa<br>
+<br>
+Şi vrem ? Pieriţi voi, principi, industriaşi, senate !<br>
+<br>
+Ah, jos puteri, justiţii, istorii ! Ni se cade !<br>
+<br>
+Pe merit ! Sînge ! singe ! văpaie de-aur, grea !<br>
+<br>
+Totu-n război, teroare şi-n răzbunare-aruncă,<br>
+<br>
+O, Duh, al meu ! În Rană să răscolim turbaţi :<br>
+<br>
+Republici ale lumii, vă duceţi ! Şi ajungă,<br>
+<br>
+Popoare, regimente, coloni şi împăraţi !<br>
+<br>
+Cine-ar stîrni vîrtejuri de foc în crunte jocuri?<br>
+<br>
+Doar noi şi cei pe care îi credem fraţi. Şi dacă,<br>
+<br>
+Fantaşti de amici, alături ne-aţi fi : o să vă placă.<br>
+<br>
+N-om mai trudi vreodată, talazuri, voi, de focuri !<br>
+<br>
+Vă stringeţi, Europa, Americi, Asia !<br>
+<br>
+Răzbunătorul nostrum marş totu-a ocupat,<br>
+<br>
+Cetăţi şi cîmpuri !  Fi-vom zdrobiţi de-a pururea !<br>
+<br>
+Vor răbufni vulcanii ! oceanul revărsat<br>
+<br>
+O, inimă !  amicii, desigur, fraţi îmi sînt :<br>
+<br>
+Necunoscuţi, voi, negrei de-om merge, daţi bătaie !<br>
+<br>
+Cum tremor ! peste mine, vai mie, vechi pămînt,<br>
+<br>
+Din ce în ce al vostru ! pămîntul se tot moaie,<br>
+<br>
+Dar nu-i nimic ! sînt, iată, aici ! intruna sînt.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Arthur Rimbaud
+* **Temă:** inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

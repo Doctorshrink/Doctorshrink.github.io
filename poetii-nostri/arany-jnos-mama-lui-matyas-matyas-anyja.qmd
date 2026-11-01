@@ -1,0 +1,242 @@
+---
+title: "Mama lui Mátyás - (Mátyás anyja)"
+subtitle: "Arany János"
+author: "Doctor Shrink"
+date: "2026-11-01"
+categories: [poezie, spoken-word, mama]
+image: "../images/themes/mama.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gq0NR434_pY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Szilágyi<br>
+<br>
+Örzsebet<br>
+<br>
+L-a gătat răvașul;<br>
+<br>
+Lacrimi<br>
+<br>
+Materne,<br>
+<br>
+Umplându-l cu plânsul.<br>
+<br>
+La fiu<br>
+<br>
+Știrea,<br>
+<br>
+La Praga, beciul,<br>
+<br>
+Aduce<br>
+<br>
+Pace, în<br>
+<br>
+Arest cenușiu.<br>
+<br>
+„Fiule!<br>
+<br>
+Nu pleca<br>
+<br>
+Din Praga, orașul;<br>
+<br>
+Izbutesc,<br>
+<br>
+Te cumpăr<br>
+<br>
+Din arestul aspru.<br>
+<br>
+„Cu aur,<br>
+<br>
+Cu argint<br>
+<br>
+Plătesc pentru tine;<br>
+<br>
+Îmi port<br>
+<br>
+În suflet<br>
+<br>
+A ta revenire.<br>
+<br>
+„Nu mișca,<br>
+<br>
+Nu pleca,<br>
+<br>
+Dragul meu orfan!<br>
+<br>
+Cine va<br>
+<br>
+Fi fiul,<br>
+<br>
+Când trama va forța?<br>
+<br>
+„Se va da<br>
+<br>
+Răvașul<br>
+<br>
+La Hunyadi Mátyás,<br>
+<br>
+În mâna<br>
+<br>
+Sa doar,<br>
+<br>
+Nicicum în alta.”<br>
+<br>
+Ceară<br>
+<br>
+Neagră<br>
+<br>
+Va fi sigiliul;<br>
+<br>
+Dând și din<br>
+<br>
+Coate,<br>
+<br>
+Așteptând argatul.<br>
+<br>
+„Repede<br>
+<br>
+Cine va<br>
+<br>
+Fi cu scrisu&#x27;-n Praga?<br>
+<br>
+O sută<br>
+<br>
+De aur,<br>
+<br>
+Și calul e plata.”<br>
+<br>
+„Merg eu,<br>
+<br>
+Merg eu,<br>
+<br>
+Ajung șapte zile.”<br>
+<br>
+„Pentru o<br>
+<br>
+Inimă<br>
+<br>
+E o veșnicie!”<br>
+<br>
+„Merg eu<br>
+<br>
+Vin eu<br>
+<br>
+Trei zile, vuind.”<br>
+<br>
+„Pentru o<br>
+<br>
+Inimă<br>
+<br>
+Trei luni jelind!”<br>
+<br>
+„Doamne,<br>
+<br>
+Doamne,<br>
+<br>
+De ce n-am aripi,<br>
+<br>
+Să ajung<br>
+<br>
+Din urmă<br>
+<br>
+Dorul din inimi!” –<br>
+<br>
+Vine un,<br>
+<br>
+Vine un,<br>
+<br>
+Corb negru și mare;<br>
+<br>
+Pe scutul<br>
+<br>
+Hunyadi,<br>
+<br>
+Unu la fel șade.<br>
+<br>
+Năvălind,<br>
+<br>
+Năvălind<br>
+<br>
+Un zbucium negru,<br>
+<br>
+Și smulgând<br>
+<br>
+Din mâna<br>
+<br>
+Mamei, pachetul.<br>
+<br>
+„Repede<br>
+<br>
+De la corb!...<br>
+<br>
+Trebuie luat!”<br>
+<br>
+Și fuge<br>
+<br>
+Gloata<br>
+<br>
+Să-l împuște, fuga.<br>
+<br>
+Pasăre<br>
+<br>
+Nu una,<br>
+<br>
+Sute-s împușcate:<br>
+<br>
+Nicio<br>
+<br>
+Urmă de<br>
+<br>
+Corb cu scrisoare.<br>
+<br>
+La amurg<br>
+<br>
+În codru<br>
+<br>
+Gonind degeaba:<br>
+<br>
+Noapte,<br>
+<br>
+În beznă<br>
+<br>
+Lovesc fereastra.<br>
+<br>
+„Cine e?<br>
+<br>
+Ce-o fi?<br>
+<br>
+Vai, un corb negru!<br>
+<br>
+Ce ține<br>
+<br>
+E la fel,<br>
+<br>
+Precum și pachetul.<br>
+<br>
+Roșie<br>
+<br>
+Ceara;<br>
+<br>
+Cu pliere fină:<br>
+<br>
+Sfințită,<br>
+<br>
+Sfințită<br>
+<br>
+Așa cum e scrisă!”
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Arany János
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,34 @@
+---
+title: "Suflet"
+subtitle: "Arhiloh"
+author: "Doctor Shrink"
+date: "2026-11-01"
+categories: [poezie, spoken-word, suflet]
+image: "../images/themes/suflet.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AYuiXe_69Do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Suflet, suflet, griji în spulber fără leacuri de pătrund,<br>
+Aprig stai, duşmanii frânge-i, pieptul ţi-l avântă scut!<br>
+Neclintit rămâi în faţa vicleniei ce-o scornesc<br>
+Răii care-ţi stau în preajmă. Dacă-nvingi să nu-ţi arăţi<br>
+Prea vădită bucuria, iar învins nu te lăsa<br>
+La pământ cu glas de vaier. Nu te veseli prea mult.<br>
+Nici la rău să nu te mânii! Vieţii cumpănă să-i dai…
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Arhiloh
+* **Temă:** suflet
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
