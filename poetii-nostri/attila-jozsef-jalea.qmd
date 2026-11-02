@@ -1,0 +1,46 @@
+---
+title: "Jalea"
+subtitle: "Attila József"
+author: "Doctor Shrink"
+date: "2026-11-03"
+categories: [poezie, spoken-word, durere]
+image: "../images/themes/durere.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZIsPX0tS6IE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+(A bánat)<br>
+<br>
+Jalea-i poştaş cenuşiu şi mut,<br>
+<br>
+Cu ochi albaştri, faţă trasă,<br>
+<br>
+Geanta atârnă pe umăr,<br>
+<br>
+Haina-i neagră şi cam roasă.<br>
+<br>
+Îi bate-n piept un vechi tic-tac,<br>
+<br>
+Se furişează pe drum temător,<br>
+<br>
+Se lipeşte de pereţi şi<br>
+<br>
+Dispare-n nişa porţilor.<br>
+<br>
+Apoi bate. Aduce carte.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Attila József
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

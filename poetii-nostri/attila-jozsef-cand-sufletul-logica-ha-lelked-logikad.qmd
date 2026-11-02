@@ -1,0 +1,50 @@
+---
+title: "(Când sufletul, logica…) - (Ha lelked, logikád…)"
+subtitle: "Attila József"
+author: "Doctor Shrink"
+date: "2026-11-03"
+categories: [poezie, spoken-word, suflet]
+image: "../images/themes/suflet.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htVP4j7U1S8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Când sufletul, logica,<br>
+<br>
+curg, ca pârâul<br>
+<br>
+gâlgâind prin stânca,<br>
+<br>
+ca lucrul, cerul -<br>
+<br>
+am puls, mă duc cu valul,<br>
+<br>
+poți crea destul:<br>
+<br>
+cu alte versuri sătul,<br>
+<br>
+eu sunt poetul!<br>
+<br>
+Se coace-n grădină<br>
+<br>
+tutunul frunză.<br>
+<br>
+Lira: e logică;<br>
+<br>
+nu învățătură.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Attila József
+* **Temă:** suflet
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

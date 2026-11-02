@@ -1,0 +1,40 @@
+---
+title: "(Dragii mei prieteni…) - (Drága barátaim…)"
+subtitle: "Attila József"
+author: "Doctor Shrink"
+date: "2026-11-03"
+categories: [poezie, spoken-word, iubire, prieten]
+image: "../images/themes/iubire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qn3wY7u5jU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dragii mei prieteni, care vă mai gândiți la mine, nebunul, pentru voi scriu,<br>
+<br>
+de aici, de lângă vatră, unde m-am retras<br>
+<br>
+pentru a mă încălzi și a aminti de voi. Căci, s-a amestecat<br>
+<br>
+în mine cu frigul de noiembrie, tristețea ce abia și încet<br>
+<br>
+se dizolvă. Amintiți-vă și voi acolo de mine, nu numai hohotind,<br>
+<br>
+la cel ce a trăit printre voi și pe care l-ați îndrăgit<br>
+<br>
+odinioară.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Attila József
+* **Temă:** iubire, prieten
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

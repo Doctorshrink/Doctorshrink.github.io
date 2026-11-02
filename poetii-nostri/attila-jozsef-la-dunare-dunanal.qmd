@@ -1,0 +1,168 @@
+---
+title: "La Dunăre - (Dunánál)"
+subtitle: "Attila József"
+author: "Doctor Shrink"
+date: "2026-11-03"
+categories: [poezie, spoken-word, mama, tata]
+image: "../images/themes/mama.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DJoDKebcNuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+1.<br>
+<br>
+La splai, pe piatra de jos am stat,<br>
+<br>
+privind, coaja de bostan plutind.<br>
+<br>
+Slab am auzit, în fatum scufundat,<br>
+<br>
+râul, flecar e sus, jos amuțit.<br>
+<br>
+Parc-ar fi scurs din inima mea,<br>
+<br>
+densă fiind, calmă Dunărea.<br>
+<br>
+Ca mușchii, când omul lucrează,<br>
+<br>
+cu pile, ciocan, lut și sape,<br>
+<br>
+așa plesnesc, se destind, se contractă,<br>
+<br>
+orice val, orice mișcare.<br>
+<br>
+Cum mama povestind, mă legăna<br>
+<br>
+și rufele din oraș le spăla.<br>
+<br>
+Și a-nceput ploaia să cerne,<br>
+<br>
+dar s-a oprit, parc-ar fi în zadar.<br>
+<br>
+Precum cel ce din peșteră privește<br>
+<br>
+ploaia - mă holbam la hotar:<br>
+<br>
+apatică, parc-ar fi eternă,<br>
+<br>
+vreme pală, grivă de legendă.<br>
+<br>
+Dunărea curgea. Ca-n poala<br>
+<br>
+mamei distrate și fertile<br>
+<br>
+pruncul, se jucau frumos și așa<br>
+<br>
+râdeau, spumele spre mine.<br>
+<br>
+Pe valul vremii așa vibrând,<br>
+<br>
+ca morminte cu cruci clâtinând.<br>
+<br>
+2.<br>
+<br>
+De sute de mii de ani buni<br>
+<br>
+privesc, ce observ brusc, deodată.<br>
+<br>
+Ce văd sute de mii de străbuni<br>
+<br>
+cu mine, timpul întreg se gată.<br>
+<br>
+Văd, ce n-au văzut ei, omorând,<br>
+<br>
+prășind, iubind, urmând soarta.<br>
+<br>
+Ei văd, în materie coborând,<br>
+<br>
+ce nu văd eu, dar pot constata.<br>
+<br>
+Suntem legați, cum farmecul de chin.<br>
+<br>
+Eu-s în trecut, ei în prezent.<br>
+<br>
+Scriem versuri - condeiu-mi țin,<br>
+<br>
+eu îi simt și-i pomenesc.<br>
+<br>
+3.<br>
+<br>
+Mama e cumană, tata secui<br>
+<br>
+ori vlah jumate, sau de tot.<br>
+<br>
+Hrana din gura mamei fu dulcit,<br>
+<br>
+tata a vrut adevărul pe loc.<br>
+<br>
+Ei se învăluie când mă mișc.<br>
+<br>
+Uneori, mă întristează -<br>
+<br>
+acesta e timpul. Din el sunt. ,,Vezi,<br>
+<br>
+când nu vom fi!...&quot; – ei mă cheamă.<br>
+<br>
+Îmi vorbesc, căci sunt deja eu;<br>
+<br>
+slab fiind, așa devin puternic<br>
+<br>
+și amintesc, că sunt mai mult de mult,<br>
+<br>
+până-n stem sunt orice străbunic -<br>
+<br>
+sunt Stemul, ce înmulțind se destramă:<br>
+<br>
+voios tata și mama devin,<br>
+<br>
+tata și mama se divizează<br>
+<br>
+ș-așa mă nasc în Unu sufletist.<br>
+<br>
+Sunt lumea - ce a fost și este, tot:<br>
+<br>
+generații, ce se atacă.<br>
+<br>
+Ocupanții înving, cu mine mort,<br>
+<br>
+chinul supușilor mă apasă.<br>
+<br>
+Árpád și Zalán, Werbőczi și Dózsa -<br>
+<br>
+turc, tătar, slovac și român s-a pus<br>
+<br>
+în mine, c-un viitor sunt datorat<br>
+<br>
+trecutului - unguri d-acum!<br>
+<br>
+… Eu vreau să muncesc. E destul,<br>
+<br>
+că trecutul e de dezvăluit.<br>
+<br>
+În Dunăre, viitor, prezent, trecut,<br>
+<br>
+ca valuri alene se cuprind.<br>
+<br>
+Luptele pe glia strămosească,<br>
+<br>
+memoria, le dizolvă-n tihnă,<br>
+<br>
+să ne dăm, în fine, socoteală,<br>
+<br>
+e munca noastră; deloc mică.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Attila József
+* **Temă:** mama, tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

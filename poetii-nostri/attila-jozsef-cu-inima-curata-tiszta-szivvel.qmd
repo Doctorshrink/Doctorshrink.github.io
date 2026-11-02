@@ -1,0 +1,58 @@
+---
+title: "Cu inimă curată (Tiszta szívvel)"
+subtitle: "Attila József"
+author: "Doctor Shrink"
+date: "2026-11-03"
+categories: [poezie, spoken-word, inima]
+image: "../images/themes/inima.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HNRb17ndyPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+N-am tată, nici mamă,<br>
+<br>
+nici zeu si tară,<br>
+<br>
+n-am leagăn, sălie,<br>
+<br>
+sărut si iubite.<br>
+<br>
+De zile n-am ciupit,<br>
+<br>
+nici mult, nici putin.<br>
+<br>
+Junia-m vigoare,<br>
+<br>
+ce o pun la vânzare.<br>
+<br>
+Si dacă nu va păsa,<br>
+<br>
+dracu o va cumpăra.<br>
+<br>
+Vin cu pură inimă,<br>
+<br>
+dar pot să fac si crimă.<br>
+<br>
+Voi fi prins si legat,<br>
+<br>
+în pământ sfânt îngropat,<br>
+<br>
+cresc beldii otravă,<br>
+<br>
+pe inima curată.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Attila József
+* **Temă:** inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,34 @@
+---
+title: "(Inima mea hoinări...) - (Az én szívem sokat csatangolt...)"
+subtitle: "Attila József"
+author: "Doctor Shrink"
+date: "2026-11-03"
+categories: [poezie, spoken-word, inima]
+image: "../images/themes/inima.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HqXLVNkQLYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Inima mea hoinări,<br>
+<br>
+deja învață, percepe.<br>
+<br>
+Muritorul poate dori<br>
+<br>
+numai muritor, etern.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Attila József
+* **Temă:** inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
