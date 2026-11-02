@@ -1,0 +1,68 @@
+---
+title: "O, morţi din nouăzeci şi doi"
+subtitle: "Arthur Rimbaud"
+author: "Doctor Shrink"
+date: "2026-11-02"
+categories: [poezie, spoken-word, moarte]
+image: "../images/themes/moarte.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dEbAg8YZCh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Scris la Mazas, 3 septembrie 1870<br>
+<br>
+Francezi din şaptezeci, bonaportişţi,<br>
+<br>
+republicani, aminţi-vă de părinţii<br>
+<br>
+voştri din 92 etc.<br>
+<br>
+.................................<br>
+<br>
+Paul de Cassagac<br>
+<br>
+Le Pays<br>
+<br>
+O, morţi din nouăzeci şi doi  nouăzeci şi trei,<br>
+<br>
+Ce palizi de sărutul vîrtos al libertăţii,<br>
+<br>
+Calmi, sub bocancii voştri, strivit-aţi jugul ce-i<br>
+<br>
+Sta-n suflet şi pe frunte prea greu umanităţii ;<br>
+<br>
+Exatziaţi şi nobili Bărbaţi în vijelie,<br>
+<br>
+Cînd inima sub zdrenţe de dragoste săltînd,<br>
+<br>
+Soldaţi pe care Moartea, distinsă-Amantă, -n glie<br>
+<br>
+I-a semănat doar pentru-a-i reînvia *înd?<br>
+<br>
+Voi, ce-aţi spălat cu singe grandorile pătate,<br>
+<br>
+Morţi din Valmy, Fleurus şî Italia-n dreptate,<br>
+<br>
+Voi, Criştii, milioane, cu ochii blînzi şi goi,<br>
+<br>
+Noi v-am lăsat în somnul Republicii, de-atîta<br>
+<br>
+Supunere sub regii ce parcă-ar da cu bîta:<br>
+<br>
+- Domnii de Cassagnac ne vorbesc iar despre voi !
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Arthur Rimbaud
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,82 @@
+---
+title: "Visătorii"
+subtitle: "Artur Enăşescu"
+author: "Doctor Shrink"
+date: "2026-11-02"
+categories: [poezie, spoken-word, vis]
+image: "../images/themes/vis.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F7hPXZcs4dk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O visători, cu suflet de copii,<br>
+<br>
+Voi paseri, de lumină speriate,<br>
+<br>
+Ce rătăciţi cu genele plecate,<br>
+<br>
+Pe străzi întunecoase şi pustii!<br>
+<br>
+Voi, cu priviri curate de fecioară,<br>
+<br>
+Sfioşi şi singuratici visători,<br>
+<br>
+Ce tremuraţi sub cerul plin de nori,<br>
+<br>
+Şi vântul cel mai gingaş vă doboară!<br>
+<br>
+Ascnşi staţi ziua-n tainice unghere,<br>
+<br>
+Şi mâini de vis v-acopăr ochii grei,<br>
+<br>
+Iar când pe cer s-aprind mii de scântei<br>
+<br>
+Voi răsăriţi… O, suflete stinghere!<br>
+<br>
+Vă prinde luna flori la pălării,<br>
+<br>
+Şi tresăriţi; de-un foşnet blând vi-e frică,<br>
+<br>
+De umbra ce pe ziduri se despică,<br>
+<br>
+Când rătăciţi prin nopţile târzii.<br>
+<br>
+În jurul frunţii voastre, visători!<br>
+<br>
+A nopţii duhuri, tainice, s-adună;<br>
+<br>
+…Întind o scară razele de lună,<br>
+<br>
+Şi gândul vostru suie pân-la nori.<br>
+<br>
+Şi pasul vostru-n cale şovăieşte,<br>
+<br>
+De raze pline, genele se-nchid,<br>
+<br>
+Şi vă treziţi la umbra unui zid,<br>
+<br>
+Când astrul dimineţii licăreşte.<br>
+<br>
+O visători, cu suflet de copii,<br>
+<br>
+Voi, paseri de lumină speriate,<br>
+<br>
+Ce rătăciţi cu genele plecate,<br>
+<br>
+Pe străzi întunecoase şi pustii!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Artur Enăşescu
+* **Temă:** vis
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

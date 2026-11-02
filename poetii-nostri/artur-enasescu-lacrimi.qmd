@@ -1,0 +1,66 @@
+---
+title: "Lacrimi"
+subtitle: "Artur Enăşescu"
+author: "Doctor Shrink"
+date: "2026-11-02"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/themes/lacrimi.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IoTlkSeYFP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Lacrimi de dor,<br>
+<br>
+Nu se mai stâng,<br>
+<br>
+Din noaptea lor<br>
+<br>
+Pururea plâng.<br>
+<br>
+În stol uşor<br>
+<br>
+Asupră-ţi vin<br>
+<br>
+Cu lumea lor<br>
+<br>
+De vis şi chin.<br>
+<br>
+Din triştii nori<br>
+<br>
+Îţi cad cu mii,<br>
+<br>
+Şi te-nfiori<br>
+<br>
+Fără să ştii.<br>
+<br>
+De ochii-apuşi<br>
+<br>
+Vărsate sânt,<br>
+<br>
+A celor duşi<br>
+<br>
+De pe pământ.<br>
+<br>
+Nu căuta<br>
+<br>
+Să ştii ce vor,<br>
+<br>
+Plâng jalea ta<br>
+<br>
+Şi-a tuturor.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Artur Enăşescu
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

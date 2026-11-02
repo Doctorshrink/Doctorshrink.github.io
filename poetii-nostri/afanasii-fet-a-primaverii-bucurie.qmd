@@ -1,0 +1,56 @@
+---
+title: "A primăverii bucurie"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-11-02"
+categories: [poezie, spoken-word, fericire]
+image: "../images/themes/fericire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jk3c6U_lukU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+A primăverii bucurie<br>
+<br>
+De mers până la noi mai are.<br>
+<br>
+Prin râpi omătul întârzie<br>
+<br>
+Și sună înghețata glie,<br>
+<br>
+Pe drum, sub roțile de care.<br>
+<br>
+În miez de zi, – n pădurea rară<br>
+<br>
+De tei, din deal, mai simți că-I soare.<br>
+<br>
+Și sub mesteceni ca de ceară.<br>
+<br>
+Doar coacăzul nu se-nfioară<br>
+<br>
+Sub triluri de privighetoare.<br>
+<br>
+Ci-n păsările călătoare<br>
+<br>
+Noi tot avem bună vestire –<br>
+<br>
+Sub zboruri large, rotitoare,<br>
+<br>
+O mândră fată-n stepe are<br>
+<br>
+Obraz cu flori, flori în privire.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

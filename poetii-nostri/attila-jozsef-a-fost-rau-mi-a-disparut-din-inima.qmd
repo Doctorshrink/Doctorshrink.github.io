@@ -1,0 +1,50 @@
+---
+title: "A fost rău, mi-a dispărut din inimă"
+subtitle: "Attila József"
+author: "Doctor Shrink"
+date: "2026-11-02"
+categories: [poezie, spoken-word, inima]
+image: "../images/themes/inima.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XgZ88oIc2xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+(Rossz volt, elszéledt szívemből)<br>
+<br>
+Amintirile mele îşi scot braţele de sub masă<br>
+<br>
+Şi morţii-mi vin în minte, deşi nu mă gândesc la ei niciodată<br>
+<br>
+În iubita mea, fetele, femeile se strâng unele-n altele şi dârdâie<br>
+<br>
+Unul în agonie se zbate undeva, încearcă să m-apuce<br>
+<br>
+Mi-arunc capul în palmă<br>
+<br>
+Muzica aceea, a ierbii, aţi văzut-o? a fost frumoasă<br>
+<br>
+Pământul mă mângâia cu obrazu-i cald, cu ochii închişi stau culcat în ochiul lui, văd<br>
+<br>
+cu el, mă leagănă respiraţia unui prunc<br>
+<br>
+Şi-atunci cineva îmi dispare din inimă, el este foarte rău<br>
+<br>
+Ieri după-amiază pământul a lăcrimat<br>
+<br>
+Ce se va întâmpla cu florile-mi de prisos?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Attila József
+* **Temă:** inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

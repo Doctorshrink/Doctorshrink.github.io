@@ -1,0 +1,84 @@
+---
+title: "Razoare de-amarante..."
+subtitle: "Arthur Rimbaud"
+author: "Doctor Shrink"
+date: "2026-11-02"
+categories: [poezie, spoken-word, durere]
+image: "../images/themes/durere.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-7QxWRs-0ic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Razoare de-amarante pîna la<br>
+<br>
+Palatul nostim al lui Jupiter.<br>
+<br>
+- Stiu ca esti tu ce, -aici, Albastrul tau<br>
+<br>
+Ca de Sahara îl amesteci, da !<br>
+<br>
+Apoi, cum roza, bradul soarelui,<br>
+<br>
+Liana-si duc trai îngradit, ca o<br>
+<br>
+Cusca-a micutei vaduve !...<br>
+<br>
+Si ce<br>
+<br>
+Stoluri de pasari ! o, ieo, ieo !...<br>
+<br>
+- Prea calme case, foste pasiuni !<br>
+<br>
+Chiosc al Nebunei din afectiune.<br>
+<br>
+De dupa buci de trandafiri anume<br>
+<br>
+Balcon umbros si jos al Julietei.<br>
+<br>
+Ce aminteste-alt nume, -al Henrietei.<br>
+<br>
+Placuta statie de drum de fier,<br>
+<br>
+În munte-adînc, ca-ntr-o livada unde<br>
+<br>
+Danseaza mii de draci albastri-n cer !<br>
+<br>
+Pe banca verde, catre rai, urgii<br>
+<br>
+Da din ghitara alba irlandeaza.<br>
+<br>
+Ies din sufrageria guianeza<br>
+<br>
+Palavrageli de tînci si colivii.<br>
+<br>
+Fereastra ducelui, ce-mi da parerea<br>
+<br>
+Unei otravi de melci si merisor ce jos,<br>
+<br>
+Aici, la soare doarme. Prea frumos,<br>
+<br>
+E prea frumos ! Sa ne pastram tacerea !<br>
+<br>
+- O, boulevard inert, fara dughene,<br>
+<br>
+Mut, totul este drama, comedie,<br>
+<br>
+Îngemanari de infinte scene,<br>
+<br>
+Tacuta-mi admiratie te stie.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Arthur Rimbaud
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
