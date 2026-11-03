@@ -1,0 +1,86 @@
+---
+title: "Rubaiaturi. Catrene monorimice III"
+subtitle: "Baba Tahir"
+author: "Doctor Shrink"
+date: "2026-11-04"
+categories: [poezie, spoken-word, inima]
+image: "../images/themes/inima.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vofPnMnSUJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+13.<br>
+<br>
+Rotoata bolţii-n râvna ei nimicitoare,<br>
+<br>
+ochilor le smulge lacrime amare.<br>
+<br>
+Fumul deznădejdii pân-la cer se urcă...<br>
+<br>
+Lacrimile-ajung până-n adânc de mare...<br>
+<br>
+14.<br>
+<br>
+Vai, cât chin a izvorât - din inima aceasta!<br>
+<br>
+Zi şi noapte-s zădărât - de inima aceasta,<br>
+<br>
+Îndestul mi-am plâns durerea! Smulge-mi,<br>
+<br>
+Doamne, inima! Mi s-a urât - de inima aceasta!<br>
+<br>
+15.<br>
+<br>
+Vieţuiesc pe-un sterp pământ - şi zi şi noapte...<br>
+<br>
+Ochii-n lacrimi îmi tot sunt - şi zi şi noapte...<br>
+<br>
+N-am nici friguri şi nici chinuri nu mă-ncearcă.<br>
+<br>
+Ştiu numai că mă frământ - şi zi şi noapte...<br>
+<br>
+16.<br>
+<br>
+Năpăstuită mi-este inima neîncetat,<br>
+<br>
+căci inima plăteşte pentru-al ochilor păcat.<br>
+<br>
+Dar dacă ochii n-ar vedea frumoase feţe,<br>
+<br>
+cum ar şti inima frumosu-n cine s-a-ntrupat?<br>
+<br>
+17.<br>
+<br>
+Cu inima şi ochii sunt mereu într-o gâlceavă,<br>
+<br>
+căci tot ce ochii văd se-adună-n inima hulpavă.<br>
+<br>
+Dar am să-mi fac din bun oţel o spadă ascuţită,<br>
+<br>
+ca ochii-mi să-i străpung. Să-şi afle inima izbavă.<br>
+<br>
+18.<br>
+<br>
+Inima-mi zadarnic mi-o îndrum.<br>
+<br>
+N-o ajută sfatu-mi nicidecum.<br>
+<br>
+De-o azvârl în vânt - n-o duce vântul.<br>
+<br>
+De-o arunc în foc - nu scoate fum.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Baba Tahir
+* **Temă:** inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

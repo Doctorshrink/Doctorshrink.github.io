@@ -1,0 +1,54 @@
+---
+title: "Pe tine te plâng..."
+subtitle: "Attila József"
+author: "Doctor Shrink"
+date: "2026-11-04"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/themes/lacrimi.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y1zg7_6-D8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+(Téged siratlak...)<br>
+<br>
+Pe tine te plâng, nobil bocitor.<br>
+<br>
+Nici Dumnezeu nu se mai uită-napoi<br>
+<br>
+Şi ninge peste cătune, ninge-n toi,<br>
+<br>
+O, Ady, ninge pe maghiarul Ogor.<br>
+<br>
+Nici Dumnezeu nu se mai uită-napoi,<br>
+<br>
+Iar eu nu pot striga: hei-hei! ahei!<br>
+<br>
+Deşi aş striga, dar vai, doar horcăieli<br>
+<br>
+Îmi ies din gâtul strâns de-orori.<br>
+<br>
+Iar eu nu pot striga: hei-hei! ahei!<br>
+<br>
+Deşi nicicând n-am comis mari păcate:<br>
+<br>
+în Pustă, zac încremenit pe spate<br>
+<br>
+Şi-mi cad pe inima-ngheţată fulgi grei.<br>
+<br>
+Sfârşitul anului 1922
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Attila József
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

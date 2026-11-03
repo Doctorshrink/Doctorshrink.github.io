@@ -1,0 +1,86 @@
+---
+title: "Rubaiaturi. Catrene monorimice VI"
+subtitle: "Baba Tahir"
+author: "Doctor Shrink"
+date: "2026-11-04"
+categories: [poezie, spoken-word, inima]
+image: "../images/themes/inima.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yFz3vMxjf0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+27<br>
+<br>
+Când iubita faţă ochii-mi vor s-o vadă,<br>
+<br>
+lasă-mă! De mult căzutu-i-am eu pradă.<br>
+<br>
+Mână mai încet de-acuma, cămilare!<br>
+<br>
+Caravanei vieţii i-am rămas în coadă.<br>
+<br>
+28<br>
+<br>
+O, nimeni nu-i din inima-mi sărmană - să te smulgă,<br>
+<br>
+și nici obrazu-ţi fără de prihană - să mi-l smulgă.<br>
+<br>
+Strâng genele pe ochi, ca nu cumva șuvoiul<br>
+<br>
+de lacrimi care curg a ta icoană - să n-o smulgă.<br>
+<br>
+29<br>
+<br>
+De piatră-ţi este inima, şi pentru mine - nu ia foc.<br>
+<br>
+O, nu-i mirare dacă pietrele haine - nu iau foc.<br>
+<br>
+Voi arde pân-ce inima-ţi se va aprinde,<br>
+<br>
+căci singure, abia tăiatele tulpine - nu iau foc.<br>
+<br>
+30<br>
+<br>
+Îndrăgindu-te, simt inima cum mi se strânge.<br>
+<br>
+Genele mi se tot bat şi iar încep a plânge.<br>
+<br>
+Inima îndrăgostitului e-un ciot abia tăiat:<br>
+<br>
+la un capăt arde şi din altu-i curge sânge.<br>
+<br>
+31<br>
+<br>
+O, fără Tine, inima-n tihnire - nu rămâne.<br>
+<br>
+Şi când Te văd, nici urmă de mâhnire - nu rămâne.<br>
+<br>
+Din chinul inimii-mi de şi-ar lua toţi partea lor de chin,<br>
+<br>
+vai, nimeni fără pătimire - n-ar rămâne.<br>
+<br>
+32<br>
+<br>
+Zulufii când pe-obraji tu ţi-i resfiri,<br>
+<br>
+amesteci hiacinţi cu trandafiri.<br>
+<br>
+Şi când îi scuturi, vezi c-atârnă<br>
+<br>
+de fiecare-o inimă-n zvâcniri.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Baba Tahir
+* **Temă:** inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

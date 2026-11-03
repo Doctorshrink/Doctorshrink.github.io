@@ -1,0 +1,36 @@
+---
+title: "Nu ia foc...…."
+subtitle: "Baba Tahir"
+author: "Doctor Shrink"
+date: "2026-11-04"
+categories: [poezie, spoken-word, foc]
+image: "../images/themes/foc.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0iBBxBQu7fU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+De piatră-ți este inima, și pentru mine – nu ia foc.<br>
+<br>
+O, nu-i de mirare dacă pietrele haine – nu iau foc.<br>
+<br>
+Voi arde pân-ce inima-ți se va aprinde,<br>
+<br>
+căci singure, abia tăiatele tulpine – nu iau foc.<br>
+<br>
+Baba Taher
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Baba Tahir
+* **Temă:** foc
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

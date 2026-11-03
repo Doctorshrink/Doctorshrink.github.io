@@ -1,0 +1,62 @@
+---
+title: "Mi-e tată József Áron"
+subtitle: "Attila József"
+author: "Doctor Shrink"
+date: "2026-11-04"
+categories: [poezie, spoken-word, tata]
+image: "../images/themes/tata.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GZYCUuieq8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+(Nemzett József Áron)<br>
+<br>
+Tata-i József Áron,<br>
+<br>
+săpunar ce taie<br>
+<br>
+pe Marele Ocean<br>
+<br>
+ierburi aromate.<br>
+<br>
+Pőcze Borcsa m-a născut,<br>
+<br>
+au uscat-o relele,<br>
+<br>
+periile de frecat<br>
+<br>
+i-au betegit şalele.<br>
+<br>
+Dragă mi-a fost Luca,<br>
+<br>
+dar Luca nu m-a-ndrăgit.<br>
+<br>
+Mobila mi-e umbră.<br>
+<br>
+Iar prieteni nu mi-am găsit.<br>
+<br>
+N-o să am necazuri,<br>
+<br>
+toate-n suflet s-au pitit –<br>
+<br>
+voi trăi de-a pururi<br>
+<br>
+fără stăpân şi stupid.<br>
+<br>
+începutul anului 1928
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Attila József
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

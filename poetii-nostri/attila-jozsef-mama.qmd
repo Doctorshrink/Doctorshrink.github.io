@@ -1,0 +1,60 @@
+---
+title: "Mama"
+subtitle: "Attila József"
+author: "Doctor Shrink"
+date: "2026-11-04"
+categories: [poezie, spoken-word, mama]
+image: "../images/themes/mama.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ZPkZA_vncE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+(Mama)<br>
+<br>
+De-o săptămână, îmi dau seama,<br>
+<br>
+nu mă gândesc decât la mama.<br>
+<br>
+C-un coş scârţâitor în braţe<br>
+<br>
+urca rufe-n pod să le-agaţe.<br>
+<br>
+Eram un ţânc ce-n gura mare<br>
+<br>
+ţipa şi dădea din picioare.<br>
+<br>
+Să lase rufele-mbibate,<br>
+<br>
+pe mine să m-aburce-n spate.<br>
+<br>
+Ea urca şi-n tăcere le-ntindea,<br>
+<br>
+nu mă certa, nici nu mă privea,<br>
+<br>
+iar rufele lucioase, foşnind<br>
+<br>
+fluturau în tărie, plutind.<br>
+<br>
+N-aş scânci, însă-i târziu deja,<br>
+<br>
+acum văd ce uriaşă-i ea –<br>
+<br>
+flutură-n cer argintul părului,<br>
+<br>
+pune sineală-n apa cerului.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Attila József
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
