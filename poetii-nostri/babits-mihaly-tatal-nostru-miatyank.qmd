@@ -1,0 +1,122 @@
+---
+title: "Tatăl nostru - (Miatyánk)"
+subtitle: "Babits Mihály"
+author: "Doctor Shrink"
+date: "2026-11-05"
+categories: [poezie, spoken-word, tata]
+image: "../images/themes/tata.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8sIV78Dkpe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+1914<br>
+<br>
+(Poezie scrisă pentru un jurnal vienez.)<br>
+<br>
+Tatăl nostru, care ești în ceruri,<br>
+<br>
+în lupte, în păcate, în jeguri,<br>
+<br>
+spre tine se uită lumea orfană:<br>
+<br>
+sfințească-se numele tău,<br>
+<br>
+Pace! un minunat nume al tău:<br>
+<br>
+Vie împărăția ta.<br>
+<br>
+Pământul e cu sânge, sunt masacre,<br>
+<br>
+biciul tău bănuim, Doamne,<br>
+<br>
+și spunem, gemând, cu jale,<br>
+<br>
+dă-ne, să spunem mai lin -:<br>
+<br>
+Facă-se voia ta!<br>
+<br>
+cum în ceruri spun îngerii.<br>
+<br>
+Doamne, în fața ta e o patrie,<br>
+<br>
+să cadă frunza, dar pomul viu să fie:<br>
+<br>
+oare pe frunzarul cel mai mic<br>
+<br>
+grija ta paternă n-ar îngriji?<br>
+<br>
+și pe ultima creangă nu s-atârnă<br>
+<br>
+slăvit precum în ceruri,<br>
+<br>
+și pe pământ, deopotrivă.<br>
+<br>
+Ne-ai scuturat, nu se poate mai rău,<br>
+<br>
+acum, ce a mai rămas pe crengi<br>
+<br>
+apără până-n toamnă crăcile blegi:<br>
+<br>
+pâinea noastră cea de toate zilele,<br>
+<br>
+dă-ne-o nouă astăzi, și pe copii în pace<br>
+<br>
+să-i ții: dacă-i păcat, că piciorul<br>
+<br>
+azi s-alunecă-n sânge: e doar pentru ei!<br>
+<br>
+Și ne iartă nouă greșelile noastre,<br>
+<br>
+precum și noi iertăm<br>
+<br>
+greșiților noștri: ce e murdar<br>
+<br>
+al tău e, a pedepsi: al nostru doar,<br>
+<br>
+să apărăm pe cele ale noastre!<br>
+<br>
+Și nu ne duce pe noi în ispită,<br>
+<br>
+că spiritul nevinovăției,<br>
+<br>
+ca pe o cămașă căptușită<br>
+<br>
+s-o păstrăm, deși, însângerată,<br>
+<br>
+să nu se crape niciodată.<br>
+<br>
+Vai, acelora cu gând rău:<br>
+<br>
+ne vom bate-n orice luptă,<br>
+<br>
+dar, ne izbăveşte de cel rău,<br>
+<br>
+că a ta este împărăția,<br>
+<br>
+în mâna ta și-a pus ursita,<br>
+<br>
+și tu ești cea mai mare tărie:<br>
+<br>
+cel ce pe numele tău s-aprinde,<br>
+<br>
+oricât se bate și sângerează,<br>
+<br>
+mai curând o să stăpânească<br>
+<br>
+puterea și va avea glorie.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Babits Mihály
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

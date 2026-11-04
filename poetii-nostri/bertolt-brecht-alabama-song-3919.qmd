@@ -1,0 +1,73 @@
+---
+title: "Alabama song"
+subtitle: "Bertolt Brecht"
+author: "Doctor Shrink"
+date: "2026-11-05"
+categories: [poezie, spoken-word, mama]
+image: "../images/themes/mama.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ciOpPeEfLCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Arată-mi drumul către următorul whisky-bar<br>
+Oh, nu-ntreba de ce, oh, nu întreba de ce<br>
+Arată-mi drumul către următorul whisky-bar<br>
+Oh, nu-ntreba de ce, oh, nu întreba de ce<br>
+Pentru că dacă nu aflăm următorul whisky-bar<br>
+Îţi zic că tu o să mori<br>
+Îţi spun că tu va trebui să mori<br>
+Eu îţi spun<br>
+Îţi zic eu<br>
+<br>
+Oh, luna din Alabama<br>
+Ar trebui să ne spunem - spune la revedere<br>
+Ne-am pierdut buna şi bătrâna noastră mamă<br>
+Şi trebuie că ai nişte whisky<br>
+Oh, tu ştii de ce<br>
+<br>
+Arată-mi drumul spre următoarea fată drăguţă<br>
+Oh, nu-ntreba de ce, oh, nu întreba de ce<br>
+Arată-mi drumul spre următoarea fată drăguţă<br>
+Oh, nu-ntrebă de ce, nu întreba de ce<br>
+Pentru că dacă nu aflăm următoarea fată drăguţă<br>
+Îţi spun că va trebui să murim<br>
+Va trebui să murim îţi spun<br>
+<br>
+Oh, lună de Alabama<br>
+Ar trebui să ne spunem - spune la revedere<br>
+Ne-am pierdut buna şi bătrâna noastră mamă<br>
+Şi trebuie că ai vreo fată<br>
+Oh, tu ştii de ce<br>
+<br>
+Arată-mi drumul spre ultimul dolăruţ<br>
+Oh, nu-ntreba de ce, oh, nu întreba<br>
+Arată-mi drumul spre ultimul dolăruţ<br>
+Oh, nu-ntrebă de ce, oh, nu întreba<br>
+Pentru că dacă nu aflăm următorul dolăruţ<br>
+Îţi spun eu că va trebui să murim<br>
+Îţi spun că va trebui să murim<br>
+Îţi zic<br>
+Îţi zic eu<br>
+Va trebui să murim îţi spun<br>
+<br>
+Oh, luna din Alabama<br>
+Ar trebui să ne spunem - spune la revedere<br>
+Ne-am pierdut buna şi bătrâna noastră mamă<br>
+Şi trebuie să ai dolari<br>
+Oh, tu ştii de ce
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Bertolt Brecht
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

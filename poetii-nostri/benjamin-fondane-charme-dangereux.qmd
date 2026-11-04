@@ -1,0 +1,74 @@
+---
+title: "Charme dangereux"
+subtitle: "Benjamin Fondane"
+author: "Doctor Shrink"
+date: "2026-11-05"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B7E6LjA8GQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ah, cărţile cu pagini înflorite<br>
+<br>
+De palide şi stranii acuarele,<br>
+<br>
+Cu panglici delicioase, şerpuite,<br>
+<br>
+Pe foile-nnegrite şi rebele.<br>
+<br>
+Ah, cărţile ce-n inimă-ţi pătrund<br>
+<br>
+Cu nostalgia zărilor fugare,<br>
+<br>
+Cu nostalgia zărilor ce-ascund<br>
+<br>
+Tulburătoare ţărmuri solitare.<br>
+<br>
+Departe — şters — în zările din Sud<br>
+<br>
+În Neapole ori poate în Firentze;<br>
+<br>
+O verandă cu flori, — un Phoebus nud<br>
+<br>
+Şi pomii ce se-nclin cu reverenţe.<br>
+<br>
+Un cer de-azur bronzat, un aur fin,<br>
+<br>
+Pudrând prin largi boschete portocalii<br>
+<br>
+Şi marea care râde în senin,<br>
+<br>
+Pe coastele romanticei Italii.<br>
+<br>
+Ah, viaţa nouă, plină de tumult,<br>
+<br>
+Cu palpitări continue de seve.<br>
+<br>
+Ah, viaţa care-mi pare c-o ascult,<br>
+<br>
+Deşi-nţeleg şi ştiu că nu-i aeve;<br>
+<br>
+Ah, viaţa însorită ce-o trăim<br>
+<br>
+Pe cărţile nostalgice şi sfinte.<br>
+<br>
+Ce-nchid în ele — sombru ţintirim —<br>
+<br>
+Iluziile-n foi — ca în morminte.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Benjamin Fondane
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

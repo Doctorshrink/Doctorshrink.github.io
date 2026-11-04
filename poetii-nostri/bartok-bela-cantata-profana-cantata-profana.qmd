@@ -1,0 +1,274 @@
+---
+title: "Cantata profana - (Cantata profana)"
+subtitle: "Bartók Béla"
+author: "Doctor Shrink"
+date: "2026-11-05"
+categories: [poezie, spoken-word, mama, tata]
+image: "../images/themes/mama.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FhdzuHlncM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cei nouă cerbi minuni<br>
+<br>
+A fost un moșneag,<br>
+<br>
+Având el, având el<br>
+<br>
+Nouă vrednici fii,<br>
+<br>
+Din el trăgând originea<br>
+<br>
+Vrednici nouă fii.<br>
+<br>
+Nu i-a învățat<br>
+<br>
+La meșteșuguri,<br>
+<br>
+La arat-puituri,<br>
+<br>
+La mânat preucă,<br>
+<br>
+La mânat ciurdă;<br>
+<br>
+Ci, prin munți-poieni,<br>
+<br>
+La vânat de cerbi.<br>
+<br>
+Păduri au străbătut, hei!<br>
+<br>
+Și ciute au vânat , hei!<br>
+<br>
+Nouă vrednici fii.<br>
+<br>
+Ciute au vânat;<br>
+<br>
+Atât au umblat,<br>
+<br>
+Și mult au vânat,<br>
+<br>
+Până când, odată,<br>
+<br>
+De un pod s-au dat,<br>
+<br>
+Cu urme de cerb minune.<br>
+<br>
+Atât l-au urmărit,<br>
+<br>
+Cât s-au rătăcit,<br>
+<br>
+În desișul pădurii<br>
+<br>
+Cerbi au devenit;<br>
+<br>
+Cerbi zvelți au ajuns<br>
+<br>
+În desișul pădurii.<br>
+<br>
+Hei, dar tatăl lor<br>
+<br>
+N-a avut răbdare,<br>
+<br>
+Și a luat pușca,<br>
+<br>
+Pornind să-i caute<br>
+<br>
+Pe nouă vrednici fii.<br>
+<br>
+A găsit frumosul pod,<br>
+<br>
+Cu urme de cerb minune;<br>
+<br>
+Pe urme a pornit,<br>
+<br>
+Și a ajuns la izvor,<br>
+<br>
+Cu cerbii la izvor,<br>
+<br>
+S-a lăsat pe genunchi,<br>
+<br>
+Hei, pe unu l-a și țintit.<br>
+<br>
+Dar cerbul cel mare<br>
+<br>
+- Vai, feciorul cel drag -<br>
+<br>
+Cu vorbe așa a răspuns:<br>
+<br>
+,,Dragul nostru tată,<br>
+<br>
+Pe noi, nicicând nu ne mai ținti!<br>
+<br>
+Căci, noi pe tine<br>
+<br>
+Pe coarne te înfigem,<br>
+<br>
+Și așa te aruncăm<br>
+<br>
+Din vale-n vale,<br>
+<br>
+Din piatră în piatră,<br>
+<br>
+Din munte-n munte,<br>
+<br>
+Și te trântim pe tine<br>
+<br>
+De stâncă ascuțită:<br>
+<br>
+Te vei sfărâma în bucăți,<br>
+<br>
+Dragul nostru tată!<br>
+<br>
+Tatăl lor drag<br>
+<br>
+Așa le-a vorbit,<br>
+<br>
+Și i-a chemat chemând,<br>
+<br>
+Și i-a chemat rugând:<br>
+<br>
+,,Dragii mei iubiți,<br>
+<br>
+Dragii mei copii,<br>
+<br>
+Haideți, hai acasă,<br>
+<br>
+Haideți cu mine acasă,<br>
+<br>
+Mama deja vă așteaptă!<br>
+<br>
+Veniți voi cu mine<br>
+<br>
+La mama voastră dragă,<br>
+<br>
+Mama voastră dragă<br>
+<br>
+Așteptând v-așteaptă.<br>
+<br>
+Făcliile deja ard,<br>
+<br>
+Și masa e gata,<br>
+<br>
+Cupele sunt pline,<br>
+<br>
+Pe masă sunt cupe,<br>
+<br>
+Mama se jeluie; -<br>
+<br>
+Cupa e plină cu vin,<br>
+<br>
+Mama e plină de chin.<br>
+<br>
+Făcliile deja ard,<br>
+<br>
+Și masa e gata,<br>
+<br>
+Cupele-s pline…&#x27;&#x27;<br>
+<br>
+Cerbul cel mare,<br>
+<br>
+- Feciorul cel drag -<br>
+<br>
+Cu vorbe răspunzând,<br>
+<br>
+Lui așa îi spune:<br>
+<br>
+,,Dragul nostru tată,<br>
+<br>
+Tu să te duci acasă<br>
+<br>
+La mama noastră dragă!<br>
+<br>
+Dar noi nu mergem!<br>
+<br>
+Dar noi nu mergem!<br>
+<br>
+Căci, coarnele noastre<br>
+<br>
+Prin ușă nu încap,<br>
+<br>
+Încap doar în văi;<br>
+<br>
+Corpul nostru zvelt<br>
+<br>
+Haine nu poartă,<br>
+<br>
+Umblă doar sub frunziș;<br>
+<br>
+Picioarele zvelte nu calcă<br>
+<br>
+În cenușa vetrei,<br>
+<br>
+Doar în frunzetul moale;<br>
+<br>
+Gura noastră nicicând<br>
+<br>
+Nu bea din pahar,<br>
+<br>
+Bea din izvor curat, doar.&#x27;&#x27;<br>
+<br>
+A fost un moșneag,<br>
+<br>
+Având el, având el<br>
+<br>
+Nouă vrednici fii,<br>
+<br>
+Nu i-a învățat<br>
+<br>
+La meșteșuguri,<br>
+<br>
+Ci, prin munți-poieni,<br>
+<br>
+La vânat de cerbi.<br>
+<br>
+Și mult au vânat,<br>
+<br>
+Până când, odată:<br>
+<br>
+Cerbi au devenit<br>
+<br>
+Acolo în pădure.<br>
+<br>
+Și coarnele lor<br>
+<br>
+Prin ușă nu încap,<br>
+<br>
+Încap doar în văi;<br>
+<br>
+Iar corpul zvelt<br>
+<br>
+Haine nu poartă,<br>
+<br>
+Umblă doar sub frunziș;<br>
+<br>
+Picioarele nu calcă<br>
+<br>
+În cenușa vetrei,<br>
+<br>
+Doar în frunzetul moale;<br>
+<br>
+Gura nu mai<br>
+<br>
+Bea din pahar,<br>
+<br>
+Bea din izvor curat, doar.<br>
+<br>
+În legătură cu textul: http://www.jgytf.u-szeged.hu/~vass/vportrea.htm<br>
+<br>
+După conceptul inițial al autorului, acest text reprezintă prima parte a unei trilogii, care s-ar fi construit pe folclorul și lumea fanteziei popoarelor din Bazinul Carpatic. Prin ideea de bază, formulată des de Bartók, a vrut să redea concepția înfrățirii popoarelor. Nu știm exact, dacă acest ciclu s-ar fi constituit din trei sau patru părți. Dar este univoc, că fiecare compoziție s-ar fi inspirat din folclorul popoarelor de pe malul Dunării, și așa, marea compoziție în ansamblu, ar fi propagat ideea de bază a lui Bartók, des anunțată, și anume, necesitatea ajutorării reciproce dintre popoarele central-est europene. Din planul mare s-a realizat doar prima parte, inspirată din cercul legendelor păgâne românești de crăciun, în traducerea lui Bartók: povestea feciorilor doritori de puritatea lumii naturale, refugiați din societate și devenind până la urmă cerbi minuni. Cantata profana în spiritul „izvorului curat”, amintit în text ca un ideal, este o compoziție cristalină și din punct de vedere muzical. Din punct de vedere structural și gen muzical, ca modele stau cantatele lui Johann Sebastian Bach, dar în limbajul muzical se pot descoperi elementele de bază ale întregii opere de Bartók, în forme clasice perfecte, cizelate. Versurile din care s-a inspirat, așa numitele colinde, au fost culese de Bartók, încă înainte de primul război mondial în cumunele Idicel și Urusiu de Sus.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Bartók Béla
+* **Temă:** mama, tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

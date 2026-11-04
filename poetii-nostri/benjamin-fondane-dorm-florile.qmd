@@ -1,0 +1,54 @@
+---
+title: "Dorm florile"
+subtitle: "Benjamin Fondane"
+author: "Doctor Shrink"
+date: "2026-11-05"
+categories: [poezie, spoken-word, dor, flori]
+image: "../images/themes/dor.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nKe5TPD1m9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dorm florile uşor în pluşul moale<br>
+<br>
+Al nopţii ce se mistuie şi moare,<br>
+<br>
+Iar licurii de rouă-n cupe clare<br>
+<br>
+Au scânteieri fugare de opale.<br>
+<br>
+Şi risipit în straturi şi în oale<br>
+<br>
+Norodu-ntreg de flori mirositoare<br>
+<br>
+Îşi profilează-n noaptea visătoare<br>
+<br>
+Conturul zvelt al trupurilor goale.<br>
+<br>
+Un crin suspină-n somn; apoi se-nclină<br>
+<br>
+Extatic, în cascade de lumină<br>
+<br>
+Ce se scoboară blândă dinspre astre.<br>
+<br>
+Şi dintr-atâtea cupe-nlăcrimate,<br>
+<br>
+Aromele se-nalţă val, furate<br>
+<br>
+Dintr-un buchet suav de flori albastre.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Benjamin Fondane
+* **Temă:** dor, flori
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
