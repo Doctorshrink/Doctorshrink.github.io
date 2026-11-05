@@ -1,0 +1,58 @@
+---
+title: "Eu creşteam. Precum pe Ganimede"
+subtitle: "Boris Pasternak"
+author: "Doctor Shrink"
+date: "2026-11-06"
+categories: [poezie, spoken-word, munte]
+image: "../images/themes/munte.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L1M4Y74pw1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Eu creşteam. Precum pe Ganimede,<br>
+<br>
+Intemperii şi vise mă purtau.<br>
+<br>
+Ca năpastele-mi creşteau, aş crede,<br>
+<br>
+Aripi ce de pământ mă despărţeau.<br>
+<br>
+Creşteam. Şi, urzit spre înserare,<br>
+<br>
+Văl misterios mă învăluia.<br>
+<br>
+Îndrumat de vinul din pahare,<br>
+<br>
+De jocul tristei sticle ce lucea,<br>
+<br>
+Creşteam, dar jaru-n omoplaţi deja<br>
+<br>
+Îngheţa a şoimului mângâiere.<br>
+<br>
+Departe-i timpul când, iubirea mea,<br>
+<br>
+Peste mine ai plutit în sfere.<br>
+<br>
+Dar parcă nu ni-i dat acelaşi cer?<br>
+<br>
+Chiar acesta-i farmecu-nălţimii –<br>
+<br>
+Lebădă ce s-a bocit pe sine<br>
+<br>
+Cu vulturul alăturea te ştii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Boris Pasternak
+* **Temă:** munte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

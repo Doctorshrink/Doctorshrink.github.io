@@ -1,0 +1,74 @@
+---
+title: "Nimeni nu va fi acasă - traducere V.Bragagiu"
+subtitle: "Boris Pasternak"
+author: "Doctor Shrink"
+date: "2026-11-06"
+categories: [poezie, spoken-word, casa]
+image: "../images/themes/casa.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M0Ahnss5aLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nimeni nu va fi acasă<br>
+<br>
+Doar amurgul. Și s-a stins<br>
+<br>
+Ziua iernii luminoasă<br>
+<br>
+Lângă storul larg deschis.<br>
+<br>
+Numai aliciri piezișe<br>
+<br>
+De moi stele-n cerul mic<br>
+<br>
+Doar omăt și-acoperișuri<br>
+<br>
+Și mai mult nimic... nimic...<br>
+<br>
+Iar chiciura linii curmă<br>
+<br>
+Și în mine iar te cerni<br>
+<br>
+Tângă de un an urmă<br>
+<br>
+Și durerea altei ierni.<br>
+<br>
+Și iar vrea să mă apuce<br>
+<br>
+Un păcat pitit în gând<br>
+<br>
+Geamul cum apasă-n cruce<br>
+<br>
+Vina lemnului flămând.<br>
+<br>
+Pe neprins, pe draperie<br>
+<br>
+Năvăli tremur ușor<br>
+<br>
+Pășind tihna străvezie<br>
+<br>
+Intri tu ca viitor.<br>
+<br>
+Tu vei sta în ușă toată<br>
+<br>
+Dalbă, simplă ca-n trecut<br>
+<br>
+În văl limpede-mbrăcată<br>
+<br>
+Fulgi din care s-au țesut.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Boris Pasternak
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

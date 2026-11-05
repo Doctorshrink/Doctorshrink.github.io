@@ -1,0 +1,117 @@
+---
+title: "La Romania"
+subtitle: "Bogdan Petriceicu Haşdeu"
+author: "Doctor Shrink"
+date: "2026-11-06"
+categories: [poezie, spoken-word, mama]
+image: "../images/themes/mama.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L_PpqbJFB-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Purtând pe trup înfipta gheara<br>
+Si-n suflet drojdii de venin,<br>
+De zece ori sarmana tara,<br>
+Ramasa-n voie la strain,<br>
+D-abia putând sa mai respire,<br>
+Mereu lovita de calai—<br>
+De ce te plângi c-a-ta peire<br>
+Îti vine de la fii tai?<br>
+O nu si nu, iubito mama!<br>
+Acei ce roaba te-au tradat<br>
+Prin furtisag români se cheama,<br>
+Mânjind un nume uzurpat!<br>
+<br>
+Trecut-au vagabunde gloate<br>
+Prin ospatosul tau ogor,<br>
+Si ti-au lasat în urma toate<br>
+Gogosi de vierme rozator!<br>
+Un venetic îti da cu peatra,<br>
+Îti da un altul cu ciomag,<br>
+Primiti la masa si la vatra<br>
+În loc sa zaca lânga prag!<br>
+O nu si nu, iubito mama!<br>
+Acei ce roaba te-au tradat<br>
+Prin furtisag români se cheama,<br>
+Mânjind un nume uzurpat!<br>
+<br>
+Ei nu-ti sunt fii. Priveste-i bine:<br>
+Cunoaste-ti laptele din sân<br>
+Si din napârcele straine<br>
+Alege puiul de român!<br>
+Nu blastama victima frunza,<br>
+Ci scutur-o de negrii gâzi:<br>
+În foi sa nu se mai ascunza<br>
+Cumplita droaie de omizii<br>
+O nu si nu, iubito mama!<br>
+Acei ce roaba te-au tradat<br>
+Prin furtisag români se cheama,<br>
+Mânjind un nume uzurpat!<br>
+<br>
+Deschide cronica strabuna<br>
+La anii marilor nevoi,<br>
+Când soartea fulgera si tuna<br>
+Potop si flacara pe noi:<br>
+Sa vezi c-acea grozava ciuma,<br>
+Ce-n veci de veci te-a otravit<br>
+S-acuma iarasi te sugruma—<br>
+E veneticul înfiat!<br>
+O nu si nu, iubito mama!<br>
+Acei ce roaba te-au tradat<br>
+Prin furtisag români se cheama,<br>
+Mânjind un nume uzurpat!<br>
+<br>
+Românul geme-n batatura<br>
+Pe când strainii chiuiesc<br>
+Si urla cântece de ura,<br>
+Sugând pamântul românesc!<br>
+Iar tu, o scumpo Românie,<br>
+Tu nu stii singura ce zici,<br>
+Lovind, pe fii-ti cu mânie<br>
+În loc sa bati pe venetici!<br>
+O nu si nu, iubito mama!<br>
+Acei ce roaba te-au tradat<br>
+Prin furtisag români se cheama,<br>
+Mânjind un nume uzurpat!<br>
+<br>
+Sunt multi românii prin catune,<br>
+Sunt multi ca stelele din cer,<br>
+Dar norul greu când îi supune<br>
+Luceferii în ceata pier!<br>
+Sunt multi românii în tot locul,<br>
+Sunt multi ca floarea din gradini,<br>
+Dar nu s-a dezvalit bobocul<br>
+Impedecat de maracini!<br>
+O nu si nu, iubito mama!<br>
+Acei ce roaba te-au tradat<br>
+Prin furtisag români se cheama,<br>
+Mânjind un nume uzurpat!<br>
+<br>
+De vrei sa scapi duioasa raza<br>
+A mii de stele românesti,<br>
+Tu norul ce le-nmormânteaza<br>
+Din cerul tarei sa-l gonesti!<br>
+De vrei sa smulgi plapânda floare<br>
+Din buruieni si din scaieti,<br>
+Tu-i fa curând un loc la soare:<br>
+Hai dara la plivit, baietii<br>
+O nu si nu, iubito mama!<br>
+Acei ce roaba te-au tradat<br>
+Prin furtisag români se cheama,<br>
+Mânjind un nume uzurpat!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Bogdan Petriceicu Haşdeu
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

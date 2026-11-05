@@ -1,0 +1,68 @@
+---
+title: "Muntele si valea"
+subtitle: "Bogdan Petriceicu Haşdeu"
+author: "Doctor Shrink"
+date: "2026-11-06"
+categories: [poezie, spoken-word, munte]
+image: "../images/themes/munte.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jSzqTKbzuEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nebun, nebun de mii de ori<br>
+<br>
+Acel ce cată grâu şi flori<br>
+<br>
+Pe munţii rătăciti în nori:<br>
+<br>
+Sunt tari: sunt nalţi, sunt de granit,<br>
+<br>
+Dar fruntea lor cea triumfală<br>
+<br>
+Abia rodeşte cu sfială<br>
+<br>
+Un muşchi mărunt şi otrăvit.<br>
+<br>
+Priviţi, priviţi aceste văi,<br>
+<br>
+De râulete şi de căi,<br>
+<br>
+De busuioace şi de clăi<br>
+<br>
+Brăzdate ca un curcubeu:<br>
+<br>
+Se scaldă struguru-n lumină,<br>
+<br>
+Şi iese mierea din albină,<br>
+<br>
+Şi totu-i plin de Dumnezeu!<br>
+<br>
+Nu sus, nu sus la cei avuţi,<br>
+<br>
+În norii fumului pierduţi,<br>
+<br>
+Se nasc fecundele virtuţi.<br>
+<br>
+Poporul ce suspină jos<br>
+<br>
+E singur valea roditoare,<br>
+<br>
+În care creste grâu şi floare,<br>
+<br>
+Bun şi frumos!...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Bogdan Petriceicu Haşdeu
+* **Temă:** munte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

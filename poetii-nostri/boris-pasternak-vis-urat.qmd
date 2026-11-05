@@ -1,0 +1,132 @@
+---
+title: "Vis urât"
+subtitle: "Boris Pasternak"
+author: "Doctor Shrink"
+date: "2026-11-06"
+categories: [poezie, spoken-word, vis]
+image: "../images/themes/vis.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/trrJm0zzdMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ascultă viforul, strecurându-se prin gingii,<br>
+<br>
+Ascultă golaşa fugă a diavoleştii zăpezi.<br>
+<br>
+Nu are de ce se zdrobi, şi troienirile<br>
+<br>
+Ca o înlănţuire de fontă alunecă iute<br>
+<br>
+Aşternute pământului,<br>
+<br>
+Peste ţarini, arii şi haturi, ca trenul,<br>
+<br>
+Prin văzduh, prin zăpezi, în chemările vântului.<br>
+<br>
+Printre pini, prin spărturile-n garduri fără de cuie,<br>
+<br>
+Prin scânduri, prin gingiile cocioabelor fără nas.<br>
+<br>
+Peste câmpuri, prin văzduh, peste sau printre îngrădiri,<br>
+<br>
+Văzute în vis de postitorul ceresc.<br>
+<br>
+Dânsul observă: căzut-au dinţii din maxilare.<br>
+<br>
+Şi molfăie castelele, conacele, moşiile peltice,<br>
+<br>
+Totul e dezbătut, nimic nu e-ntreg,<br>
+<br>
+Şi postitorului greaţă i se face de la<br>
+<br>
+Bocănitul oaselor lovite-nde ele.<br>
+<br>
+De la dinţii piloţilor, de la tridente marinăreşti.<br>
+<br>
+De la roşiile ştirbituri ale crenelărilor carpatine.<br>
+<br>
+El vrea să se mişte, să se urnească din loc,<br>
+<br>
+Nu poate să se trezească,<br>
+<br>
+Nu poate, prins în visul ferecat cu zăvoare.<br>
+<br>
+Şi încă mai vede cum pe ogoare de pe malul Stohodului**<br>
+<br>
+Pământul e făcut una cu pământul.<br>
+<br>
+Nu crede ca înălţimea să caşte cândva<br>
+<br>
+În deplina ei beznă, şi pe cer să plutească,<br>
+<br>
+Precum un clopot pe îndepărtata grindă,<br>
+<br>
+Lingoul de argint al depresiunii înghiţitoare,<br>
+<br>
+Limba şi verbul ei – cerescul crai nou.<br>
+<br>
+Nu, gângăvitul, fonfăitul şi răguşitul,<br>
+<br>
+Odată cu sângele înghiţit e de cartilaginoasele ruine.<br>
+<br>
+Bagă mâna în învârtejitul pietriş al viforniţei, –<br>
+<br>
+În palmă se va risipi prin crăpătură,<br>
+<br>
+Ca un ciot cărnos, muşchi fără scop<br>
+<br>
+Pe venă, sfâşiată fatal de o ploaie de gloanţe.<br>
+<br>
+Simţi arsură, ca un dovleac endemic.<br>
+<br>
+Din straturile grădinii el sări peste gard.<br>
+<br>
+E în hârtop. Bătălia l-a rupt,<br>
+<br>
+L-a şfichiuit bătălia, ca pe o sferă<br>
+<br>
+De pe pantă se rostogoli în râpă<br>
+<br>
+Printre pini, prin spărturile din gardul fără de cuie,<br>
+<br>
+Prin scânduri, prin gingiile cocioabelor fără nas.<br>
+<br>
+Ascultă vuietul necuprinderilor neumblate,<br>
+<br>
+Ascultă turbata lor alergare.<br>
+<br>
+Bubuitor – despicătoarea artilerie<br>
+<br>
+Ca nişte talere se gudură la chemările vântului.<br>
+<br>
+Cui să se ataşeze, în măsurători de verste,<br>
+<br>
+Cuvintele poleiului, întunericului şi afeturilor?<br>
+<br>
+Şi povestea alunecă, şi peticele nevrozelor,<br>
+<br>
+Perindându-se ca tifonul în gălbenuşul xeroformului,<br>
+<br>
+Gonesc dinspre tren spre ţarini. În noapte<br>
+<br>
+Gonesc ca platformele, prin zăpadă, spre semafoare.<br>
+<br>
+Dorm frânele trenurilor sanitare.<br>
+<br>
+Şi visează, visează cerescul postitor...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Boris Pasternak
+* **Temă:** vis
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,70 @@
+---
+title: "Flaute de mătase"
+subtitle: "Camil Baltazar"
+author: "Doctor Shrink"
+date: "2026-11-06"
+categories: [poezie, spoken-word, inima, lacrimi]
+image: "../images/themes/inima.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F_0czFJ82nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Amurgea pe străzi dosnice; în grădini amurgea și pălea.<br>
+<br>
+Tu umblai să cauți pe vechile alei, printre frunze galbene, inima ta.<br>
+<br>
+Umblai cu sicriașul mânilor, cu clopotele pleoapelor, să cauți inima în straturile amurgite.<br>
+<br>
+Dacă ai fi știut cânta,<br>
+<br>
+ai fi regăsit inima ta;<br>
+<br>
+ai fi regăsit-o în amurgirea de comoară galbenă,<br>
+<br>
+în întomnarea de aramă.<br>
+<br>
+Dacă ai mai fi știut plânge, ai fi regăsit inima ta în cea din urmă picătură de sânge din soarele care amurgea.<br>
+<br>
+Mai știi să taci?<br>
+<br>
+mai știi să pogori<br>
+<br>
+pe trepte albe și pe unde întomnate?<br>
+<br>
+în grădinița din preajma sufletului<br>
+<br>
+mimozele spun în melodii galbene că ai să vii.<br>
+<br>
+Geamurile albastre și verzi,<br>
+<br>
+ferestrele vechi,<br>
+<br>
+așteaptă mereu lumina arătării tale.<br>
+<br>
+Dacă mai știi să taci, dacă mai poți cânta, vei veni să plângem, eu, ochii tăi, tu, inima mea.<br>
+<br>
+Dacă mai știi plânge, vom merge în grădina înserată, și-ntr-o plânsoare cu pete de sânge vei plânge tot ce n-ai plâns altă dată.<br>
+<br>
+Și vom tăcea apoi,<br>
+<br>
+și vom pleca,<br>
+<br>
+eu, cu florile moarte ale ochilor tăi,<br>
+<br>
+tu, cu o ciută muribundă pe brațe: inima mea.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Camil Baltazar
+* **Temă:** inima, lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
