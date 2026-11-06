@@ -1,0 +1,74 @@
+---
+title: "Inimă multiplă"
+subtitle: "Carlos Drummond de Andrade"
+author: "Doctor Shrink"
+date: "2026-11-07"
+categories: [poezie, spoken-word, inima]
+image: "../images/themes/inima.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uqTzH3uCxc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Era la Rio.<br>
+<br>
+Treceam pe bulevard aproape de miezul nopţii.<br>
+<br>
+Sfârcuri de sâni zvâcneau spre puzderia luminoasă a sfârcurilor de stele.<br>
+<br>
+Plutea în aer promisiunea mării<br>
+<br>
+iar tramvaiele se legănau<br>
+<br>
+sufocând căldura<br>
+<br>
+ce dogorea din interiorul vântului,<br>
+<br>
+iar vântul sosea dinspre Minas.<br>
+<br>
+Paraliticele mele vise cu dezgustul de a trăi<br>
+<br>
+(pentru mine viaţa este voinţă de a muri)<br>
+<br>
+continuau să facă din mine un fel de individ cu flaşnetă<br>
+<br>
+din cei aflaţi în încinsa Galerie Cruzeiron fierbinte<br>
+<br>
+şi cum eu nu cunoşteam pe nimeni decât blândul vânt din ţinutul minelor,<br>
+<br>
+şi nu aveam nici o poftă să beau, mi-am zis: gata cu toate.<br>
+<br>
+Dar adia peste oraş fascinaţia unor case profunde,<br>
+<br>
+automobile decapotabile lunecau în direcţia mării<br>
+<br>
+era voluptatea rătăcitoare a zăpuşelii<br>
+<br>
+mii de daruri pe care viaţa le face oamenilor indiferenţi,<br>
+<br>
+încât inima îmi bătea cu tărie, iar ochii mei inutili plângeau.<br>
+<br>
+Marea dădea cu pumnii în pieptul meu, nu mai izbea în ţărm.<br>
+<br>
+Strada sfârşea brusc, cum de nu mai erau copaci? oraşul sunt eu<br>
+<br>
+oraşul sunt eu<br>
+<br>
+eu sunt oraşul<br>
+<br>
+iubirea mea.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Carlos Drummond de Andrade
+* **Temă:** inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

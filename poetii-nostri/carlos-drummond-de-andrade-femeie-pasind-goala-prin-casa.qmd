@@ -1,0 +1,50 @@
+---
+title: "Femeie pășind goală prin casă"
+subtitle: "Carlos Drummond de Andrade"
+author: "Doctor Shrink"
+date: "2026-11-07"
+categories: [poezie, spoken-word, casa]
+image: "../images/themes/casa.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mDAVgCsOJ9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Femeie pășind goală prin casă<br>
+<br>
+învăluie lumea cu-atâta pace.<br>
+<br>
+Nu e o goliciune căutată, provocatoare.<br>
+<br>
+E un fel de a umbla îmbrăcată în goliciune,<br>
+<br>
+inocență de călugăriță și trup de apă.<br>
+<br>
+Corpul nici măcar nu e perceput<br>
+<br>
+de ritmul care-l transportă.<br>
+<br>
+Tranzitează doar niște curbe în stare de puritate<br>
+<br>
+conferindu-i vieții un nume: castitate.<br>
+<br>
+Pilozitățile fascinante nu perturbă.<br>
+<br>
+Sâni, fese (armistițiu tacit)<br>
+<br>
+nu doresc să se războiască. Nici eu nu vreau.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Carlos Drummond de Andrade
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

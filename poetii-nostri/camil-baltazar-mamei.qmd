@@ -1,0 +1,80 @@
+---
+title: "Mamei"
+subtitle: "Camil Baltazar"
+author: "Doctor Shrink"
+date: "2026-11-07"
+categories: [poezie, spoken-word, mama]
+image: "../images/themes/mama.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fk6WJ2YNDCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Aprilie, luna în care mor mulți ofticosi va veni să ne sărute geamurile cu lumina transparentă și fluidă, împrospătând brazilor - ramurile.<br>
+<br>
+Și va fi iar veranda plină de bolnavi.<br>
+<br>
+Sora<br>
+<br>
+Madeleine va surâde, împărțind vorbe bune ca dintr-un coș cu daruri; numai eu voi sta la geam, cu ochii calzi, tânjind.<br>
+<br>
+Mamă,<br>
+<br>
+Și-ntr-o după-amiază cu aer răcoros, după o ploaie fină și calmă ca un plânset de ofticos, sara, prietena<br>
+<br>
+Madeleine va rămâne îngrijată lângă mine, fiindcă voi avea febră și-n somn aiurând voi pomeni mereu<br>
+<br>
+de tine.<br>
+<br>
+Am să mă deștept după miez de noapte<br>
+<br>
+și-am să caut mânile surorii.<br>
+<br>
+și o să mă doară auzind<br>
+<br>
+cum afară se-ntorc cu scâncet de litanie — cocorii.<br>
+<br>
+Și fiindcă nu voi putea plânge,<br>
+<br>
+gura mi se va umple de cald și de sânge.<br>
+<br>
+Spre dimineață când bolnavii se scoală<br>
+<br>
+cu gemete și-ntrebări pe jumătate,<br>
+<br>
+voi dormi frumos,<br>
+<br>
+cu mânile a rugăciune pe piept încrucișate.<br>
+<br>
+Și poate că voind să mă așeze în capelă,<br>
+<br>
+mă vor plimba descoperit prin grădină.<br>
+<br>
+Și cum mă vor purta tăcut pe alei<br>
+<br>
+în dimineață vibrând ca o coarda de violină,<br>
+<br>
+se va pleca o creangă de copac<br>
+<br>
+umbrindu-mi fața cu tăcere<br>
+<br>
+și sărutându-mă blajin cu floare albă<br>
+<br>
+ca o târzie și cuminte mângâiere<br>
+<br>
+Și cum mă vor fi lăsat să hodinesc puțin cu fața galbenă brodată-n albul aprilin, va fi atâta liniște în jurul meu, creanga va stă boltită asupra-mi cu teamă, c-aș vrea în clipa ceea să te rog, când vei afla de moartea mea, să nu plângi, mamă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Camil Baltazar
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,74 @@
+---
+title: "A iubi"
+subtitle: "Carlos Drummond de Andrade"
+author: "Doctor Shrink"
+date: "2026-11-07"
+categories: [poezie, spoken-word, iubire]
+image: "../images/themes/iubire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NWkQVYMck20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ce poate să facă o creatură dacă nu,<br>
+<br>
+între alte creaturi, să iubească?<br>
+<br>
+Să iubească și să uite,<br>
+<br>
+să iubească și să rău- iubească,<br>
+<br>
+să iubească și să ne-iubească, să iubească?<br>
+<br>
+mereu, și de i se tulbură ochii, să iubească?<br>
+<br>
+Ce poate, vă întreb, ființa îndrăgostită,<br>
+<br>
+singură, în rotația universală, decât<br>
+<br>
+să se rotească la rândul ei, dar și să iubească?<br>
+<br>
+Să iubească ceea ce marea aruncă la țărm,<br>
+<br>
+ceea ce ea îngroapă, și ceea ce, în briza marină<br>
+<br>
+e sare, sau sete de iubire, sau simplă neliniște?<br>
+<br>
+Să iubești solemn palmierii deșertului,<br>
+<br>
+și capitularea dar și adorația ce așteaptă,<br>
+<br>
+și să iubești ceea ce este inospitalier, asprimile,<br>
+<br>
+o vază fără flori, o pardoseală de fier,<br>
+<br>
+și pieptul nemișcat, și strada văzută în somn, și o pasăre de pradă.<br>
+<br>
+Iată destinul nostru: iubirea ce nu calculează,<br>
+<br>
+risipită printre lucruri perfide sau nule,<br>
+<br>
+dăruirea nelimitată în schimbul unei complete ingratitudini,<br>
+<br>
+iar în cochilia goală a iubirii căutarea înfricoșată,<br>
+<br>
+răbdătoare, căutarea de și mai multă iubire.<br>
+<br>
+Să iubim chiar lipsa noastră de iubire, iar în secătuirea noastră<br>
+<br>
+să iubim apa implicită, și sărutul tacit, și setea infinită.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Carlos Drummond de Andrade
+* **Temă:** iubire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

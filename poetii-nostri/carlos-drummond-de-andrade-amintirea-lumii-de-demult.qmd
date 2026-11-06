@@ -1,0 +1,56 @@
+---
+title: "Amintirea lumii de demult"
+subtitle: "Carlos Drummond de Andrade"
+author: "Doctor Shrink"
+date: "2026-11-07"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QhJk0wDGfs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Prin grădină Clara se plimba cu copiii.<br>
+<br>
+Cerul era verde deasupra peluzei,<br>
+<br>
+era aurie sub poduri,<br>
+<br>
+celelalte elemente erau albastre, roz, portocalii,<br>
+<br>
+agentul de poliție surâdea, treceau biciclete,<br>
+<br>
+fetița alerga pe pajiște să prindă o pasăre,<br>
+<br>
+toată lumea, Germania, China, totul era liniștit de jur împrejurul Clarei.<br>
+<br>
+Copiii priveau spre cer: nu era interzis.<br>
+<br>
+Gura, nările, ochii erau larg deschiși. Nu se arăta nici un fel de pericol.<br>
+<br>
+Clara se temea numai de pericole precum gripa, căldura, insectele.<br>
+<br>
+Îi era teamă Clarei să nu scape tramvaiul de unsprezece,<br>
+<br>
+ea aștepta scrisori ce întârziau să sosească,<br>
+<br>
+ea nu reușea să se îmbrace de fiecare dată cu ceva nou. Dar dimineața<br>
+<br>
+se plimba prin grădină!!!<br>
+<br>
+Existau pe atunci grădini, existau dimineți pe atunci!!!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Carlos Drummond de Andrade
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
