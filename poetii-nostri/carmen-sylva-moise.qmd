@@ -1,0 +1,122 @@
+---
+title: "Moise"
+subtitle: "Carmen Sylva"
+author: "Doctor Shrink"
+date: "2026-11-08"
+categories: [poezie, spoken-word, tata]
+image: "../images/themes/tata.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gcwYtA3dUpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Striga poporul: „Apă! Noi murim!”<br>
+<br>
+Privea proorocu-ntinderea pustie<br>
+<br>
+Și cerul sur: „Tu, Doamne, dacă ești,<br>
+<br>
+Să nu mă lași, rostește-al tău „să fie”!<br>
+<br>
+Puteri tu dă, Părinte, mâinii mele<br>
+<br>
+Și lasă-mă din stânci să scot izvorul,<br>
+<br>
+Stăpâne al vieții, îndură-te să scap<br>
+<br>
+De-o moarte-așa cumplită, azi, poporul,<br>
+<br>
+Tu m-ai chemat, Jehova, iar acum<br>
+<br>
+Mă lași în cea mai dureroasă vreme,<br>
+<br>
+Să fiu ucis de-ai mei, de cei mai dragi,<br>
+<br>
+Izbit de ura lor și de blesteme.<br>
+<br>
+Să nu mă înveți, Părinte, a dispera!<br>
+<br>
+Al tău e neamul care-l am pe mână!<br>
+<br>
+Ai milă dar de mine-acum, cât ai<br>
+<br>
+De cel din urmă vierme din țărână!<br>
+<br>
+Ei nu știu, bieții, cei ce-n mine cred,<br>
+<br>
+Ce chinuri am și cum mă zbat în ele,<br>
+<br>
+Ce singur sunt eu azi și cum mă mistui<br>
+<br>
+În trista noapte-a disperării mele!<br>
+<br>
+Părinte, m-ai ales și-am ascultat,<br>
+<br>
+Deși-mi vedeam prea bine a mea slăbiciune,<br>
+<br>
+Și singur eu sculai acest popor<br>
+<br>
+Să-l scot din gura morții, din robie.<br>
+<br>
+De nu sunt vrednic eu ca să conduc<br>
+<br>
+Poporul tău, Tu pierde-mă, Părinte,<br>
+<br>
+Și-alege-ți după plac un om mai bun<br>
+<br>
+Spre-a duce-al tău popor de-aici-nainte!”<br>
+<br>
+Și-n jurul lui, hulind pe Dumnezeu,<br>
+<br>
+Urlau de chin setoșii-n disperare<br>
+<br>
+Și plini de plâns scoteau pe morții lor<br>
+<br>
+Din tabără-n pustiu, cu vuiet mare.<br>
+<br>
+Și tinere femei, copii, femei și moși,<br>
+<br>
+Și fete și flăcăi, treceau pe-aproape,<br>
+<br>
+Întinși pe patul lor, din corturi scoși,<br>
+<br>
+Și tot mai mulți duceau ca să-i îngroape.<br>
+<br>
+Cereau să le ajute, și scrâșnind<br>
+<br>
+Rosteau cu urlet urgisitu-i nume -<br>
+<br>
+El însă sta tăcut, privind la ei<br>
+<br>
+Cu ochii duși, părând dintr-altă lume.<br>
+<br>
+El stă ca stânca-n marea cu furtuni,<br>
+<br>
+N-arată nici durere, nici mânie,<br>
+<br>
+Dar negrăit de jalnice-ale lui<br>
+<br>
+Gândiri ce-l mistuies, cine le știe?<br>
+<br>
+Apoi ridică-ncet toiagul său,<br>
+<br>
+Lovește stânca, și uimit poporul<br>
+<br>
+Stă mut văzând ieșind cu zgomot<br>
+<br>
+Cu apă din belșug, acum, izvorul!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Carmen Sylva
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

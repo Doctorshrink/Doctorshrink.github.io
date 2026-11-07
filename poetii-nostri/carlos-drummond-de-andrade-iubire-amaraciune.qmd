@@ -1,0 +1,86 @@
+---
+title: "Iubire – amărăciune"
+subtitle: "Carlos Drummond de Andrade"
+author: "Doctor Shrink"
+date: "2026-11-08"
+categories: [poezie, spoken-word, durere, iubire]
+image: "../images/themes/durere.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HfCMWZPHKh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Întrucât iubise și iubise<br>
+<br>
+se știa<br>
+<br>
+interzis să-și arate sentimentele<br>
+<br>
+tandre sau disperate<br>
+<br>
+în acest muzeu al sumbrei indiferențe<br>
+<br>
+spuneți-mi: însă de ce<br>
+<br>
+să iubești și să suferi e așa cum se moare<br>
+<br>
+de variolă voluntară vagare ev<br>
+<br>
+identă?<br>
+<br>
+ah PENTRUCĂIUBISE<br>
+<br>
+și se arsese<br>
+<br>
+de tot pe dinăuntru afară în cântece în ecourile<br>
+<br>
+lugubre ale ei (lui) îns(eși/uși)<br>
+<br>
+frate (soră) portret oglindă pentru cel/cea iubit/iubită?<br>
+<br>
+dacă era pentru<br>
+<br>
+sau dacă era prin<br>
+<br>
+ca și cum totodată totuși<br>
+<br>
+toată viața dar toată viața<br>
+<br>
+e căutare de găsită și perpicace expunere<br>
+<br>
+de carne a cunoașterii, acum vedeți<br>
+<br>
+îmi permiteți doamnă (domnule)<br>
+<br>
+amic(ă), îmi scuzați<br>
+<br>
+această indispoziție<br>
+<br>
+îl scuzați pe acest cântăreț jalnic și mărunt<br>
+<br>
+și acest fel de a vrea să consolezi fără prea mare convingere<br>
+<br>
+ceea ce de la bun început e neconsolabil<br>
+<br>
+moartea este inconsolabila consolatoare ce minunat consonează<br>
+<br>
+la fel și viața<br>
+<br>
+la fel și totul<br>
+<br>
+însă iubirea drag(ule/ă) colega, ea nu consolează niciodată de stră-nicicând.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Carlos Drummond de Andrade
+* **Temă:** durere, iubire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

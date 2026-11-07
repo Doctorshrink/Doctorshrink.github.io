@@ -1,0 +1,98 @@
+---
+title: "*** (cînd vînturile vieţii îţi usucă sufletul)"
+subtitle: "Cassian Maria Spiridon"
+author: "Doctor Shrink"
+date: "2026-11-08"
+categories: [poezie, spoken-word, suflet, vant]
+image: "../images/themes/suflet.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_c6ViaFCCRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+cînd vînturile vieţii îţi usucă sufletul<br>
+<br>
+nimeni<br>
+<br>
+între înţelepţi<br>
+<br>
+nu cade-n plasa milei<br>
+<br>
+e un ştergar ce se ridică<br>
+<br>
+în lupte fratricide<br>
+<br>
+la umbra îmbătrînitului Bizanţ<br>
+<br>
+dar nimeni<br>
+<br>
+niciodată<br>
+<br>
+nu înalţă steagul<br>
+<br>
+între atîtea victorii<br>
+<br>
+fără glorii pe măsură<br>
+<br>
+nefericită întîmplare<br>
+<br>
+precum zidurile de zăpadă<br>
+<br>
+la sfîrşit de anotimp<br>
+<br>
+cînd vine soarele<br>
+<br>
+ne-mbrăţişează<br>
+<br>
+inimi cu aripe<br>
+<br>
+sau îngrozite nopţi<br>
+<br>
+frumoasă este clipa<br>
+<br>
+la ora dimineţii<br>
+<br>
+cînd stai pe mal de ape<br>
+<br>
+cu tălpile desculţe<br>
+<br>
+ca primăvara între aştri<br>
+<br>
+nepăsătorii călători<br>
+<br>
+află pe ape tulburi<br>
+<br>
+învolburatele speranţe<br>
+<br>
+grea e bucuria<br>
+<br>
+ca o stîncă<br>
+<br>
+şi nimenea nu vrea<br>
+<br>
+nu-ncearcă<br>
+<br>
+să îi schimbe locul<br>
+<br>
+o! voi cereştilor<br>
+<br>
+şi voi nepreţuite clipe<br>
+<br>
+mă-ntunec<br>
+<br>
+– ca luna care intră în eclipsă –
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cassian Maria Spiridon
+* **Temă:** suflet, vant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,122 @@
+---
+title: "*** (călător)"
+subtitle: "Cassian Maria Spiridon"
+author: "Doctor Shrink"
+date: "2026-11-08"
+categories: [poezie, spoken-word, drum]
+image: "../images/themes/drum.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fygWK743Uyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+călător<br>
+<br>
+prin bezna verde<br>
+<br>
+tu cauţi inima<br>
+<br>
+ce-ţi este hărăzită<br>
+<br>
+o cauţi<br>
+<br>
+prin des frunzişul<br>
+<br>
+ce-l sporeşte primăvara<br>
+<br>
+cu noi şi noi mlădiţe<br>
+<br>
+sub soarele fierbinte<br>
+<br>
+al miezului de vară<br>
+<br>
+printre rîndurile viei<br>
+<br>
+brumată de apusul<br>
+<br>
+toamnei<br>
+<br>
+şi-n congelatul vis<br>
+<br>
+al albelor zăpezi<br>
+<br>
+cînd verde bezna<br>
+<br>
+capătă culori întunecate<br>
+<br>
+tu inima-ţi apropii<br>
+<br>
+iar şi iar<br>
+<br>
+prin ciclonul nemilos<br>
+<br>
+şi trecător al vieţii<br>
+<br>
+nu îndestul trăită<br>
+<br>
+cît inimile noastre<br>
+<br>
+una să ne fie<br>
+<br>
+nu în zadar<br>
+<br>
+să întorci timpul<br>
+<br>
+precum acele marelui orologiu<br>
+<br>
+victorios<br>
+<br>
+către clipele vii<br>
+<br>
+să le repeţi cu încăpăţînare<br>
+<br>
+pînă la înţelegere şi acceptare<br>
+<br>
+să întorci roata timpului<br>
+<br>
+cu nepătrunsele chei<br>
+<br>
+ale dragostei<br>
+<br>
+să fii gata să treci prin rîpele<br>
+<br>
+pline de noroaiele gloriei<br>
+<br>
+din primul şi al doilea măcel<br>
+<br>
+cu nesăbuinţa<br>
+<br>
+că va veni<br>
+<br>
+vor veni<br>
+<br>
+încă şi încă...<br>
+<br>
+tu stai şi învîrţi cheia<br>
+<br>
+cheița minune<br>
+<br>
+ce deschide timpului drumul<br>
+<br>
+cu perseverenţă şi încredere<br>
+<br>
+că nu în zadar<br>
+<br>
+cad peste noi<br>
+<br>
+florile dalbe
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cassian Maria Spiridon
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

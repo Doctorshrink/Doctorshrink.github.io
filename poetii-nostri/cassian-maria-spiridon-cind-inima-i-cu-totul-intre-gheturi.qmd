@@ -1,0 +1,62 @@
+---
+title: "* * * (cînd inima-i cu totul între gheţuri)"
+subtitle: "Cassian Maria Spiridon"
+author: "Doctor Shrink"
+date: "2026-11-08"
+categories: [poezie, spoken-word, inima]
+image: "../images/themes/inima.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZsBkXzHRCW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+cînd inima-i cu totul între gheţuri<br>
+<br>
+tu îţi reverşi întreaga iubire<br>
+<br>
+peste adunarea de oase îmbrăcate în piele<br>
+<br>
+mă curpinzi cu genele-n lacrimi<br>
+<br>
+ce se revarsă îngăduitoare<br>
+<br>
+dintre pleoape<br>
+<br>
+sub un cer<br>
+<br>
+de îmbătrînite ere<br>
+<br>
+şi sorii în rotire<br>
+<br>
+ne urmăresc privirea<br>
+<br>
+sfîşietoare e clipa<br>
+<br>
+în care dragostea ne-nfăşoară<br>
+<br>
+atît rămîne<br>
+<br>
+din permanenta alergare<br>
+<br>
+printre stînci<br>
+<br>
+între creneluri<br>
+<br>
+eşti precum e Luna<br>
+<br>
+pe cerul verii treierat de stele
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cassian Maria Spiridon
+* **Temă:** inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

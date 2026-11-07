@@ -1,0 +1,38 @@
+---
+title: "Mama"
+subtitle: "Carmen Sylva"
+author: "Doctor Shrink"
+date: "2026-11-08"
+categories: [poezie, spoken-word, mama]
+image: "../images/themes/mama.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SAOdeklzNNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cea mai frumoasă vorbă-n lume,<br>
+<br>
+Cel mai plăcut, mai dulce nume<br>
+<br>
+E mama!<br>
+<br>
+Sub soare nu-i nici un cuvânt<br>
+<br>
+Atât de drag şi-atât de sfânt<br>
+<br>
+Ca mama!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Carmen Sylva
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
