@@ -1,0 +1,74 @@
+---
+title: "Fiu şi tată"
+subtitle: "Cassian Maria Spiridon"
+author: "Doctor Shrink"
+date: "2026-11-09"
+categories: [poezie, spoken-word, tata]
+image: "../images/themes/tata.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8umQBEiMsvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+o ţară de stînci în mişcare<br>
+<br>
+răscolită de ape şi ploi<br>
+<br>
+piatră în flăcări/ noroaiele roşii<br>
+<br>
+verde viu şi verde măsliniu<br>
+<br>
+domină panta<br>
+<br>
+viitura plimbă copacii<br>
+<br>
+îi strămută cu tot pămîntul adunat în rădăcini<br>
+<br>
+încremenit pe Athos<br>
+<br>
+muntele Maicii Preacurate<br>
+<br>
+timpul nu ne mai măsoară<br>
+<br>
+unghiile nu mai cresc<br>
+<br>
+nici firele din barbă<br>
+<br>
+munţi logodiţi cu genunea<br>
+<br>
+se opresc aici<br>
+<br>
+se opintesc cu tălpile lor uriaşe<br>
+<br>
+în mare<br>
+<br>
+din stînca fragilă/ sărutată de valuri<br>
+<br>
+ai Doamne acoperămîntul<br>
+<br>
+sub care ne aduni<br>
+<br>
+călugării psalmodiază întru Precista<br>
+<br>
+în timp ce zorii luminează<br>
+<br>
+din înaltul cupolei<br>
+<br>
+cu o lumină lină/ a Duhului<br>
+<br>
+ce împresoară tată şi fiu
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cassian Maria Spiridon
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

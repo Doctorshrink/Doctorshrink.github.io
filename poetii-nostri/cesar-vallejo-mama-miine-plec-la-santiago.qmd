@@ -1,0 +1,63 @@
+---
+title: "Mamă, mîine plec la Santiago"
+subtitle: "Cesar Vallejo"
+author: "Doctor Shrink"
+date: "2026-11-09"
+categories: [poezie, spoken-word, mama]
+image: "../images/themes/mama.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UgE3xSlS-oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Mama, mîine plec la Santago<br>
+că să mă spăl în binecuvîntarea şi-n plînsul tău.<br>
+Îmi potrivesc dozarea şi roşul<br>
+Cu plaga falselor griji.<br>
+<br>
+Acolo mă aşteaptă arcul tău de spaimă,<br>
+columnele neliniştilor tale<br>
+care încheie viaţa. M-aşteaptă curtea,<br>
+coridorul de jos cu podoabele-i<br>
+de sărbătoare. M-aşteaptă vechiul tău fotoliu,<br>
+acea mobilă bună şi trainică, strînsă în piele<br>
+solidă, care adăposteşte, seara să scîrţîie, fesele<br>
+strănepoţilor, în curele şi arcuri.<br>
+Cern afecţiunile cele mai pure.<br>
+Mă răsucesc, n-auzi şuier de sondă?<br>
+N-auzi tobă în zori?<br>
+Plăsmuiesc cuvintele tale de dragoste<br>
+pentru văgăunele acestui pămînt.<br>
+<br>
+O, de s-ar aşeza zburătoarele file<br>
+la semnele de carte cele mai depărtate,<br>
+la cele mai clare citate.<br>
+<br>
+Aşa, moartă nemuritoare, aşa.<br>
+Sub dubla arcadă a sîngelui tău, pe unde<br>
+se trece în vîrful picioarelor, de pînă şi tata<br>
+ca să pătrundă-aolo,<br>
+se face mic, mai mic de jumătate,<br>
+de seamănă cu primul meu copil.<br>
+Aşa, moartă nemuritoare.<br>
+Între colonada osemintelor tale,<br>
+ce nu se prăbuşeşte nici un plînset<br>
+şi-alăturea de care nici destinul<br>
+nu poate pune-un deget.<br>
+Aşa, moartă nemuritoare.<br>
+Aşa!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cesar Vallejo
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

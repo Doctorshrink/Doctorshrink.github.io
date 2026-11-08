@@ -1,0 +1,76 @@
+---
+title: "O ţară cu un singur anotimp"
+subtitle: "Cassian Maria Spiridon"
+author: "Doctor Shrink"
+date: "2026-11-09"
+categories: [poezie, spoken-word, singuratate, tara]
+image: "../images/themes/singuratate.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h-4HQRq72jA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+atîtea drumuri stau în faţă<br>
+<br>
+şi cîte alte am rătăcit<br>
+<br>
+aruncat<br>
+<br>
+din gura cu fotoni a realităţii<br>
+<br>
+erou de-o zi şi de-o noapte<br>
+<br>
+crisalidă efemeră<br>
+<br>
+sub canonada de explozii solare<br>
+<br>
+locuitor al întîmplării<br>
+<br>
+în ţara fără anotimpuri<br>
+<br>
+cu o viaţă rătăcită prin pustie<br>
+<br>
+plin de păcate<br>
+<br>
+adînc sapă genunchii<br>
+<br>
+în roca de bazalt<br>
+<br>
+tristeţea rotitoare<br>
+<br>
+Doamne<br>
+<br>
+crescut-am mieii<br>
+<br>
+să pască pe pajiştile tale<br>
+<br>
+lasă-le cîmp să zburde<br>
+<br>
+şi loc de închinare<br>
+<br>
+şi Doamne<br>
+<br>
+îngăduie să apăr<br>
+<br>
+pe oi şi mieii lor<br>
+<br>
+de spaimele ce se coboară<br>
+<br>
+cu aripe zimţate<br>
+<br>
+în ţara cu un singur anotimp
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cassian Maria Spiridon
+* **Temă:** singuratate, tara
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

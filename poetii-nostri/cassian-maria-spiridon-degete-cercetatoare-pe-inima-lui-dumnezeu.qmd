@@ -1,0 +1,66 @@
+---
+title: "Degete cercetătoare pe inima lui Dumnezeu"
+subtitle: "Cassian Maria Spiridon"
+author: "Doctor Shrink"
+date: "2026-11-09"
+categories: [poezie, spoken-word, inima]
+image: "../images/themes/inima.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JFOFl03cLlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+e sufletul o avalanşă de lumini<br>
+<br>
+culese din turnurile toate ale Sagradei<br>
+<br>
+degete cercetătoare<br>
+<br>
+pe inima lui Dumnezeu<br>
+<br>
+prin piatră vine glasul<br>
+<br>
+ne vorbeşte mut<br>
+<br>
+precum platanii<br>
+<br>
+coloane arborescente<br>
+<br>
+îşi ridică braţele<br>
+<br>
+în rugăciune<br>
+<br>
+o pater nostra<br>
+<br>
+în toate limbile creştine<br>
+<br>
+o ploaie care îmbracă anotimpul<br>
+<br>
+frunzele ce dau să se-mplinească<br>
+<br>
+mugurii şi florile<br>
+<br>
+lumînările aprinse<br>
+<br>
+cînd drag cu drag se bucură<br>
+<br>
+de-mpreuna adunare a glasurilor<br>
+<br>
+ce cîntă<br>
+<br>
+cu moartea pre moarte călcînd
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cassian Maria Spiridon
+* **Temă:** inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,98 @@
+---
+title: "* * * (o blîndă lumină trimite copacul)"
+subtitle: "Cassian Maria Spiridon"
+author: "Doctor Shrink"
+date: "2026-11-09"
+categories: [poezie, spoken-word, codru, lumina, soare]
+image: "../images/themes/codru.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZS62blkTqvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+o blîndă lumină trimite copacul<br>
+<br>
+prin frunzele lui<br>
+<br>
+una cîte una ele astupă<br>
+<br>
+cărarea unor minţi<br>
+<br>
+cu ambele mîini<br>
+<br>
+pe gîtul delicat al amiezii<br>
+<br>
+pielea luminoasă<br>
+<br>
+îmbracă piept şi umeri<br>
+<br>
+pînă în talpa fragedă<br>
+<br>
+a nopţii<br>
+<br>
+sclipind cum stinsele scîntei<br>
+<br>
+dintr-un vulcan<br>
+<br>
+– un foc nestins<br>
+<br>
+o lavă purificatoare<br>
+<br>
+se zbuciumă-n adîncuri<br>
+<br>
+bolborosind nenumărate profeţii –<br>
+<br>
+norii grei<br>
+<br>
+ca o ceaţă umedă<br>
+<br>
+înghit munţii<br>
+<br>
+rămîne stingheră doar crucea<br>
+<br>
+lîngă casa vampirului<br>
+<br>
+– o luptă inegală<br>
+<br>
+în faţa ploii de foc<br>
+<br>
+care taie brazdă<br>
+<br>
+prin cer –<br>
+<br>
+admiri în zare<br>
+<br>
+un mare vapor roşu<br>
+<br>
+cum străbate prin lumină<br>
+<br>
+apele mării<br>
+<br>
+deschide calea noastră<br>
+<br>
+prin aer<br>
+<br>
+– plecăm mînă-n mînă<br>
+<br>
+urmăriţi de imaginea<br>
+<br>
+roşu victorioasă a navei<br>
+<br>
+călătoare<br>
+<br>
+spre portul plin de iluzii –
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cassian Maria Spiridon
+* **Temă:** codru, lumina, soare
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

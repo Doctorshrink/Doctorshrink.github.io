@@ -1,0 +1,68 @@
+---
+title: "Columna"
+subtitle: "Cassian Maria Spiridon"
+author: "Doctor Shrink"
+date: "2026-11-09"
+categories: [poezie, spoken-word, tata]
+image: "../images/themes/tata.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_5dqZtXhX_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+sub paşii timpului<br>
+<br>
+din adîncuri se ridică-n lumină<br>
+<br>
+Columna<br>
+<br>
+miri şi mirese<br>
+<br>
+mireni călători pelerini<br>
+<br>
+coborîtori dintre acei profilaţi în marmură<br>
+<br>
+pe o spirală ce urcă<br>
+<br>
+pe zeci de metri către Preaînaltul<br>
+<br>
+aici fiecare îşi află popas<br>
+<br>
+vin aici<br>
+<br>
+ei/ părăsiţii sorţii<br>
+<br>
+alungaţi de nevoi din satele copilăriei<br>
+<br>
+de la vetrele părinţilor părinţilor lor<br>
+<br>
+din cînd în cînd<br>
+<br>
+la mari sărbători<br>
+<br>
+naşteri şi nunţi<br>
+<br>
+Columna-i aşteaptă<br>
+<br>
+nemişcată de două milenii<br>
+<br>
+le mîngîie dorul<br>
+<br>
+la umbra statornică/ înaltă<br>
+<br>
+se simt iar la acasele lor
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cassian Maria Spiridon
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
