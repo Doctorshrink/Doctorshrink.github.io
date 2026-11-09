@@ -1,0 +1,30 @@
+---
+title: "Va veni moartea şi va avea ochii tăi"
+subtitle: "Cesare Pavese"
+author: "Doctor Shrink"
+date: "2026-11-10"
+categories: [poezie, spoken-word, moarte, ochi]
+image: "../images/themes/moarte.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l90DT-H8-Uk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Va veni moartea şi va avea ochii tăi – această moarte ce ne însoţeşte fără somn, de dimineaţa până seara, surdă, ca o veche remuşcare sau ca un viciu absurd. Ochii tăi vor fi un cuvânt zadarnic, un strigăt mut, o tăcere. Astfel îi vezi în fiecare dimineaţă când singură te-apleci deasupra-ţi în oglindă. O, speranţă dragă, în ziua aceea vom şti şi noi că eşti şi viaţa, şi nimicul.<br>
+Pentru toţi moartea are o privire. Va veni moartea şi va avea ochii tăi. Va fi precum sfârşitul unui viciu, cum ai vedea-n oglindă ivindu-se din nou o faţă moartă sau cum ai asculta o gură-nchisă.<br>
+Şi în vâltoare coborî-vom muţi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cesare Pavese
+* **Temă:** moarte, ochi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

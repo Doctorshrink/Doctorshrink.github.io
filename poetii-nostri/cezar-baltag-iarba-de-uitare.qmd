@@ -1,0 +1,88 @@
+---
+title: "Iarbă de uitare"
+subtitle: "Cezar Baltag"
+author: "Doctor Shrink"
+date: "2026-11-10"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ekpz-y43F4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+A căzut steaua.<br>
+<br>
+Mi-am strâns cenușa sub cap și am chemat<br>
+<br>
+somnul.<br>
+<br>
+Și am visat că se făcea un dulce și un amar,<br>
+<br>
+și am visat că se făcea o vreme fluidă,<br>
+<br>
+și am visat o balanță<br>
+<br>
+care cântărea zile și nopți<br>
+<br>
+și o femeie care torcea norii.<br>
+<br>
+Era un râs pestriț în păsări și pești.<br>
+<br>
+Și bătrâna secerătoare<br>
+<br>
+îmi legăna viața<br>
+<br>
+într-un leagăn de gresie.<br>
+<br>
+Pământul<br>
+<br>
+era<br>
+<br>
+ca pământul,<br>
+<br>
+bun de născut și murit.<br>
+<br>
+Unde și unde, o vamă, unde și unde,<br>
+<br>
+un deal.<br>
+<br>
+Aici apă, dincolo noapte, mai încolo<br>
+<br>
+mosorul pustiului.<br>
+<br>
+Râsul dezleagă snopii, plânsul îl treieră,<br>
+<br>
+lumina își caută ziua,<br>
+<br>
+cenușa întârzie.<br>
+<br>
+2<br>
+<br>
+Vreau o floare de uitat lumea,<br>
+<br>
+o iarbă de visat cuvintele din lacrima<br>
+<br>
+orbului.<br>
+<br>
+Scară albastră pentru zodii,<br>
+<br>
+foc înfrunzit<br>
+<br>
+urcând o clorofilă roșie<br>
+<br>
+în setea cuvântului.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cezar Baltag
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

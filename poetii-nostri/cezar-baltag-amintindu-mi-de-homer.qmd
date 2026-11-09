@@ -1,0 +1,66 @@
+---
+title: "Amintindu-mi de Homer"
+subtitle: "Cezar Baltag"
+author: "Doctor Shrink"
+date: "2026-11-10"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mxmXcHQzTiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cântând îşi deschidea poetul<br>
+<br>
+hotarele destinului.<br>
+<br>
+Desprinşi din cântecul-inel,<br>
+<br>
+văzduh şi ape împânziră<br>
+<br>
+suavii zei pe care el<br>
+<br>
+aevea îi isca din liră.<br>
+<br>
+Sfioase nimfele fecioare<br>
+<br>
+îşi ascundeau rotunzii sâni,<br>
+<br>
+cirezi de minotauri<br>
+<br>
+păşeau domol printre salcâmi.<br>
+<br>
+Doar sus în zborul lui frenetic,<br>
+<br>
+lovit de-al fulgerelor vaier,<br>
+<br>
+un zeu pe jumătate sunet<br>
+<br>
+înnebuni deodată-n aer.<br>
+<br>
+Atunci crescu un joc pe care<br>
+<br>
+nimic nu-l mai putea opri (…)<br>
+<br>
+E pace azi. Doi lei albaştri,<br>
+<br>
+vecini, pupilele îmi sunt,<br>
+<br>
+supraveghind până departe<br>
+<br>
+orbita dulcelui pământ.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cezar Baltag
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

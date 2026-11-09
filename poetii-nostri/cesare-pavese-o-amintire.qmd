@@ -1,0 +1,51 @@
+---
+title: "O amintire"
+subtitle: "Cesare Pavese"
+author: "Doctor Shrink"
+date: "2026-11-10"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wr65eB91mmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nu există bărbat care să poată lăsa vreo urmă<br>
+în această femeie. Tot ce-a fost piere într-un vis,<br>
+se risipeşte dimineaţa şi rămâne doar ea.<br>
+Dacă n-ar fi fruntea atinsă de clipă,<br>
+ar părea uimită. Doar obrajii zâmbesc<br>
+mereu.<br>
+Nici zilele nu se adună<br>
+pe chipul ei, ca să-i schimbe zâmbetul uşor<br>
+ce se răsfrânge peste lucruri. Cu aprigă fermitate<br>
+face orice lucru, dar pare de fiecare dată că-i prima oară;<br>
+şi totuşi trăieşte fiecare clipă. Se dezvăluie<br>
+trupul ei puternic, privirea reculeasă,<br>
+în vocea tainică şi oarecum răguşită: o voce<br>
+de bărbat obosit. Şi nici o oboseală n-o atinge.<br>
+Dacă-i priveşti fix gura, închide ochii pe jumătate<br>
+în aşteptare: nimeni nu poate îndrăzni o nesăbuinţă.<br>
+Mulţi bărbaţi îi cunosc zâmbetul ambiguu<br>
+sau încruntarea neaşteptată. Dacă a existat un bărbat<br>
+s-o ştie cum geme, umilită de dragoste,<br>
+plăteşte zi de zi, neştiind despre ea<br>
+pentru cine trăieşte ziua de azi.<br>
+Zâmbeşte singură<br>
+zâmbetul cel mai ambiguu mergînd pe stradă.<br>
+[octombrie 1935]
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cesare Pavese
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,62 @@
+---
+title: "Eşti pămîntul, eşti moartea"
+subtitle: "Cesare Pavese"
+author: "Doctor Shrink"
+date: "2026-11-10"
+categories: [poezie, spoken-word, moarte]
+image: "../images/themes/moarte.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4rOBc-Z0rog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Eşti pămîntul, eşti moartea.<br>
+<br>
+Anotimpul tău e-ntunericul<br>
+<br>
+şi tăcerea. Nu e pe lume<br>
+<br>
+nici un lucru ce mai mult decît tine<br>
+<br>
+să fie-ndepărtat de zorii zilei.<br>
+<br>
+Cînd par a te trezi<br>
+<br>
+eşti numai durere,<br>
+<br>
+o ai în ochi, în sînge<br>
+<br>
+dar tu n-o simţi. Trăieşti<br>
+<br>
+cum trăieşte o piatră,<br>
+<br>
+cum trăieşte pămîntul dur.<br>
+<br>
+Şi te-nveşmîntă vise,<br>
+<br>
+tresăriri şi suspine<br>
+<br>
+pe care le ignori. Durerea<br>
+<br>
+ca apa unui lac, se-agită şi te înconjoară.<br>
+<br>
+Sunt ceruri pe faţa apei.<br>
+<br>
+Tu le laşi să se destrame.<br>
+<br>
+Tu eşti pămîntul şi moartea.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cesare Pavese
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
