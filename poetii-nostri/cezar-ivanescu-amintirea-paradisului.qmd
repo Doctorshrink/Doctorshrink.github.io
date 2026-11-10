@@ -1,0 +1,58 @@
+---
+title: "Amintirea Paradisului"
+subtitle: "Cezar Ivănescu"
+author: "Doctor Shrink"
+date: "2026-11-11"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ILS1d7T9_zU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Când eram mai tânar și la trup curat,<br>
+<br>
+Într-o noapte, floarea mea, eu te-am visat.<br>
+<br>
+Înfloreai fără păcat, într-un pom adevărat<br>
+<br>
+Când eram mai tânăr și la trup curat.<br>
+<br>
+Nu știam că ești femeie, eu bărbat<br>
+<br>
+Lângă tine cu sfială m-am culcat<br>
+<br>
+Și dormind eu am visat; tu, visând, ai lacrimat<br>
+<br>
+Când eram mai tânăr și la trup curat.<br>
+<br>
+E pierdută noaptea aceea de acum!<br>
+<br>
+Carnea noastră, de-i mai știi al ei parfum<br>
+<br>
+Poamele ce-n poame stau, gustul cărnii tale-l au<br>
+<br>
+Și cad mâine toate, putrede, pe drum.<br>
+<br>
+Fă-l sa fie, Doamne Sfinte, numai om<br>
+<br>
+Pe acel care ne-a ispitit sub pom<br>
+<br>
+Și când pomul flori va da, fă sa-i cada carnea grea,<br>
+<br>
+Cum cădea-va, după cântec, mâna mea…
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cezar Ivănescu
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

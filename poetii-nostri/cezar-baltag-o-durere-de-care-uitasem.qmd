@@ -1,0 +1,104 @@
+---
+title: "O durere de care uitasem"
+subtitle: "Cezar Baltag"
+author: "Doctor Shrink"
+date: "2026-11-11"
+categories: [poezie, spoken-word, durere]
+image: "../images/themes/durere.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gpFJlU26hfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Am visat valuri țipând, șerpi<br>
+<br>
+ridicându-și capul<br>
+<br>
+ca și cum ar fi vrut să ghicească deodată<br>
+<br>
+cum se rostogolește<br>
+<br>
+pământul printre stele.<br>
+<br>
+Herghelii de păduri nechezând.<br>
+<br>
+Dealuri la prag de seară. Mărăcini implorând<br>
+<br>
+într-o limbă nemairostită<br>
+<br>
+aici, pe pământ.<br>
+<br>
+Rădăcini sorbind întărâtate<br>
+<br>
+lacrimile stâncii,<br>
+<br>
+furnici luând în mandibule<br>
+<br>
+paiele de foc ale voinței lor<br>
+<br>
+inexorabile<br>
+<br>
+și dispărând.<br>
+<br>
+Am visat pietre alergând<br>
+<br>
+și vorbind,<br>
+<br>
+ierburi oprindu-se din plâns,<br>
+<br>
+dumerite,<br>
+<br>
+și deodată abandonate<br>
+<br>
+de zbor, căprioară încetinindu-și goana uimită<br>
+<br>
+și așteptând.<br>
+<br>
+Am visat păianjeni arzând.<br>
+<br>
+Amnezia soarelui. Crinul<br>
+<br>
+între zodii strigând,<br>
+<br>
+căderea ultimei petale<br>
+<br>
+în ora fugară.<br>
+<br>
+Am visat copaci întrebând.<br>
+<br>
+Și o ciocârlie azvârlindu-se<br>
+<br>
+în propriul trup<br>
+<br>
+ca-ntr-un incendiu<br>
+<br>
+de dincolo de cuvânt,<br>
+<br>
+năpustindu-se toată în cântec<br>
+<br>
+și coborând cu el spre pământ.<br>
+<br>
+Și m-am trezit brusc,<br>
+<br>
+ca și cum mi-aș fi adus aminte<br>
+<br>
+înainte de a atinge pământul<br>
+<br>
+de o durere enormă de care uitasem.<br>
+<br>
+Strigăt de pajere în asfințit.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cezar Baltag
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

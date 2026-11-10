@@ -1,0 +1,212 @@
+---
+title: "Ţiganul vîndut"
+subtitle: "Cezar Bolliac"
+author: "Doctor Shrink"
+date: "2026-11-11"
+categories: [poezie, spoken-word, libertate, tata]
+image: "../images/themes/libertate.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eth8mJ3CoWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+I<br>
+<br>
+„Vai! ieri aveam soţie, aveam şi tată, mumă,<br>
+<br>
+Aveam un copilaş!<br>
+<br>
+Viaţa-mi părea lesne, robia-mi părea glumă<br>
+<br>
+Privind al meu sălaş!<br>
+<br>
+Cînd trişti veneam, pe noapte din munca cea în silă<br>
+<br>
+În care ne-osîndeam,<br>
+<br>
+Şi dam o roată vetrii, – oh! ne priveam cu milă,<br>
+<br>
+Dar tot ne mîngîiam;<br>
+<br>
+Măcar că de la muncă veneam obosiţi foarte<br>
+<br>
+De foame şi bătăi;<br>
+<br>
+Măcar c-adesea-oară rugam a noastră moarte<br>
+<br>
+Ca să scăpăm de răi.<br>
+<br>
+Cînd este-ntre-ai săi omul îşi află mîngîierea<br>
+<br>
+D-ar fi oricît mîhnit!<br>
+<br>
+Dar cînd străin e omul, atunci e grea durerea<br>
+<br>
+Şi focul îndoit!...<br>
+<br>
+II<br>
+<br>
+O! oameni fără lege! Stăpîni fără-ndurare<br>
+<br>
+Cu inimă de fier!<br>
+<br>
+Cînd smulgeţi unei mume un singur fiu ce are,<br>
+<br>
+Gîndiţi atunci la cer?<br>
+<br>
+Gîndiţi oari la durerea ce cearc-acea săracă?<br>
+<br>
+L-acele reci sudori<br>
+<br>
+În care desperarea şi lacrima îi seacă,<br>
+<br>
+L-acele cruzi fiori<br>
+<br>
+Ce se deşţept într-însa cînd îşi aduce-aminte<br>
+<br>
+Că nu mai are fiu,<br>
+<br>
+Că nu o să-l mai vadă! îi piere dinainte!<br>
+<br>
+Îl dă-n mormînt de viu?<br>
+<br>
+O! cînd ne daţi botezul ziceţi că suntem rude;<br>
+<br>
+Ziceţi că suntem fraţi!...<br>
+<br>
+De Domnul nu vă temeţi? Nu ştiţi că el v-aude?<br>
+<br>
+Gîndiţi că-l înşelaţi?<br>
+<br>
+Cînd vă jucaţi cu oameni întocmai ca cu vite, –<br>
+<br>
+Şi ce zic! mult mai reu!...<br>
+<br>
+Căci voi cătaţi de vite; sunt mult mai îngrijite;<br>
+<br>
+Iar noi, munciţi mereu!...<br>
+<br>
+Un cal în grajdul vostru ce îngrijire n-are?<br>
+<br>
+P-un cal cîţi robi n-aţi da!<br>
+<br>
+Ţiganul rob, sărmanul, ar fi el oare-n stare<br>
+<br>
+C-un cal a măsura?<br>
+<br>
+III<br>
+<br>
+M-or fi plîngînd părinţii!... De mumă-mea mi-e teamă<br>
+<br>
+C-o fi murit jelind!<br>
+<br>
+Cînd îi întreabă fiu-meu: – &quot;Unde e tata, mamă?&quot;<br>
+<br>
+Of! cum l-or fi minţind!<br>
+<br>
+Cînd să-l mai văd o dată, parcă mi-ar fi mai bine,<br>
+<br>
+Parc-aş putea să mor!...<br>
+<br>
+Nevasta mea, săraca! o fi plîngînd de mine,<br>
+<br>
+O fi murind de dor!<br>
+<br>
+Acela ce ne vinde nu vinde şi gîndirea;<br>
+<br>
+Măcar că s-a tocmit<br>
+<br>
+Pe sufletele noastre; măcar că omenirea<br>
+<br>
+Nimic a socotit!<br>
+<br>
+Şi-a rîs el d-astea toate! şi-a rîs el de durere<br>
+<br>
+Pentru puţin venit!...<br>
+<br>
+Să-i fi luat lui fiii, părinţii şi muiere –<br>
+<br>
+Oari cum ar fi trăit?<br>
+<br>
+O! cît ar fi mai bine să fim ca dobitoace,<br>
+<br>
+Să nu simţim deloc<br>
+<br>
+A noastră chinuire! Să nu ştim ce ne face<br>
+<br>
+Pe cînd în cărţi ne joc!<br>
+<br>
+IV<br>
+<br>
+Ce-o fi luat pe mine?... A fi-n mai bună stare!<br>
+<br>
+Of! ranele mă dor<br>
+<br>
+Şi lanţul rău mă strînge! M-au strîns, cumpliţii, tare...<br>
+<br>
+Cum aş voi să mor!...<br>
+<br>
+Vedea-va faţa-ţi, Doamne, stăpînul ce mă vinde?<br>
+<br>
+Copiii i-or trăi?<br>
+<br>
+Pe neamul său păcatul oari nu se va întinde<br>
+<br>
+Cînd el nu va mai fi?<br>
+<br>
+Oare-mi păstrezi acolo ceea ce-aci-mi lipseşte?<br>
+<br>
+Voi fi eu răsplătit<br>
+<br>
+De muncile şi chinuri, la care m-osîndeşte<br>
+<br>
+Acest nelegiuit?<br>
+<br>
+Bagi tu de seamă, Doamne, la astă omenire,<br>
+<br>
+Cum merge treaba-aci?<br>
+<br>
+Ştiai ce am a trage cînd îmi dedeşi simţire,<br>
+<br>
+Şi ce fel voi trăi?<br>
+<br>
+Cînd îmi dedeşi viaţă, cînd îmi dedeşi soţie,<br>
+<br>
+Cînd tată m-ai făcut,<br>
+<br>
+Ştiai ce-mi scrie soarta? &#x27;Născut că-s în robie,<br>
+<br>
+Şi c-o să fiu vîndut?’’<br>
+<br>
+V<br>
+<br>
+Aşa vorbea-ntr-o noapte, flămînd, închis în casă,<br>
+<br>
+Ţiganul cumpărat.<br>
+<br>
+Privea gemînd la lună; dar nu putea să iasă,<br>
+<br>
+Căci strîns era legat.<br>
+<br>
+A doua zi, stăpînul mai că se întristase<br>
+<br>
+Aflînd c-a păgubit<br>
+<br>
+Patrusprezece galbeni; – atîta cumpărase<br>
+<br>
+Ţiganul ce-a murit.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cezar Bolliac
+* **Temă:** libertate, tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

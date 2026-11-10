@@ -1,0 +1,44 @@
+---
+title: "Moartea amanţilor"
+subtitle: "Charles Baudelaire"
+author: "Doctor Shrink"
+date: "2026-11-11"
+categories: [poezie, spoken-word, moarte]
+image: "../images/themes/moarte.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9zxqLlPr-p8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vom avea largi paturi cu miresme-ușoare<br>
+Și niște sofale-adânci ca un mormânt,<br>
+Iar pe etajere vor fi flori bizare<br>
+Pe sub mai frumoase ceruri învăscând.<br>
+<br>
+Folosindu-și spornic ultima dogoare<br>
+Inimile  nostre or să ardă blând.<br>
+Reflectându-și focu-n spiritele care,<br>
+Două-oglinzi, cu totul gemene își sînt.<br>
+<br>
+Într-o seară albastră și trandafie<br>
+Vom schimba un fulger unic, ce-o să fie<br>
+Ca o suspinare grea de bun rămas.<br>
+<br>
+Pînă ce un Înger, ușa dând deoparte,<br>
+Va veni să-nvie, cu ferice-obraz,<br>
+Palidele-oglinde, flăcările moarte.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Charles Baudelaire
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

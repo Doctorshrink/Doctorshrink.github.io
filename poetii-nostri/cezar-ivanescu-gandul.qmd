@@ -1,0 +1,96 @@
+---
+title: "Gândul"
+subtitle: "Cezar Ivănescu"
+author: "Doctor Shrink"
+date: "2026-11-11"
+categories: [poezie, spoken-word, frate, moarte]
+image: "../images/themes/frate.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KesZh4o3cdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cu Gândul morții ca un frate geamăn<br>
+<br>
+tu casa ta nu ți-o mai părăsești<br>
+<br>
+că nu poți merge printre lume singur<br>
+<br>
+cu Gândul morții, ca un frate geamăn<br>
+<br>
+giganți ciocani în tâmplă îl pocnesc<br>
+<br>
+pe cine mai duci tu de mână, frate?<br>
+<br>
+când Gândul morții sângele i-a curs<br>
+<br>
+când Gândul morții ca un frate geamăn<br>
+<br>
+mai mult decât un mort fără sicriu în veci<br>
+<br>
+pe care-orice regat al morții îl respinge<br>
+<br>
+cu Gândul morții ca un frate geamăn<br>
+<br>
+tu casa ta nu ți-o mai părăsești<br>
+<br>
+și Gândul morții-l ungi cu gura<br>
+<br>
+un cal bolnav privindu-se-n oglindă<br>
+<br>
+capul culcându-ți pe grumazul lui<br>
+<br>
+plângi Gândul morții ca un frate geamăn<br>
+<br>
+cu Gândul morții ca un frate geamăn<br>
+<br>
+simți că enormă-i locuința<br>
+<br>
+iar tu nu ești vreun Cavaler de Preț<br>
+<br>
+și Gândul morții-ncet<br>
+<br>
+va stinge lumânarea<br>
+<br>
+și-or năvăli gândacii impotenți<br>
+<br>
+și-apoi paianjenii furnicile mărețe<br>
+<br>
+și cârtițe la braț<br>
+<br>
+și devorându-ți Gândul morții<br>
+<br>
+fratele tău geamăn<br>
+<br>
+sătulele ființe-ți vor dormita alături<br>
+<br>
+Singur lăsându-ți goală locuința<br>
+<br>
+vei călca la drum<br>
+<br>
+surâzător în țara morminților<br>
+<br>
+și fiindcă-n ceruri e scris<br>
+<br>
+că ai avut odată un mormânt<br>
+<br>
+nimeni nu-ți va mai da o locuință<br>
+<br>
+Plângi Gândul morții ca un frate geamăn<br>
+<br>
+pe cine mai duci tu de mână, frate?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cezar Ivănescu
+* **Temă:** frate, moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,51 @@
+---
+title: "Zdrobită geme inima-n mine etc."
+subtitle: "Cezar Bolliac"
+author: "Doctor Shrink"
+date: "2026-11-11"
+categories: [poezie, spoken-word, inima]
+image: "../images/themes/inima.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oZPqQz7x9hY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Zdrobita geme inima-n mine;<br>
+În flacari, chinuri arz ne-ncetat;<br>
+Viata-mi toata o am în tine,<br>
+Dar tu de mine te-ai departat.<br>
+<br>
+Esti tu o fee? Esti zeitate?<br>
+Sau, ca iubirea, vii a-ncalzi<br>
+Un suflet rece ce nu mai bate,<br>
+În noaptea urii din zi cu zi?<br>
+<br>
+De esti aproape, pieptu-mi palpita;<br>
+De esti de fata, eu ma uimesc;<br>
+La glasu-ti mintea îmi e rapita;<br>
+Dar mi-esti straina, si ma-ngrozesc...<br>
+<br>
+Destept, în somnu-mi chipu-ti e-n mine;<br>
+Ma uit la lume, si, ca strain,<br>
+Reviu în sine-mi, traiesc în tine,<br>
+Le las pe toate, de tine plin.<br>
+<br>
+Fiinta-mi toata tie-ti urmeaza,<br>
+Caci eu sunt umbra corpului tau;<br>
+A ta, ca spirit, ma înviaza,<br>
+Caci tu esti suflet corpului meu.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Cezar Bolliac
+* **Temă:** inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
