@@ -1,0 +1,58 @@
+---
+title: "Cu noi e Dumnezeu"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-13"
+categories: [poezie, spoken-word, dumnezeu]
+image: "../images/themes/dumnezeu.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/18iXgCXz4vE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Azi lumina din lumină,<br>
+<br>
+Pământu-n trupuri ne e greu,<br>
+<br>
+Dar e ușor când se închină:<br>
+<br>
+Cu noi e Dumnezeu.<br>
+<br>
+Am ostenit de-atâta noapte,<br>
+<br>
+Dar vom ieși din defileu<br>
+<br>
+Pentru lumina sfintei șoapte:<br>
+<br>
+Cu noi e Dumnezeu.<br>
+<br>
+Nu suntem niște animale<br>
+<br>
+Cu suflet amânat mereu,<br>
+<br>
+În noi e milă și e jale<br>
+<br>
+Cu noi, cu noi e Dumnezeu.<br>
+<br>
+Luați lumina din lumină,<br>
+<br>
+Paharuri curg din minereu,<br>
+<br>
+Credința noastră e creștină,<br>
+<br>
+Cu noi e Dumnezeu.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** dumnezeu
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

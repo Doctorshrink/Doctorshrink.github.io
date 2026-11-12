@@ -1,0 +1,94 @@
+---
+title: "Dă, Doamne, iarnă"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-13"
+categories: [poezie, spoken-word, dumnezeu]
+image: "../images/themes/dumnezeu.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MdhLHvLvs7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Împarte, Doamne, cu mine durerea<br>
+<br>
+Din lacrima care te strigă,<br>
+<br>
+Şi dă-mi alinarea,<br>
+<br>
+Şi dă-mi mângâierea,<br>
+<br>
+Împarte cu mine durerea.<br>
+<br>
+Împarte, Doamne, cu mine tăcerea<br>
+<br>
+Ce noaptea se lasă pe pleoape<br>
+<br>
+Când somnul sau moartea<br>
+<br>
+Sunt tot mai aproape,<br>
+<br>
+Împarte cu mine tăcerea.<br>
+<br>
+Dă, Doamne, iarnă<br>
+<br>
+Să mă adoarmă,<br>
+<br>
+Să mă îngroape<br>
+<br>
+Cu tot cu toamnă,<br>
+<br>
+Să cadă albă peste destine,<br>
+<br>
+Să nu mai ştie nimeni de mine.<br>
+<br>
+Împarte, Doamne, cu mine trădarea<br>
+<br>
+Cu care mă acoperiră,<br>
+<br>
+Şterge-mi din lacrimă<br>
+<br>
+Chinul şi sarea,<br>
+<br>
+Împarte cu mine trădarea.<br>
+<br>
+Împarte, Doamne, cu mine minciuna<br>
+<br>
+Pornită pe singurătate<br>
+<br>
+Şi linişte pune acum peste toate,<br>
+<br>
+Împarte cu mine minciuna.<br>
+<br>
+Împarte, Doamne, cu mine iubirea,<br>
+<br>
+Risipă, ursită risipei,<br>
+<br>
+Şi lasă uitarea<br>
+<br>
+La marginea clipei,<br>
+<br>
+Împarte cu mine iubirea!<br>
+<br>
+Împarte, Doamne, cu mine tristeţea<br>
+<br>
+De-aţi pune pe umeri povara<br>
+<br>
+Durerii, tăcerii, minciunii, trădării.<br>
+<br>
+Împarte cu mine tristeţea!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** dumnezeu
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

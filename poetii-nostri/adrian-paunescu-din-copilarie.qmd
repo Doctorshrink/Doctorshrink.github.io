@@ -1,0 +1,74 @@
+---
+title: "Din copilărie"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-13"
+categories: [poezie, spoken-word, copilarie]
+image: "../images/themes/copilarie.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QxrViOfAZbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Să troznească lemne-n foc<br>
+<br>
+Şi să vină multă noapte<br>
+<br>
+În pridvor de busuioc<br>
+<br>
+Cu miros de mere coapte.<br>
+<br>
+Şi să ningă, nins enorm<br>
+<br>
+Pân&#x27; la streaşină şi peste<br>
+<br>
+Şi pe-un scaun să adorm<br>
+<br>
+Ca de-un drog şi de-o poveste.<br>
+<br>
+Cu ziarul pe genunchi<br>
+<br>
+Şi cu pleoapele căzute<br>
+<br>
+Să-mi răsară moartea-n trunchi<br>
+<br>
+Şi pe ochi să mă sărute.<br>
+<br>
+Cei bătrâni să fie vii,<br>
+<br>
+Pacea lumii fie gata,<br>
+<br>
+Eu, copil între copii,<br>
+<br>
+Şi pe-afară tânăr tata.<br>
+<br>
+Şi bunica să mă ia<br>
+<br>
+Să mă ducă-ncet spre pernă<br>
+<br>
+Şi să simt venind din ea<br>
+<br>
+Toată liniştea eternă.<br>
+<br>
+Să troznească lemne-n foc<br>
+<br>
+Sub un biet ibric cu lapte,<br>
+<br>
+Să miroasă-a busuioc,<br>
+<br>
+Să miroasă-a mere coapte.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** copilarie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

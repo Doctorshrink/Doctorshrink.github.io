@@ -1,0 +1,54 @@
+---
+title: "Cuvânt cu chip"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-13"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/themes/cuvant.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DFE3Qh_aiLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Dacă-aş avea cuvintele pe limbă<br>
+<br>
+Cum am iubirea-n inimă, ţi-aş spune<br>
+<br>
+Că eşti-prea-dulcea-mea-deşertăciune<br>
+<br>
+Care cu alta, pururi, nu se schimbă.<br>
+<br>
+Cât de limbut sunt eu, în restul vremii,<br>
+<br>
+Aşa tăcut îţi dau ocol în lume,<br>
+<br>
+Parcă mă tem să nu mi se consume<br>
+<br>
+Cuvânt şi gând ca dublele la remi.<br>
+<br>
+Eu, care spun cuvinte în neştire,<br>
+<br>
+Deodată, văd că - de atâta vreme -<br>
+<br>
+Plămânii mei, ca şi când mult s-ar teme,<br>
+<br>
+Mai au numai curajul să respire.<br>
+<br>
+Când voi vorbi, întregul gând spunându-l,<br>
+<br>
+Cu chip, cu tot, se va urni cuvântul.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,122 @@
+---
+title: "Casă de închiriat"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-13"
+categories: [poezie, spoken-word, casa]
+image: "../images/themes/casa.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tc2R4RnEm6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ești liberă, de la un punct încolo,<br>
+<br>
+Nu te mai tot feri să mă-ntâlnești,<br>
+<br>
+Ți-ai luat curajul ultim să joci solo,<br>
+<br>
+Nici nu mai știu, nici nu mai caut vești.<br>
+<br>
+Ai fost femeia, totuși, cea mai dulce,<br>
+<br>
+Pe care-am fost în stare s-o iubesc,<br>
+<br>
+Bărbat (nebun cu tine să se culce)<br>
+<br>
+Și-n rest, copilăresc și îngeresc.<br>
+<br>
+Tu, singură, nici nu credeai în tine<br>
+<br>
+Și te-am decomplexat, ca să renaști,<br>
+<br>
+Și ești vioara acordată bine,<br>
+<br>
+Și ești Reînvierea mea de Paști.<br>
+<br>
+Și foaie neagră, tristă foaie verde,<br>
+<br>
+Tu ești un drum, dar nu știi care drum,<br>
+<br>
+Probabil, blestemată a te pierde<br>
+<br>
+Și damă să nu fii, de larg consum.<br>
+<br>
+Oricum, iubirea mea e-atât de mare<br>
+<br>
+Că, nici venind, n-o poți astâmpăra,<br>
+<br>
+Mă poți bârfi duios la fiecare,<br>
+<br>
+Dar nu poți stinge nebunia mea.<br>
+<br>
+Acolo-n viața cu vânzări de case<br>
+<br>
+Și cu adrese ce se schimbă brusc,<br>
+<br>
+Ai să te stingi în cercuri ticăloase,<br>
+<br>
+Așa precum și eu o să mă usc.<br>
+<br>
+Am priceput din ultima scrisoare<br>
+<br>
+Că ți-a intrat în cap să ai și tu<br>
+<br>
+Familie, cum orice doamnă are,<br>
+<br>
+Copil și soț, numai iubire, nu.<br>
+<br>
+Dar ce pot eu să am acum, cu tine?<br>
+<br>
+Suntem niște străini pe niște străzi,<br>
+<br>
+Tu mă eviți și asta nu e bine,<br>
+<br>
+Devii o pradă simplă între prăzi.<br>
+<br>
+Și, după cum te porți, c-un fel de ură,<br>
+<br>
+Eu nu mă pot purta la rândul meu,<br>
+<br>
+Îți mulțumesc de tinerețea pură<br>
+<br>
+Prin care m-am simțit aproape zeu.<br>
+<br>
+Și-ți mulțumesc de ziua și de noaptea,<br>
+<br>
+În care m-apărai de orice rău,<br>
+<br>
+Dar, nu știu cum, aniversarea-a șaptea<br>
+<br>
+A fost otrava sufletului tău.<br>
+<br>
+Sinucigașe gânduri mă răsfață,<br>
+<br>
+Acum, dacă neantului mă lași,<br>
+<br>
+Că mi te construisem pentr-o viață<br>
+<br>
+Și nu pentru-un sezon de chiriași.<br>
+<br>
+Și te-aș ruga, iubită neguroasă,<br>
+<br>
+Să înțelegi și disperarea mea,<br>
+<br>
+Că te-am făcut cu grijă, ca pe-o casă,<br>
+<br>
+În care va trăi altcineva.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

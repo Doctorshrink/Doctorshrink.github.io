@@ -1,0 +1,54 @@
+---
+title: "Casa de nebuni"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-13"
+categories: [poezie, spoken-word, casa]
+image: "../images/themes/casa.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-40nzgNZOK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+In ultimele zile ale iubirii noastre,<br>
+<br>
+Eu îți spuneam cuvinte și tu, cu ochii uzi,<br>
+<br>
+Păreai neputincioasă și să le mai auzi<br>
+<br>
+Și mă temeam să caut sau să presimt dezastre.<br>
+<br>
+Și-n noaptea dinaintea plecării spre niciunde<br>
+<br>
+Eu îți strigam că ninge, plângând la telefon,<br>
+<br>
+Și-aveai atâta pace și viitor în ton,<br>
+<br>
+Că nici acum nu bănui că te puteai ascunde.<br>
+<br>
+Nu cred că are dreptul o dragoste să moară<br>
+<br>
+Ca între două bestii, tăcut și indecent,<br>
+<br>
+Și fără un adio și un avertisment,<br>
+<br>
+Și fără o urare de drum, elementară.<br>
+<br>
+Aștept să-mi spui că suntem, atunci când ai să suni,<br>
+<br>
+Ori eu, ori tu, ori ambii, la casa de nebuni!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
