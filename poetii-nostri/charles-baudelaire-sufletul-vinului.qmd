@@ -1,0 +1,56 @@
+---
+title: "Sufletul vinului"
+subtitle: "Charles Baudelaire"
+author: "Doctor Shrink"
+date: "2026-11-12"
+categories: [poezie, spoken-word, suflet, vin]
+image: "../images/themes/suflet.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SdDM-Eo9Ti4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Al vinului viu suflet cânta în butelie:<br>
+-O omule, doar ție, făptură de prisos,<br>
+Din temnița-mi de sticlă, cu ceara-i purpurie<br>
+O să-ți închin un cântec fratern și luminos.<br>
+<br>
+Eu știu că e nevoie de multă-anevoință,<br>
+De sârg și de sudoare, de soare-nflăcărat.<br>
+Să dobândesc un suflet și să primesc ființă,<br>
+Dar nu voi fi cu tine malefic sau ingrat,<br>
+<br>
+Căci bucuros eu intru în gâtița flămândă,<br>
+A omului ce vine, de muncile lui frânt,<br>
+Iar pieptul său cel molcom e ca o criptă blândă<br>
+Unde mi-e mult mai bine ca-n recele-mi mormânt.<br>
+<br>
+Nu îmi auzi refrenul cel vesel de dumineci,<br>
+Speranța ce se-aude  pulsând în sânu-mi san?<br>
+Cu coatele pe masă și suflecat la mâneci<br>
+Vei știi să mă glorifici și să îmi dai mulțam.<br>
+<br>
+Eu o să- ți fac femeia ca raza dimineții,<br>
+În fiul tău voi pune vigoare și culori<br>
+Și-o să-i fiu acestui fragil atlet al vieții<br>
+Uleiul care-i face mai tari pe luptători<br>
+<br>
+Plonja-voi dar în tine în chip de ambrozie,<br>
+Sămânță aruncată de-un div Semănător,<br>
+Ca din iubirea noastră să nasc-o poezie<br>
+Ce suie către Domnul, ca tija unei flori.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Charles Baudelaire
+* **Temă:** suflet, vin
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,50 @@
+---
+title: "Pan suferindul"
+subtitle: "A. E. Baconsky"
+author: "Doctor Shrink"
+date: "2026-11-12"
+categories: [poezie, spoken-word, durere]
+image: "../images/themes/durere.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QBM-xQeLX9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Sus, în orașul efebilor,<br>
+<br>
+Pan suferindul - sus<br>
+<br>
+ploile scot<br>
+<br>
+ochii verzi ai copacilor.<br>
+<br>
+Dansul lichid, șerpuit<br>
+<br>
+umblă prin ochii bolnavului -<br>
+<br>
+trupuri mereu mai albastre<br>
+<br>
+și biciuie carnea.<br>
+<br>
+Și din fiece fluier al naiului<br>
+<br>
+ies uriașe omizi - dar nici una<br>
+<br>
+nu-și mai întoarce spre dânsul<br>
+<br>
+unicul ochi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** A. E. Baconsky
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

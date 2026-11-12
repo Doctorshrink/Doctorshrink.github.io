@@ -1,0 +1,54 @@
+---
+title: "Mortul vesel"
+subtitle: "Charles Baudelaire"
+author: "Doctor Shrink"
+date: "2026-11-12"
+categories: [poezie, spoken-word, moarte]
+image: "../images/themes/moarte.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O-MVQmcXK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Într-un tărâm de seve şi de moluşte plin<br>
+<br>
+Îmi voi săpa eu însumi, cât mai adânc, o groapă,<br>
+<br>
+În care mâine osul bătrân să mi-l alin<br>
+<br>
+Dormind întru uitare ca un rechin în apă.<br>
+<br>
+Urăsc şi testamente şi lespezi de mormânt.<br>
+<br>
+Decât să cer mulţimii tristeţea şi regretul,<br>
+<br>
+Cu mult mai bine corbii îi voi pofti, pe rând,<br>
+<br>
+Să-mi cureţe de cărnuri, flămânzi, întreg scheletul.<br>
+<br>
+O! viermi, tovarăşi fără de văz şi de auz,<br>
+<br>
+Un mort voios şi liber destinul v-a adus;<br>
+<br>
+Voi, fiii putrezirii şi filozofi ai sorţii,<br>
+<br>
+Cutreieraţi-mi leşul cu hămesite guri<br>
+<br>
+Şi spuneţi-mi voi: oare, mai sunt cumva torturi<br>
+<br>
+Pentru-acest trup netrebnic şi mort printre toţi morţii?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Charles Baudelaire
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,58 @@
+---
+title: "Blues cu iederă și stejar"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-12"
+categories: [poezie, spoken-word, codru]
+image: "../images/themes/codru.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FsJk5PUjscI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vai, printr-un vegetal abuz,<br>
+<br>
+O iederă și un stejar,<br>
+<br>
+Încremeniți, dansează blues<br>
+<br>
+Și rădăcinile tresar.<br>
+<br>
+Și luna sus, ca un cinel,<br>
+<br>
+Cutremurându-se mereu,<br>
+<br>
+Și iedera vorbind cu el<br>
+<br>
+„Să mai dansăm, iubitul meu!&quot;.<br>
+<br>
+N-au nici un drept, n-au nici un drept,<br>
+<br>
+La dans, la tot ce îndrăznesc,<br>
+<br>
+Dar el o trage către piept<br>
+<br>
+Cu-n gest aproape omenesc.<br>
+<br>
+Și dacă ei, printr-un abuz<br>
+<br>
+Și-un gest al lumii de apoi,<br>
+<br>
+Dansează blues, dansează blues,<br>
+<br>
+De ce nu am dansa și noi?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** codru
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

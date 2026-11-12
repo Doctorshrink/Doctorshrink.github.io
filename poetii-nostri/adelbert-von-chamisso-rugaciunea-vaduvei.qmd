@@ -1,0 +1,86 @@
+---
+title: "Rugăciunea văduvei"
+subtitle: "Adelbert von Chamisso"
+author: "Doctor Shrink"
+date: "2026-11-12"
+categories: [poezie, spoken-word, tata]
+image: "../images/themes/tata.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4HihXEkTXHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Bătrâna se scoală cu sfiiciune<br>
+<br>
+Şi-şi spune pătrunsă a ei rugăciune:<br>
+<br>
+O, Doamne! Trăiască-mi stăpânul herțog<br>
+<br>
+Multi ani fără număr, din suflet te rog!<br>
+<br>
+Necazul te-nvață să rogi.<br>
+<br>
+Stăpânul ce tocmai intrase pe ușă<br>
+<br>
+Crezu că-i nebună și-i spuse: - Mătușă<br>
+<br>
+Eu chiar am trecut afară pe drum<br>
+<br>
+Când rug-auzi. Te rog să-mi spui cum<br>
+<br>
+Necazul te-nvață să rogi?<br>
+<br>
+Opt vaci am avut, și singuru-mi bun,<br>
+<br>
+Bunicul Domniei și-al nostru stăpân<br>
+<br>
+Luă cele bune la dânsu-n izlaz<br>
+<br>
+Lăsându-mi bordeiul cuprins de necaz.<br>
+<br>
+Necazul te-nvață să rogi.<br>
+<br>
+Blestemu-mi l-ajunse prin morții-mi copii,<br>
+<br>
+Puțin dup-aceea stăpânul muri.<br>
+<br>
+Părintele vostru urmă al său pas<br>
+<br>
+Și numai trei vite de atunci mi-au rămas.<br>
+<br>
+Necazul te-nvață să rogi.<br>
+<br>
+Domnul dreptate făcu și-astă dat‘,<br>
+<br>
+Căzu de pe cal, murind blestemat,<br>
+<br>
+Dar locu-i luat-ați și atuncea din trei<br>
+<br>
+O vită-mi rămase, ce drept să mai ceri?<br>
+<br>
+Necazul te-nvață să rogi.<br>
+<br>
+De vine fiul urmându-l pe tată<br>
+<br>
+Îmi ia de pe suflet și ultima vacă.<br>
+<br>
+O, Doamne! Trăiască-mi stăpânul herțog<br>
+<br>
+Multi ani fără număr, din suflet te rog.<br>
+<br>
+Necazul te-nvață să rogi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adelbert von Chamisso
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

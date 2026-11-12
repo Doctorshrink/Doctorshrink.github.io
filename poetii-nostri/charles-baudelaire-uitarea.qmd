@@ -1,0 +1,74 @@
+---
+title: "Uitarea"
+subtitle: "Charles Baudelaire"
+author: "Doctor Shrink"
+date: "2026-11-12"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m7ssrArfeNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vin` lângă mine, suflet veninos,<br>
+<br>
+Molatec monstru, fiară adorată!<br>
+<br>
+Vreau să-mi înfăşur mâna-nfiorată<br>
+<br>
+În coama părului tău greu şi gros;<br>
+<br>
+În rochia ta cu falduri parfumate<br>
+<br>
+Vreau capu-ndurerat să mi-l scufund<br>
+<br>
+Şi ca pe-un stins buchet să sorb profund<br>
+<br>
+Mireasma dulce-a dragostei uitate.<br>
+<br>
+Nu să trăiesc, să dorm aş vrea mereu!<br>
+<br>
+În somn îţi voi aşterne fără teamă<br>
+<br>
+Pe trupul tău cu străluciri de-aramă<br>
+<br>
+Un nesfârşit sărut prelung şi greu.<br>
+<br>
+În patul tău, abis de desfătare,<br>
+<br>
+Se stinge orice gând chinuitor<br>
+<br>
+Şi gura ta e-un nesecat izvor<br>
+<br>
+De săruturi şi aprigă uitare.<br>
+<br>
+Robit acestui crud şi drag destin,<br>
+<br>
+Voi asculta poruncile-i perfide<br>
+<br>
+Şi, mucenic blajin care-şi deschide<br>
+<br>
+El însuşi rănile, de râvnă plin,<br>
+<br>
+Voi suge-otrava binecuvântată,<br>
+<br>
+Adormitoare-a vechilor torturi,<br>
+<br>
+Din vârfu-acestor sâni rotunzi şi duri<br>
+<br>
+În care n-a fost suflet niciodată.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Charles Baudelaire
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
