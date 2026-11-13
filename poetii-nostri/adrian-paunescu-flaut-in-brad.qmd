@@ -1,0 +1,66 @@
+---
+title: "Flaut în brad"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-14"
+categories: [poezie, spoken-word, codru]
+image: "../images/themes/codru.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/92COgI4-P8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+M-aș scufunda-ntr-un brad până la creștet<br>
+<br>
+Ca-ntr-un sicriu molatec și inform<br>
+<br>
+Să mor, dar să n-ajung de-a pururi veșted<br>
+<br>
+Și în eternul verde să adorm.<br>
+<br>
+M-aș scufunda-ntr-un brad spre rădăcină,<br>
+<br>
+Să mă resoarbă munții dimprejur,<br>
+<br>
+Să simt cum el în vine se închină<br>
+<br>
+Ca templul vinovat în templul pur.<br>
+<br>
+M-aș scufunda-ntr-un brad fără de moarte<br>
+<br>
+Acolo ascunzandu-mi moartea mea<br>
+<br>
+Și cât n-am împlinit în șapte arte<br>
+<br>
+Să împlinesc în arta de-a tăcea.<br>
+<br>
+M-aș scufunda-ntr-un brad al lumii, Doamne,<br>
+<br>
+De mine să scapați, de voi să scap,<br>
+<br>
+Când vine ora friguroasei toamne<br>
+<br>
+Să-ncărunțesc cu brume reci pe cap.<br>
+<br>
+M-aș scufunda-ntr-un brad, atât mai caut,<br>
+<br>
+Încolo toți copacii mă rănesc,<br>
+<br>
+Eu sunt acum ruina unui flaut<br>
+<br>
+Tânjind de dor de bradul părintesc.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** codru
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

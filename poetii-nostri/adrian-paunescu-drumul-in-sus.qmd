@@ -1,0 +1,54 @@
+---
+title: "Drumul în sus"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-14"
+categories: [poezie, spoken-word, drum]
+image: "../images/themes/drum.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RVM6z0A04aU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Și drumul se arată drept în sus,<br>
+<br>
+Ca un perete care ține cerul<br>
+<br>
+Să nu-și încurce oile oierul<br>
+<br>
+Când nici lumini și nici alți oameni nu-s.<br>
+<br>
+Rostogolite vietăți de foc<br>
+<br>
+Aprind sub tălpi zgârieturi de piatră,<br>
+<br>
+Doar la Albac un câine rău mai latră<br>
+<br>
+Și liniștea se-așază-ncet la loc.<br>
+<br>
+Deasupra, dedesubt, nimic, nimic,<br>
+<br>
+E numai drum nesăturat de sine<br>
+<br>
+Și o căruță dinspre munte vine<br>
+<br>
+Cu caii mari și căruțașul mic!<br>
+<br>
+M-agăt de iarba care dă în spic<br>
+<br>
+Și o furnică gleznele îmi ține.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

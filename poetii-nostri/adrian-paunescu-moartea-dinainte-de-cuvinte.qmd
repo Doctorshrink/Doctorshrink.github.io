@@ -1,0 +1,68 @@
+---
+title: "Moartea dinainte de cuvinte"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-14"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/themes/cuvant.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hJpT4ew2uTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Doamne, ce m-aș fi făcut dacă mă nășteam, înainte<br>
+<br>
+De-a exista cuvinte?<br>
+<br>
+Cum aș fi spus ceea ce simțeam că trebuie să spun,<br>
+<br>
+Dacă nici urletul nu era bun?<br>
+<br>
+Ce mă făceam, Doamne,<br>
+<br>
+Dacă mă nășteam într-un an,<br>
+<br>
+Când nu exista nici nai, nu există nici pian?<br>
+<br>
+Câteva mii de ani, cu sudoarea pe piele,<br>
+<br>
+Cei îndurerați au lucrat la ele.<br>
+<br>
+Dar cel mai mult ei au murit nicăierea<br>
+<br>
+Și i-a îngropat tăcerea.<br>
+<br>
+Cum o fi să mori, îngenuncheat și constrâns,<br>
+<br>
+Fără hohot de râs, fără hohot de plâns?<br>
+<br>
+Că, uite, pe mine, cuvântul mă salvează<br>
+<br>
+Și de frivolitate, și de doliu, și de groază.<br>
+<br>
+Doamne, nu cumva moartea să mi-o muți<br>
+<br>
+Într-un cortegiu de surdo-muți.<br>
+<br>
+Că nici nu există moarte mai grea<br>
+<br>
+Decât cea în care nu se poate urla.<br>
+<br>
+Doamne, ce m-aș fi făcut dacă mă nășteam, înainte<br>
+<br>
+De-a exista cuvinte?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

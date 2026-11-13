@@ -1,0 +1,74 @@
+---
+title: "Dor de pădure"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-14"
+categories: [poezie, spoken-word, codru]
+image: "../images/themes/codru.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/acXMlB-LuhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+La ora când mugurii cântă<br>
+<br>
+Deasupra pădurii de cocs,<br>
+<br>
+Ne ține ca sfânt și ca sfântă<br>
+<br>
+Un vechi calendar ortodox.<br>
+<br>
+Iubirea ne poartă departe<br>
+<br>
+În mâinile altor nuntași,<br>
+<br>
+Dar noi suntem viața din moarte,<br>
+<br>
+Uitarii te las și mă lași.<br>
+<br>
+Sub noi e o negură deasă,<br>
+<br>
+O negura deasă e-n noi,<br>
+<br>
+Pădurea ni-i pat și ni-i casă,<br>
+<br>
+Pădurea se împarte la doi.<br>
+<br>
+Un freamăt de cocs dinspre frunze,<br>
+<br>
+Sub lună vom arde buimaci<br>
+<br>
+Și toate iubirile-ascunse<br>
+<br>
+Troznind vor ieși din copaci.<br>
+<br>
+Misterele forestiere<br>
+<br>
+Și noaptea de cocs absolut,<br>
+<br>
+Luminii să-i dea o putere<br>
+<br>
+Cum încă noi doi n-am văzut.<br>
+<br>
+Păstrează-ne-n tine, pădure,<br>
+<br>
+Și-ți dăm cheia tainelor mici,<br>
+<br>
+Ca tainele mari să se-ndure<br>
+<br>
+De faptul că suntem aici.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** codru
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

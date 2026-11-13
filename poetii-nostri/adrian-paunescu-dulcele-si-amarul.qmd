@@ -1,0 +1,54 @@
+---
+title: "Dulcele și amarul"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-14"
+categories: [poezie, spoken-word, durere]
+image: "../images/themes/durere.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-g4zl-scERw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Făgăduiește-mi dulcele mâine,<br>
+<br>
+Și-ți dau dobândă amarul ieri,<br>
+<br>
+Dragostea noastră peste puteri,<br>
+<br>
+Visul de vultur, fuga de câine.<br>
+<br>
+Mâna din umăr poți să mi-o ceri,<br>
+<br>
+Între trecutul vechi și poimâine,<br>
+<br>
+Buzele noastre, buze de pâine,<br>
+<br>
+Miros a grâul care-am fost ieri.<br>
+<br>
+Doamne, prin ganguri și prin nămeți,<br>
+<br>
+Prin neplăcute odăi străine,<br>
+<br>
+Actori ai singurei noastre vieți,<br>
+<br>
+Tu și cu mine, eu și cu tine,<br>
+<br>
+Când mai în grabă, când mai înceți,<br>
+<br>
+Fără de frică, fără rușine.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
