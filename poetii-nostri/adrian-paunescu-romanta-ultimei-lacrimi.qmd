@@ -1,0 +1,118 @@
+---
+title: "Romanţa ultimei lacrimi"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-15"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/themes/lacrimi.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AMfjb1jeaW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+In toate filmele acestea,<br>
+E parcă vorba despre tine,<br>
+Se-ntâmplă numai catastrofe<br>
+Si nici un cuplu nu-i întreg,<br>
+Plângând, te recunosc<br>
+In jocul acestor triste eroine<br>
+Si-aş vrea să te privesc cu ură,<br>
+Dar te iubesc şi te-nţeleg.<br>
+<br>
+Eşti jertfa mea şi eşti revolta<br>
+Că jertfa care eşti există,<br>
+Aş vrea să uit, dar port în creier<br>
+Intreaga dramă care-a fost,<br>
+Aş vrea să râd cu toţi aceia<br>
+Ce te vor face şi mai tristă<br>
+In viaţa ta care urmează<br>
+Si n-o să aibă nici un rost.<br>
+<br>
+Absenţa ta mă arde încă<br>
+Si o implozie m-aşteaptă,<br>
+Mă mir că n-am avut curajul<br>
+De-a te expune tuturor,<br>
+Dar trebuie la despărţire<br>
+Să recunosc în luptă dreaptă<br>
+Puterea purităţii tale<br>
+Ce m-a ţinut ca să nu mor.<br>
+<br>
+A fost ca-n filmele acestea<br>
+Si mult mai mult decât în viaţă,<br>
+A fost o dragoste nebună<br>
+Ca-n Evul Mediu legendar,<br>
+Incât, reamintindu-mi numai,<br>
+Simt degetele că-mi îngheaţă,<br>
+Adorm în zorii dimineţii,<br>
+Te simt în creier şi tresar.<br>
+<br>
+Nu ştiu nici unde te mai afli,<br>
+Te poartă paşii nicăierea,<br>
+Către o salcie de lacrimi<br>
+Din curtea de părinţi săraci,<br>
+Dar eu mă rog să te găsească<br>
+Si pentru mine învierea<br>
+Si să- ţi redea dorita pace.<br>
+Dar tu, iubito, ce mai faci?<br>
+<br>
+Să fie-adevărată vestea<br>
+C-a fost un fals, c-a fost o farsă?<br>
+S-accept stupida bănuială,<br>
+Că tu nu m-ai iubit deloc?<br>
+Eu tot nu cred, chiar dacă totul,<br>
+Ca un noroi, pe noi, se varsă,<br>
+Eu te-am iubit, fară rezerve,<br>
+Si cred că mi-ai purtat noroc.<br>
+<br>
+De-ar fi, cu acte, confirmată<br>
+Această biată suspiciune<br>
+Că ai jucat un rol pe care<br>
+N-am fost atent să-l fi-nţeles,<br>
+Eu rog pe Dumnezeu s-asculte<br>
+De gândurile mele bune,<br>
+Cu dreptul tău la fericire,<br>
+La poezie şi succes.<br>
+<br>
+Nu pot să mint că nu mă doare,<br>
+Când nu-mi ajunge nici o pernă,<br>
+Aş vrea să ai în tine însăţi<br>
+Si-un strop de plâns, să mă regreţi,<br>
+Dar treaba cea mai importantă,<br>
+In toată zbaterea eternă,<br>
+E c-a intervenit tăcerea,<br>
+Ca un blestem pentru poeţi. &#x27;<br>
+<br>
+Imi trec prin cap prostii, tot felul,<br>
+Poveştile-njosirii tale,<br>
+M-aş întrista de-ar fi să aflu<br>
+Că te răzbuni, greşind vulgar,<br>
+Dar ce contează toate astea,<br>
+Când mă sufoc de- atâta jale<br>
+Si de un somn mai lung de-o oră,<br>
+De nopţi şi nopţi nu am habar?<br>
+<br>
+în toate filmele acestea<br>
+E vorba, sigur, despre tine,<br>
+Si-n cântecele despre care<br>
+Credeam că mint în mod prostesc,<br>
+Suport cu greu ruptura asta,<br>
+Am insomnii şi nu mi-e bine,<br>
+Dar dreptul tău la fericire<br>
+E un coşmar care revine,<br>
+Adio, Neagră Principesă,<br>
+Urăşte-mă, te mai iubesc.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

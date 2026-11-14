@@ -1,0 +1,98 @@
+---
+title: "Romanța florilor"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-15"
+categories: [poezie, spoken-word, flori]
+image: "../images/themes/flori.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vq8JJvO7nXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Urmele tale au înflorit,<br>
+<br>
+Sa ridicat flora dulce din văi,<br>
+<br>
+Vai, câte pâlcuri spre plus infinit,<br>
+<br>
+Ard după urmele pașilor tăi.<br>
+<br>
+Când te-ai născut ? În ce timp ? În ce loc ?<br>
+<br>
+O ursitoare te-a blestemat<br>
+<br>
+Să n-ai nici casă și nici noroc,<br>
+<br>
+Nici dreptul simplu la un bărbat.<br>
+<br>
+Când mă gândesc către tine mi-e frig.<br>
+<br>
+Florile pașilor tăi ard cumplit,<br>
+<br>
+Strig către tine, dacă te strig,<br>
+<br>
+Singurătatea ta a-nflorit.<br>
+<br>
+Râul e mare ca un blestem,<br>
+<br>
+Între ce sunt și înflorirea că ești,<br>
+<br>
+De peste moarte parcă te chem,<br>
+<br>
+De peste mări, depărtări și povești.<br>
+<br>
+Când te-am știut era foarte târziu,<br>
+<br>
+Până acum se putea să și mori,<br>
+<br>
+Doamne, ce frig, ce prăpăd, ce pustiu<br>
+<br>
+Sub frăgezimea acestor flori.<br>
+<br>
+Va veni iarna, prea trista mea,<br>
+<br>
+Trenuri vor sta sub zăpezile mari,<br>
+<br>
+Dintr-o provincie de undeva,<br>
+<br>
+Fără putere ai să tresari.<br>
+<br>
+Punte de țurțuri va fi între noi,<br>
+<br>
+Florile stinse plecând in cer,<br>
+<br>
+Ne vom întinde pe-un pat de sloi,<br>
+<br>
+În sărutarea cu guri de ger.<br>
+<br>
+Nu numai tu, ci și eu am avut<br>
+<br>
+Straniul acces la acest nenoroc,<br>
+<br>
+Florile tale murmură mut,<br>
+<br>
+Încă e toamnă și te invoc.<br>
+<br>
+Și mai departe ce să mai spun?<br>
+<br>
+Soarele cade în scurta zi<br>
+<br>
+Ca înflorirea țevii de tun,<br>
+<br>
+Care anunță ce ierni vor veni.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** flori
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

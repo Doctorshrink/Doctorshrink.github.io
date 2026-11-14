@@ -1,0 +1,82 @@
+---
+title: "Norul de lacrimi"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-15"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/themes/lacrimi.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xkr-QKgpGNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ce greu mi-este mie, dar ție ce greu!<br>
+<br>
+O negură-i lumea sporită mereu,<br>
+<br>
+Când urcă pământul în oase la zeu<br>
+<br>
+Și norul de lacrimi pe sufletul meu,<br>
+<br>
+Te simt sufocându-te-n strâmbul concert<br>
+<br>
+De lucruri cu care te-alung și dezmierd<br>
+<br>
+Și totul ți-i tulbure, searbăd, incert,<br>
+<br>
+Nu ierți ce eu însumi nu pot să mă iert.<br>
+<br>
+Ți-aduc nefirescul și-ți spun că-i firesc,<br>
+<br>
+Sunt toate zdrobite de-un biet interes<br>
+<br>
+Și multe sunt altfel de cum le găsesc,<br>
+<br>
+Dar știu adevărul cumplit: te iubesc.<br>
+<br>
+Și oricare mari întrebări ar veni,<br>
+<br>
+În oricare viață, în oricare zi,<br>
+<br>
+Tu trebuie, totuși, să uiți și să știi<br>
+<br>
+Că și-n contra ciumei eu tot te-aș iubi.<br>
+<br>
+Pe noi ne despart și azur și măcel<br>
+<br>
+Și viața și moartea în noi sunt la fel,<br>
+<br>
+Rămâi peste cruntele vieții-ndoieli,<br>
+<br>
+Femeie de taină, nu stea cu inel.<br>
+<br>
+Iubito, să știi, dar s-ascunzi tuturor,<br>
+<br>
+Că eu în aproape și trist viitor<br>
+<br>
+Simt, iată, că sângele-mi pică-n decor<br>
+<br>
+Și-i timpul sub nuntă cerească să mor.<br>
+<br>
+Afară frumos e, în noi e urât,<br>
+<br>
+Eu până la rana-mi din piept m-am târât<br>
+<br>
+Și-o simt ca pe-un ultim izvor doborât,<br>
+<br>
+Beau inima mea. Mă-nnorez și atât.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

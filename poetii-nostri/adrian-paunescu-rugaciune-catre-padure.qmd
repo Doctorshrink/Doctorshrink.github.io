@@ -1,0 +1,54 @@
+---
+title: "Rugăciune către pădure"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-15"
+categories: [poezie, spoken-word, codru]
+image: "../images/themes/codru.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ALtRMVI1qjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Padurea mea, primeste-ma la tine,<br>
+<br>
+Ca pe-un sicriu ce vrea sa intre iar<br>
+<br>
+În fostul trunchi al fostului stejar,<br>
+<br>
+În hohotul bolnavelor ruine.<br>
+<br>
+Am plagi pe trup ascunse, neascunse,<br>
+<br>
+Se vede ca pe orice trunchi de lemn,<br>
+<br>
+Cu claritate fiecare semn<br>
+<br>
+Pe unde-au scos din mine nervi si frunze.<br>
+<br>
+Sunt cautat de sute de topoare<br>
+<br>
+Si a venit porunca sa ma frâng,<br>
+<br>
+Si nu am voie nici macar sa plâng<br>
+<br>
+Aceasta aschiere ce ma doare.<br>
+<br>
+Dar, dac-am fost vioara ta cea mare,<br>
+<br>
+Padurea mea, ascunde-ma adânc.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** codru
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

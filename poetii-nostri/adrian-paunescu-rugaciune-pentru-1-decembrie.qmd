@@ -1,0 +1,114 @@
+---
+title: "Rugăciune pentru 1 Decembrie"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-15"
+categories: [poezie, spoken-word, dumnezeu]
+image: "../images/themes/dumnezeu.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M0LpDpEAM1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ne iartă, Doamne, ura şi gâlceava<br>
+<br>
+de care suntem zilnic vinovaţi,<br>
+<br>
+dar către Tine tulnicul suna-va,<br>
+<br>
+să-ntorci privirea Ta către Carpaţi.<br>
+<br>
+Prea mult abandonaţi acestei toamne,<br>
+<br>
+nu mai avem în vatra casei foc,<br>
+<br>
+mai dă-ne-un pic de amintire, Doamne,<br>
+<br>
+răbdare şi iertare şi noroc.<br>
+<br>
+Că pentru vite nu mai sunt nutreţuri<br>
+<br>
+şi aşteptăm o pâine din import,<br>
+<br>
+când bietul om s-a prăbuşit sub preţuri<br>
+<br>
+şi sufletul în el e-aproape mort.<br>
+<br>
+Ne-am despărţit în triburi şi în secte,<br>
+<br>
+în cluburi, în partide şi în găşti,<br>
+<br>
+iubirile directe sunt suspecte.<br>
+<br>
+Doreşti succes? Învaţă să urăşti.<br>
+<br>
+Duşmanii nu puteau să ne condamne,<br>
+<br>
+cum noi, pe noi, ne-am condamnat la rău,<br>
+<br>
+de ce să mai venim la Alba, Doamne,<br>
+<br>
+când e negustorit şi duhul Tău?<br>
+<br>
+Şi, totuşi, Alba-Iulia există,<br>
+<br>
+şi, totuşi, cineva i-a dat un rost,<br>
+<br>
+şi-a fost şi-atunci pornire anarhistă,<br>
+<br>
+şi Dumnezeu tot ocupat a fost.<br>
+<br>
+Cu grohotiş pe tălpi şi brumă-n gene,<br>
+<br>
+să-nvingi un vechi şi tragic handicap,<br>
+<br>
+şi, în onoarea Albei Apusene,<br>
+<br>
+să-ţi scoţi căciula dacică din cap.<br>
+<br>
+Se-aude Basarabia cum plânge<br>
+<br>
+de dorul Ţării Mari, pierdute-n veci,<br>
+<br>
+şi-n clopote e treaz acelaşi sânge,<br>
+<br>
+şi-aceiaşi ochi imperiali sunt reci.<br>
+<br>
+Şi nu-i Emilian la catedrală,<br>
+<br>
+uzurpatorii lui lucrează calmi,<br>
+<br>
+nici umbrele din somn nu se mai scoală,<br>
+<br>
+nici nu mai cântă doctor Iacob psalmi.<br>
+<br>
+Şi ne e dor de-o sfântă sărbătoare,<br>
+<br>
+în care toţi să ne-adunăm aici,<br>
+<br>
+şi ne e dor de România Mare<br>
+<br>
+şi am rămas îngrozitor de mici.<br>
+<br>
+Dar, Doamne, pune-Ţi pe cetate talpa,<br>
+<br>
+mai dă-ne harul unui gest postum,<br>
+<br>
+mai cheamă-ne, mai rabdă-ne la Alba<br>
+<br>
+şi să mai încercăm măcar acum.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** dumnezeu
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
