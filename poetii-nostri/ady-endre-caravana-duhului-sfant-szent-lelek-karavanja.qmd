@@ -1,0 +1,98 @@
+---
+title: "Caravana Duhului Sfânt - (Szent Lélek karavánja)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-11-16"
+categories: [poezie, spoken-word, dumnezeu]
+image: "../images/themes/dumnezeu.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zc4j2De90qM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Un negustor, pe numele Duh Sfânt,<br>
+<br>
+Odată, urgent a comandat mult.<br>
+<br>
+Venim din sute de plaiuri<br>
+<br>
+Pe jos, cu caruță, trăsnet, abur.<br>
+<br>
+Pe cămile am trecut Sahara,<br>
+<br>
+Negoțul scump devenise vetust.<br>
+<br>
+Dar, așa a vrut, deja, Duhul Sfânt:<br>
+<br>
+Un pic de Viitor c-un pic Trecut.<br>
+<br>
+Buddha, Moise, Isus cu noi:<br>
+<br>
+Creierul încărcat cu dogme.<br>
+<br>
+Cum ai promis, preia marfa,<br>
+<br>
+Plătește, Duh Sfânt, ne e foame.<br>
+<br>
+Oh, noi, toptangii săraci,<br>
+<br>
+Soli de vise, ca Solon, mândrul.<br>
+<br>
+Cresușii trăiesc în belșug,<br>
+<br>
+Și tezaurul nostru: nisipul.<br>
+<br>
+Zece zile lungi: milenare.<br>
+<br>
+La Rusalii ne-au mințit.<br>
+<br>
+Pentru certuri, de aurul cald,<br>
+<br>
+Caravana asta mult a muncit.<br>
+<br>
+Capul onest, beat, deștept, e dus<br>
+<br>
+Cu Vorba. Ne batem pentru altul.<br>
+<br>
+Și nu observăm fericirea,<br>
+<br>
+Cum blegul nu vede peisajul.<br>
+<br>
+Risipim sângele și tendonul,<br>
+<br>
+Ne spală grindina de la debut,<br>
+<br>
+Adună pământ și face bani,<br>
+<br>
+De mii de ani, cel priceput.<br>
+<br>
+Ah, Duh, caravana nu adastă,<br>
+<br>
+Mâncatul de dogme, a fost destul.<br>
+<br>
+Jerpeliți, rupți de șacali,<br>
+<br>
+Așteptăm: să vină și decontul.<br>
+<br>
+Plătește, Duh Sfânt. Parcă a fost mult<br>
+<br>
+Acest amor-gratis, nebun și trist.<br>
+<br>
+Vezi, c-am ajuns, umbre cu sânge<br>
+<br>
+Mișună-n zori de Rusalii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** dumnezeu
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

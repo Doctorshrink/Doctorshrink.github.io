@@ -1,0 +1,58 @@
+---
+title: "Dorul trist de bine - (Jóság síró vágya)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-11-16"
+categories: [poezie, spoken-word, dor]
+image: "../images/themes/dor.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JSHvDLsOMy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În brațe calde se încălzi,<br>
+<br>
+Captând vorbe dragi, șoapte,<br>
+<br>
+Premiante, cu sărutare:<br>
+<br>
+Ce bine, ca bun a se trezi.<br>
+<br>
+În strădanie nu se calma,<br>
+<br>
+A nu lua nimic, nu cere,<br>
+<br>
+Iubind totul cu nădejde:<br>
+<br>
+Ce bine ar fi, etern a da.<br>
+<br>
+Nicicând visul a nu minți,<br>
+<br>
+A da altora un crez vesel,<br>
+<br>
+Plânsului alt plâns după el:<br>
+<br>
+Bine ar fi să ști a sfinți.<br>
+<br>
+În brațe calde se încălzi,<br>
+<br>
+Captând vorbe dragi, șoapte,<br>
+<br>
+Premiante, cu sărutare:<br>
+<br>
+Ce bine, ca bun a se trezi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

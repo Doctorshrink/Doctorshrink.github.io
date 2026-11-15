@@ -1,0 +1,66 @@
+---
+title: "Psalmii de i-am învățat"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-11-16"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YQniO0UbXH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Psalmii de i-am învăţat,<br>
+<br>
+Îndelung de ne-am rugat,<br>
+<br>
+Lepădăm,<br>
+<br>
+Şi uităm, uitării dăm.<br>
+<br>
+De-am iubit cereasca pară,<br>
+<br>
+Focul Soarelui de vară,<br>
+<br>
+Lepădăm,<br>
+<br>
+Şi uitam, uitării dăm.<br>
+<br>
+De-am avut şi vin pe masă,<br>
+<br>
+Mamă, dragoste, mireasă,<br>
+<br>
+Lepădăm,<br>
+<br>
+Şi uităm, uitării dăm.<br>
+<br>
+De ne-a dus vânt van prin lume,<br>
+<br>
+Dacă-am prins şi vremi mai bune,<br>
+<br>
+Lepădăm,<br>
+<br>
+Şi uităm, uitării dăm.<br>
+<br>
+De-am avut şi zile sfinte,<br>
+<br>
+Grijă, voie, suflet, minte,<br>
+<br>
+Lepădăm,<br>
+<br>
+Şi uităm, uitării dăm.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

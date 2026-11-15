@@ -1,0 +1,66 @@
+---
+title: "Plâns sub pomul-Trai - (Sírás az Élet-fa alatt)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-11-16"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/themes/lacrimi.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f95MdDNC-uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+De jos mă uit la ramuri,<br>
+<br>
+Trai, încărcat cu minuni.<br>
+<br>
+Vai,<br>
+<br>
+Ticălos, ticălos, ticălos.<br>
+<br>
+Așa, altul nu te-a râvnit,<br>
+<br>
+Așa, altul nu te-a dorit.<br>
+<br>
+Vai,<br>
+<br>
+În zadar, în zadar, în zadar.<br>
+<br>
+Minune o dată să-mi dai,<br>
+<br>
+Fiu, o dată să mă ai.<br>
+<br>
+Vai,<br>
+<br>
+Ce aștept, ce aștept, ce aștept.<br>
+<br>
+Prin sânge te chem, înșel, pândesc,<br>
+<br>
+Prin sânge te urâsc, iubesc.<br>
+<br>
+Vai,<br>
+<br>
+Te privesc, te privesc, te privesc.<br>
+<br>
+Și rămân aici, prăfuit,<br>
+<br>
+Știu, sunt sigur, fiind strivit.<br>
+<br>
+Vai,<br>
+<br>
+Până ce mă sting, mă sting, mă sting.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

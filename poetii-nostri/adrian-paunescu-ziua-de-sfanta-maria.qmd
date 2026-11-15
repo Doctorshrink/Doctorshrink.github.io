@@ -1,0 +1,82 @@
+---
+title: "Ziua de Sfânta Maria"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-16"
+categories: [poezie, spoken-word, dumnezeu]
+image: "../images/themes/dumnezeu.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/It9_v708HgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nici pe tine moartea nu te cruţă,<br>
+<br>
+mori acum, dar fiul tău e sus,<br>
+<br>
+noapte bună, somn uşor, Măicuţă<br>
+<br>
+a Mântuitorului Iisus.<br>
+<br>
+Tu n-aveai dreptul să adormi, Marie,<br>
+<br>
+şi ochii ţi se împăienjenesc<br>
+<br>
+şi mori şi tu, lumina noastră vie,<br>
+<br>
+gravida unui gând dumnezeiesc.<br>
+<br>
+Te pleci divinităţii suverane,<br>
+<br>
+ca un pământ în alt pământ apui<br>
+<br>
+şi fiul tău te plânge în icoane<br>
+<br>
+şi îngerii sunt toţi de partea lui.<br>
+<br>
+O clipă, toate nu mai au lumină<br>
+<br>
+şi noi primim ca pe-o osândă grea<br>
+<br>
+şi noi primim cu linişte străină,<br>
+<br>
+fără speranţă, adormirea ta.<br>
+<br>
+La moartea ta, Maria noastră Sfântă,<br>
+<br>
+toţi cei ce te-au iubit te înţeleg<br>
+<br>
+şi mor cu tine şi murind te cântă<br>
+<br>
+femeile pământului întreg.<br>
+<br>
+Te duci cu vara, viaţa te condamnă<br>
+<br>
+să pleci cu cel din ceruri dintre noi<br>
+<br>
+şi să te naşti în fiecare toamnă,<br>
+<br>
+ca să ni-l dai la iarnă înapoi.<br>
+<br>
+Tu mori, acum, ca fiul să-ţi trăiască,<br>
+<br>
+ne laşi aici, la margini de destin,<br>
+<br>
+îngenunchem la groapa ta cerească,<br>
+<br>
+Marie-a calendarului creştin.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** dumnezeu
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

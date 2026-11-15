@@ -1,0 +1,136 @@
+---
+title: "Sara pe deal"
+subtitle: "Adrian Păunescu"
+author: "Doctor Shrink"
+date: "2026-11-16"
+categories: [poezie, spoken-word, suflet]
+image: "../images/themes/suflet.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rFocQV1Jdp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Iese amurg dintr-o bătaie de clopot<br>
+caii culeg iarba din ultimul tropot,<br>
+păsări adorm dacă amurgul le-atinge,<br>
+sus la izvor, sus la obirsie, ninge.<br>
+<br>
+Case cuprind sufletul zilnicei frângeri,<br>
+oamenii sunt umbre tăcute de îngeri,<br>
+nimeni aici legea cerească n-o calcă,<br>
+sufletu-n plop, trupul se-apleacă în salcă.<br>
+<br>
+S-a auzit de peste uliţi o veste,<br>
+un nou născut viu într-o iesle mai este,<br>
+lemne de foc, oarbe caruţe mai cară,<br>
+ultim sărut, ca o pecete de ceară.<br>
+<br>
+Misticul sat luneca în rugăciune,<br>
+nimeni nimic, înspre pământ nu mai spune,<br>
+toate se-ntorc ireductibil spre ceruri,<br>
+florile ţin sipete de adevăruri.<br>
+<br>
+Iarăşi amurg, dangatul parcă revarsă,<br>
+cucii dispar lângă clopotniţa arsă,<br>
+cade-n fântâni ziua să urce iar, mâine,<br>
+în amintiri satul miroase a pâine.<br>
+<br>
+În cimitir, oile nu mai pasc iarbă,<br>
+mieii o pasc, pofta din ei este oarbă,<br>
+nevinovaţi, anii se-ncarcă de vină<br>
+cum ne-ating, fiinţele cum le declină.<br>
+<br>
+Sara pe deal seamănă cel mai ades cu<br>
+sara pe deal cum o scria Eminescu<br>
+sara pe deal e şi-aici cum şi-ntr-însul,<br>
+sara pe deal, fetişizându-ne plânsul.<br>
+<br>
+Sara pe deal, parte din noaptea eternă,<br>
+sara pe deal, capul se-apleacă pe pernă,<br>
+sara pe deal, totul deodata învie,<br>
+sara pe deal, muzică din poezie.<br>
+<br>
+Caii în apus pasc magnetismul chindiei,<br>
+omului bun, casa puternică fie-i,<br>
+noi între noi să mai gustăm cât se poate<br>
+sara pe deal, cea mai de preţ dintre toate.<br>
+<br>
+Şi să privim cerul cu tragice stele,<br>
+care mai ia forma poruncilor grele,<br>
+oamenii trec, nici nu vom şti unde pleacă,<br>
+iar după ei se mai aude o toacă.<br>
+<br>
+Urmele lor sunt sau copiii sau munca,<br>
+într-un temei lasă întreaga porunca,<br>
+sara pe deal nu e decât un amestic<br>
+de fabulos, de nebunesc şi domestic.<br>
+<br>
+Ziua s-a stins, zeamă de zarzară crudă,<br>
+ţipă guzgani, cine-are timp să-i audă,<br>
+carii bătrâni de-o veşnicie lucrează,<br>
+printre copii zgomotul lor isca groază.<br>
+<br>
+Dacă întinzi mâna cu-o mică lumină<br>
+ai să şi simţi vrejuri crescând în grădină,<br>
+nişte pândari, haulituri îşi aruncă,<br>
+fetele mari grup se întorc de la luncă.<br>
+<br>
+Poartă în sâni dorul de-o mână bărbată,<br>
+cei cautaţi mult mai târziu se arată,<br>
+podul pe râu scârţâie şi se îndoaie,<br>
+muştele bat, semn de-nnorare şi ploaie.<br>
+<br>
+Lâna-n fuior în turbioane se leagă,<br>
+creşte-n dovleci dor de sămânţa întreagă,<br>
+parcă de ieri luna răsare-nspre mâine,<br>
+plânge-un copil, sau parcă latră un câine.<br>
+<br>
+Plaurii morţi, cresc dintr-o apă uitată,<br>
+sfinţi înţelepţi celor cuminţi li se-arată,<br>
+sara pe deal, uite un mânz care moare,<br>
+suflet din el, ca şi o seară apare.<br>
+<br>
+Dulce-albăstrui caută suflet de iapă,<br>
+ea nu mai e, alta va şti să-l înceapă,<br>
+ultimi copii strigă pe uliţa noastră,<br>
+blânde bunici îi însoţesc din fereastră.<br>
+<br>
+Sara pe deal, cumpănă sinea nu-şi strică,<br>
+sara pe deal e ca un duh de bunică,<br>
+fruct zemuit împrăştiat pe tot locul,<br>
+coacem porumb, unde ai noştri fac focul.<br>
+<br>
+Sara pe deal, dulce vânare de vară,<br>
+azi nici un om nu are dreptul să moară,<br>
+sara pe deal, fum doborât dintr-un sfeşnic,<br>
+cade pe om, parcă-ntrupându-şi-l veşnic.<br>
+<br>
+Sara pe deal, cânepa fumegă bice,<br>
+cei pedepsiţi, nu au curajul s-o strice,<br>
+toate rămân, precum au fost în natură,<br>
+starea de om trece spre starea cea pură.<br>
+<br>
+Sara pe deal, spune că asta ni-i rostul,<br>
+să o numim suflet din sufletul nostru,<br>
+sara pe deal, sufletul mare al lumii,<br>
+sara pe deal, ochii în lacrimi ai mumii.<br>
+<br>
+Iar când noi toţi vom murmura ce ne doare,<br>
+tu să ne dai o creştinească iertare,<br>
+sara pe deal, nu a murit idealul,<br>
+suntem aici: Oamenii..Sara..Şi Dealul.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Adrian Păunescu
+* **Temă:** suflet
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
