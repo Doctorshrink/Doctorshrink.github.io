@@ -1,0 +1,42 @@
+---
+title: "Trenuri, ce duc la moarte - (Halálba vivő vonatok)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-11-17"
+categories: [poezie, spoken-word, moarte]
+image: "../images/themes/moarte.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/acDB7uDpSVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Tren, care la ea mă duci,<br>
+<br>
+Tren, ce de la ea m-aduci,<br>
+<br>
+Oh, tren, să circuli mai prost,<br>
+<br>
+Dacă în noapte tot fugi.<br>
+<br>
+Raza lămpilor de departe,<br>
+<br>
+În moarte să mă atragă,<br>
+<br>
+Și să ne-ntâlnim la o nuntă<br>
+<br>
+Cu țipăt mortal, de groază.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

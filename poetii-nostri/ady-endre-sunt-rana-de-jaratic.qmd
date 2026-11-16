@@ -1,0 +1,50 @@
+---
+title: "Sunt rană de jăratic"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-11-17"
+categories: [poezie, spoken-word, durere, foc]
+image: "../images/themes/durere.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eWrOpgV9AOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Sunt rană de jăratic, ard zvâcnit,<br>
+<br>
+Lumina chin îmi e şi roua chin e,<br>
+<br>
+Te vreau pe tine, iată, am venit,<br>
+<br>
+De-un chin mai plin mi-i dor, te vreau pe tine.<br>
+<br>
+Scapără, alb încinsă vâlvătaie,<br>
+<br>
+Sărutul doare, dorurile dor,<br>
+<br>
+Tu eşti infernul meu şi chin şi vaier,<br>
+<br>
+Tare mi-i dor de tine, tare dor.<br>
+<br>
+Dorul m-a rupt, sărut m-a-nsângerat,<br>
+<br>
+Sunt rană, chinul, noul chin mi-i hrana,<br>
+<br>
+Dă-mi chinuri mie, cel înfometat,<br>
+<br>
+Sărută-mă, sunt rană: arde rana.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** durere, foc
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

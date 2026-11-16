@@ -1,0 +1,96 @@
+---
+title: "Rugă blândă, de seară - (Szelíd, esti imádság)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-11-17"
+categories: [poezie, spoken-word, tata]
+image: "../images/themes/tata.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zp4ng3FmNTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Doamne, dă-mi noapte lină,<br>
+<br>
+Noapte mare, liniștită<br>
+<br>
+Pentru fiul tău bătrân,<br>
+<br>
+Fiul tău bolnav, păgân.<br>
+<br>
+Muzica de splendide<br>
+<br>
+Chefuri amarnice<br>
+<br>
+Să mă ocolească,<br>
+<br>
+Să sune la distanță.<br>
+<br>
+Să nu-mi stea pe inimă,<br>
+<br>
+Pe inima invalidă<br>
+<br>
+Coșmarul de veghere,<br>
+<br>
+Coșmarul cel pervers.<br>
+<br>
+Să dorm hohotind,<br>
+<br>
+Să visez hohotind<br>
+<br>
+Și în vis să izbutesc,<br>
+<br>
+În vis să mă-ntineresc.<br>
+<br>
+Ceva foarte mare,<br>
+<br>
+Ceva glorios de mare<br>
+<br>
+Visând s-am fantezii,<br>
+<br>
+În beznă s-am fantezii.<br>
+<br>
+Să mă rog, ca un copil<br>
+<br>
+Școlar, de mult copil,<br>
+<br>
+Cu râvnă divină,<br>
+<br>
+Cu râvnă dormindă.<br>
+<br>
+Când amurgul se lasă,<br>
+<br>
+Amurgul brun se lasă,<br>
+<br>
+Ruga veche s-am pe buze,<br>
+<br>
+S-o mormăi pe buze:<br>
+<br>
+(Dă-le noapte tihnită părinților,<br>
+<br>
+dă-le noapte tihnită tuturor.<br>
+<br>
+În du-te-vino, Doamne,<br>
+<br>
+din zori și până-n noapte,<br>
+<br>
+Te implor, ca pe-n dulce Părinte.<br>
+<br>
+Bunul Părinte, s-ai grijă de mine,<br>
+<br>
+amin.)
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

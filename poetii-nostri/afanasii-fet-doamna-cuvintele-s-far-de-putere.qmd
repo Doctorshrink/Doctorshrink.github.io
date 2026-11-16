@@ -1,0 +1,44 @@
+---
+title: "Doamnă, cuvintele-s făr' de putere…"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-11-17"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/themes/cuvant.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HYFx0D_fqmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Doamnă, cuvintele-s făr&#x27; de putere…<br>
+<br>
+Doamnă, cuvintele-s făr&#x27; de putere, iar doară-n săruturi e rostul deplin…<br>
+<br>
+Drept e-n caiete-ale tale-a găsi mi-i plăcut<br>
+<br>
+Gând şi simţire ce, în flux şi reflux, îţi opresc<br>
+<br>
+Tocul a pune-n hârtie ba una, ba alta.<br>
+<br>
+Drept că eu însumi scriu versuri, la muze mă-nchin,<br>
+<br>
+Drept că adunatu-mi-am rime destule şi metri aleşi…<br>
+<br>
+Scumpă din toate mi-i rima sărutului dat şi întors,<br>
+<br>
+Scumpe cenzura pe buze şi ritm ne-ngrădit al iubirii.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

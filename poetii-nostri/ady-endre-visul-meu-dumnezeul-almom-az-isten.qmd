@@ -1,0 +1,50 @@
+---
+title: "Visul meu: Dumnezeul - (Álmom: az Isten)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-11-17"
+categories: [poezie, spoken-word, dumnezeu, vis]
+image: "../images/themes/dumnezeu.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z2w2o6wPG6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Boccea: Neantul cel greu,<br>
+<br>
+Drum: Nimicul, Nihilul extrem,<br>
+<br>
+Destin: a merge, merge, merge,<br>
+<br>
+Visul: Dumnezeul.<br>
+<br>
+Pe el aș dori oriunde,<br>
+<br>
+Pe visul nebun-n crezul mare,<br>
+<br>
+Să-i spun: Doamne, Doamne,<br>
+<br>
+În rugăciune.<br>
+<br>
+În luptă nu-s viteaz mare,<br>
+<br>
+Mă umplu cu amor de Zeu:<br>
+<br>
+Omul vrea pace mereu,<br>
+<br>
+În prag de moarte.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** dumnezeu, vis
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

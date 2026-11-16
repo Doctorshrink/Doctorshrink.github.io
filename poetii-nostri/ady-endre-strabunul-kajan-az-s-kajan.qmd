@@ -1,0 +1,196 @@
+---
+title: "Străbunul Kaján - (Az ős Kaján)"
+subtitle: "Ady Endre"
+author: "Doctor Shrink"
+date: "2026-11-17"
+categories: [poezie, spoken-word, tata]
+image: "../images/themes/tata.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1FS2uEDCm-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Din Est veni în port purpuros<br>
+<br>
+A rimei zori străbun.<br>
+<br>
+Voios veni, cu armăsar,<br>
+<br>
+Cu instrument, cânta măcar,<br>
+<br>
+Kaján lângă mine zăcu.<br>
+<br>
+E voinic, mie-mi cântă,<br>
+<br>
+Bem, bem, eu îl ascultam.<br>
+<br>
+Aurore-n șiruri lungi<br>
+<br>
+Gonesc și buimăcite<br>
+<br>
+Ne ciocănesc prin geam.<br>
+<br>
+Sfântul Est cu extaz pierdut,<br>
+<br>
+Ăsta e prezentul infam<br>
+<br>
+Și viitorul cețos, ornat,<br>
+<br>
+Joacă pe masa cu vin,<br>
+<br>
+Și Kaján mă va lichida.<br>
+<br>
+Moțăi în jachetă ruptă,<br>
+<br>
+Kaján porfiră poartă.<br>
+<br>
+Cruce, lumânări, alean.<br>
+<br>
+E sport mare, trist, infinit<br>
+<br>
+Și pe masă vin se varsă.<br>
+<br>
+Încă din vechiul Babilon<br>
+<br>
+Kaján e dușmanul meu.<br>
+<br>
+I-a trecut pragul un străbun<br>
+<br>
+De atunci e prieten,<br>
+<br>
+Tată, împărat și zeu.<br>
+<br>
+Apollo pilit, malițios,<br>
+<br>
+Mantia cade, calul stă,<br>
+<br>
+Balul merge, lupta ar vui.<br>
+<br>
+Umblă pe masa cu sânge,<br>
+<br>
+Tot umblă încă o cupă.<br>
+<br>
+,,Măria-ta, fratele pios,<br>
+<br>
+Scuze, capul mi-e greu.<br>
+<br>
+Mult, mult a fost deja de bine,<br>
+<br>
+Cu mult păcat, nopți cu dor,<br>
+<br>
+Tată, a fost amor destul.&#x27;&#x27;<br>
+<br>
+Gemând, predau lira ruptă,<br>
+<br>
+Inima spartă, să râdă.<br>
+<br>
+Gonind umblă, fuge Viata,<br>
+<br>
+Cu cântec, cu sânge și vin,<br>
+<br>
+Sub geamul-sfânt de crâșmă.<br>
+<br>
+,,Doamne, ia-l la trântă pe altul,<br>
+<br>
+Deliriul, nu-i delir.<br>
+<br>
+Chin la cap, beția, faima.<br>
+<br>
+În vise lașe s-a tocit<br>
+<br>
+Gheara de leu, e știrb&#x27;.<br>
+<br>
+,,Doamne, ogoru-mi e maghiar,<br>
+<br>
+Steril, presat. Tot stimulul<br>
+<br>
+Tău amețitor, ce vrea?<br>
+<br>
+Are rost cupa de sânge?<br>
+<br>
+Are rost omul, dacă-i ungur?<br>
+<br>
+,,Doamne, eu-s un biet servitor,<br>
+<br>
+Uzat, sunt un mare nebun,<br>
+<br>
+Să beau până prăbușesc?<br>
+<br>
+Bani nu am, crezul s-a dus,<br>
+<br>
+Forță n-am, îmi dau sufletul.&#x27;&#x27;<br>
+<br>
+,,Doamne, mama: femeie sfântă.<br>
+<br>
+Leda, să fie sfințita.<br>
+<br>
+Am niște vise licăriri,<br>
+<br>
+Câte un adept. În suflet<br>
+<br>
+O mare mocirlă: dihania.&#x27;&#x27;<br>
+<br>
+Aș avea chiar câte-un cântec,<br>
+<br>
+Câte-un vers, nou, trupesc,<br>
+<br>
+Dar, iată aș vrea să cad<br>
+<br>
+Sub masă, sub tâmpeală,<br>
+<br>
+La acest litigiu strămoșesc.<br>
+<br>
+,,Doamne, lasă-l pe sluga ta tristă,<br>
+<br>
+Nu e nimic, doar: Certul,<br>
+<br>
+Certul străbun, declinul sigur,<br>
+<br>
+Nu mă vrâji, lovi, pili.<br>
+<br>
+Doamne, aș găta cu băutul.&#x27;&#x27;<br>
+<br>
+,,Am greață, o mare îngrozire,<br>
+<br>
+Mă dor șalele uscate.<br>
+<br>
+Mă aplec ultima oară,<br>
+<br>
+Îmi arunc jos paharul.<br>
+<br>
+Doamne, asta va fi cedare.&#x27;&#x27;<br>
+<br>
+Mă bate pe umăr și râde,<br>
+<br>
+Văd cum pleacă-n călare,<br>
+<br>
+Și sunt luați cu șamanul<br>
+<br>
+De cânt păgân, zori viu,<br>
+<br>
+Stafii, vânturi calde.<br>
+<br>
+Zboară din Est acolo-n Vest,<br>
+<br>
+Chemat de luptă mârșavă,<br>
+<br>
+Eu cu cruce, cupă spartă,<br>
+<br>
+Cu trup răcit și amorțit<br>
+<br>
+Mă voi lungi sub masă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ady Endre
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
