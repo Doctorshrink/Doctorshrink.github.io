@@ -1,0 +1,66 @@
+---
+title: "Doar ieri își tremurau păduri"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-11-18"
+categories: [poezie, spoken-word, codru]
+image: "../images/themes/codru.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hoG5i-Rdfzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Doar ieri își tremurau păduri<br>
+<br>
+Frunzișul rar la soare cald;<br>
+<br>
+Tomnatice semănături<br>
+<br>
+Umpleau câmpia cu smarald.<br>
+<br>
+De sus privind și ne-ndurat<br>
+<br>
+La cei răpuși de  frig și somn,<br>
+<br>
+În el nimica n-a schimbat<br>
+<br>
+Ne-nfrântul pin, trufașul domn.<br>
+<br>
+Nici urmă n-a rămas din vară;<br>
+<br>
+Pustie-i lumea cât cuprind;<br>
+<br>
+Pământ și cer se îmbrăcară<br>
+<br>
+În strai din mohorât argint.<br>
+<br>
+Mâhnit greu și mult sărace,<br>
+<br>
+Câmpii, păduri nu se clintesc.<br>
+<br>
+În firea care, astăzi, tace<br>
+<br>
+Nu simți puterile ce cresc.<br>
+<br>
+Un basm e parcă, unde zâne<br>
+<br>
+Prin vânăt fum în rotocoale<br>
+<br>
+Ne-au dus din țărm cu blânde grâne<br>
+<br>
+În țara moartelor cristale.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** codru
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

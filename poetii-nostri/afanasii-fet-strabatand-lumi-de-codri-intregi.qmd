@@ -1,0 +1,42 @@
+---
+title: "Străbătând lumi de codri întregi"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-11-18"
+categories: [poezie, spoken-word, codru]
+image: "../images/themes/codru.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DpcNRkhssE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Străbătând lumi de codri întregi,<br>
+<br>
+Tu, în alb ce nu are cusur,<br>
+<br>
+Te-ai înălţat până-n bolţi de azur,<br>
+<br>
+Mai presus decât norii pribegi.<br>
+<br>
+Cei din văiuri, în domuri cereşti,<br>
+<br>
+N-or vedea, n-or pricepe nicicând<br>
+<br>
+Că oştiri neguroase, pe rând,<br>
+<br>
+Se topesc la picioare crăieşti.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** codru
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

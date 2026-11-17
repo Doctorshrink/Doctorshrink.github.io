@@ -1,0 +1,52 @@
+---
+title: "În codrii depărtați - traducere V.Bragagiu"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-11-18"
+categories: [poezie, spoken-word, codru]
+image: "../images/themes/codru.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VupRC32IYqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În codrii depărtați, străini<br>
+<br>
+Pentru meschina veselie<br>
+<br>
+Mă duc visări cu ochi senini<br>
+<br>
+În primitoarea ta chilie.<br>
+<br>
+Cu simplitatea în parfum<br>
+<br>
+Fiică-a dumbravei, blândă floare,<br>
+<br>
+Mă întâlnești ieșind acum<br>
+<br>
+Pe treptele scârțâitoare.<br>
+<br>
+Văzduhul jilav, limpezit<br>
+<br>
+Toarnă cu seară roză-n plete,<br>
+<br>
+Trezind frunzișul ațipit<br>
+<br>
+Flutură sunetele-ncete.<br>
+<br>
+1859?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** codru
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

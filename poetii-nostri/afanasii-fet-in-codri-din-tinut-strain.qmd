@@ -1,0 +1,50 @@
+---
+title: "În codri din ținut străin"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-11-18"
+categories: [poezie, spoken-word, codru]
+image: "../images/themes/codru.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KkFZghT4jQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În codri din ținut străin<br>
+<br>
+De-al oamenilor chef abraș,<br>
+<br>
+Ca-n vis, chemat eu sunt să vin<br>
+<br>
+La primitorul tău sălaș.<br>
+<br>
+Tu, sub sălbatecul parfum<br>
+<br>
+Al codrilor și blândei seri,<br>
+<br>
+Răsai în capătul de drum<br>
+<br>
+Plutind pe șubredele scări.<br>
+<br>
+În clipă limpede și rece,<br>
+<br>
+Tu roșă, mâinile îmi iei,<br>
+<br>
+Pe când, prelung și moale, trece<br>
+<br>
+Zefir târziu prin crengile de tei.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** codru
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

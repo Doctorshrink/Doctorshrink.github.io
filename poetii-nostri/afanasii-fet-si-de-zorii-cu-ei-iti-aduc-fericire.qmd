@@ -1,0 +1,42 @@
+---
+title: "Şi de zorii cu ei îţi aduc fericire"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-11-18"
+categories: [poezie, spoken-word, fericire]
+image: "../images/themes/fericire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fbv8hsjqXYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Şi de zorii cu ei îţi aduc fericire,<br>
+<br>
+Iar credinţa ta creşte spre semnul de jar,<br>
+<br>
+De-ai simţi fie doar şi un strop de iubire,<br>
+<br>
+Tu acest trandafir fă-l poetului dar.<br>
+<br>
+Chiar pe altul iubind şi sortită de-i fi<br>
+<br>
+Prin destule furtuni ale vieţii să treci,<br>
+<br>
+În curat şi duiosul meu stih vei găsi<br>
+<br>
+Trandafirul de astăzi în veci.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

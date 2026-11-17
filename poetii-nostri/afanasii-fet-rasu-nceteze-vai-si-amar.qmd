@@ -1,0 +1,66 @@
+---
+title: "Râsu-nceteze! Vai și amar…"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-11-18"
+categories: [poezie, spoken-word, durere]
+image: "../images/themes/durere.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GRKy671ppUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Râsu-nceteze! Vai și amar…<br>
+<br>
+Parcă-i bazar!<br>
+<br>
+Larmă-i de-ai crede că roi de bondari<br>
+<br>
+Dat-a-n hambar.<br>
+<br>
+– Sst! Nu mai bate! Cine, nu văd,<br>
+<br>
+Jos, lângă scară.<br>
+<br>
+Trece și-aruncă în zid și-n omăt<br>
+<br>
+Bobi de secară.<br>
+<br>
+Nuci risipește, numără banii<br>
+<br>
+Șuba-i foșnește<br>
+<br>
+Pentru toate, tot felul de danii,<br>
+<br>
+Nici nu zâmbește.<br>
+<br>
+– Ție ce-ți cade? – Tăcere surate!<br>
+<br>
+Umeri s-au frânt,<br>
+<br>
+Scrâșnete ies ca din scânduri uscate…<br>
+<br>
+Plâns e, nu cant;<br>
+<br>
+Groapa închisă-i cu lespedea bine,<br>
+<br>
+Țipăt țâșnit!<br>
+<br>
+Tremor eu toată și aflați că pe mine<br>
+<br>
+Drac m-a surprins.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
