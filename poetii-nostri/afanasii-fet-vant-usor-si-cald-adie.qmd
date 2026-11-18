@@ -1,0 +1,58 @@
+---
+title: "Vânt ușor și cald adie,"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-11-19"
+categories: [poezie, spoken-word, caldura, vant]
+image: "../images/themes/caldura.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rMxECCd4obI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vânt ușor și cald adie,<br>
+<br>
+Murmurele toate mor.<br>
+<br>
+Somn pe tulbure câmpie,<br>
+<br>
+Somn pe ostenit păstor.<br>
+<br>
+Genuncheate stau și, blânde,<br>
+<br>
+Rumegă în staul vite,<br>
+<br>
+Stele pâlpâie plăpânde<br>
+<br>
+Peste văile-mpâclite.<br>
+<br>
+Ceasuri trec și tot mai sus<br>
+<br>
+Luna-n clipă se așază.<br>
+<br>
+Au venit și iar s-au dus<br>
+<br>
+Câinii, turmelor, de pază.<br>
+<br>
+Prin tărie, când și când,<br>
+<br>
+Umbra unui nor hoinar…<br>
+<br>
+Trează, mută, fără gând,<br>
+<br>
+Noaptea-i ca de chihlimbar.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** caldura, vant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

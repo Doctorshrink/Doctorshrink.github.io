@@ -1,0 +1,50 @@
+---
+title: "Sub noapte, codru-nsingurat"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-11-19"
+categories: [poezie, spoken-word, codru]
+image: "../images/themes/codru.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5HzgrLepdk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Sub noapte, codru-nsingurat<br>
+<br>
+De viscol e și geamăt plin.<br>
+<br>
+Tu taci, eu tac îngândurat,<br>
+<br>
+Privind la focul din cămin.<br>
+<br>
+Ni-s umbrele alăturate<br>
+<br>
+În câmpul roșu al podelii,<br>
+<br>
+Ci suflete avem uitate<br>
+<br>
+În voia pâclei și-a răcelii.<br>
+<br>
+Se zbat mesteceni în suspine,<br>
+<br>
+În foc trosnește-un negru ram<br>
+<br>
+Nu vrei să-mi spui ce e cu tine,<br>
+<br>
+Iar eu cunosc demult ce am.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** codru
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

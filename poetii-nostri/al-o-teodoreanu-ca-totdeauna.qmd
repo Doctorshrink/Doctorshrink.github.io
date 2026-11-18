@@ -1,0 +1,94 @@
+---
+title: "Ca totdeauna"
+subtitle: "Al. O. Teodoreanu"
+author: "Doctor Shrink"
+date: "2026-11-19"
+categories: [poezie, spoken-word, suflet]
+image: "../images/themes/suflet.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cv3-i3Oz4ko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Razele lunii,<br>
+<br>
+Molcom căzând,<br>
+<br>
+Apele mării adânci nu turbură.<br>
+<br>
+Sufletul meu<br>
+<br>
+A şoptit:<br>
+<br>
+Te iubesc.<br>
+<br>
+Dar şoaptele sufletului,<br>
+<br>
+Molcom căzând,<br>
+<br>
+Apele adâncii tăceri nu turbură.<br>
+<br>
+Atunci<br>
+<br>
+Prin întomnare,<br>
+<br>
+Ai plecat,<br>
+<br>
+Lăsându-mi sufletul gol,<br>
+<br>
+Ca toamna,<br>
+<br>
+Atotveştejitoare.<br>
+<br>
+Când te-ai desprins de mine,<br>
+<br>
+Am rămas<br>
+<br>
+Ca un copac,<br>
+<br>
+Din care cea din urmă frunză<br>
+<br>
+Au luat-o<br>
+<br>
+Vântul,<br>
+<br>
+Toamna,<br>
+<br>
+Vremea<br>
+<br>
+Mi-am dojenit sufletul<br>
+<br>
+Că nu m-a lăsat să-ţi vorbesc<br>
+<br>
+Ai revenit,<br>
+<br>
+Ca un ecou, mult prea îndepărtat,<br>
+<br>
+Al acelei îndepărtate nopţi<br>
+<br>
+Buzele mele au spus:<br>
+<br>
+Te iubesc. De-atunci,<br>
+<br>
+N-ai mai plecat.<br>
+<br>
+Mi-am dojenit sufletul,<br>
+<br>
+Că nu m-a lăsat să tac.<br>
+<br>
+Şi-am plâns, - prea târziu.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Al. O. Teodoreanu
+* **Temă:** suflet
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

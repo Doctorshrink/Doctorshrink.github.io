@@ -1,0 +1,56 @@
+---
+title: "Florile de măr"
+subtitle: "Agatha Bacovia"
+author: "Doctor Shrink"
+date: "2026-11-19"
+categories: [poezie, spoken-word, flori]
+image: "../images/themes/flori.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yRGzNMZHENs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+FLORILE DE MĂR<br>
+<br>
+Nu vreau sa moara florile de mar !<br>
+<br>
+Doar ele-mi stiu durerea despartirii<br>
+<br>
+Cind tremurauin largurile firii<br>
+<br>
+Polenul si enigmele iubirii.<br>
+<br>
+Nu vreau sa moara florile de mar !<br>
+<br>
+Doar lor le-am spus prin lacrime dorinta<br>
+<br>
+Cind tremura, in sufletu-mi.<br>
+<br>
+Credinta in dragostea ce-mi stapinea fiinta<br>
+<br>
+Nu vreau sa moara florile de mar !<br>
+<br>
+În rozul lor mi-am ingropat tot visul<br>
+<br>
+Cind mai credeam posibil paradisul<br>
+<br>
+Si cind durerea-si inchidea abisul.<br>
+<br>
+Nu vreau sa moara florile de mar !.<br>
+<br>
+Adăugată de către-Radu Dan Alexandru
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Agatha Bacovia
+* **Temă:** flori
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,154 @@
+---
+title: "Moartea Nazariteanului"
+subtitle: "Ahmad Shamlou"
+author: "Doctor Shrink"
+date: "2026-11-19"
+categories: [poezie, spoken-word, moarte]
+image: "../images/themes/moarte.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/reVWkeLSdJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cu sunet neschimbat,<br>
+<br>
+netulburat, târășul greu al lemnului răsfrânt<br>
+<br>
+pe ceafa Lui, trasa peste pământ<br>
+<br>
+o linie apăsătoare și vibrantă,<br>
+<br>
+,,Cu spini încoronați-L!&#x27;&#x27;<br>
+<br>
+iar peste scrâșnetul adânc al lemnului-povară<br>
+<br>
+și pe-al durerilor delir,<br>
+<br>
+se răsucea un bici de foc.<br>
+<br>
+,,Mai repede, Nazaritene, mai repede!&#x27;&#x27;<br>
+<br>
+Mila ce-o regăsea în ființa Lui<br>
+<br>
+îi alina toată durerea<br>
+<br>
+și ca o lebădă trecând solemn,<br>
+<br>
+își contempla adânc luciditatea.<br>
+<br>
+- ,,Hai, biciuiți-L!&#x27;&#x27;<br>
+<br>
+Un cnut din piele împletită șfichiui<br>
+<br>
+și dâra roșie, fără sfârșit,<br>
+<br>
+trecu printr-o răspântie,<br>
+<br>
+de-a lungul drumului durerii.<br>
+<br>
+,,Mai repede, Nazaritene, mai repede!&#x27;&#x27;-<br>
+<br>
+Printre mulțimi de spectatori gălăgioși,<br>
+<br>
+Lazăr se îndepărtă mergând.<br>
+<br>
+Cu mâinile la spate strânse,<br>
+<br>
+simțindu-și viața<br>
+<br>
+sub apăsarea unei datorii usturătoare.<br>
+<br>
+,,Nu și-a dorit chiar El așa? Ar fi putut altfel!&#x27;&#x27;<br>
+<br>
+Cerul căzu, se prăbuși greoi<br>
+<br>
+pe cântul decadent al îndurării<br>
+<br>
+și-ndoliații s-au risipit către mormânt,<br>
+<br>
+iar soarele și luna,<br>
+<br>
+însingurați,<br>
+<br>
+au dispărut.<br>
+<br>
+Muerte del Nazareno<br>
+<br>
+Con un tono inalterado,<br>
+<br>
+inalterado, el rastro de la carga de madera<br>
+<br>
+en la nuca de su cuello, trazaba sobre la tierra<br>
+<br>
+una línea pesada y vibrante,<br>
+<br>
+&quot;Coronadlo de espinas!&quot;<br>
+<br>
+y el tono largo del rastro de la carga<br>
+<br>
+en el delirio de su dolor,<br>
+<br>
+hilaba una cuerda de fuego<br>
+<br>
+Apresúrate Nazareno, apresúrate!&quot;<br>
+<br>
+La compasión que él encontró en su alma<br>
+<br>
+alivió su sufrimiento<br>
+<br>
+y como un cisne solemne,<br>
+<br>
+él miro en su lucidez.<br>
+<br>
+-&quot;Azotadlo!&quot;<br>
+<br>
+Una cuerda tejida de cuero fue dada<br>
+<br>
+y la cuerda roja sin fin,<br>
+<br>
+pasó por un nudo grande<br>
+<br>
+a lo largo de su camino.<br>
+<br>
+&quot;Apresúrate Nazareno,apresúrate!&quot;-<br>
+<br>
+Entre las colas de espectadores clamorosos,<br>
+<br>
+Lázaro se alejó caminando.<br>
+<br>
+Con las manos apretadas a su espalda,<br>
+<br>
+sintiendo su vida libre<br>
+<br>
+del acoso pesado de una deuda mordaz.<br>
+<br>
+-&quot;No lo quería Él así? ¡Si no, podría!<br>
+<br>
+El cielo bajo, cayó pesadamente<br>
+<br>
+sobre la canción decadente de la misericordia<br>
+<br>
+Los dolientes fueron al túmulo<br>
+<br>
+y el sol y la luna,<br>
+<br>
+juntos,<br>
+<br>
+salieron.<br>
+<br>
+traducción del persa -  Fariba Gurguin
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Ahmad Shamlou
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

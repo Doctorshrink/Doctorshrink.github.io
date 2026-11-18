@@ -1,0 +1,50 @@
+---
+title: "Surâsul mâhnirii amar"
+subtitle: "Afanasii Fet"
+author: "Doctor Shrink"
+date: "2026-11-19"
+categories: [poezie, spoken-word, durere]
+image: "../images/themes/durere.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FzdE3frZ9QM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Surâsul mâhnirii amar<br>
+<br>
+În setea de râs a mulțimii…<br>
+<br>
+Glas dulce și drag, în zadar<br>
+<br>
+În auz încă-o dată veni-mi-i!<br>
+<br>
+De ce, din departe,-o vioară,<br>
+<br>
+Sunând într-un viers cunoscut,<br>
+<br>
+Mă ține din drum și-nfioară<br>
+<br>
+Cum visu-ndrăgit în trecut?<br>
+<br>
+Mâhnit și,-n uitare, duios<br>
+<br>
+În lumea-i mă duce – de floare,<br>
+<br>
+Iar inimii așa mângâios<br>
+<br>
+Trimite-i umilă rugare.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Afanasii Fet
+* **Temă:** durere
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
