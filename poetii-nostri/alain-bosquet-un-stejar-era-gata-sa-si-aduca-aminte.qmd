@@ -1,0 +1,38 @@
+---
+title: "Un stejar era gata să-şi aducă aminte"
+subtitle: "Alain Bosquet"
+author: "Doctor Shrink"
+date: "2026-11-20"
+categories: [poezie, spoken-word, codru]
+image: "../images/themes/codru.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iTu26JzJ2V8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Un stejar era gata să-şi aducă aminte.<br>
+O colină visa multe vise.<br>
+Un fluviu iubea înserarea<br>
+mai tare decât e voie să iubeşti.<br>
+Flăcării sale temătoare<br>
+lumânarea îşi povestea copilăria.<br>
+Un lac avea numeroase inimi.<br>
+Pur şi simplu, pe stradă,<br>
+un afiş foarte verde<br>
+nu accepta să moară.<br>
+Mai sensibili ca noi.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alain Bosquet
+* **Temă:** codru
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,54 @@
+---
+title: "Cuvântul fatal"
+subtitle: "Alain Bosquet"
+author: "Doctor Shrink"
+date: "2026-11-20"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/themes/cuvant.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8XgsGGlBqpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Prima oară, scrie cuvântul „moarte”;<br>
+<br>
+e înspăimântat.<br>
+<br>
+A doua oară, scrie cuvântul „moarte”;<br>
+<br>
+tremură, tremură un pic.<br>
+<br>
+A treia oară, scrie cuvântul „moarte”;<br>
+<br>
+e împăcat, e senin.<br>
+<br>
+A douăzecea oară, scrie cuvântul „moarte”;<br>
+<br>
+e un cuvânt foarte drăguț.<br>
+<br>
+A suta oară, scrie cuvântul „moarte”,<br>
+<br>
+așa cum scrie „somn”, cum scrie „cal”,<br>
+<br>
+cum scrie „ocean” sau ”muzică”.<br>
+<br>
+A mia oară, scrie cuvântul „moarte”,<br>
+<br>
+ca să-mpiedice moartea, crede el,<br>
+<br>
+să-l ia prin surprindere.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alain Bosquet
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

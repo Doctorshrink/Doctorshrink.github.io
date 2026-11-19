@@ -1,0 +1,58 @@
+---
+title: "Moartea e lungă"
+subtitle: "Alain Bosquet"
+author: "Doctor Shrink"
+date: "2026-11-20"
+categories: [poezie, spoken-word, moarte]
+image: "../images/themes/moarte.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wWsKuU1kcEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O petală de trandafir<br>
+<br>
+care valsează și se oprește.<br>
+<br>
+Un scarabeu fericit că e tăcere.<br>
+<br>
+Un silex care primește un suspin vagabond.<br>
+<br>
+O fântână cu trei melodii.<br>
+<br>
+Un fruct care doarme-n mireasma-i ușoară.<br>
+<br>
+Un cer coborât fără motiv pe-acoperișuri,<br>
+<br>
+ca să primească cine știe ce mângâieri.<br>
+<br>
+O amintire transformată de o legendă.<br>
+<br>
+Un pârâu întors la izvor,<br>
+<br>
+în semn de respect.<br>
+<br>
+Un cuvânt pierdut care-și găsește un loc<br>
+<br>
+într-o limbă ospitalieră.<br>
+<br>
+Și nimeni, nimeni care să-mi spună<br>
+<br>
+că viața mea e prea scurtă,<br>
+<br>
+că moartea mea e prea lungă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alain Bosquet
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

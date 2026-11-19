@@ -1,0 +1,44 @@
+---
+title: "Patrusprezece"
+subtitle: "Alain Bosquet"
+author: "Doctor Shrink"
+date: "2026-11-20"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CMz32ScWY2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Patrusprezece stele-au venit.<br>
+<br>
+Ce-au spus ele? Ce-au spus?<br>
+<br>
+Apoi douăzeci și una de păsări.<br>
+<br>
+Ce ouă-au clocit? Ce-a ieșit?<br>
+<br>
+Apoi două sute și treisprezece flori,<br>
+<br>
+ce-au lăsat<br>
+<br>
+câte amintiri? Câte-amintiri?<br>
+<br>
+Apoi o mireasă foarte singură:<br>
+<br>
+ea mi-a explicat totul.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alain Bosquet
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

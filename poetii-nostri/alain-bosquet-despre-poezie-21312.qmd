@@ -1,0 +1,50 @@
+---
+title: "Despre poezie"
+subtitle: "Alain Bosquet"
+author: "Doctor Shrink"
+date: "2026-11-20"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/themes/cuvant.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k4K6swvwcZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Vă prezint<br>
+<br>
+poezia mea: e o insulă care zboară<br>
+<br>
+din carte în carte,<br>
+<br>
+în căutarea<br>
+<br>
+paginii natale,<br>
+<br>
+apoi se oprește la mine, cu ambele aripi rănite,<br>
+<br>
+ca să primească doar carne și vorbe reci.<br>
+<br>
+Am plătit scump vecinătatea poemului.<br>
+<br>
+Cele mai bune cuvinte mi se culcă în urzici;<br>
+<br>
+cele mai verzi silabe-mi visează<br>
+<br>
+la o tăcere tânără ca și ele.<br>
+<br>
+………………………………………………………………………
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alain Bosquet
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
