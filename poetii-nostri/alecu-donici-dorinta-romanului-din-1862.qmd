@@ -1,0 +1,82 @@
+---
+title: "Dorinţa românului din 1862"
+subtitle: "Alecu Donici"
+author: "Doctor Shrink"
+date: "2026-11-21"
+categories: [poezie, spoken-word, dor]
+image: "../images/themes/dor.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JpQCvlCoFk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Să fie România de-acum în veci unită<br>
+<br>
+Şi propăşind în toate să fie ea menită,<br>
+<br>
+La răsărit să-nalţe pavilionu-i sus,<br>
+<br>
+Ca cele de apus.<br>
+<br>
+Să aibă România industrie şi arte,<br>
+<br>
+Şcoli bune, răspândite în orişicare parte;<br>
+<br>
+Încât românii toţi să fie luminaţi<br>
+<br>
+Ca cei de stat bărbaţi.<br>
+<br>
+Să fie România întinsă, mare, lungă,<br>
+<br>
+Ca cei ce o aspiră la sânu-i să n-ajungă,<br>
+<br>
+Să turbe alungând-o şi rătăcind în dar,<br>
+<br>
+Să piară la hotar.<br>
+<br>
+Să aibă România puternică armată,<br>
+<br>
+În numele lui Ştefan ş-al lui Mihai chemată,<br>
+<br>
+Ca orişicând prudenţa o luptă-ar rândui,<br>
+<br>
+Să ştie birui.<br>
+<br>
+Să fie România tot binecuvântată,<br>
+<br>
+Ca ţară mult mănoasă, ca ţară-mbelşugată;<br>
+<br>
+Străinul să-i aducă a sale bogăţii,<br>
+<br>
+Pe-a ei producte vii.<br>
+<br>
+Să aibă România comori asigurate,<br>
+<br>
+Să aibă navigaţii, să-şi facă căi ferate;<br>
+<br>
+Comerţul ei să fie activ şi răspândit,<br>
+<br>
+Ca mijloc de-nflorit.<br>
+<br>
+Să fie Domnitorul de Dumnezeu lăsat,<br>
+<br>
+Ca să renască astfel frumoasa Românie,<br>
+<br>
+Întru eternitate mult binecuvântat;<br>
+<br>
+O fie, fie, fie!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alecu Donici
+* **Temă:** dor
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

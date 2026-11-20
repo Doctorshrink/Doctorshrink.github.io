@@ -1,0 +1,102 @@
+---
+title: "Wisconsin"
+subtitle: "Alain Bosquet"
+author: "Doctor Shrink"
+date: "2026-11-21"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kFtJBILHGyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+ochii tăi<br>
+<br>
+ochii tăi<br>
+<br>
+și lacul Mendota licărind<br>
+<br>
+că-și orbește lișițele<br>
+<br>
+sânii tăi<br>
+<br>
+sânii tăi<br>
+<br>
+și lacul Monona<br>
+<br>
+trezindu-se noaptea<br>
+<br>
+să se afunde-n codru<br>
+<br>
+ca un bătrân călugăr bâlbâit<br>
+<br>
+ți-am zdrelit umărul<br>
+<br>
+și sângele-ți atârnă foarte greu<br>
+<br>
+pe cele trei cuvinte<br>
+<br>
+aduse-n dar drept sacrificiu<br>
+<br>
+dragostei noastre fără viitor<br>
+<br>
+căci n-am să mai rostesc cât oi trăi<br>
+<br>
+cuvântul viață<br>
+<br>
+cuvântul vis<br>
+<br>
+sau adevăr<br>
+<br>
+genunchii tăi genunchii tăi<br>
+<br>
+am să m-apuc să scriu romanul<br>
+<br>
+vertebrelor tale răsculate<br>
+<br>
+jurnalul intim am să-l scriu<br>
+<br>
+al pleoapei tale pe socoteala ploapei mele<br>
+<br>
+și pântecul tău<br>
+<br>
+pântecul tău<br>
+<br>
+am să te spânzur<br>
+<br>
+de verbul cel mai nentinat<br>
+<br>
+din cartea mea fără sfârșit<br>
+<br>
+și amândoi vom fi celebri<br>
+<br>
+că ne-am deprins mucoasele<br>
+<br>
+să citească<br>
+<br>
+tu pe-ale tale versurile mele<br>
+<br>
+eu pe-ale mele proza ta<br>
+<br>
+în care își fac seama<br>
+<br>
+gârlele care zboară<br>
+<br>
+din amintirea răsucită<br>
+<br>
+în amintirea răsucită.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alain Bosquet
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

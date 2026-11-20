@@ -1,0 +1,76 @@
+---
+title: "Fragmente de lună într-o ceașcă roșie"
+subtitle: "Alberto Serret"
+author: "Doctor Shrink"
+date: "2026-11-21"
+categories: [poezie, spoken-word, casa]
+image: "../images/themes/casa.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nma3sHDcC80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În casa mea,<br>
+<br>
+pe ușa casei mele de copil,<br>
+<br>
+era întotdeauna o placă care spunea:<br>
+<br>
+Cu Dumnezeu totul, nimic fără Dumnezeu<br>
+<br>
+Și în casa noastră,<br>
+<br>
+pe ușa casei noastre uriașe de țigani excentrici,<br>
+<br>
+(acea ușă fără moarte la care-am ajuns, ridicând-o<br>
+<br>
+cu dragostea amândurora)<br>
+<br>
+Cu mult timp în urmă am atârnat o placă care spune:<br>
+<br>
+Cu tine totul;  nimic fără tine<br>
+<br>
+Și acolo, în vecii vecilor<br>
+<br>
+va rămâne.<br>
+<br>
+Fragmentos de luna en una taza roja<br>
+<br>
+En mi casa,<br>
+<br>
+en la puerta de mi casa de niño,<br>
+<br>
+hubo siempre una placa que decía:<br>
+<br>
+Con Dios todo, sin Dios nada<br>
+<br>
+Y en nuestra casa,<br>
+<br>
+en la puerta de nuestra inmensa casa de insólitos gitanos,<br>
+<br>
+(esa puerta sin muerte que hemos ido erigiendo<br>
+<br>
+con amor de los dos)<br>
+<br>
+hace mucho colgué una placa que reza:<br>
+<br>
+Contigo todo; sin ti, nada<br>
+<br>
+Y ahí, por los siglos de los siglos<br>
+<br>
+permanecerá.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alberto Serret
+* **Temă:** casa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

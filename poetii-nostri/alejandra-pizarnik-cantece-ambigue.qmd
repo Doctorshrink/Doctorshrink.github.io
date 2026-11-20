@@ -1,0 +1,36 @@
+---
+title: "~ Cântece ambigue"
+subtitle: "Alejandra Pizarnik"
+author: "Doctor Shrink"
+date: "2026-11-21"
+categories: [poezie, spoken-word, cantec]
+image: "../images/themes/cantec.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/88sdY_Kyv0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+~<br>
+<br>
+Cântece ambigue<br>
+<br>
+dintr-o țară distrusă de ploi<br>
+<br>
+Cântece de clopote<br>
+<br>
+memoriile unui bărbat pe care noaptea îl iubea
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alejandra Pizarnik
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

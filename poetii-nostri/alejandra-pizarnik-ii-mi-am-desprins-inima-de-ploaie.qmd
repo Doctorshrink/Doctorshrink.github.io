@@ -1,0 +1,36 @@
+---
+title: "~ II Mi-am desprins inima de ploaie"
+subtitle: "Alejandra Pizarnik"
+author: "Doctor Shrink"
+date: "2026-11-21"
+categories: [poezie, spoken-word, inima, ploaie]
+image: "../images/themes/inima.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/irHFiMwQz2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+~<br>
+<br>
+II<br>
+<br>
+Mi-am desprins inima de ploaie<br>
+<br>
+Plimbări de odinioară<br>
+<br>
+ce mi-au hrănit tăcerea.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alejandra Pizarnik
+* **Temă:** inima, ploaie
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

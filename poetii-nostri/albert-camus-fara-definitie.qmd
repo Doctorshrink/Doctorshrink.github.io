@@ -1,0 +1,56 @@
+---
+title: "Fără definiție"
+subtitle: "Albert Camus"
+author: "Doctor Shrink"
+date: "2026-11-21"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XeY0qP1VmPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+dragostea<br>
+<br>
+ocean pentru antilope nebune<br>
+<br>
+dragostea<br>
+<br>
+ochi care-mi țintuiește ochiul<br>
+<br>
+pe steaua foarte amețită<br>
+<br>
+dragostea<br>
+<br>
+valiză în care dorm tucanii<br>
+<br>
+atât de mult asemenea nouă<br>
+<br>
+dragostea<br>
+<br>
+soare care se-mpotrivește<br>
+<br>
+să fie exilat chiar pe genunchii lui<br>
+<br>
+dragostea, uitarea<br>
+<br>
+și vorbele flămânde<br>
+<br>
+mușcând din mandarina care<br>
+<br>
+înseamnă amintirea noastră.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Albert Camus
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
