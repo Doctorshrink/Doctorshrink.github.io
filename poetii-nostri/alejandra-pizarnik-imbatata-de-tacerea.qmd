@@ -1,0 +1,36 @@
+---
+title: "~ îmbătată de tăcerea"
+subtitle: "Alejandra Pizarnik"
+author: "Doctor Shrink"
+date: "2026-11-22"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/themes/singuratate.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KgxiIo2iAZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+~<br>
+<br>
+îmbătată de tăcerea<br>
+<br>
+grădinilor părăsite<br>
+<br>
+memoria mea se deschide și se închide<br>
+<br>
+ca o ușă în vânt
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alejandra Pizarnik
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

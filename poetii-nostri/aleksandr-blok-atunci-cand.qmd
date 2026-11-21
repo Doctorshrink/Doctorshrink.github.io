@@ -1,0 +1,52 @@
+---
+title: "Atunci când"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-11-22"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WCaR-SexA_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Atunci când în amurgul vieții<br>
+<br>
+Voi sta în gânduri cufundat,<br>
+<br>
+Din amintirea tinereții<br>
+<br>
+Voi legăna un vis uitat,<br>
+<br>
+Mi-oi aminti de vreme-ncare<br>
+<br>
+Simțind urgiile ce vin,<br>
+<br>
+Sămânța minții roditoare<br>
+<br>
+Își dăruise rodul plin...<br>
+<br>
+Și-atunci, cu primăvara-n vise<br>
+<br>
+Culcat pe flori, de boală ros,<br>
+<br>
+Voi ști că pe vecie-nchis e<br>
+<br>
+În viața cercul luminos!<br>
+<br>
+18 septembrie 1900 -18 noiembrie 1920
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

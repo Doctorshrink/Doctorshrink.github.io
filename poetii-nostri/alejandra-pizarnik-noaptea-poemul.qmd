@@ -1,0 +1,40 @@
+---
+title: "Noaptea, poemul"
+subtitle: "Alejandra Pizarnik"
+author: "Doctor Shrink"
+date: "2026-11-22"
+categories: [poezie, spoken-word, cuvant]
+image: "../images/themes/cuvant.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/psJ3gcKnw2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cineva și-a găsit vocea adevărată și o încearcă la amiaza morților. Prieten al culorii cenușii. Nimic mai intens decât teroarea de a-ți pierde identitatea. Țarcul acesta plin cu poemele mele e martor că fetița părăsită într-o casă năruită sunt eu.<br>
+<br>
+Scriu cu orbirea crudă cu care copiii aruncă pietre după o nebună de parc-ar fi o mierlă. În realitate nu scriu: fac spărturi ca să ajungă până la mine, la crepuscul, chemarea unui mort.<br>
+<br>
+Și meseria asta a scrisului. Văd prin oglindă, în întuneric. Presimt un loc pe care nimeni nu îl mai cunoaște. Cânt despre distanțe, ascult glasuri de păsări pictate pe copaci împodobiți ca niște biserici.<br>
+<br>
+Goliciunea mea îți dădea lumină precum o lampă. Îmi apăsai corpul ca să nu vină frigul cel mare al nopții, cel negru.<br>
+<br>
+Cuvintele mele cer liniște și spații abandonate.<br>
+<br>
+Există cuvinte cu mâini; abia scrise, îmi caută inima. Există cuvinte condamnate precum liliacul în vremea furtunii. Există cuvinte ce seamănă cu unii morți, deși le prefer, dintre toate, pe cele care evocă încheietura unei fetițe lipsite de noroc<br>
+<br>
+Traducător: Irina-Marina Borțoi
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alejandra Pizarnik
+* **Temă:** cuvant
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
