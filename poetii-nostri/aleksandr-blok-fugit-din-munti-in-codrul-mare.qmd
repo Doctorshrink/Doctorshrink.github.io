@@ -1,0 +1,54 @@
+---
+title: "Fugit din munți în codrul mare"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-11-23"
+categories: [poezie, spoken-word, codru, munte]
+image: "../images/themes/codru.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CqRXUY9QrUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Fugit din munți în codrul mare,<br>
+<br>
+Văd felinare-n preajma mea.<br>
+<br>
+Îmi bate inima mai tare -<br>
+<br>
+Până în zori m-or căuta.<br>
+<br>
+De-al bălții foc eu nu am știre,<br>
+<br>
+Eu ca o buhă-n noapte văd.<br>
+<br>
+Las&#x27; să mă caute-n neștire,<br>
+<br>
+Prin cudre ierbi făcând prăpăd.<br>
+<br>
+Îi va fi atrage balta-n ceață,<br>
+<br>
+Se va închide cercul fad.<br>
+<br>
+Și-i va privi de-a dreptu-n față<br>
+<br>
+Fantoma mea cu chipul alb.<br>
+<br>
+21 iulie 1902<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** codru, munte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

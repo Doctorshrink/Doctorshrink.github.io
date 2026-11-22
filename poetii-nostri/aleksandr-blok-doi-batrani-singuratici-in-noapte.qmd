@@ -1,0 +1,62 @@
+---
+title: "Doi bătrâni singuratici în noapte"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-11-23"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/themes/singuratate.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b2Ll2D7qG0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Doi bătrâni singuratici în noapte,<br>
+<br>
+Prin neguri rătăcitori.<br>
+<br>
+Licăresc ferestre disperate<br>
+<br>
+Și albaștrii, limpezii zori.<br>
+<br>
+Dar de unde bezna cea mare<br>
+<br>
+Raze-albastre poate avea?<br>
+<br>
+Noi robiți sântem de-o visare.<br>
+<br>
+Nepătrunsul! e-n fața ta.<br>
+<br>
+O, de unde văpaia vine,<br>
+<br>
+Se aprinde, arde din nou?<br>
+<br>
+Și fug auritele fire,<br>
+<br>
+Și bezna e rumenă-n zori?<br>
+<br>
+Noi, bătrâni în bezna cea mare,<br>
+<br>
+Ferestre lucind, chemând...<br>
+<br>
+Dar robiți sântem de-o visare<br>
+<br>
+Și-nțelepți prin chinuri trecând.<br>
+<br>
+29 decembrie 1901<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

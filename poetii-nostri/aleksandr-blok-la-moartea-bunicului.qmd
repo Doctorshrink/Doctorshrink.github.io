@@ -1,0 +1,64 @@
+---
+title: "La moartea bunicului"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-11-23"
+categories: [poezie, spoken-word, moarte]
+image: "../images/themes/moarte.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l87ET7XBNmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+(1iulie 1902)<br>
+<br>
+Noi moartea așteptam sau poate-un vis<br>
+<br>
+Și grele clipe-ntrezăream&#x27; nainte.<br>
+<br>
+Deodată-o boare geamul l-a deschis,<br>
+<br>
+A tremurat o filă-a Cărții sfinte.<br>
+<br>
+Acolo, palid, un bătrân mergea<br>
+<br>
+Cu pas vioi și cu priviri sprințare,<br>
+<br>
+Ne surâdea și semne ne făcea,<br>
+<br>
+Cu pași știuți se-ndepărta în zare.<br>
+<br>
+Și dintr-o dată, într-o clipă, noi<br>
+<br>
+Am înțeles că el e cel ce moare<br>
+<br>
+Și ne-am întors spre patul lui apoi:<br>
+<br>
+Cu ochi deschiși, zăcea fără suflare.<br>
+<br>
+Dar l-am văzut luîndu-și bun rămas -<br>
+<br>
+Un suflet bucuros de la plecare -<br>
+<br>
+E-al dragostei și-al amintirii ceas,<br>
+<br>
+Când vom serba o altă strămutare.<br>
+<br>
+Sahmatovo<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

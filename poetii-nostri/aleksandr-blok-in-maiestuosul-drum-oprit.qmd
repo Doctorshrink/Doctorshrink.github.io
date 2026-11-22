@@ -1,0 +1,62 @@
+---
+title: "În maiestuosul drum oprit"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-11-23"
+categories: [poezie, spoken-word, drum]
+image: "../images/themes/drum.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8k-IAhstr6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În maiestuosul drum oprit,<br>
+<br>
+Prin beznă focuri mă-nconjor,<br>
+<br>
+Ca să găsesc ce mi-am dorit,<br>
+<br>
+Eu timp mai am doar până-n zori.<br>
+<br>
+Pășesc &#x27;nainte - beznă grea,<br>
+<br>
+Abis de ceți - &#x27;napoi privind.<br>
+<br>
+Doar zariștea se vede-abia<br>
+<br>
+C-un semn știut ademenind.<br>
+<br>
+Dar drumu-i greu acum nespus,<br>
+<br>
+Pădurea-i neagră, câmpul mut.<br>
+<br>
+E-un iluzoriu doar ținut<br>
+<br>
+Prea depărtata stea de sus.<br>
+<br>
+Ea-i semnu-n cale răsărit,<br>
+<br>
+Pe cale alte zile-l vor.<br>
+<br>
+Ca să găsesc ce mi-am dorit,<br>
+<br>
+Eu timp mai am doar până-n zori.<br>
+<br>
+15 august 1901<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

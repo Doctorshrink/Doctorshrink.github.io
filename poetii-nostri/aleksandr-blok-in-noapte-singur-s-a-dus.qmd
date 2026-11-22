@@ -1,0 +1,62 @@
+---
+title: "În noapte singur s-a dus"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-11-23"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/themes/singuratate.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5v_D10G4f20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În noapte singur s-a dus,<br>
+<br>
+N-a spus o vorbă măcar.<br>
+<br>
+Doar pe masă cheile-a pus<br>
+<br>
+Lăsând mărturia-n sertar.<br>
+<br>
+Și cine-atunci ar fi zis<br>
+<br>
+Că nu se va-ntoarce cândva?<br>
+<br>
+Plimbarea călare s-a stins -<br>
+<br>
+Mireasa Soției-i era.<br>
+<br>
+El inima și-s ucis<br>
+<br>
+În recea și alba nea.<br>
+<br>
+Credea că printre crini și-a deschis<br>
+<br>
+Un drum alături de Ea.<br>
+<br>
+Dar iată că zorii apar<br>
+<br>
+Și-acasă nu-l vor găsi.<br>
+<br>
+Logodnica-așteaptă-n zadar -<br>
+<br>
+A fost , dar nu va veni.<br>
+<br>
+18 octombrie 1902<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

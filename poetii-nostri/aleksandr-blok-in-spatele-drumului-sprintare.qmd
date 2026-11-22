@@ -1,0 +1,54 @@
+---
+title: "În spatele drumului, sprințare"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-11-23"
+categories: [poezie, spoken-word, drum]
+image: "../images/themes/drum.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e0vTwKQJe9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+În spatele drumului, sprințare,<br>
+<br>
+Ard razele de asfințit.<br>
+<br>
+Cu focul de la lumânare<br>
+<br>
+Roșeața lor s-a contopit.<br>
+<br>
+Și noaptea mea plutind senină<br>
+<br>
+O altă noapte va-ntâlni.<br>
+<br>
+Chiar dacă n-am să vă văd lumină -<br>
+<br>
+Ea negreșit se va ivi.<br>
+<br>
+Și tot ce n-a putut să fie<br>
+<br>
+În zori sau ziua nicidecum,<br>
+<br>
+În amăgirea purpurie<br>
+<br>
+S-o săvârși-n prăfosul drum.<br>
+<br>
+1 febroarie 1902<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
