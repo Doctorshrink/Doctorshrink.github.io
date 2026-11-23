@@ -1,0 +1,50 @@
+---
+title: "MAMEI MELE"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-11-24"
+categories: [poezie, spoken-word, mama]
+image: "../images/themes/mama.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GZklAq2dpc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Din neguri se adună-o pâclă deasă,<br>
+<br>
+Geroase nopți coboară-ntr-un târziu,<br>
+<br>
+Mi-apasă truda azi un duh pustiu,<br>
+<br>
+O pierdere, o jale ne-nțeleasă.<br>
+<br>
+Nu, sufletu-mi nu-l poți tămădui,<br>
+<br>
+Nici rănile ce-mi sângeră întruna.<br>
+<br>
+Nici tu nici eu, prin ceața ce se-adună,<br>
+<br>
+Tristețea asta n-o vom desluși.<br>
+<br>
+Și n-om putea nicicând da crezământ<br>
+<br>
+Că un blestem ne ține-n silnicie...<br>
+<br>
+Că truda cu a ei zădărnicie<br>
+<br>
+Și-adâncă liniște ne-apasă la pământ.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** mama
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,58 @@
+---
+title: "Nu tu, melodioasă, prin gânduri mi-ai trecut"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-11-24"
+categories: [poezie, spoken-word, cantec]
+image: "../images/themes/cantec.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gkmTXS2TT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Nu tu, melodioasă, prin gânduri mi-ai trecut,<br>
+<br>
+Plutind deasupra Nevei, peste oraș, ușoară,<br>
+<br>
+Nu tu ocultă spaimă din inimă mi-ai smult<br>
+<br>
+Cu bărbătească vlagă și milă de fecioară?<br>
+<br>
+Tu nesfârșitul cântec l-ai ferecat în nea<br>
+<br>
+Și-n martie cu har l-ai înnoit, senină,<br>
+<br>
+Tu ziua înspre mine veneai precum o stea,<br>
+<br>
+Sfințind tot căldarâmul cu limpedea-ți lumină.<br>
+<br>
+Pe tine doar te cânt! Dar, iute, din înalt<br>
+<br>
+Ai dispărut în neguri depărtare.<br>
+<br>
+Spre tainele ascunse vor ochii-mi a răzbate -<br>
+<br>
+Și nu te văd, și-o vreme de Domnul mă despart.<br>
+<br>
+Dar cred: o să răsari, amurgul s-o apinde<br>
+<br>
+Și cercul cel de taină la urmă s-o închide.<br>
+<br>
+8 iulie 1901<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** cantec
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

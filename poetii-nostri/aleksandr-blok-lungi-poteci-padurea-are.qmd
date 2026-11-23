@@ -1,0 +1,54 @@
+---
+title: "Lungi poteci pădurea are"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-11-24"
+categories: [poezie, spoken-word, codru]
+image: "../images/themes/codru.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hY2TpQW5mnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Lungi poteci pădurea are.<br>
+<br>
+Pân&#x27; ce steaua s-o ivi,<br>
+<br>
+Urmele de le-aș găsi...<br>
+<br>
+Lin foșnește iarba moale.<br>
+<br>
+Șoapte peste tot auzi<br>
+<br>
+De cei dragi, ce-s duși departe...<br>
+<br>
+Călătoare vorbe-n noapte<br>
+<br>
+Cern pe brazii verzi și scunzi...<br>
+<br>
+Nici un pas de iarbă moale<br>
+<br>
+Oare nu s-o fi atins?...<br>
+<br>
+Iată - steaua s-a aprins!<br>
+<br>
+Lungi poteci pădurea are.<br>
+<br>
+2 septembrie 1901. Pădurea bisericii<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** codru
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

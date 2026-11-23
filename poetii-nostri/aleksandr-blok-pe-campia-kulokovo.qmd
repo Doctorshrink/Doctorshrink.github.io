@@ -1,0 +1,284 @@
+---
+title: "Pe campia Kulokovo"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-11-24"
+categories: [poezie, spoken-word, tata]
+image: "../images/themes/tata.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-j_rctx7i3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+1<br>
+<br>
+se scurge rau-n matca lui domoala<br>
+<br>
+bolborosind posac<br>
+<br>
+e fanu-n claie strans.e stepa goala<br>
+<br>
+si malul e sarac<br>
+<br>
+Rusia-mea, sotia mea, ne arde<br>
+<br>
+un drum si lung si drept.<br>
+<br>
+el ca sageata tatarestii hoarde<br>
+<br>
+patrunde-n piept<br>
+<br>
+si drumul tau de jale-l vom strabate-<br>
+<br>
+eu nu ma tem<br>
+<br>
+de noptile in bezna cufundate<br>
+<br>
+ca-ntr-un blestem.<br>
+<br>
+e frig? e bezna? flacara fierbinte<br>
+<br>
+ne va-ncalzi de-alean,<br>
+<br>
+straluminand si steagurile sfinte,<br>
+<br>
+si palosul de han.<br>
+<br>
+se trece viata-n cerbicii grozava<br>
+<br>
+maceluri, batalii...<br>
+<br>
+si iapa stepei culca sub potcoava<br>
+<br>
+tristeti si colilii.<br>
+<br>
+si nu-i sfarsit. raman in urma verste...<br>
+<br>
+si timpi indepartati,<br>
+<br>
+insangerat e-amurgul fara veste,<br>
+<br>
+si-s norii-nspaimantati.<br>
+<br>
+caci sangele din inima izvoara<br>
+<br>
+curgand potop!<br>
+<br>
+nu-i liniste. si iapa stepei zboara<br>
+<br>
+in crunt galop.<br>
+<br>
+7 iunie 1908<br>
+<br>
+2<br>
+<br>
+ne-am oprit in stepa-ntunecata.<br>
+<br>
+nu ne-ntoarcem. nu privim-napoi.<br>
+<br>
+pe Nepreadva ca si altadata<br>
+<br>
+lebedele striga dupa noi.<br>
+<br>
+drumul e de piatra si-i fierbinte.<br>
+<br>
+peste rau-vrajmasul. bezna-i grea.<br>
+<br>
+steagul luminos de-aici nainte<br>
+<br>
+oastea noastra nu-l va flutura.<br>
+<br>
+tu-mi soptesti: o spada prinde-n mana<br>
+<br>
+si ascute-o bine pana-n zori,<br>
+<br>
+ca sa culci paganii in tarana,<br>
+<br>
+daca-n lupta sfanta vrei sa mori.<br>
+<br>
+nu-s codas si nu-s nici cel din frunte.<br>
+<br>
+tara inca mult va indura.<br>
+<br>
+scumpa mea sotie un graunte<br>
+<br>
+de credinta tot imi va pastra.<br>
+<br>
+8 iunie 1908<br>
+<br>
+3<br>
+<br>
+cand Mamai pe herghelii sirepe<br>
+<br>
+goana si-a-nceput,<br>
+<br>
+numai noi, ca rataceam prin stepe,<br>
+<br>
+oare ai stiu?<br>
+<br>
+dinspre Donul undelor amare<br>
+<br>
+gandul auzea<br>
+<br>
+lebede, si in a lor strigare<br>
+<br>
+glasul tau era!<br>
+<br>
+pe la miezul noptii, precum norii,<br>
+<br>
+cneazul osti a strans.<br>
+<br>
+petrecandu-si mumele feciorii<br>
+<br>
+au orbit de plans.<br>
+<br>
+sus, in cer, suiau in rotocoale<br>
+<br>
+soimii-n zbor viteaz<br>
+<br>
+si rotind prin fulgerari domoale<br>
+<br>
+strajuiau pe cneaz.<br>
+<br>
+peste hoarda, pasarea cernita<br>
+<br>
+prevestea macel.<br>
+<br>
+sta Nepreadva-n neguri podobita<br>
+<br>
+ca mireasa-n val.<br>
+<br>
+si atunci in straie lucitoare<br>
+<br>
+mi te-ai aratat.<br>
+<br>
+calul meu de raza-ti orbitoare<br>
+<br>
+nu s-a speriat.<br>
+<br>
+si-ai facut sa scapere-n lumina<br>
+<br>
+spada mea cea grea.<br>
+<br>
+platosa-mi, stergand-o de rugina<br>
+<br>
+te-oglindeai in ea.<br>
+<br>
+iar in zori, cand hoarda cea pagana<br>
+<br>
+pulberi s-a facut,<br>
+<br>
+chipul tau nedaltuit de-o mana,<br>
+<br>
+lumina pe scut.<br>
+<br>
+14 iunie 1908<br>
+<br>
+4<br>
+<br>
+din nou colilia se-apleaca<br>
+<br>
+spre corbul stravechilor vremi,<br>
+<br>
+pe apa ce-n neguri se-neaca<br>
+<br>
+departe, tu iar ma chemi.<br>
+<br>
+s-a dus herghelia furtunii,<br>
+<br>
+pieri fara urma si glas,<br>
+<br>
+sub ciobul de aur al lunii,<br>
+<br>
+doar colbul si vantu-au ramas.<br>
+<br>
+manat de o jale strabuna<br>
+<br>
+ca lupul in viscol nauc,<br>
+<br>
+eu nu stiu sub ciobul de luna<br>
+<br>
+spre tine ce drum sa apuc?<br>
+<br>
+aud ca macelul incepe,<br>
+<br>
+strigand pe tatari ii aud.<br>
+<br>
+vad satele arse in stepe<br>
+<br>
+si campul de sange ca-i ud.<br>
+<br>
+cuprins de-un alean fara moarte<br>
+<br>
+pe calu-mi ca spuma gonesc<br>
+<br>
+si nourii iarasi, departe,<br>
+<br>
+tariile noptii-mpanzesc.<br>
+<br>
+in inima mea sfasiata<br>
+<br>
+un gand luminos s-a-naltat,<br>
+<br>
+dar gandul se mistuie-ndata<br>
+<br>
+si-i ars de un foc-negurat.<br>
+<br>
+&quot;minunte la tine ma cheama!<br>
+<br>
+arata-te iar pe pamant!&quot;<br>
+<br>
+se-nvolbur-a calului coama<br>
+<br>
+si palosul urla in vant.<br>
+<br>
+31 iulie 1908<br>
+<br>
+5<br>
+<br>
+pe Kulikovo, in campie,<br>
+<br>
+o pacla grea din nou coboara<br>
+<br>
+si zorii zilei ce-or sa vie<br>
+<br>
+invaluiti in nor sunt iara.<br>
+<br>
+dar peste pacla revarsata<br>
+<br>
+si peste linistea deplina<br>
+<br>
+nu tuna lupta-ncrancenata<br>
+<br>
+si-un fulger nouri nu dezbina.<br>
+<br>
+dar eu te recunosc, furtuna,<br>
+<br>
+cu razvratiri si uragane.<br>
+<br>
+un glas de lebada mai suna<br>
+<br>
+deasupra taberei dusmane.<br>
+<br>
+e tihna inimii-ntrerupta<br>
+<br>
+zadarnic norii nu se-ncheaga.<br>
+<br>
+si-asa ca in ajun de lupta,<br>
+<br>
+armura este grea. te roaga!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
