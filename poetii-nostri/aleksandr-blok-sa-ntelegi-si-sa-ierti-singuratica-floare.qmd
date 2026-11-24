@@ -1,0 +1,60 @@
+---
+title: "Să-nțelegi și să ierți, singuratică floare"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-11-25"
+categories: [poezie, spoken-word, singuratate]
+image: "../images/themes/singuratate.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IX0G71eJtsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+&quot;...și-i târziu să dorești,<br>
+<br>
+Au trecut și iubirea, și-amarul...&#x27;&#x27;<br>
+<br>
+(VL. SOLOVIOV)<br>
+<br>
+Să-nțelegi și să ierți, singuratică floare<br>
+<br>
+Dar s-a stins tot ce-a fost:<br>
+<br>
+Și credințele-adânci, și-aurita-mi visare...<br>
+<br>
+Drumu-mi e fără rost.<br>
+<br>
+Înflorindu-mi în vis, fericirea deplină<br>
+<br>
+Drum de-azur ți-a deschis.<br>
+<br>
+Altă cale eu am, nu-mi e viața senină,<br>
+<br>
+N-am în suflet vreun vis.<br>
+<br>
+Dar să știi - cu-adorație-atât de-ntristată<br>
+<br>
+Te-am chemat numai eu.<br>
+<br>
+Pe când tainicu-ți geniu-a iubit viața toată<br>
+<br>
+Surd la sufletul meu.<br>
+<br>
+10 iunie 1901<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** singuratate
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

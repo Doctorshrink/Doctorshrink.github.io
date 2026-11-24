@@ -1,0 +1,288 @@
+---
+title: "Pe câmpul Kulikovo"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-11-25"
+categories: [poezie, spoken-word, tata]
+image: "../images/themes/tata.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rAogDMbE4ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+E-ntinsă apa : curge-ncet la vale<br>
+<br>
+Mânând domolu-i val.<br>
+<br>
+Și clăi de fân pe-ntinsul stepei goale<br>
+<br>
+Ce triste stau pe mal.<br>
+<br>
+Rusia mea ! Soția mea ! Ce clar e<br>
+<br>
+În minte drumul drept !<br>
+<br>
+El ca săgeata hoardelor tătare<br>
+<br>
+S-a-nfipt în piept.<br>
+<br>
+Pe drum de stepă-i jale și-ntristare,<br>
+<br>
+Rusie, jalea ta !<br>
+<br>
+Dar bezna mea, ori cea de peste zare<br>
+<br>
+M-ar spăimânta ?<br>
+<br>
+Ce-i dacă-i noapte ! Focuri vom aprinde,<br>
+<br>
+Ajungem la liman.<br>
+<br>
+Și-n fum vor străluci drapele sfinte<br>
+<br>
+Și sabia de han...<br>
+<br>
+Măcel ! Măcel ! Hodina-n vis e doară<br>
+<br>
+Și-i sânge, fum...<br>
+<br>
+Gonește iapa, calcă prin năgară,<br>
+<br>
+Se pierde-n drum...<br>
+<br>
+Nu vezi sfârșit ! Doar verste trec în goană...<br>
+<br>
+Hei, stai pe loc !<br>
+<br>
+Și nori se duc - speriata caravană,<br>
+<br>
+Apusu-i foc !<br>
+<br>
+Si-i sânge ce din inimă tâșnește !<br>
+<br>
+Să plângi mereu...<br>
+<br>
+Hodină nu-i ! Și iapa-n zbor gonește<br>
+<br>
+Cu tropot greu !<br>
+<br>
+7iunie 1908<br>
+<br>
+2<br>
+<br>
+Stai cu mine-n noaptea-ntunecată<br>
+<br>
+Nu te întorci pe drumul cunoscut.<br>
+<br>
+Pe Nepriadva-n ceață-nfășurată<br>
+<br>
+Lebedele strigă ca-n trecut...<br>
+<br>
+Ici pe drum sânt pietre colțuroase<br>
+<br>
+Iar păgâna hoardă e colea.<br>
+<br>
+Steagul luminos ce fluturase<br>
+<br>
+Peste oaste, nu va flutura !<br>
+<br>
+Și scrutând în jur întunecimea<br>
+<br>
+Spui încet :- Un paloș să-ți călești,<br>
+<br>
+Să răpui în luptă tătarimea,<br>
+<br>
+Pentru sfântul gând să te jerfești !<br>
+<br>
+Păsul țării mult o să mai ție...<br>
+<br>
+Cel din urmă-s, primul luptator ?<br>
+<br>
+Tu soție-n ceas de liturghie<br>
+<br>
+Să-mi trimiți un gând ocrotitor !<br>
+<br>
+8 iunie 1908<br>
+<br>
+3<br>
+<br>
+Când în noapte, galopând sub lună,<br>
+<br>
+Năvăli Mamai<br>
+<br>
+Stam pe câmp cu tine împreună -<br>
+<br>
+Oare tu știai ?<br>
+<br>
+Și pe Donul vestitor de rele<br>
+<br>
+Sufletul prindea<br>
+<br>
+Strigăte de lebede, și-n ele<br>
+<br>
+Vocea Ta suna.<br>
+<br>
+Oști mâna, cum mâna vântul norii,<br>
+<br>
+Cneazu-n depărtări,<br>
+<br>
+Mamele în drum plângeau feciorii,<br>
+<br>
+Se-agățau de scări.<br>
+<br>
+Colo-n zări, pe bolta tuciurie,<br>
+<br>
+Păsări au rămas...<br>
+<br>
+Fulgere pe cerul tău Rusie,<br>
+<br>
+Îl păzeau pe Cneaz.<br>
+<br>
+Și roteau holtani de dimineață<br>
+<br>
+Prevestind măcel.<br>
+<br>
+Iar Nepriavda s-a-nvelit în ceață<br>
+<br>
+Ca prințesa-n văl.<br>
+<br>
+Și în strai ce izvora lumină<br>
+<br>
+Tu te-ai arătat,<br>
+<br>
+Calul meu în ceasul de hodină<br>
+<br>
+Nu l-ai spăimântat.<br>
+<br>
+Ți-oglindea zâmbind prietenoasă<br>
+<br>
+Chipu-n paloș greu,<br>
+<br>
+Și de colb ai curățat chiurasa<br>
+<br>
+De pe pieptul meu.<br>
+<br>
+Iar în zori, când norul hâdei hoarde<br>
+<br>
+O porni în jos,<br>
+<br>
+Chipul sfât pe scut părea că arde<br>
+<br>
+Pururi luminos.<br>
+<br>
+14 iulie 1908<br>
+<br>
+4<br>
+<br>
+Văd iarăsi plecata negară<br>
+<br>
+De dorul străvechi la pământ,<br>
+<br>
+Și iarăși chemarea ta zboară<br>
+<br>
+Pe apa cețoasă sunând...<br>
+<br>
+Și iepele-n goana furtunii<br>
+<br>
+Prin stepă departe s-au dus,<br>
+<br>
+Și bântuie patimi nebune<br>
+<br>
+Sub jugul luminii de sus.<br>
+<br>
+Iar eu cu tristețea-mi străbună<br>
+<br>
+Ca lupul din haită desprins,<br>
+<br>
+Te caut sub secera lună<br>
+<br>
+Zvârlita pe-un cer necuprins.<br>
+<br>
+Aud c-a-nceput bătalia,<br>
+<br>
+Tătarii racnind au pornit -<br>
+<br>
+Pe cerul ce-mbracă Rusia<br>
+<br>
+S-aprinde un foc nesfârșit.<br>
+<br>
+Cuprins de adâncă tristete<br>
+<br>
+Pe calul meu alb rătăcesc...<br>
+<br>
+Trec norii în pâlcuri răzlețe,<br>
+<br>
+Departe, pe-ntinsul ceresc.<br>
+<br>
+Și gânduri se-aprind luminoase<br>
+<br>
+Și sufletu-mi ard - și se duc...<br>
+<br>
+Și cad luminoase și-s arse<br>
+<br>
+În bezna adâncă, pe rug...<br>
+<br>
+-Hai vino minune și ia-mă !<br>
+<br>
+Mă-nvață să fiu luminos !<br>
+<br>
+Se umflă a cailor coama...<br>
+<br>
+Și paloșu-așteapta tăios...<br>
+<br>
+31 iulie 1908<br>
+<br>
+5<br>
+<br>
+Si-n bezna grelelor năpaste<br>
+<br>
+Ziua de mâine s-a ascuns.<br>
+<br>
+VI. Soloviov<br>
+<br>
+Pe câmpul Kulikovo, iară<br>
+<br>
+E-o pâclă grea, de nepătruns,<br>
+<br>
+Și parcă-n norii ce-o-nfășoară<br>
+<br>
+Ziua de mâine s-a ascuns.<br>
+<br>
+Și-ntaina liniștii sihastre<br>
+<br>
+În pâcla-n care toate pier<br>
+<br>
+Nu-i zvon de bătălii măiastre<br>
+<br>
+Și nu sunt fulgere pe cer.<br>
+<br>
+Dar văd aproape zile sfinte,<br>
+<br>
+Furtuni și lupte-or fi curând !<br>
+<br>
+Deasupra hoardei ca-nainte<br>
+<br>
+Trec iarăși lebede strigând.<br>
+<br>
+În tihnă sufletul să-mi fie ?<br>
+<br>
+Degeaba-s nori stârniți din hău?<br>
+<br>
+Si-armura-i grea. De bătălie !<br>
+<br>
+Hai, roagă-te - E ceasul tău !
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** tata
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,62 @@
+---
+title: "Toate numele, cu bucurie"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-11-25"
+categories: [poezie, spoken-word, fericire]
+image: "../images/themes/fericire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXWLna0Reg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Toate numele, cu bucurie,<br>
+<br>
+Le-oi uita anume-ntr-o zi.<br>
+<br>
+Vei veni la mine-n chilie<br>
+<br>
+Și din somn mă vei trezi.<br>
+<br>
+De pe fața-mi înfiorată<br>
+<br>
+Vei ghici ce-aștept într-un vis,<br>
+<br>
+Dar ce-a fost va miți de-ndată<br>
+<br>
+Ce-al Tău Nimb se va fi aprins.<br>
+<br>
+Ca și-atunci, pe-a frunții mâhnire<br>
+<br>
+Vei citi cu un zâmbet mut<br>
+<br>
+Infidela, falsa iubire<br>
+<br>
+Ce-nflorea pe pământ, prefăcut.<br>
+<br>
+Și atuncea eu fără regrete<br>
+<br>
+Voi primi - mai frumos și trufaș -<br>
+<br>
+Și voi bea pocalul cu sete,<br>
+<br>
+Zilei Tale însumi părtaș.<br>
+<br>
+31 octombrie 1902<br>
+<br>
+Volumul &#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** fericire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

@@ -1,0 +1,234 @@
+---
+title: "Către Ovidiu"
+subtitle: "Aleksandr Puşkin"
+author: "Doctor Shrink"
+date: "2026-11-25"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dtb487CsNwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Ovidiu, sunt aproape de ţărmii liniştiţi,<br>
+<br>
+Pe care-odinioară, tu zeii izgoniţi<br>
+<br>
+Ai Romei îi aduseşi, şi-unde cenuşa-ţi este.<br>
+<br>
+Cu jale-n plâns slăvit-ai tu locurile-aceste.<br>
+<br>
+Se mai aude lira-ţi sunând precum suna,<br>
+<br>
+Şi-i plin ţinutul încă de amintirea ta.<br>
+<br>
+Tu mi-ai săpat în minte, cu vorba mişcătoare,<br>
+<br>
+A bardului pustie şi cruntă-ntemniţare,<br>
+<br>
+Sub bolta-nceţoşată, sub geruri şi zăpezi,<br>
+<br>
+Sub vara ce pe câmpuri puţină vreme-o vezi:<br>
+<br>
+Răpit de-amarul strunei care ades mă scurmă,<br>
+<br>
+Cu inima, Ovidiu, eu ţi-am păşit pe urmă:<br>
+<br>
+Vedeam corăbioara-ţi pe frământatul val<br>
+<br>
+Cu ancora zbârlită lângă-un sălbatic mal;<br>
+<br>
+Pe tine-aici te-aşteaptă o răsplătire sumbră,<br>
+<br>
+Colina-i fără vie, câmpia fără umbră;<br>
+<br>
+Pentru prăpăd războinic născuţi între nămeţi,<br>
+<br>
+Cumpliţii sciţi, în pâlcuri, cu suliţi şi săgeţi,<br>
+<br>
+S-ascund pe după Istru, pândind vreo nouă pradă;<br>
+<br>
+Sunt gata peste sate ca trăsnetul să cadă.<br>
+<br>
+Ei nu cunosc oprelişti: pe valuri ei plutesc,<br>
+<br>
+Pe gheaţa sunătoare netemător păşesc.<br>
+<br>
+Tu însuţi, o, Nasone (ce soartă nefirească!),<br>
+<br>
+Dispreţuind de tânăr vâltoarea ostăşească,<br>
+<br>
+Deprins cu roze fruntea să ţi-o împodobeşti,<br>
+<br>
+Şi viaţa-n desfătare senină să-ţi trăieşti.<br>
+<br>
+Acum îţi va fi fruntea de coif împovărată,<br>
+<br>
+Păstrând alături spada de lira-nspăimântată.<br>
+<br>
+Nici fiică, nici soţie, prieteni devotaţi,<br>
+<br>
+Nici muzele amice din anii-ndepărtaţi,<br>
+<br>
+N-or să aline bardu-n exilul său amarnic;<br>
+<br>
+Ţi-a fost de graţii versul încununat zadarnic,<br>
+<br>
+Zadarnic tinereţea te ştie pe de rost.<br>
+<br>
+Nici gloria, nici jalea, nici anii care-au fost,<br>
+<br>
+Pe-Octavian, nici cântul să-l mişte nu-i în stare;<br>
+<br>
+A bătrâneţii zile s-or îneca-n uitare.<br>
+<br>
+Italia de aur pe tine te-a născut,<br>
+<br>
+Între barbari eşti singur, şi eşti necunoscut.<br>
+<br>
+Ecoul ţării tale nu-l prinzi de nicio parte,<br>
+<br>
+Nefericit cu totul scrii celor de departe:<br>
+<br>
+, , Redaţi-mi iar oraşul cel sfânt şi strămoşesc,<br>
+<br>
+Şi-a parcului meu umbră când arborii foşnesc!<br>
+<br>
+Amici, lui August spuneţi de rugămintea-mi, până<br>
+<br>
+Înlăturaţi cu lacrimi osânditoarca-i mână!<br>
+<br>
+Dar dacă fără milă e mâniosul zeu,<br>
+<br>
+Şi-n veci, măreaţă Romă, nu te-oi mai vede eu,<br>
+<br>
+Am cea din urmă rugă în soarta mea cumplită:<br>
+<br>
+Coşciugu-mi să-l primească Italia iubită!”<br>
+<br>
+Ce inmă de gheaţă, ce crud dispreţ, nestins,<br>
+<br>
+Va cuteza să mustre tristeţea şi-ai tău plâns?<br>
+<br>
+Şi ce trufaş citi-va făr’ de înduioşare<br>
+<br>
+Cele din urmă cioturi ce tu le-ai scris, prin care<br>
+<br>
+Zadarnicul tău geamăt trecut urmaşilor?<br>
+<br>
+Eu, slav cu firea aspră, n-am plâns tânguitor,<br>
+<br>
+Dar, l-nţeleg prea bine. ’N voita-mi surghiunire,<br>
+<br>
+Nemulţumit de mine, de viaţă, omenire,<br>
+<br>
+Cu sufletul nostalgic, eu nu demult am fost<br>
+<br>
+Pe locurile care ţi-erau trist adăpost,<br>
+<br>
+Aici, -nviind prin tine a gândului visare,<br>
+<br>
+Am îngânat, Ovidiu, eu jalnica-ţi cântare,<br>
+<br>
+Şi tristele-i imagini la mulţi eu le-am transmis,<br>
+<br>
+Dar ochiu-mi nu crezut-a minciuna ăstui vis,<br>
+<br>
+Surghiunul tău privirea mi-o atrăgea în taină,<br>
+<br>
+Deprinsă-a fost cu Nordul, cu-nzăpezita-i haină,<br>
+<br>
+Aici, mult timp lumină-i, dar ziua greu ţi-o treci,<br>
+<br>
+Aici, puţin domneşte vârtejul iernii reci.<br>
+<br>
+De-abia aduşii struguri pe scitice meleaguri<br>
+<br>
+Sclipirea purpurie şi-o picură-n şiraguri.<br>
+<br>
+Pe şesuriie ruse decembrie ningea,<br>
+<br>
+Zăpada argintie pe sloiuri se-aşternea;<br>
+<br>
+Acolo era iarnă; aici, primăvăratic,<br>
+<br>
+Un soare cald deasupră-mi aluneca molatic;<br>
+<br>
+Pe şes mijea verdeaţa, şi sub al zilei crug,<br>
+<br>
+Pe slobodele câmpuri ieşise-ntâiul plug;<br>
+<br>
+Sufla o adiere ce se răcea spre seară;<br>
+<br>
+O pojghiţă de gheaţă se aşternea uşoară,<br>
+<br>
+Ca un cleştar, pe unda din iazul nemişcat.<br>
+<br>
+Mi-am amintit sfiala cu care-ai încercat,<br>
+<br>
+În ziua ce-a-nsemnat-o cântarea-ţi inspirată,<br>
+<br>
+Când, în nedumerire, pentru întâia dată,<br>
+<br>
+Pe-ncremenite unde păşeai: în faţa mea<br>
+<br>
+Pe gheaţa lunecoasă aievea îmi părea<br>
+<br>
+Că umbra ta pluteşte... şi jalnice suspine,<br>
+<br>
+De despărţire parcă, pluteau până la mine.<br>
+<br>
+Te mângâie, Ovidiu! Tu lauri porţi, măreţ!<br>
+<br>
+Vai, eu, pierdut în gloată, voi fi un cântăreţ<br>
+<br>
+Necunoscut de tineri, când vremea s-o prelinge,<br>
+<br>
+Şi, jertfă-ntunecoasă, talentul meu s-o stinge<br>
+<br>
+În viaţa cu o slavă apusă prea *ând!...<br>
+<br>
+Dar dacă despre mine vreun strănepot, aflând,<br>
+<br>
+Veni-va de departe, mânat de o scânteie,<br>
+<br>
+Lângă cenuşa-ţi sacră de urma mea să deie,<br>
+<br>
+Din beznele uitării veni-va umbra mea,<br>
+<br>
+Şi, recunoscătoare, alături o să-i stea;<br>
+<br>
+Cu drag apoi de dânsul o să-mi aduc aminte...<br>
+<br>
+Prin lume o legendă va merge înainte:<br>
+<br>
+Ca tine, prins de vrajba lumescului şuvoi,<br>
+<br>
+Nu-n slavă, ci-n destine ne-asemănarăm noi.<br>
+<br>
+Cu nordica mea liră trezind singurătatea,<br>
+<br>
+În zilele când grecul chemându-şi libertatea<br>
+<br>
+Pe ţărmuri dunărene o proslăvea cu-avânt;<br>
+<br>
+Şi nimeni de pe lume nu m-asculta cum cânt.<br>
+<br>
+Dar văi şi culmi străine, nemărginirea sură,<br>
+<br>
+Şi paşnicele muze, prielnice îmi fură.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Puşkin
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

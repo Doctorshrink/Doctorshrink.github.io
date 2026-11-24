@@ -1,0 +1,54 @@
+---
+title: "Se-aude-un plâns?"
+subtitle: "Aleksandr Blok"
+author: "Doctor Shrink"
+date: "2026-11-25"
+categories: [poezie, spoken-word, lacrimi]
+image: "../images/themes/lacrimi.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yfqID21kDVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Se-aude-un plâns? Pe pașnicele trepte<br>
+<br>
+Urcați, intrați cu pas evlavios.<br>
+<br>
+Acolo rugi așteaptă, înțelepte,<br>
+<br>
+Maria, născătoarea lui Hristos.<br>
+<br>
+Crezând în soartă, palidă soție,<br>
+<br>
+Fă-ți spre lăcașul sfânt temeinic drum.<br>
+<br>
+E mort iubitul, dar din bătălie<br>
+<br>
+Senină-i vestea dragostei și-acum.<br>
+<br>
+Aici mereu victoria e dreaptă.<br>
+<br>
+Iubirea-i tot. Cu pas evlavios,<br>
+<br>
+Intrați cu toți. Aicea rugi așteaptă<br>
+<br>
+Maria, născatoarea lui Hristos.<br>
+<br>
+martie 1902<br>
+<br>
+Volumul &#x27;&#x27;&#x27;Versuri despre Preafrumoasa Doamnă&#x27;&#x27;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Blok
+* **Temă:** lacrimi
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
