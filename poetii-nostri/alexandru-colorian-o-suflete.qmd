@@ -1,0 +1,58 @@
+---
+title: "O, suflete"
+subtitle: "Alexandru Colorian"
+author: "Doctor Shrink"
+date: "2026-11-26"
+categories: [poezie, spoken-word, suflet]
+image: "../images/themes/suflet.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0QZZGmT228g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+O, suflete, priveşte departe-al tău mormânt –<br>
+<br>
+Mormântul ce zideşte uitarea şi tăcerea –;<br>
+<br>
+Fii totul azi: lumină, vieaţă,-avânt şi cânt,<br>
+<br>
+Şi fii măreţ, puternic, căci nu te-a-nvins durerea.<br>
+<br>
+Să simt în orice clipă a ta înfiorare,<br>
+<br>
+Dezgustul de ce-i humă, – din lumile senine<br>
+<br>
+Să te-ncununi cu-avânturi, puterea creatoare<br>
+<br>
+Dumnezeiască sevă să îşi reverse-n tine.<br>
+<br>
+Vom înfrunta vieaţa cu dorul neînvins<br>
+<br>
+Al celor care luptă să-nvingă sau să moară,<br>
+<br>
+Şi mistica lumină păstra-va focu-aprins<br>
+<br>
+Când steaua veşniciei iluzii-n noi coboară...<br>
+<br>
+Nedespărţit tovarăş, proteiform ca visul,<br>
+<br>
+Drumeţi suntem spre piscul pe care-i tot etern:<br>
+<br>
+E numai unul drumul, şi-iluminând abisul<br>
+<br>
+Cad florile veciei, când flori mulţimi se cern.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Colorian
+* **Temă:** suflet
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

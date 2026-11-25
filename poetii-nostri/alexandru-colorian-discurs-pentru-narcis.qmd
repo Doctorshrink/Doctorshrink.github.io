@@ -1,0 +1,134 @@
+---
+title: "Discurs pentru Narcis"
+subtitle: "Alexandru Colorian"
+author: "Doctor Shrink"
+date: "2026-11-26"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y8M_zIjHics" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Narcis, eternă umbră prin umbre trecătoare,<br>
+<br>
+Sta frânt peste izvorul ce chipu-i oglindea —<br>
+<br>
+Frumos ca amintirea în ochiul care moare<br>
+<br>
+Şi-absent ca presimţita lumină dintr-o stea...<br>
+<br>
+„Narcis, o! spune-mi unde himera-amăgitoare<br>
+<br>
+Va sângera în zboru-i febril de orb liliac?<br>
+<br>
+Grădinile vieţii umbresc multiple-izvoare,<br>
+<br>
+Dar mâine nici iluzia nu vei mai retrăi;<br>
+<br>
+Schelet de amăgire, de umbră şi uitare<br>
+<br>
+Trecutu-ntreg va fi.<br>
+<br>
+Narcis, sub zbor de veacuri, tipare-nşelătoare –<br>
+<br>
+De amintire — fi-vor strivite ca o floare;<br>
+<br>
+Când pretutindeni noaptea ispitele strecoară,<br>
+<br>
+Tu, umbră, rupe unda de vis ce te-nfioară...<br>
+<br>
+Narcis, desăvârşirea în sufletu-ţi s-ascunde —<br>
+<br>
+O, chipul tău vremelnic rostogolit de unde...<br>
+<br>
+(Izvorul e-amăgirea,<br>
+<br>
+Avântu-i nemurirea;<br>
+<br>
+Cu fapta încunună vieaţa şi iubirea).<br>
+<br>
+Pădurea dantelată a nopţii nu-nfioară<br>
+<br>
+Când adumbreşte-oglinda cristalului lichid?<br>
+<br>
+Şi-aceeaşi nu e veşnic când vultur vremea zboară —<br>
+<br>
+Doar tu, în «renunţarea deplină», crezi placid.<br>
+<br>
+Stol, ireale nimfe săgeată împrejurul –<br>
+<br>
+Şi tremură dorinţa în plase să te prindă;<br>
+<br>
+Obositor e chipul tău putred, în oglindă,<br>
+<br>
+Când şerpuieşte-n suflet fatidic, doar surâsul<br>
+<br>
+Izvorului... Oh! zborul alucinant de stea!...<br>
+<br>
+Narcis, în peisajul — miraj un suflet moare,<br>
+<br>
+Te rupe din vieaţa cernită de exil:<br>
+<br>
+Se şterge-izvorul, chipul (vai! forma-i trecătoare);<br>
+<br>
+Vieaţa nu-i eternă lucind pe Ygdrasil?...<br>
+<br>
+În depărtări pământul străluce ca în basme,<br>
+<br>
+Chemarea vieţii nouă risipă-i de miasme<br>
+<br>
+Din flori şi fructe coapte, — în cercuri sclipitoare<br>
+<br>
+Ispita bucuriei se sfoliază-n soare;<br>
+<br>
+Buchete mii de pasări ţes clare-apoteoze,<br>
+<br>
+În umbra cald brodată cu buze moi de roze;<br>
+<br>
+Şi văluri reci de frunze, şi pânze vii de plante<br>
+<br>
+În domuri de lumină-s sculptate-n diamante...<br>
+<br>
+Narcis, sfâşie cercul de vis ce te-nconjoarâ;<br>
+<br>
+Lumini, culori, dorinţe, ispite nu-nfioară?<br>
+<br>
+(Izvorul e-amăgirea,<br>
+<br>
+Avântu-i nemurirea;<br>
+<br>
+Cu fapta încunună şi gândul şi iubirea).<br>
+<br>
+Hipnotică, se frânge-n adânc dorinţa-ţi mută<br>
+<br>
+— În unda turburată ce nu scânteie-un gând —<br>
+<br>
+Şi umbra-ţi rugătoare schiţează-ngemănând,<br>
+<br>
+O nouă umbră: moartă, schilavă şi urâtă...<br>
+<br>
+Narcis, vremelnic idol, te smulge din visare —<br>
+<br>
+Proteică oglindă-i desăvârşirea-n noi:<br>
+<br>
+O singură oglindă se-ntunecă-n noroi.<br>
+<br>
+Desăvârşirea este vieaţă şi e moarte —<br>
+<br>
+Zeu nou, cu dărnicie, azi tuturor te-mparte.&quot;
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Colorian
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

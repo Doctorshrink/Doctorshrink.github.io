@@ -1,0 +1,82 @@
+---
+title: "Romantică"
+subtitle: "Alexandru Andriţoiu"
+author: "Doctor Shrink"
+date: "2026-11-26"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cGbGKFChv5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Și iarăși bem cafea de Mocca<br>
+<br>
+și ne-amintim de vremea-n care<br>
+<br>
+dansa bunicul carioca<br>
+<br>
+la balurile populare.<br>
+<br>
+Bunica a văzut o piesă,<br>
+<br>
+iar între-oglindă și-ntre lună<br>
+<br>
+ea se visa, plângând, prințesă<br>
+<br>
+(poate Ofelia nebună).<br>
+<br>
+Așijderea, actor, bunicul,<br>
+<br>
+către-un mâhnit sfârșit de zi,<br>
+<br>
+ca Hamlet măsurând nimicul,<br>
+<br>
+clama: a fi? sau a nu fi?<br>
+<br>
+Stând în dumbravă, la strâmtoarea<br>
+<br>
+unde-au avut înfrângeri turcii,<br>
+<br>
+le amintea privighetoarea<br>
+<br>
+de Amelita Galicurci.<br>
+<br>
+Lângă bunic, bunica tristă<br>
+<br>
+desfoliase margareta<br>
+<br>
+și se visa mereu artistă<br>
+<br>
+de cinema, ca Garbo Greta.<br>
+<br>
+Bunicii mei sunt suvenire,<br>
+<br>
+încât mă tem să-i strig pe nume -<br>
+<br>
+cu mâna, de poet, subțire<br>
+<br>
+le spulber umbra din albume.<br>
+<br>
+Ei nu mai sunt. Se duse voga<br>
+<br>
+acelor vremuri visătoare.<br>
+<br>
+Și iarăși bem cafea de Mocca<br>
+<br>
+și ne-amintim de vremea-n care...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Andriţoiu
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

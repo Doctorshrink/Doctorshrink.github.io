@@ -1,0 +1,104 @@
+---
+title: "Spre aventură"
+subtitle: "Alexandru Bogdanovici"
+author: "Doctor Shrink"
+date: "2026-11-26"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xf68VbOBOMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Pas... pas... pas...<br>
+<br>
+În slova cărei pagini am rămas în drumul meu spre Marea Aventură?<br>
+<br>
+Prin junglă, prin savană, prin pampas, opinci de vis sub cumpene de zgură.<br>
+<br>
+Pas... pas... pas...<br>
+<br>
+Când negura burează plumb topit, mă rătăcesc pe strada cu mistere:<br>
+<br>
+...e poate-ncețoșatul Downing Street sau cine știe care alt eres -<br>
+<br>
+parizianul enigmatic Montparnasse, Fifth Avenue sau Belvedere,<br>
+<br>
+din ultimul roman al lui Wallace. Colo, la poarta ferecată-a unui han,<br>
+<br>
+o umbră și-o mârțoagă - monument.<br>
+<br>
+Aha!<br>
+<br>
+Nu-i oare însuși cavalerul D’Artagnan,<br>
+<br>
+ce-așteaptă mușchetarii lui Dumas impacient?<br>
+<br>
+Pas... pas... pas...<br>
+<br>
+Prin junglă, prin savană, prin pampas:<br>
+<br>
+cow-boy, iscoadă sau brigand, am înnoptat la focuri de popas<br>
+<br>
+– Alăturea de oameni și de cai –,<br>
+<br>
+cu Winetu, Halef, Old Shaterhand, s-ascult vrăjit povestea lui Karl May.<br>
+<br>
+Șopteau în iarbă greierii într-una, sub zodiac, la marginea potecii –<br>
+<br>
+...eu rătăceam să-l prind pe Inciu Ciuna ș-apoi fumam cu dânsul pipa păcii.<br>
+<br>
+Pas... pas... pas...<br>
+<br>
+în care spațiu și an,<br>
+<br>
+prin Singapore, Bombay sau Ceylon, am stat cu Aventura la taifas?<br>
+<br>
+Þii minte templul indian cu fildeșul bătut în diamante,<br>
+<br>
+sub verzi îmbrățișări luxuriante, în care-n miez de noapte ne-nchinam?<br>
+<br>
+Sau serile când iarăși rătăceam pe cheiul portului exotic,<br>
+<br>
+ca să străbatem alte mii de mile - ca-n ocularul unui vechi panoptic -<br>
+<br>
+prin Caroline, Celebes, Antile, prin Borneo, Sumatra sau Hawai...<br>
+<br>
+Iar mai târziu, la braț cu Unchiul Sam, noi palpitam divers, în barul din<br>
+<br>
+Broadway?<br>
+<br>
+Ne-am îmbătat cu opium la Calcutta, înfășurați în visuri ca în plasă –<br>
+<br>
+am rătăcit cu prospectorii prin Alaska, ne-am întâlnit în Mahattan<br>
+<br>
+cu Masca<br>
+<br>
+și obosiți, cuminți, ne-am reîntors acasă, ca astăzi iar să reîncepem ruta.<br>
+<br>
+Pas... pas... pas...<br>
+<br>
+– Fără spațiu, fără ceas –<br>
+<br>
+pe sub garduri, pe sub porți, ziduri albe, negre bolți,<br>
+<br>
+prin ceață, prin ploaie, prin beznă, nostalgie, nostalgie...<br>
+<br>
+– Noaptea-i aripă la gleznă: mă adun, visez, mă-mpart...<br>
+<br>
+Spre care aventură cenușie, cu Marius, Raymondo și Jean Bart?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Bogdanovici
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

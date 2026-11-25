@@ -1,0 +1,61 @@
+---
+title: "Drum de iarnă"
+subtitle: "Aleksandr Puşkin"
+author: "Doctor Shrink"
+date: "2026-11-26"
+categories: [poezie, spoken-word, drum]
+image: "../images/themes/drum.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bm2iJ8re2tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Luna se strecoara- alene<br>
+Printre ceti, cernînd scântei,<br>
+Si pe Tristele poeme,<br>
+Varsa trist lumina ei.<br>
+<br>
+Pe întinsul drum iernatic,<br>
+Troica luneca în zbor,<br>
+Clopotelul singuratic<br>
+Clincheta chinuitor.<br>
+<br>
+Surugiul pune-n cîntec<br>
+Ceva scump, natal si sfânt:<br>
+Cînd al doilea descîntec,<br>
+Cînd al inimii avînt...<br>
+<br>
+Nici lumini nu sînt, nici sate,<br>
+Frig, pustiu, zapezi...Si doar<br>
+Stîlpii verstelor vîrstate,<br>
+Dinaintea mea rasar...<br>
+<br>
+Mi-i urît... Dar mîine,Nina,<br>
+Va zîmbi în fata mea,<br>
+Focu-si va juca lumina,<br>
+Ochi în ochi voi sta cu ea.<br>
+<br>
+Minutarul,far-odihna,<br>
+Drumul sau si-l va urma,<br>
+Pe noi singuri stînd în tihna<br>
+Miezul noptii ne-o lasa.<br>
+<br>
+Surugiul, cu i-e felul,<br>
+Motaie. Sînt trist, mi-e dor...<br>
+Luna-n ceata; clopotelul<br>
+Clincheta chinuitor...
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Aleksandr Puşkin
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

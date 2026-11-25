@@ -1,0 +1,42 @@
+---
+title: "Bucolica undă"
+subtitle: "Alexandru Macedonski"
+author: "Doctor Shrink"
+date: "2026-11-26"
+categories: [poezie, spoken-word, apa]
+image: "../images/themes/apa.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nNfqnDuugSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Bucolica undă adoarme în tihna de salcii pletoase<br>
+<br>
+Ici-colo trăsnite cu aur de-a soarelui apoteoză,<br>
+<br>
+Când, fragezi păstori, în penumbră, albesc ca idile frumoase,<br>
+<br>
+Şi goi izbucnesc dintre salcii  eglogă lactee şi roză.<br>
+<br>
+Bucolica undă-i primeşte molatică şi-nfiorată,<br>
+<br>
+Sub blonzii cu plastice forme se simte schimbată-n femeie,<br>
+<br>
+Prelinsă pe nudele corpuri ea tremură, şi purpurată<br>
+<br>
+O scutură cinic dar dulce mişcări onduloase de-almeie.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Macedonski
+* **Temă:** apa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
