@@ -1,0 +1,52 @@
+---
+title: "Rondelul apei din ograda japonezului"
+subtitle: "Alexandru Macedonski"
+author: "Doctor Shrink"
+date: "2026-11-27"
+categories: [poezie, spoken-word, apa]
+image: "../images/themes/apa.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eHyblUN7iQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Apei lui de prin ogradă,<br>
+<br>
+Prea domol curgând la vale,<br>
+<br>
+Bolovani, dintr-o grămadă,<br>
+<br>
+Japonezu-i pune-n cale.<br>
+<br>
+Spumegată, vrea să vadă,<br>
+<br>
+Împrejurul casei sale,<br>
+<br>
+Apa lui, ce prin ogradă<br>
+<br>
+Prea domol o ia la vale.<br>
+<br>
+Şi schimbând-o-ntr-o cascadă<br>
+<br>
+De consoane şi vocale,<br>
+<br>
+Uită-a vieţii grea corvadă,<br>
+<br>
+Dând răsunet de cristale,<br>
+<br>
+Apei lui de prin ogradă.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Macedonski
+* **Temă:** apa
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

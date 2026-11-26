@@ -1,0 +1,42 @@
+---
+title: "Moartea este o minciună"
+subtitle: "Alexandru Macedonski"
+author: "Doctor Shrink"
+date: "2026-11-27"
+categories: [poezie, spoken-word, moarte]
+image: "../images/themes/moarte.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqWiD8_WrAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Sub a soarelui lumină<br>
+<br>
+Șoapte umblă prin grădină,<br>
+<br>
+Fluturi zboară sub cais...<br>
+<br>
+Bătrânețea e un vis.<br>
+<br>
+Apa cântă la fântână<br>
+<br>
+Și cu trestia se-ngână,<br>
+<br>
+Iar sub soare sau sub lună<br>
+<br>
+Moartea este o minciună.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Macedonski
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

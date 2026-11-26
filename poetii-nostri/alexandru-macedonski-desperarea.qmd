@@ -1,0 +1,106 @@
+---
+title: "Desperarea"
+subtitle: "Alexandru Macedonski"
+author: "Doctor Shrink"
+date: "2026-11-27"
+categories: [poezie, spoken-word, suflet]
+image: "../images/themes/suflet.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WX5oZj5EtXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Atâtea chinuri mă tot apasă,<br>
+<br>
+Curând ca floarea voi veşteji!<br>
+<br>
+Şi spun la oameni, dar ce le pasă<br>
+<br>
+Dac-a mea viaţă se va fini?<br>
+<br>
+Nici consolare nu am în lume,<br>
+<br>
+Chiar râd mulţime de cântul meu.<br>
+<br>
+Stinge-te, viaţă, stinge-te, nume!<br>
+<br>
+Suflete, zboară la Dumnezeu!<br>
+<br>
+Crezui odată c-a mea durere<br>
+<br>
+Ea se va stinge, dar eu mă sting!<br>
+<br>
+Căci nu am voie, şi n-am putere<br>
+<br>
+Moartea ce vine ca să o resping.<br>
+<br>
+O consolare de l-astă lume<br>
+<br>
+Nu aflai încă la chinul meu.<br>
+<br>
+Stinge-te, viaţă, stinge-te, nume,<br>
+<br>
+Suflete, zboară la Dumnezeu!<br>
+<br>
+În van vegheat-am fără-ncetare,<br>
+<br>
+Scriind în versuri dulci lecţiuni.<br>
+<br>
+Lumea-şi râse d-a mea cântare,<br>
+<br>
+Râse d-a mele lamentaţiuni!<br>
+<br>
+Şi vai! nu este streină lume:<br>
+<br>
+Patria-mi râse de chinul meu,<br>
+<br>
+Stinge-te, viaţă, stinge-te, nume,<br>
+<br>
+Suflete, zboară la Dumnezeu!<br>
+<br>
+Al meu părinte servit-a însă,<br>
+<br>
+Servit-a ţara unde născu;<br>
+<br>
+Putu să strângă, dar el nu strânse!<br>
+<br>
+În sărăcie el petrecu!<br>
+<br>
+Oh! şi ce moarte îl luă din lume!...<br>
+<br>
+Dar râdeti toţi de cântul meu.<br>
+<br>
+Stinge-te, viaţă, stinge-te, nume,<br>
+<br>
+Suflete, zboară la Dumnezeu!<br>
+<br>
+Văduvi avute, recompensate,<br>
+<br>
+În aste timpuri sunt nencetat,<br>
+<br>
+Cele sărace sunt delăsate...<br>
+<br>
+Omul virtuţii e insultat!<br>
+<br>
+Aşa ajunge a noastră lume...<br>
+<br>
+Plânsul opreşte cântecul meu.<br>
+<br>
+Stinge-te, viaţă, stinge-te, nume,<br>
+<br>
+Suflete, zboară la Dumnezeu!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Macedonski
+* **Temă:** suflet
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

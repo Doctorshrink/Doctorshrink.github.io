@@ -1,0 +1,86 @@
+---
+title: "Strigătul inimii"
+subtitle: "Alexandru Macedonski"
+author: "Doctor Shrink"
+date: "2026-11-27"
+categories: [poezie, spoken-word, inima]
+image: "../images/themes/inima.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1DMPmFQLA9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Avântă-te, suflet, prin dulce cântare<br>
+<br>
+Şi spune la lume, când este trădare,<br>
+<br>
+Ca s-o deşteptăm!<br>
+<br>
+Căci dulcea-ne ţară trădată greu este;<br>
+<br>
+Române, la arme! Poetu-ţi dă veste,<br>
+<br>
+Cu toţi să luptăm!<br>
+<br>
+Învinge-vei oare? Nimic nu reţine<br>
+<br>
+Torentul ce curge şi spre mare vine,<br>
+<br>
+De însuşi împins.<br>
+<br>
+Zdrobeşte odată şi lanţul sclaviei,<br>
+<br>
+Iar după-aceea te dă bucuriei,<br>
+<br>
+Când tu ai învins!<br>
+<br>
+Vezi cine-n tăcere, pumnalu-şi găteşte!<br>
+<br>
+Vezi sub aste roze c-aspida-şi târăşte<br>
+<br>
+Un corp veninat,<br>
+<br>
+D-aceea acuma, la arme, române!<br>
+<br>
+Nimic decât lupta, alt nu-ţi mai rămâne,<br>
+<br>
+Când eşti oprimat;<br>
+<br>
+Când legea cea sanctă vedea-vei călcată...<br>
+<br>
+O lege prin lupte ce fu proclamată!...<br>
+<br>
+Nu! Nu vei tăcea;<br>
+<br>
+Sub stindardul ţării, cu toţi ne vom strânge;<br>
+<br>
+Călcătorii legii vor zace în sânge;<br>
+<br>
+Ne vom răzbuna!<br>
+<br>
+Române,-ţi trebuie, spre a te conduce,<br>
+<br>
+Un cap unde mintea, mai mult va străluce,<br>
+<br>
+Şi tu-l vei găsi!<br>
+<br>
+Un om ce renunţă la tot pentru ţară,<br>
+<br>
+Nu unul ce este o cumplită hiară<br>
+<br>
+Când poate zdrobi!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Macedonski
+* **Temă:** inima
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

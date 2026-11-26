@@ -1,0 +1,42 @@
+---
+title: "Rondelul plecarei"
+subtitle: "Alexandru Macedonski"
+author: "Doctor Shrink"
+date: "2026-11-27"
+categories: [poezie, spoken-word, drum]
+image: "../images/themes/drum.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TMM8bvOST2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Am să mă calatoresc-<br>
+Sunt furat ca de ispite,<br>
+S-o voiesc, să n-o voiesc,<br>
+Spre tinuturi negandite.<br>
+<br>
+Vara este pe sfarsite.<br>
+Flori în suflet vestejesc.<br>
+Am să mă calatoresc.<br>
+Sunt furat ca de ispite.<br>
+<br>
+Luminisuri stralucite<br>
+Viata mea o cuceresc.<br>
+Aripi tainice îmi cresc,<br>
+Aripi zilnic mai grabite.<br>
+Am să mă calatoresc.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Macedonski
+* **Temă:** drum
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
