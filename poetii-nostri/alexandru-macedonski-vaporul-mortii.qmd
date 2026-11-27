@@ -1,0 +1,82 @@
+---
+title: "Vaporul Morţii"
+subtitle: "Alexandru Macedonski"
+author: "Doctor Shrink"
+date: "2026-11-28"
+categories: [poezie, spoken-word, moarte]
+image: "../images/themes/moarte.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MjzN4qqpabs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Între nori si între apa se ducea fara-ncetare<br>
+<br>
+Ratacit din orice cale sub trasnitul lui catart;<br>
+<br>
+Valuri-valuri dând navala si smucindu-l tot mai tare<br>
+<br>
+Îl faceau sa sovaiasca peste pântecul cel spart.<br>
+<br>
+Vântu-n funii suierându-si uriasa simfonie<br>
+<br>
+Alerga sapând prapastii în adâncul guraliv,<br>
+<br>
+Raspândind în largul marii o-ndârjita ironie<br>
+<br>
+Printre urlete grozave de dusman nemilostiv.<br>
+<br>
+Noaptea neagra de pe valuri îl vedea ca o naluca<br>
+<br>
+Punct mai negru pe cerneala orizontului rotund,<br>
+<br>
+Fara om ca sa-i dea suflet, fara minte sa-l conduca<br>
+<br>
+Peste unda latratoare de la crestet pân-la fund.<br>
+<br>
+Calatorii si matrozii putrezeau pe puntea rece,<br>
+<br>
+Frunti albastre, buze vineti, pumni închisi si ochi sticliti,<br>
+<br>
+Toti murisera de-a rândul; cinci si sase, opt si zece,<br>
+<br>
+Si zaceau, mormane-nalte, galben-verde muceziti.<br>
+<br>
+Repezi fulgere prin noapte albastreau de rautate,<br>
+<br>
+Spintecând în larg vazduhul sub taiusul lor de foc,<br>
+<br>
+Si-n zigzaguri ce iau vazul prin colori amestecate<br>
+<br>
+Se stingeau suieratoare într-al valurilor joc.<br>
+<br>
+Câte-un chip iesea deodata pentr-o clipa în lumina<br>
+<br>
+Când de om trait pe mare sub un vânt argasitor,<br>
+<br>
+Când de tânar cu par galben si cu buze de vergina<br>
+<br>
+Înghetate înainte de-a-si sopti poema lor.<br>
+<br>
+Si prin iadul de-ntuneric se ducea vaporul mortii,<br>
+<br>
+Pe un pântec sau pe altul aplecând al lui schelet,<br>
+<br>
+Dimineata-ncremenita sta în cer pe pragul portii<br>
+<br>
+Si muia cu lacrimi negre nuantatul ei buchet.
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Macedonski
+* **Temă:** moarte
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

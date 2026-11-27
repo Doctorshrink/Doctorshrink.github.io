@@ -1,0 +1,86 @@
+---
+title: "În pădure"
+subtitle: "Alexandru Vlahuţă"
+author: "Doctor Shrink"
+date: "2026-11-28"
+categories: [poezie, spoken-word, codru]
+image: "../images/themes/codru.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sL5ysBK8ISA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Cum m-adînceşte-n visuri lăuntrul tău feeric,<br>
+<br>
+Şi cît îmi pari de sfîntă!... Tu mă uimeşti, pădure,<br>
+<br>
+Cînd pe sub bolţi tăcute şi pline de-ntuneric,<br>
+<br>
+Las paşii să mă poarte şi gîndul să mă fure...<br>
+<br>
+Cum m-adînceşte-n visuri lăuntrul tău feeric!...<br>
+<br>
+Cînd mă adormi de farmec, în pacea umbrei tale,<br>
+<br>
+Ce dulci vedenii tainic subt ochi mi se strecoară;...<br>
+<br>
+Se-ntorc morţii din groapă şi vremile din cale,<br>
+<br>
+Şi iar mă simt copilul nebun de-odinioară,<br>
+<br>
+Cînd mă adormi de farmec, în pacea umbrei tale,<br>
+<br>
+Căci peste-a mele chinuri uitarea se aşterne.<br>
+<br>
+Din vremi renvie basmul, şi-mi torn palate iarăşi,<br>
+<br>
+Din aurul luminii ce printre crăngi se cerne...<br>
+<br>
+Veniţi, crai din poveste, ne-om prinde iar tovarăşi,<br>
+<br>
+Căci peste-a mele chinuri uitarea se aşterne!<br>
+<br>
+Departe de-ale lumii dureri neîntrerupte,<br>
+<br>
+Căta-vom Cosinzene, ascunse prin palate,<br>
+<br>
+Iar zmeii, pe la poduri, de-or sta cu noi să lupte,<br>
+<br>
+I-om birui, şi-n alte tărîmuri vom răzbate,<br>
+<br>
+Departe de-ale lumii dureri neîntrerupte.<br>
+<br>
+Încet... din fund de vremuri un glas iubit mă cheamă…<br>
+<br>
+Revino, cal năprasnic şi ştiutor de gînduri;<br>
+<br>
+De dorul ce mă arde aprinde-te şi ia-mă,<br>
+<br>
+Mai du-mă-n zbor pe unde m-ai dus şi-n alte rînduri...<br>
+<br>
+Încet... din fund de vremuri un glas iubit mă cheamă!<br>
+<br>
+Copaci bătrîni — amicii copilăriei mele,<br>
+<br>
+Lăsaţi potop de frunze aicea să mă-ngroape,<br>
+<br>
+În farmece de visuri şi-n pulbere de stele.<br>
+<br>
+Să dorm sub straja voastră, în veci de voi aproape,<br>
+<br>
+Copaci bătrîni — amicii copilăriei mele!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Vlahuţă
+* **Temă:** codru
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

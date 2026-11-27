@@ -1,0 +1,96 @@
+---
+title: "Suntem făcuți mai mult din noapte"
+subtitle: "Alexandru Philippide"
+author: "Doctor Shrink"
+date: "2026-11-28"
+categories: [poezie, spoken-word, amintire]
+image: "../images/themes/amintire.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Q5jaaKlKIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Suntem făcuți mai mult din noapte.<br>
+<br>
+Prezentul cu scânteia lui nu poate<br>
+<br>
+Să lumineze-abisurile toate<br>
+<br>
+Și veșnicul amurg din noi.<br>
+<br>
+Din când în când doar ies din adâncime<br>
+<br>
+Ca niște vietăți din fund de mări<br>
+<br>
+Necunoscute amintiri<br>
+<br>
+Ce parcă nu sunt ale noastre,<br>
+<br>
+Fragmente dintr-o viață pe care n-am trăit-o,<br>
+<br>
+Crâmpeie care-ncearcă zadarnic să se-adune;<br>
+<br>
+Un braț, o țeastă, lacul unui ochi<br>
+<br>
+Cu nuferii pe care nu-i cunoaștem<br>
+<br>
+Și-o luntre ce ne cheamă cu vâslele de vis.<br>
+<br>
+În marii munți de-ntunecime<br>
+<br>
+Sunt osândit să sap necontenit:<br>
+<br>
+Ce voi găsi în adâncime,<br>
+<br>
+Comoara unui gând nemărginit<br>
+<br>
+Sau vechea stearpă-ntunecime?<br>
+<br>
+Dar dacă noaptea mă va birui<br>
+<br>
+Și negre avalanșe grele<br>
+<br>
+Din muntele cel mare se vor rostogoli<br>
+<br>
+Și mă vor nărui cu ele?<br>
+<br>
+Trecutul meu și alte trecuturi și mai vechi<br>
+<br>
+Ca niște continente scufundate<br>
+<br>
+Sub suflet stau necercetate<br>
+<br>
+Cu urme anonime și străvechi:<br>
+<br>
+Sunt visuri ale stâncii ancestrale,<br>
+<br>
+Sunt amintiri din viața mea de plantă,<br>
+<br>
+Fiori de viermi și nostalgii astrale<br>
+<br>
+(Și poate-o tainică prefigurare<br>
+<br>
+A vieții mele viitoare).<br>
+<br>
+Dezgrop în mine rădăcina lumii;<br>
+<br>
+În pieptul meu ce amintire grea!<br>
+<br>
+O urnă-n care veacuri de vis și-au pus cenușa:<br>
+<br>
+Luna sau inima mea?
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Philippide
+* **Temă:** amintire
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+

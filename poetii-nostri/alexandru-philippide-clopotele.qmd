@@ -1,0 +1,144 @@
+---
+title: "Clopotele"
+subtitle: "Alexandru Philippide"
+author: "Doctor Shrink"
+date: "2026-11-28"
+categories: [poezie, spoken-word, cer]
+image: "../images/themes/cer.jpg"
+format:
+  html:
+    toc: false
+---
+
+## ▶️ Ascultă
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OoMvwVzxmzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 📜 Versuri {.unnumbered}
+
+::: {.lyrics}
+Duminicile-n fiecare săptămână<br>
+<br>
+Când clopotele-n mantii de bronz se iau de mână<br>
+<br>
+Şi-ncep să colinde<br>
+<br>
+Cât vazduh glasul lor cuprinde,<br>
+<br>
+- Umflaţi de vânt,<br>
+<br>
+Buimaci, târându-şi umbra greoaie pe pământ,<br>
+<br>
+Toţi nourii aleargă cu clopotele-n zbor<br>
+<br>
+Pe urma lor;<br>
+<br>
+Iar când în zare ca-ntr-o văgăună<br>
+<br>
+S-au prabuşit cu toţii împreună,<br>
+<br>
+Din ce în ce mai limpede răsună,<br>
+<br>
+Împodobind cu aur proaspăt crinii,<br>
+<br>
+Goarna luminii!<br>
+<br>
+Şi-atunci tot cerul se preschimbă<br>
+<br>
+În clopot nalt cu soarele drept limbă<br>
+<br>
+Care bate<br>
+<br>
+Clipe de lumină<br>
+<br>
+Pentru cei a caror inimă se zbate<br>
+<br>
+Ca limba unui clopot rostogolit în tină.<br>
+<br>
+În hohote sonore vazduhul se destramă<br>
+<br>
+Când clopotele-n tropot de copite<br>
+<br>
+Îndeamnă sufletele toropite<br>
+<br>
+Şi le chiamă<br>
+<br>
+Cu ele către soare să s-avânte,<br>
+<br>
+Sărmane clopote cu aripi frânte!<br>
+<br>
+Şi-atunci nebunii care-ntr-una urlă<br>
+<br>
+Cu sufletul la gură ca o surlă<br>
+<br>
+Când clopotele-n fiecare turlă<br>
+<br>
+Cu ură-şi muşcă frânghiile, botniţi,<br>
+<br>
+- Nebunii intră pe furis în casă,<br>
+<br>
+Şi tac din gură, şi s-ascund sub masă;<br>
+<br>
+Căci trebuie să ştiţi că din clopotniţi<br>
+<br>
+Îndată clopotele au să zboare<br>
+<br>
+În cavalcadă către soare,<br>
+<br>
+Şi-au să se-ntoarcă liniştit, la trap,<br>
+<br>
+Să ne cadă pe cap,<br>
+<br>
+Să ne cadă pe cap!<br>
+<br>
+Dar eu, care nu sunt nebun,<br>
+<br>
+Vă spun:<br>
+<br>
+Că clopotele-n fiecare săptămână<br>
+<br>
+Se iau de mână;<br>
+<br>
+Îşi suflecă mantalele-ntr-o horă<br>
+<br>
+Sonoră;<br>
+<br>
+Şi-apoi pornesc ca să colinde<br>
+<br>
+Cât văzduh poate glasul lor cuprinde.<br>
+<br>
+Dar vă mai spun,<br>
+<br>
+Eu, care nu sunt nebun,<br>
+<br>
+Vă spun că toate clopotele spun:<br>
+<br>
+Că, dintr-o dată preschimbate-n goarne,<br>
+<br>
+Au să răstoarne<br>
+<br>
+Văzduhul peste noi ca un puhoi<br>
+<br>
+De cer albastru şi lumină multă,<br>
+<br>
+- Şi-atuncea noi,<br>
+<br>
+Care suntem acei ce tac şi le ascultă,<br>
+<br>
+Stăruitori vom sta cu fruntea boltă<br>
+<br>
+De revoltă,<br>
+<br>
+Cu ochiul cupă de nădejde multă,<br>
+<br>
+Cu zdrenţele azurului pe noi,<br>
+<br>
+Surâzatori  cu clopotele-n noi!
+:::
+
+## 🖋️ Despre {.unnumbered}
+
+* **Poet:** Alexandru Philippide
+* **Temă:** cer
+* **Interpretare:** Doctor Shrink — recitare spoken-word, fundal ambiental
+
